@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-10-19T22:16:35.137+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2575" WIDTH="1765">
+         <TopMargin HEIGHT="0" WIDTH="1765" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2575" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2575" WIDTH="0" VPOS="0" HPOS="1765"/>
+         <BottomMargin HEIGHT="0" WIDTH="1765" VPOS="2575" HPOS="0"/>
+         <PrintSpace HEIGHT="2575" WIDTH="1765" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1659" WIDTH="1117" VPOS="514" HPOS="253">
+               <Shape>
+                  <Polygon POINTS="253,514 253,2173 1370,2173 1370,514"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="760,546 790,545 821,546 852,540"
+                         HEIGHT="165"
+                         WIDTH="112"
+                         VPOS="417"
+                         HPOS="748">
+                  <String ID="string_r1l1"
+                          HEIGHT="165"
+                          WIDTH="112"
+                          VPOS="417"
+                          HPOS="748"
+                          CONTENT=""/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="780,597 815,600 850,601"
+                         HEIGHT="66"
+                         WIDTH="87"
+                         VPOS="569"
+                         HPOS="772">
+                  <String ID="string_r1l2"
+                          HEIGHT="66"
+                          WIDTH="87"
+                          VPOS="569"
+                          HPOS="772"
+                          CONTENT="1872"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="427,727 465,728 503,729 542,730 580,731 619,731 657,732 696,732 734,733 773,733 811,733 849,734 888,734 926,734 965,734 1003,734 1042,735 1080,735 1119,735 1157,736 1196,736"
+                         HEIGHT="101"
+                         WIDTH="783"
+                         VPOS="661"
+                         HPOS="420">
+                  <String ID="string_r1l3"
+                          HEIGHT="101"
+                          WIDTH="783"
+                          VPOS="661"
+                          HPOS="420"
+                          CONTENT="SWISS BANK"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="391,849 433,848 476,847 519,847 562,847 605,847 648,847 690,847 733,847 776,848 819,848 862,849 905,849 948,850 990,850 1033,850 1076,851 1119,851 1162,851 1205,851 1248,850"
+                         HEIGHT="105"
+                         WIDTH="871"
+                         VPOS="775"
+                         HPOS="384">
+                  <String ID="string_r1l4"
+                          HEIGHT="105"
+                          WIDTH="871"
+                          VPOS="775"
+                          HPOS="384"
+                          CONTENT="CORPORATION"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="408,946 448,946 489,946 529,946 570,946 610,946 651,947 691,947 732,947 772,948 813,948 853,949 894,949 934,950 975,950 1015,951 1056,951 1096,951 1137,951 1177,951 1218,951"
+                         HEIGHT="72"
+                         WIDTH="824"
+                         VPOS="893"
+                         HPOS="401">
+                  <String ID="string_r1l5"
+                          HEIGHT="72"
+                          WIDTH="824"
+                          VPOS="893"
+                          HPOS="401"
+                          CONTENT="SCHWEIZERISCHER BANKVEREIN"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="446,1003 482,1004 519,1004 556,1004 592,1005 629,1005 666,1005 702,1006 739,1006 776,1006 813,1006 849,1007 886,1007 923,1007 959,1008 996,1008 1033,1008 1069,1008 1106,1009 1143,1009 1180,1009"
+                         HEIGHT="64"
+                         WIDTH="748"
+                         VPOS="963"
+                         HPOS="439">
+                  <String ID="string_r1l6"
+                          HEIGHT="64"
+                          WIDTH="748"
+                          VPOS="963"
+                          HPOS="439"
+                          CONTENT="SOCIÉTÉ DE BANQUE SUISSE"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="444,1061 480,1061 517,1062 553,1062 590,1062 627,1063 663,1063 700,1063 737,1064 773,1064 810,1065 847,1065 883,1065 920,1066 957,1066 993,1066 1030,1066 1067,1066 1103,1066 1140,1066 1177,1066"
+                         HEIGHT="65"
+                         WIDTH="747"
+                         VPOS="1022"
+                         HPOS="437">
+                  <String ID="string_r1l7"
+                          HEIGHT="65"
+                          WIDTH="747"
+                          VPOS="1022"
+                          HPOS="437"
+                          CONTENT="SOCIETÄ DI BANCA SVIZZERA"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="552,1203 578,1204 604,1204 630,1204 657,1204 683,1204 709,1205 736,1205 762,1205 788,1205 815,1205 841,1206 867,1206 893,1206 920,1206 946,1207 972,1207 999,1207 1025,1208 1051,1208 1078,1209"
+                         HEIGHT="65"
+                         WIDTH="540"
+                         VPOS="1156"
+                         HPOS="545">
+                  <String ID="string_r1l8"
+                          HEIGHT="65"
+                          WIDTH="540"
+                          VPOS="1156"
+                          HPOS="545"
+                          CONTENT="Basle, Zurich, Geneva, St. Gall,"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="253,1251 308,1251 364,1252 420,1252 476,1252 532,1253 588,1253 643,1253 699,1253 755,1254 811,1254 867,1254 923,1255 979,1255 1034,1255 1090,1256 1146,1256 1202,1257 1258,1258 1314,1258 1370,1259"
+                         HEIGHT="64"
+                         WIDTH="1131"
+                         VPOS="1214"
+                         HPOS="246">
+                  <String ID="string_r1l9"
+                          HEIGHT="64"
+                          WIDTH="1131"
+                          VPOS="1214"
+                          HPOS="246"
+                          CONTENT="Lausanne, La Chaux-de-Fonds, Neuchätel, Schaffhouse, Bienne,"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="439,1300 476,1300 513,1301 550,1301 587,1302 624,1302 661,1302 698,1302 735,1302 772,1302 809,1302 846,1303 883,1303 920,1303 957,1303 994,1303 1031,1304 1068,1304 1105,1304 1142,1305 1180,1305"
+                         HEIGHT="50"
+                         WIDTH="757"
+                         VPOS="1274"
+                         HPOS="431">
+                  <String ID="string_r1l10"
+                          HEIGHT="50"
+                          WIDTH="757"
+                          VPOS="1274"
+                          HPOS="431"
+                          CONTENT="Chiasso, Herisau, Le Locle, Nyon, Zofingue"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="547,1344 573,1344 600,1343 626,1343 653,1343 680,1343 706,1344 733,1344 760,1344 786,1344 813,1345 840,1345 866,1345 893,1345 920,1346 946,1346 973,1346 1000,1346 1026,1346 1053,1345 1080,1345"
+                         HEIGHT="59"
+                         WIDTH="546"
+                         VPOS="1316"
+                         HPOS="540">
+                  <String ID="string_r1l11"
+                          HEIGHT="59"
+                          WIDTH="546"
+                          VPOS="1316"
+                          HPOS="540"
+                          CONTENT="Aigle, Bischofszell, Morges, Rorschach"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="748,1455 773,1456 799,1455 825,1455 851,1455 877,1458"
+                         HEIGHT="62"
+                         WIDTH="143"
+                         VPOS="1414"
+                         HPOS="741">
+                  <String ID="string_r1l12"
+                          HEIGHT="62"
+                          WIDTH="143"
+                          VPOS="1414"
+                          HPOS="741"
+                          CONTENT="London"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="544,1497 570,1497 596,1497 623,1497 649,1497 676,1497 702,1498 728,1498 755,1498 781,1498 808,1498 834,1498 860,1498 887,1499 913,1499 940,1499 966,1500 992,1500 1019,1500 1045,1500 1072,1501"
+                         HEIGHT="62"
+                         WIDTH="542"
+                         VPOS="1458"
+                         HPOS="537">
+                  <String ID="string_r1l13"
+                          HEIGHT="62"
+                          WIDTH="542"
+                          VPOS="1458"
+                          HPOS="537"
+                          CONTENT="City Office: 99, Gresham Street, E.C.2"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="497,1536 529,1536 562,1537 594,1537 627,1537 659,1538 692,1538 725,1538 757,1539 790,1539 822,1539 855,1539 887,1539 920,1539 953,1539 985,1539 1018,1540 1050,1540 1083,1539 1116,1539"
+                         HEIGHT="73"
+                         WIDTH="634"
+                         VPOS="1504"
+                         HPOS="490">
+                  <String ID="string_r1l14"
+                          HEIGHT="73"
+                          WIDTH="634"
+                          VPOS="1504"
+                          HPOS="490"
+                          CONTENT="West End Branch: 11 c, Regent Street, S.W. 1"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="715,1648 743,1648 771,1648 799,1649 828,1649 856,1649 884,1649 913,1648"
+                         HEIGHT="69"
+                         WIDTH="212"
+                         VPOS="1601"
+                         HPOS="708">
+                  <String ID="string_r1l15"
+                          HEIGHT="69"
+                          WIDTH="212"
+                          VPOS="1601"
+                          HPOS="708"
+                          CONTENT="New York 5"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="689,1690 715,1691 742,1692 769,1693 796,1694 822,1694 849,1694 876,1693 903,1693 930,1691"
+                         HEIGHT="64"
+                         WIDTH="254"
+                         VPOS="1653"
+                         HPOS="683">
+                  <String ID="string_r1l16"
+                          HEIGHT="64"
+                          WIDTH="254"
+                          VPOS="1653"
+                          HPOS="683"
+                          CONTENT="15, Nassau Street"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="453,1830 488,1830 524,1830 560,1830 596,1830 632,1830 667,1830 703,1830 739,1830 775,1830 811,1830 846,1829 882,1829 918,1829 954,1829 990,1829 1025,1829 1061,1829 1097,1829 1133,1830 1169,1830"
+                         HEIGHT="67"
+                         WIDTH="731"
+                         VPOS="1787"
+                         HPOS="446">
+                  <String ID="string_r1l17"
+                          HEIGHT="67"
+                          WIDTH="731"
+                          VPOS="1787"
+                          HPOS="446"
+                          CONTENT="Capital and reserves Swiss Fr. 209000000"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="271,2109 324,2109 378,2109 432,2109 485,2109 539,2110 593,2110 646,2110 700,2110 754,2110 808,2110 861,2110 915,2110 969,2110 1022,2110 1076,2110 1130,2111 1183,2111 1237,2111 1291,2112 1345,2112"
+                         HEIGHT="66"
+                         WIDTH="1089"
+                         VPOS="2053"
+                         HPOS="263">
+                  <String ID="string_r1l18"
+                          HEIGHT="66"
+                          WIDTH="1089"
+                          VPOS="2053"
+                          HPOS="263"
+                          CONTENT="We are particularly well placed to give efficient service to firms"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="272,2158 325,2158 379,2158 432,2158 486,2158 540,2158 593,2159 647,2159 700,2159 754,2159 808,2159 861,2160 915,2160 968,2160 1022,2160 1076,2161 1129,2161 1183,2161 1236,2161 1290,2162 1344,2162"
+                         HEIGHT="54"
+                         WIDTH="1086"
+                         VPOS="2122"
+                         HPOS="265">
+                  <String ID="string_r1l19"
+                          HEIGHT="54"
+                          WIDTH="1086"
+                          VPOS="2122"
+                          HPOS="265"
+                          CONTENT="interested in international and especially Anglo-Swiss trade"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
