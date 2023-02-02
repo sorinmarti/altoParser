@@ -20,7 +20,7 @@ def parsing_function(text, words):
             result["location"] = word
 
     # Check the first word
-    if len(words)>0 and words[0] == "SWISS":
+    if len(words) > 0 and words[0] == "SWISS":
         result["swiss_found"] = True
 
     return result
@@ -36,4 +36,8 @@ if __name__ == "__main__":
         for line in range(parser.get_number_of_lines()):
             parser.print_line_summary(line)
             pass
+
+        csv_filename = file.split('.')[0] + '.csv'
+        parser.save_csv_file("./" + csv_filename)
         print("Done parsing file: " + file)
+

@@ -38,6 +38,16 @@ class AltoFileParser:
         print(self.line_bounding_boxes[line])
         print(self.structured_data[line])
 
+    def save_csv_file(self, filename, delimiter=';'):
+        csv_file = ''
+        for line in range(self.get_number_of_lines()):
+            csv_file += self.line_strings[line] + delimiter + \
+                        self.line_bounding_boxes[line] + "\n"
+
+        # write to file
+        with open(filename, 'w') as f:
+            f.write(csv_file)
+
     @abstractmethod
     def xml_parse_file(filename):
         """ This function uses the Etree xml parser to parse an alto file. It should not be called from outside this
