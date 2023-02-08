@@ -45,7 +45,7 @@ class AltoFileParser:
                         self.line_bounding_boxes[line] + "\n"
 
         # write to file
-        with open(filename, 'w') as f:
+        with open(filename, 'w', encoding='utf-8') as f:
             f.write(csv_file)
 
     @abstractmethod
