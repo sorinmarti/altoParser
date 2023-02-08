@@ -3,11 +3,13 @@ import re
 
 from alto_parser import AltoFileParser
 
-my_locations = ["London", "Lugano", "Bern"]
+my_locations = ["London", "Lugano", "Bern", "Bradford."]
 personal_titles = ["Esq."]
 trash = ["Addrens"]
 
 def parsing_function(text, words):
+    print("Structuring line: " + text)
+
     result = {'transcription': text}
 
     # Regex match for the whole line
@@ -58,10 +60,10 @@ def parsing_function(text, words):
 if __name__ == "__main__":
     # Open the data folder and create a AltoFileParser object for each file in the folder.
     # The AltoParser object will parse the file and store the results in a list of dictionaries.
-    for file in os.listdir('data'):
+    for file in os.listdir('data_test'):
         if file.endswith(".xml") or file.endswith(".alto"):
             print("Parsing file: " + file)
-            parser = AltoFileParser('data/' + file)
+            parser = AltoFileParser('data_test/' + file)
             parser.parse_file(parsing_function)
             for line in range(parser.get_number_of_lines()):
                 parser.print_line_summary(line)

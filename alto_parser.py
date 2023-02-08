@@ -19,13 +19,16 @@ class AltoFileParser:
             return
 
         for text_region in xml_tree.iterfind('.//{%s}TextBlock' % xmlns):
+            merged_line = ""
             for text_line in text_region.iterfind('.//{%s}TextLine' % xmlns):
                 for text_bit in text_line.findall('{%s}String' % xmlns):
                     line_content = text_bit.attrib.get('CONTENT')
-                    self.line_strings.append(line_content)
-                    self.structured_data.append(parsing_function(line_content, line_content.split()))
-                    self.line_bounding_boxes.append(text_bit.attrib.get('HPOS') + ',' + text_bit.attrib.get('VPOS') + ',' +
-                                                    text_bit.attrib.get('WIDTH') + ',' + text_bit.attrib.get('HEIGHT'))
+                    merged_line += " " + line_content
+
+            self.structured_data.append(parsing_function(merged_line, merged_line.split()))
+            self.line_bounding_boxes.append(text_region.attrib.get('HPOS') + ',' + text_region.attrib.get('VPOS') + ',' +
+                                            text_region.attrib.get('WIDTH') + ',' + text_region.attrib.get('HEIGHT'))
+            self.line_strings.append(merged_line)
 
     def get_file_json(self):
         return self.structured_data
