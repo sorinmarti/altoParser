@@ -15,6 +15,9 @@ class AltoFileParser:
 
     def parse_file(self, parsing_function):
         xml_tree, xmlns = AltoFileParser.xml_parse_file(self.filename)
+        if xml_tree is None:
+            return
+
         for text_region in xml_tree.iterfind('.//{%s}TextBlock' % xmlns):
             for text_line in text_region.iterfind('.//{%s}TextLine' % xmlns):
                 for text_bit in text_line.findall('{%s}String' % xmlns):
@@ -61,7 +64,8 @@ class AltoFileParser:
         try:
             xml_tree = ETree.parse(filename)
         except ETree.ParseError as e:
-            raise e
+            print("Error parsing file: " + filename)
+            return None, None
 
         if 'http://' in str(xml_tree.getroot().tag.split('}')[0].strip('{')):
             xmlns = xml_tree.getroot().tag.split('}')[0].strip('{')

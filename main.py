@@ -59,14 +59,15 @@ if __name__ == "__main__":
     # Open the data folder and create a AltoFileParser object for each file in the folder.
     # The AltoParser object will parse the file and store the results in a list of dictionaries.
     for file in os.listdir('data'):
-        print("Parsing file: " + file)
-        parser = AltoFileParser('data/' + file)
-        parser.parse_file(parsing_function)
-        for line in range(parser.get_number_of_lines()):
-            parser.print_line_summary(line)
-            pass
+        if file.endswith(".xml") or file.endswith(".alto"):
+            print("Parsing file: " + file)
+            parser = AltoFileParser('data/' + file)
+            parser.parse_file(parsing_function)
+            for line in range(parser.get_number_of_lines()):
+                parser.print_line_summary(line)
+                pass
 
-        csv_filename = file.split('.')[0] + '.csv'
-        parser.save_csv_file("./" + csv_filename)
-        print("Done parsing file: " + file)
+            csv_filename = file.split('.')[0] + '.csv'
+            parser.save_csv_file("./" + csv_filename)
+            print("Done parsing file: " + file)
 
