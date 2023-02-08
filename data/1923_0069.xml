@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-08T09:46:36.162+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2663" WIDTH="1797">
+         <TopMargin HEIGHT="0" WIDTH="1797" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2663" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2663" WIDTH="0" VPOS="0" HPOS="1797"/>
+         <BottomMargin HEIGHT="0" WIDTH="1797" VPOS="2663" HPOS="0"/>
+         <PrintSpace HEIGHT="2663" WIDTH="1797" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2" HEIGHT="412" WIDTH="1174" VPOS="367" HPOS="253">
+               <Shape>
+                  <Polygon POINTS="253,367 1427,367 1427,779 253,779"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="267,419 297,419 327,419 357,421 387,421 417,421 447,421 477,421 507,421 537,421 567,421 597,421 627,423 657,423 687,423 717,423 747,421 777,421 807,421 837,421 867,421 897,421 927,421 957,421 987,419 1017,419 1047,421 1077,421 1107,419 1137,421 1167,419 1197,419 1227,417 1257,421 1287,421 1317,423 1347,423 1377,423 1407,423 1427,425"
+                         HEIGHT="100"
+                         WIDTH="1164"
+                         VPOS="342"
+                         HPOS="259">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="100"
+                          WIDTH="1164"
+                          VPOS="342"
+                          HPOS="259"
+                          CONTENT="WINKLER, FALLERT a GIE S. A."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="713,507 743,507 773,503 803,505 833,503 863,503 893,503 923,503 953,505 963,509"
+                         HEIGHT="92"
+                         WIDTH="255"
+                         VPOS="439"
+                         HPOS="704">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="92"
+                          WIDTH="255"
+                          VPOS="439"
+                          HPOS="704"
+                          CONTENT="BERNE"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="253,579 283,577 313,579 343,579 373,581 403,579 433,579 463,579 493,579 523,579 553,579 583,579 613,579 643,579 673,579 703,577 733,579 763,579 793,579 823,581 853,581 883,581 913,581 943,579 973,581 1003,581 1033,581 1063,583 1093,583 1123,583 1153,581 1183,581 1213,581 1243,581 1273,581 1303,581 1333,581 1363,583 1393,583 1423,587 1427,587"
+                         HEIGHT="110"
+                         WIDTH="1180"
+                         VPOS="517"
+                         HPOS="243">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="110"
+                          WIDTH="1180"
+                          VPOS="517"
+                          HPOS="243"
+                          CONTENT="Manufacturers of Printing Machinery"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="377,661 407,659 437,657 467,657 497,657 527,659 557,659 587,659 617,659 647,659 677,659 707,659 737,659 767,659 797,659 827,659 857,659 887,661 917,661 947,661 977,661 1007,661 1037,661 1067,661 1097,663 1127,661 1157,661 1187,661 1217,661 1247,661 1277,661 1307,663"
+                         HEIGHT="82"
+                         WIDTH="934"
+                         VPOS="594"
+                         HPOS="369">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="82"
+                          WIDTH="934"
+                          VPOS="594"
+                          HPOS="369"
+                          CONTENT="The IINKLER Casting Machine for rotary"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="467,713 497,713 527,713 557,713 587,713 617,713 647,713 677,713 707,713 737,713 767,713 797,711 827,713 857,713 887,713 917,713 947,715 977,715 1007,713 1037,715 1067,715 1097,715 1127,715 1157,715 1187,715 1217,715 1247,715 1277,713 1303,713"
+                         HEIGHT="75"
+                         WIDTH="841"
+                         VPOS="674"
+                         HPOS="459">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="75"
+                          WIDTH="841"
+                          VPOS="674"
+                          HPOS="459"
+                          CONTENT="stereo plates is lhe vensation of the Newo-"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="467,769 497,767 527,767 557,765 587,767 617,767 647,767 677,767 707,767 737,767 767,765 797,765 827,765 857,765 887,765 917,767 945,769"
+                         HEIGHT="84"
+                         WIDTH="483"
+                         VPOS="721"
+                         HPOS="459">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="84"
+                          WIDTH="483"
+                          VPOS="721"
+                          HPOS="459"
+                          CONTENT="paper Printing World ."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1" HEIGHT="682" WIDTH="1190" VPOS="785" HPOS="247">
+               <Shape>
+                  <Polygon POINTS="247,785 1437,785 1437,1467 247,1467"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="377,837 407,837 437,835 467,835 497,835 527,837 557,837 587,837 617,837 647,837 677,837 707,837 737,837 767,837 797,837 827,835 857,835 887,835 917,837 947,837 977,837 1007,837 1037,839 1067,837 1097,837 1127,837 1157,839 1187,839 1217,837 1247,837 1277,837 1307,839 1309,837"
+                         HEIGHT="87"
+                         WIDTH="934"
+                         VPOS="768"
+                         HPOS="369">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="87"
+                          WIDTH="934"
+                          VPOS="768"
+                          HPOS="369"
+                          CONTENT="The WINKLER Moulding and Drying Press"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="467,891 497,891 527,891 557,891 587,891 617,891 647,889 677,891 707,891 737,891 767,891 797,889 827,891 857,891 887,891 917,891 947,891 977,891 1007,891 1037,891 1067,891 1097,891 1127,891 1157,891 1187,891 1217,891 1247,891 1277,891 1307,893 1313,893"
+                         HEIGHT="92"
+                         WIDTH="850"
+                         VPOS="843"
+                         HPOS="459">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="92"
+                          WIDTH="850"
+                          VPOS="843"
+                          HPOS="459"
+                          CONTENT="is provided with a palented device lo prevent"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="473,943 503,943 533,943 563,945 593,945 623,945 653,947 683,945 713,945 743,945 773,943 803,945 833,945 863,945 893,945 923,943 953,943 983,945 1013,945 1043,945 1051,945"
+                         HEIGHT="79"
+                         WIDTH="583"
+                         VPOS="896"
+                         HPOS="464">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="79"
+                          WIDTH="583"
+                          VPOS="896"
+                          HPOS="464"
+                          CONTENT="the lype from being injured .."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="379,1017 409,1015 439,1015 469,1013 499,1015 529,1015 559,1015 589,1015 619,1015 649,1015 679,1015 709,1015 739,1015 769,1013 799,1013 829,1015 859,1015 889,1015 919,1015 949,1015 979,1013 1009,1015 1039,1015 1069,1015 1099,1015 1129,1013 1159,1015 1189,1015 1219,1015 1249,1015 1279,1015 1309,1017 1315,1017"
+                         HEIGHT="93"
+                         WIDTH="941"
+                         VPOS="951"
+                         HPOS="371">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="93"
+                          WIDTH="941"
+                          VPOS="951"
+                          HPOS="371"
+                          CONTENT="The WINKLER Flat Stereo Plant producea stereos"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="471,1069 501,1069 531,1069 561,1069 591,1067 621,1069 651,1067 681,1069 711,1067 741,1069 771,1069 801,1069 831,1069 861,1069 891,1069 921,1069 951,1069 981,1069 1011,1069 1041,1067 1071,1067 1101,1069 1131,1067 1161,1069 1191,1069 1221,1069 1251,1071 1281,1071 1303,1073"
+                         HEIGHT="85"
+                         WIDTH="837"
+                         VPOS="1027"
+                         HPOS="463">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="85"
+                          WIDTH="837"
+                          VPOS="1027"
+                          HPOS="463"
+                          CONTENT="quitable sor fine acreen mulli-colour printinq.."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="247,1151 277,1151 307,1151 337,1151 367,1151 397,1151 427,1151 457,1151 487,1149 517,1151 547,1151 577,1149 607,1149 637,1149 667,1149 697,1149 727,1149 757,1147 787,1147 817,1149 847,1149 877,1149 907,1149 937,1149 967,1149 997,1149 1027,1149 1057,1149 1087,1149 1117,1151 1147,1151 1177,1151 1207,1153 1237,1153 1267,1153 1297,1153 1327,1153 1357,1153 1387,1153 1417,1151 1437,1155"
+                         HEIGHT="104"
+                         WIDTH="1197"
+                         VPOS="1075"
+                         HPOS="238">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="104"
+                          WIDTH="1197"
+                          VPOS="1075"
+                          HPOS="238"
+                          CONTENT="Represented in LONDON by W. J. LIGHT &amp; Co., Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="615,1207 645,1203 675,1203 705,1203 735,1205 765,1205 795,1205 825,1205 855,1205 885,1203 915,1205 945,1205 975,1205 1005,1205 1035,1205 1065,1209 1067,1207"
+                         HEIGHT="97"
+                         WIDTH="454"
+                         VPOS="1154"
+                         HPOS="607">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="97"
+                          WIDTH="454"
+                          VPOS="1154"
+                          HPOS="607"
+                          CONTENT="36/38, Whitefriars Street"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_8"
+                         BASELINE="293,1453 305,1451 335,1451 365,1453 395,1451 425,1451 455,1453 485,1453 515,1451 545,1451 575,1453 605,1451 635,1451 665,1453 695,1451 725,1453 755,1455 785,1455 815,1455 845,1455 875,1457 905,1455 935,1453 965,1451 995,1451 1025,1451 1055,1451 1085,1451 1115,1451 1145,1451 1175,1451 1205,1451 1235,1451 1265,1451 1295,1451 1325,1451 1355,1451 1385,1449"
+                         HEIGHT="115"
+                         WIDTH="1098"
+                         VPOS="1374"
+                         HPOS="284">
+                  <String ID="string_tr_1_tl_8"
+                          HEIGHT="115"
+                          WIDTH="1098"
+                          VPOS="1374"
+                          HPOS="284"
+                          CONTENT="Kreis ap; C°, Prinfers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_5" HEIGHT="280" WIDTH="374" VPOS="1463" HPOS="631">
+               <Shape>
+                  <Polygon POINTS="631,1463 1005,1463 1005,1743 631,1743"/>
+               </Shape>
+               <TextLine ID="tr_5_tl_1"
+                         BASELINE="631,1513 661,1513 685,1513"
+                         HEIGHT="70"
+                         WIDTH="60"
+                         VPOS="1474"
+                         HPOS="622">
+                  <String ID="string_tr_5_tl_1"
+                          HEIGHT="70"
+                          WIDTH="60"
+                          VPOS="1474"
+                          HPOS="622"
+                          CONTENT="119ss1"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_2"
+                         BASELINE="703,1615 733,1617 763,1617 793,1617 823,1617 853,1617 883,1617 913,1617 943,1615 973,1617 993,1621"
+                         HEIGHT="93"
+                         WIDTH="297"
+                         VPOS="1557"
+                         HPOS="695">
+                  <String ID="string_tr_5_tl_2"
+                          HEIGHT="93"
+                          WIDTH="297"
+                          VPOS="1557"
+                          HPOS="695"
+                          CONTENT="Basle"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_3"
+                         BASELINE="683,1677 705,1677 735,1677 765,1677 795,1677 825,1679 855,1677 885,1677 915,1677 945,1677 975,1675 1005,1675"
+                         HEIGHT="72"
+                         WIDTH="328"
+                         VPOS="1636"
+                         HPOS="674">
+                  <String ID="string_tr_5_tl_3"
+                          HEIGHT="72"
+                          WIDTH="328"
+                          VPOS="1636"
+                          HPOS="674"
+                          CONTENT="Petersgraben 21"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_4"
+                         BASELINE="691,1733 701,1733 731,1731 761,1731 791,1731 821,1731 851,1731 881,1731 911,1731 941,1731 971,1729 1001,1729"
+                         HEIGHT="88"
+                         WIDTH="316"
+                         VPOS="1682"
+                         HPOS="683">
+                  <String ID="string_tr_5_tl_4"
+                          HEIGHT="88"
+                          WIDTH="316"
+                          VPOS="1682"
+                          HPOS="683"
+                          CONTENT="Telephone 15 14"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_4" HEIGHT="62" WIDTH="424" VPOS="1461" HPOS="977">
+               <Shape>
+                  <Polygon POINTS="977,1461 1401,1461 1401,1523 977,1523"/>
+               </Shape>
+               <TextLine ID="tr_4_tl_1"
+                         BASELINE="977,1511 1007,1511 1037,1511 1051,1511"
+                         HEIGHT="49"
+                         WIDTH="78"
+                         VPOS="1480"
+                         HPOS="969">
+                  <String ID="string_tr_4_tl_1"
+                          HEIGHT="49"
+                          WIDTH="78"
+                          VPOS="1480"
+                          HPOS="969"
+                          CONTENT="1se1ase1"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_2"
+                         BASELINE="1345,1513 1375,1511 1401,1513"
+                         HEIGHT="52"
+                         WIDTH="61"
+                         VPOS="1483"
+                         HPOS="1337">
+                  <String ID="string_tr_4_tl_2"
+                          HEIGHT="52"
+                          WIDTH="61"
+                          VPOS="1483"
+                          HPOS="1337"
+                          CONTENT="71175"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3" HEIGHT="292" WIDTH="1114" VPOS="1921" HPOS="293">
+               <Shape>
+                  <Polygon POINTS="293,1921 1407,1921 1407,2213 293,2213"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="293,1973 323,1971 353,1971 383,1971 413,1971 443,1971 473,1971 503,1973 533,1973 563,1973 593,1971 623,1971 653,1971 683,1971 713,1971 743,1971 773,1971 803,1971 833,1971 863,1971 893,1971 923,1971 953,1971 983,1971 1013,1971 1043,1971 1073,1973 1103,1971 1133,1973 1163,1971 1193,1973 1223,1971 1253,1971 1283,1971 1313,1971 1343,1971 1373,1971 1403,1973 1407,1973"
+                         HEIGHT="106"
+                         WIDTH="1120"
+                         VPOS="1907"
+                         HPOS="284">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="106"
+                          WIDTH="1120"
+                          VPOS="1907"
+                          HPOS="284"
+                          CONTENT="All kinds of printed matter tastefully and promptly executed"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="295,2031 325,2029 355,2029 385,2029 415,2029 445,2029 475,2027 505,2027 535,2029 565,2029 595,2027 625,2027 655,2027 685,2027 715,2027 745,2027 775,2027 805,2027 835,2027 865,2027 895,2027 925,2027 955,2027 985,2027 1015,2027 1045,2027 1075,2027 1105,2027 1135,2027 1165,2027 1195,2027 1225,2029 1255,2027 1285,2027 1315,2027 1345,2027 1375,2029 1399,2033"
+                         HEIGHT="62"
+                         WIDTH="1108"
+                         VPOS="1989"
+                         HPOS="287">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="62"
+                          WIDTH="1108"
+                          VPOS="1989"
+                          HPOS="287"
+                          CONTENT="susste iststsesssittitiiititIIITTIII"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="299,2133 329,2135 359,2137 389,2135 419,2135 449,2135 479,2135 509,2133 539,2133 569,2133 599,2135 629,2135 659,2135 689,2133 719,2133 749,2133 779,2133 809,2133 839,2133 869,2135 899,2135 929,2135 959,2135 989,2135 1019,2133 1049,2133 1079,2133 1109,2133 1139,2135 1169,2135 1199,2137 1229,2137 1259,2135 1289,2133 1319,2133 1349,2133 1379,2133 1401,2139"
+                         HEIGHT="91"
+                         WIDTH="1108"
+                         VPOS="2059"
+                         HPOS="290">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="91"
+                          WIDTH="1108"
+                          VPOS="2059"
+                          HPOS="290"
+                          CONTENT="Specialify: Printing of Bonds, Shares"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_4"
+                         BASELINE="591,2203 621,2197 651,2197 681,2197 711,2197 741,2197 771,2195 801,2195 831,2197 861,2197 891,2197 921,2197 951,2197 981,2197 1011,2197 1041,2195 1071,2195 1101,2199"
+                         HEIGHT="98"
+                         WIDTH="517"
+                         VPOS="2147"
+                         HPOS="582">
+                  <String ID="string_tr_3_tl_4"
+                          HEIGHT="98"
+                          WIDTH="517"
+                          VPOS="2147"
+                          HPOS="582"
+                          CONTENT="and Illustrations"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

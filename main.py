@@ -3,10 +3,29 @@ import re
 
 from alto_parser import AltoFileParser
 
-my_locations = ["London", "Lugano"]
+my_locations = ["London", "Lugano", "Bern"]
+personal_titles = ["Esq."]
+trash = ["Addrens"]
 
 def parsing_function(text, words):
     result = {'transcription': text}
+
+    # Regex match for the whole line
+    if re.match(r'^(\w{1,20} ?(\w{1,10})) (\(.*[^.]\))$|^(\w{1,10})$|^(\w{1,10}) ?(\w{1,10})$', text):
+        result["title_found"] = True
+        result["title"] = (text)
+
+    # Check each word against a list of values
+    for word in words:
+        if word in my_locations:
+            result["location_found"] = True
+            result["location"] = word
+
+    return result
+"""
+    # Find the last word in the text
+    if len(words) > 0:
+        result["last_location"] = words[-1]
 
     # Regex match for the whole line
     if re.match(r'^\d+$', text):
@@ -23,7 +42,17 @@ def parsing_function(text, words):
     if len(words) > 0 and words[0] == "SWISS":
         result["swiss_found"] = True
 
+    for word in words:
+        if word in personal_titles:
+            result["personal_title_found"] = True
+            result["personal_title"] = word
+
+    for word in words:
+        if word in trash:
+            result["trash_found"] = True
+            result["trash"] = word
     return result
+"""
 
 
 if __name__ == "__main__":

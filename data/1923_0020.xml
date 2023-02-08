@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-08T09:46:26.606+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="492" WIDTH="1708">
+         <TopMargin HEIGHT="0" WIDTH="1708" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="492" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="492" WIDTH="0" VPOS="0" HPOS="1708"/>
+         <BottomMargin HEIGHT="0" WIDTH="1708" VPOS="492" HPOS="0"/>
+         <PrintSpace HEIGHT="492" WIDTH="1708" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675413242981_24386"
+                       HEIGHT="50"
+                       WIDTH="1119"
+                       VPOS="76"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,76 1433,76 1433,126 314,126"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413242981_24385"
+                       HEIGHT="38"
+                       WIDTH="1119"
+                       VPOS="126"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,126 1433,126 1433,164 314,164"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413242035_24381"
+                       HEIGHT="37"
+                       WIDTH="1119"
+                       VPOS="164"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,164 1433,164 1433,201 314,201"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675413235880_24357_tl_1"
+                         BASELINE="340,192 370,192 400,192 430,192 460,192 490,192 494,192"
+                         HEIGHT="50"
+                         WIDTH="157"
+                         VPOS="159"
+                         HPOS="335">
+                  <String ID="string_TextRegion_1675413235880_24357_tl_1"
+                          HEIGHT="50"
+                          WIDTH="157"
+                          VPOS="159"
+                          HPOS="335"
+                          CONTENT="Reichenb:"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413240988_24377"
+                       HEIGHT="36"
+                       WIDTH="1119"
+                       VPOS="201"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,201 1433,201 1433,237 314,237"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675413235880_24357_tl_1_1"
+                         BASELINE="398,228 428,228 458,228 462,228"
+                         HEIGHT="41"
+                         WIDTH="67"
+                         VPOS="197"
+                         HPOS="393">
+                  <String ID="string_TextRegion_1675413235880_24357_tl_1_1"
+                          HEIGHT="41"
+                          WIDTH="67"
+                          VPOS="197"
+                          HPOS="393"
+                          CONTENT="nhar"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413240314_24373"
+                       HEIGHT="35"
+                       WIDTH="1119"
+                       VPOS="237"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,237 1433,237 1433,272 314,272"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675413235880_24357_tl_1_2"
+                         BASELINE="340,262 370,262 400,262 430,262 460,262 490,262 520,264 550,264 580,268 610,268 620,270"
+                         HEIGHT="62"
+                         WIDTH="285"
+                         VPOS="229"
+                         HPOS="335">
+                  <String ID="string_TextRegion_1675413235880_24357_tl_1_2"
+                          HEIGHT="62"
+                          WIDTH="285"
+                          VPOS="229"
+                          HPOS="335"
+                          CONTENT="Rinderknecht (J.)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413239279_24369"
+                       HEIGHT="36"
+                       WIDTH="1119"
+                       VPOS="272"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,272 1433,272 1433,308 314,308"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675413235880_24357_tl_1_3"
+                         BASELINE="426,298 456,298 486,298 516,300 540,300"
+                         HEIGHT="44"
+                         WIDTH="117"
+                         VPOS="267"
+                         HPOS="421">
+                  <String ID="string_TextRegion_1675413235880_24357_tl_1_3"
+                          HEIGHT="44"
+                          WIDTH="117"
+                          VPOS="267"
+                          HPOS="421"
+                          CONTENT="o A.-G"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413238301_24365"
+                       HEIGHT="35"
+                       WIDTH="1119"
+                       VPOS="308"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,308 1433,308 1433,343 314,343"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413237063_24361"
+                       HEIGHT="38"
+                       WIDTH="1119"
+                       VPOS="343"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,343 1433,343 1433,381 314,381"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675413235880_24357"
+                       HEIGHT="49"
+                       WIDTH="1119"
+                       VPOS="381"
+                       HPOS="314">
+               <Shape>
+                  <Polygon POINTS="314,381 1433,381 1433,430 314,430"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

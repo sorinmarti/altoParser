@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-08T09:46:23.304+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2674" WIDTH="1797">
+         <TopMargin HEIGHT="0" WIDTH="1797" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2674" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2674" WIDTH="0" VPOS="0" HPOS="1797"/>
+         <BottomMargin HEIGHT="0" WIDTH="1797" VPOS="2674" HPOS="0"/>
+         <PrintSpace HEIGHT="2674" WIDTH="1797" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_3" HEIGHT="326" WIDTH="1130" VPOS="430" HPOS="296">
+               <Shape>
+                  <Polygon POINTS="296,430 1426,430 1426,756 296,756"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="604,484 610,484 640,480 670,484 700,482 730,484 760,482 790,480 820,480 850,480 880,480 910,480 940,480 970,480 1000,482 1030,482 1060,482 1090,480 1120,480"
+                         HEIGHT="134"
+                         WIDTH="521"
+                         VPOS="382"
+                         HPOS="596">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="134"
+                          WIDTH="521"
+                          VPOS="382"
+                          HPOS="596"
+                          CONTENT="SANDOZ"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="296,626 326,630 356,630 386,630 416,630 446,630 476,630 506,630 536,632 566,634 596,634 626,632 656,632 686,630 716,632 746,632 776,634 806,634 836,632 866,632 896,632 926,630 956,632 986,626 1016,626 1046,626 1076,626 1106,622 1136,624 1166,626 1196,626 1226,630 1256,632 1286,634 1316,632 1346,630 1376,636 1406,636 1426,638"
+                         HEIGHT="134"
+                         WIDTH="1134"
+                         VPOS="526"
+                         HPOS="288">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="134"
+                          WIDTH="1134"
+                          VPOS="526"
+                          HPOS="288"
+                          CONTENT="CHEMICAL WORKS"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="366,738 396,742 426,744 456,744 486,744 516,744 546,744 576,744 606,744 636,744 666,744 696,742 726,742 756,744 786,744 816,744 846,744 876,744 906,744 936,744 966,744 996,744 1026,744 1056,744 1086,744 1116,744 1146,744 1176,746 1206,746 1236,746 1266,746 1296,746 1298,746"
+                         HEIGHT="117"
+                         WIDTH="938"
+                         VPOS="656"
+                         HPOS="357">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="117"
+                          WIDTH="938"
+                          VPOS="656"
+                          HPOS="357"
+                          CONTENT="ESTABLISHED 1886 BASLE (SWTTZERLAND)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1" HEIGHT="464" WIDTH="1140" VPOS="926" HPOS="298">
+               <Shape>
+                  <Polygon POINTS="298,926 1438,926 1438,1390 298,1390"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="298,976 328,978 358,978 388,978 418,978 448,978 478,980 508,978 538,978 568,978 598,980 628,980 658,978 688,978 718,978 748,978 778,978 808,978 838,978 868,978 898,978 928,978 958,978 988,978 1018,980 1048,978 1078,980 1108,980 1138,980 1168,980 1198,978 1228,980 1258,980 1288,980 1318,978 1348,978 1378,978 1408,980 1438,980"
+                         HEIGHT="116"
+                         WIDTH="1146"
+                         VPOS="887"
+                         HPOS="290">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="116"
+                          WIDTH="1146"
+                          VPOS="887"
+                          HPOS="290"
+                          CONTENT="COMPLETE RANGES OF ANILINE COLOURS"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="826,1042 856,1044 886,1044 916,1044 918,1044"
+                         HEIGHT="90"
+                         WIDTH="97"
+                         VPOS="993"
+                         HPOS="817">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="90"
+                          WIDTH="97"
+                          VPOS="993"
+                          HPOS="817"
+                          CONTENT="FOR"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="418,1114 448,1118 478,1118 508,1118 538,1118 568,1120 598,1120 628,1118 658,1120 688,1118 718,1118 748,1118 778,1120 808,1120 838,1118 868,1120 898,1118 928,1118 958,1118 988,1118 1018,1118 1048,1118 1078,1118 1108,1118 1138,1118 1168,1118 1198,1120 1228,1118 1258,1120 1288,1120 1318,1120 1320,1120"
+                         HEIGHT="117"
+                         WIDTH="905"
+                         VPOS="1028"
+                         HPOS="411">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="117"
+                          WIDTH="905"
+                          VPOS="1028"
+                          HPOS="411"
+                          CONTENT="TEXTILES, PAPER, LEATHER, HATTING,"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="436,1185 468,1184 498,1184 528,1184 558,1184 588,1184 618,1184 648,1182 678,1182 708,1182 738,1182 768,1182 798,1182 828,1182 858,1182 888,1182 918,1182 948,1182 978,1182 1008,1182 1038,1182 1068,1180 1098,1180 1128,1180 1158,1180 1188,1182 1218,1182 1248,1182 1278,1182 1308,1184 1328,1184"
+                         HEIGHT="109"
+                         WIDTH="897"
+                         VPOS="1122"
+                         HPOS="428">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="109"
+                          WIDTH="897"
+                          VPOS="1122"
+                          HPOS="428"
+                          CONTENT="JUTE, LAKES, INKS, STRAW, CHIP, etc."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="480,1314 510,1314 540,1314 570,1316 600,1314 630,1314 660,1314 690,1314 720,1314 750,1312 780,1312 810,1312 840,1314 870,1314 900,1314 930,1314 960,1314 990,1312 1020,1312 1050,1312 1080,1312 1110,1312 1140,1314 1170,1314 1200,1312 1230,1312 1260,1314 1270,1316"
+                         HEIGHT="119"
+                         WIDTH="795"
+                         VPOS="1222"
+                         HPOS="472">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="119"
+                          WIDTH="795"
+                          VPOS="1222"
+                          HPOS="472"
+                          CONTENT="PHARMACEUTICAL SPECIALITIES"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="534,1378 554,1380 584,1380 614,1380 644,1380 674,1378 704,1378 734,1376 764,1378 794,1376 824,1376 854,1376 884,1378 914,1378 944,1378 974,1376 1004,1376 1034,1376 1064,1376 1094,1376 1124,1376 1154,1376 1184,1376 1214,1376"
+                         HEIGHT="76"
+                         WIDTH="685"
+                         VPOS="1322"
+                         HPOS="526">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="76"
+                          WIDTH="685"
+                          VPOS="1322"
+                          HPOS="526"
+                          CONTENT="ALCALOIDS, CHLOROPHYLL"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2" HEIGHT="390" WIDTH="1100" VPOS="1868" HPOS="326">
+               <Shape>
+                  <Polygon POINTS="326,1868 1426,1868 1426,2258 326,2258"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="648,1920 678,1920 708,1918 738,1918 768,1918 798,1920 828,1918 858,1918 888,1918 918,1918 948,1918 978,1918 1008,1918 1038,1918 1068,1918 1098,1920 1102,1920"
+                         HEIGHT="111"
+                         WIDTH="458"
+                         VPOS="1853"
+                         HPOS="640">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="111"
+                          WIDTH="458"
+                          VPOS="1853"
+                          HPOS="640"
+                          CONTENT="SANDOZ"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="424,2058 446,2058 476,2058 506,2058 536,2058 566,2056 596,2056 626,2058 656,2058 686,2056 716,2058 746,2058 776,2056 806,2056 836,2056 866,2056 896,2056 926,2054 956,2054 986,2054 1016,2054 1046,2052 1076,2052 1106,2052 1136,2052 1166,2050 1196,2052 1226,2052 1256,2050 1286,2050 1316,2048"
+                         HEIGHT="103"
+                         WIDTH="899"
+                         VPOS="1968"
+                         HPOS="416">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="103"
+                          WIDTH="899"
+                          VPOS="1968"
+                          HPOS="416"
+                          CONTENT="SANDOZ CHEMICAL C°, LIMITED"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="602,2104 616,2104 646,2104 676,2104 706,2104 736,2104 766,2104 796,2104 826,2102 856,2102 886,2104 916,2104 946,2102 976,2102 1006,2100 1036,2098 1066,2100 1096,2100 1126,2100 1156,2100"
+                         HEIGHT="89"
+                         WIDTH="558"
+                         VPOS="2065"
+                         HPOS="593">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="89"
+                          WIDTH="558"
+                          VPOS="2065"
+                          HPOS="593"
+                          CONTENT="(Sole Consignees in Great Britain)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="1084,2160 1114,2162 1144,2164 1174,2162 1204,2162 1234,2164 1264,2164 1294,2164 1324,2164 1354,2162 1384,2162 1410,2164"
+                         HEIGHT="85"
+                         WIDTH="331"
+                         VPOS="2099"
+                         HPOS="1075">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="85"
+                          WIDTH="331"
+                          VPOS="2099"
+                          HPOS="1075"
+                          CONTENT="MANCHESTER"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="396,2162 424,2164 454,2166 484,2166 514,2166 544,2166 574,2166 604,2166 634,2166 664,2164 670,2164"
+                         HEIGHT="85"
+                         WIDTH="278"
+                         VPOS="2101"
+                         HPOS="388">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="85"
+                          WIDTH="278"
+                          VPOS="2101"
+                          HPOS="388"
+                          CONTENT="BRADFORD"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="342,2206 372,2210 402,2210 432,2210 462,2210 492,2210 522,2210 552,2210 582,2210 612,2210 642,2210 672,2212 702,2210 728,2212"
+                         HEIGHT="52"
+                         WIDTH="391"
+                         VPOS="2169"
+                         HPOS="334">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="52"
+                          WIDTH="391"
+                          VPOS="2169"
+                          HPOS="334"
+                          CONTENT="Craven Bank Chambers,"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_7"
+                         BASELINE="1062,2206 1092,2208 1122,2208 1152,2208 1182,2210 1212,2210 1242,2210 1272,2208 1302,2210 1332,2208 1362,2208 1392,2208 1422,2210 1426,2210"
+                         HEIGHT="86"
+                         WIDTH="369"
+                         VPOS="2169"
+                         HPOS="1054">
+                  <String ID="string_tr_2_tl_7"
+                          HEIGHT="86"
+                          WIDTH="369"
+                          VPOS="2169"
+                          HPOS="1054"
+                          CONTENT="24 Tib Lane, Cross St."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_8"
+                         BASELINE="326,2248 344,2248 374,2248 404,2248 434,2248 464,2248 494,2248 524,2248 554,2248 584,2248 614,2248 644,2248 674,2248 704,2248 734,2246 764,2246"
+                         HEIGHT="87"
+                         WIDTH="444"
+                         VPOS="2205"
+                         HPOS="318">
+                  <String ID="string_tr_2_tl_8"
+                          HEIGHT="87"
+                          WIDTH="444"
+                          VPOS="2205"
+                          HPOS="318"
+                          CONTENT="Market St. and Canal Road"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

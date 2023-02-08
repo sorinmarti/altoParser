@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-08T09:46:23.935+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2669" WIDTH="1802">
+         <TopMargin HEIGHT="0" WIDTH="1802" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2669" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2669" WIDTH="0" VPOS="0" HPOS="1802"/>
+         <BottomMargin HEIGHT="0" WIDTH="1802" VPOS="2669" HPOS="0"/>
+         <PrintSpace HEIGHT="2669" WIDTH="1802" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2" HEIGHT="314" WIDTH="876" VPOS="536" HPOS="508">
+               <Shape>
+                  <Polygon POINTS="508,536 1384,536 1384,850 508,850"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="508,586 538,588 568,588 598,586 628,586 658,588 688,588 718,588 748,588 778,588 808,588 838,588 868,588 898,588 928,588 958,590 988,592 1018,592 1048,592 1078,592 1108,592 1138,592 1168,592 1198,592 1228,590 1258,590 1288,590 1318,592 1348,590 1378,594 1384,592"
+                         HEIGHT="100"
+                         WIDTH="880"
+                         VPOS="514"
+                         HPOS="500">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="100"
+                          WIDTH="880"
+                          VPOS="514"
+                          HPOS="500"
+                          CONTENT="TERRASSE-RESTAURANT"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="590,720 620,720 650,720 680,720 710,722 740,722 770,722 800,722 830,722 860,722 890,722 920,722 950,722 980,722 1010,722 1040,724 1070,722 1100,722 1130,720 1160,720 1190,720 1220,722 1250,722 1278,724"
+                         HEIGHT="170"
+                         WIDTH="693"
+                         VPOS="604"
+                         HPOS="581">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="170"
+                          WIDTH="693"
+                          VPOS="604"
+                          HPOS="581"
+                          CONTENT="KUNSTHALLE"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="810,834 840,836 870,836 900,840 930,840 960,840 990,840 1020,840 1050,840 1060,840"
+                         HEIGHT="114"
+                         WIDTH="257"
+                         VPOS="763"
+                         HPOS="801">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="114"
+                          WIDTH="257"
+                          VPOS="763"
+                          HPOS="801"
+                          CONTENT="BASEL"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1" HEIGHT="672" WIDTH="1072" VPOS="1210" HPOS="404">
+               <Shape>
+                  <Polygon POINTS="404,1210 1476,1210 1476,1882 404,1882"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="592,1260 622,1262 652,1262 682,1262 712,1262 742,1264 772,1264 802,1264 832,1264 862,1264 892,1264 922,1264 952,1264 982,1264 1012,1264 1042,1266 1072,1266 1102,1266 1132,1268 1162,1266 1192,1268 1222,1266 1252,1266 1282,1268 1286,1270"
+                         HEIGHT="127"
+                         WIDTH="699"
+                         VPOS="1178"
+                         HPOS="583">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="127"
+                          WIDTH="699"
+                          VPOS="1178"
+                          HPOS="583"
+                          CONTENT="CUISINE INCOMPARÄBLE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="718,1376 748,1376 778,1374 808,1374 838,1376 868,1376 898,1376 928,1376 958,1376 988,1378 1018,1376 1048,1376 1078,1378 1108,1378 1138,1378 1154,1376"
+                         HEIGHT="134"
+                         WIDTH="441"
+                         VPOS="1313"
+                         HPOS="711">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="134"
+                          WIDTH="441"
+                          VPOS="1313"
+                          HPOS="711"
+                          CONTENT="CAVE SOIGNÉE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="770,1488 800,1488 830,1488 860,1488 890,1488 920,1488 950,1488 980,1488 1010,1488 1040,1488 1070,1488 1096,1490"
+                         HEIGHT="88"
+                         WIDTH="330"
+                         VPOS="1430"
+                         HPOS="763">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="88"
+                          WIDTH="330"
+                          VPOS="1430"
+                          HPOS="763"
+                          CONTENT="CONCERTS"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="404,1754 434,1754 464,1754 494,1754 524,1756 554,1756 584,1756 614,1756 644,1758 674,1758 704,1758 734,1758 764,1760 794,1758 824,1760 854,1758 884,1758 914,1758 944,1760 974,1760 1004,1760 1034,1760 1064,1762 1094,1762 1124,1762 1154,1762 1184,1762 1214,1762 1244,1762 1274,1762 1304,1760 1334,1760 1364,1760 1394,1760 1424,1762 1454,1762 1476,1762"
+                         HEIGHT="143"
+                         WIDTH="1076"
+                         VPOS="1666"
+                         HPOS="397">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="143"
+                          WIDTH="1076"
+                          VPOS="1666"
+                          HPOS="397"
+                          CONTENT="THE PLACE FOR HIGH CLASS COOKING"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="756,1870 786,1868 816,1868 846,1870 876,1870 906,1870 936,1870 966,1872 996,1872 1026,1872 1056,1872 1086,1870 1116,1872 1122,1872"
+                         HEIGHT="97"
+                         WIDTH="372"
+                         VPOS="1813"
+                         HPOS="747">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="97"
+                          WIDTH="372"
+                          VPOS="1813"
+                          HPOS="747"
+                          CONTENT="ORCHESTRA"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

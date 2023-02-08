@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-08T09:46:28.275+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2668" WIDTH="1781">
+         <TopMargin HEIGHT="0" WIDTH="1781" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2668" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2668" WIDTH="0" VPOS="0" HPOS="1781"/>
+         <BottomMargin HEIGHT="0" WIDTH="1781" VPOS="2668" HPOS="0"/>
+         <PrintSpace HEIGHT="2668" WIDTH="1781" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675414616913_25411"
+                       HEIGHT="60"
+                       WIDTH="1206"
+                       VPOS="416"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,416 1503,416 1503,476 297,476"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1"
+                         BASELINE="376,464 406,464 436,464 466,464 496,466 526,466 556,466 586,466 616,468 630,466"
+                         HEIGHT="73"
+                         WIDTH="259"
+                         VPOS="418"
+                         HPOS="368">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1"
+                          HEIGHT="73"
+                          WIDTH="259"
+                          VPOS="418"
+                          HPOS="368"
+                          CONTENT="Chronometers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414616913_25410"
+                       HEIGHT="47"
+                       WIDTH="1206"
+                       VPOS="476"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,476 1503,476 1503,523 297,523"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_1"
+                         BASELINE="408,508 438,510 468,510 498,510 528,510 558,510 588,512 618,512 648,512 678,512 708,512 738,512 768,514 798,514 828,514 858,514 888,514 918,516 948,516 978,516 1008,516 1038,516 1068,516 1098,518 1128,520 1134,520"
+                         HEIGHT="78"
+                         WIDTH="730"
+                         VPOS="454"
+                         HPOS="401">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_1"
+                          HEIGHT="78"
+                          WIDTH="730"
+                          VPOS="454"
+                          HPOS="401"
+                          CONTENT="Audemars, Piguet &amp; Co., Ltd., Les Brassus."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414615743_25406"
+                       HEIGHT="42"
+                       WIDTH="1206"
+                       VPOS="523"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,523 1503,523 1503,565 297,565"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_2"
+                         BASELINE="412,552 442,554 472,554 502,554 532,554 562,556 592,556 622,556 652,558 682,558 712,558 742,558 772,558 802,560 832,560 862,558 892,558 922,558 952,560 982,560 1012,560 1042,560 1072,562 1102,562 1132,564 1162,564 1192,564 1222,564 1252,564 1282,564 1312,566 1342,566 1372,566 1402,566 1432,568 1450,568"
+                         HEIGHT="79"
+                         WIDTH="1044"
+                         VPOS="520"
+                         HPOS="403">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_2"
+                          HEIGHT="79"
+                          WIDTH="1044"
+                          VPOS="520"
+                          HPOS="403"
+                          CONTENT="Paul Ditisheim, S. A. (Marine chronometers), La Chaux-de-Fonds."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414614831_25402"
+                       HEIGHT="67"
+                       WIDTH="1206"
+                       VPOS="565"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,565 1503,565 1503,632 297,632"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_3"
+                         BASELINE="414,598 444,598 474,598 504,598 534,600 564,600 594,600 624,600 654,602 684,602 714,602 744,602 774,602 804,604 834,604 864,604 894,604 924,604 954,604 984,606 1014,606 1044,606 1074,606 1104,606 1134,608 1164,606 1194,608 1224,608 1254,608 1284,608 1314,610 1344,612 1358,614"
+                         HEIGHT="84"
+                         WIDTH="949"
+                         VPOS="563"
+                         HPOS="407">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_3"
+                          HEIGHT="84"
+                          WIDTH="949"
+                          VPOS="563"
+                          HPOS="407"
+                          CONTENT="Ulysse Nardin (marine and pocket) Le Locle and Geneva."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414612770_25398"
+                       HEIGHT="50"
+                       WIDTH="1206"
+                       VPOS="632"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,632 1503,632 1503,682 297,682"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_4"
+                         BASELINE="374,668 404,668 434,670 464,668 494,670 524,670 554,670 584,670 614,670 644,670 674,672 704,672 734,672 764,672 794,674 814,674"
+                         HEIGHT="82"
+                         WIDTH="444"
+                         VPOS="614"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_4"
+                          HEIGHT="82"
+                          WIDTH="444"
+                          VPOS="614"
+                          HPOS="367"
+                          CONTENT="Cigarette Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414612026_25394"
+                       HEIGHT="82"
+                       WIDTH="1206"
+                       VPOS="682"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,682 1503,682 1503,764 297,764"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_5"
+                         BASELINE="412,712 442,714 472,714 502,714 532,716 562,716 592,716 622,716 652,716 682,716 712,716 742,718 772,718 802,718 832,718 862,720 892,720 922,720 952,720 982,722 1012,722 1042,720 1072,722 1102,722 1132,722 1162,722 1192,722 1222,722 1252,724 1282,724 1312,724 1342,726 1372,728 1396,730"
+                         HEIGHT="78"
+                         WIDTH="987"
+                         VPOS="661"
+                         HPOS="405">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_5"
+                          HEIGHT="78"
+                          WIDTH="987"
+                          VPOS="661"
+                          HPOS="405"
+                          CONTENT="British American Tobacco Cô., Ltd., 18, Route des Acacias,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2"
+                         BASELINE="450,748 480,748 510,748 540,750 570,752 582,750"
+                         HEIGHT="54"
+                         WIDTH="138"
+                         VPOS="718"
+                         HPOS="441">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2"
+                          HEIGHT="54"
+                          WIDTH="138"
+                          VPOS="718"
+                          HPOS="441"
+                          CONTENT="Geneva."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414610384_25390"
+                       HEIGHT="55"
+                       WIDTH="1206"
+                       VPOS="764"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,764 1503,764 1503,819 297,819"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_6"
+                         BASELINE="408,794 438,794 468,794 498,794 528,796 558,796 588,796 618,796 648,796 678,798 708,798 738,798 768,798 798,798 828,798 858,798 888,798 918,800 948,800 978,802 1008,802 1038,802 1068,802 1098,802 1128,802 1158,802 1188,804 1218,804 1248,804 1278,804 1308,804 1338,806 1368,806 1398,806 1428,808 1444,810"
+                         HEIGHT="94"
+                         WIDTH="1041"
+                         VPOS="747"
+                         HPOS="399">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_6"
+                          HEIGHT="94"
+                          WIDTH="1041"
+                          VPOS="747"
+                          HPOS="399"
+                          CONTENT="S.A. Ed. Laurens, &#34;Le Khédive&#34;, 61, Route de Chêne, Geneva."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414608898_25386"
+                       HEIGHT="57"
+                       WIDTH="1206"
+                       VPOS="819"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,819 1503,819 1503,876 297,876"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_7"
+                         BASELINE="376,864 406,864 436,864 466,864 496,866 526,866 556,866 586,866 616,866 646,866 676,866 706,868 736,868 766,868 796,868 800,870"
+                         HEIGHT="88"
+                         WIDTH="428"
+                         VPOS="805"
+                         HPOS="368">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_7"
+                          HEIGHT="88"
+                          WIDTH="428"
+                          VPOS="805"
+                          HPOS="368"
+                          CONTENT="Clothing and Costumes"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414608160_25382"
+                       HEIGHT="44"
+                       WIDTH="1206"
+                       VPOS="876"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,876 1503,876 1503,920 297,920"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_8"
+                         BASELINE="410,910 440,910 470,910 500,910 530,910 560,910 590,912 620,912 650,912 680,912 710,912 740,912 770,914 800,914 830,914 860,916 890,916 920,916 950,914 980,916 1010,916 1040,916 1070,916 1100,918 1130,918 1160,918 1190,918 1220,918 1250,918 1280,920 1310,922 1340,920 1370,922 1400,922 1430,924 1446,926"
+                         HEIGHT="104"
+                         WIDTH="1041"
+                         VPOS="847"
+                         HPOS="402">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_8"
+                          HEIGHT="104"
+                          WIDTH="1041"
+                          VPOS="847"
+                          HPOS="402"
+                          CONTENT="Ernest Adler (mens' outfitting), 14, rue de la Croix d'Or, Geneva."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414606717_25378"
+                       HEIGHT="46"
+                       WIDTH="1206"
+                       VPOS="920"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,920 1503,920 1503,966 297,966"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_9"
+                         BASELINE="410,954 440,952 470,954 500,954 530,954 560,954 590,956 620,956 650,958 680,958 710,958 740,958 770,958 800,958 830,960 860,960 890,960 920,960 950,960 980,960 1010,960 1040,962 1070,962 1090,962"
+                         HEIGHT="60"
+                         WIDTH="685"
+                         VPOS="919"
+                         HPOS="403">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_9"
+                          HEIGHT="60"
+                          WIDTH="685"
+                          VPOS="919"
+                          HPOS="403"
+                          CONTENT="Bigar Frères, 21, Rue du Pont, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414605742_25374"
+                       HEIGHT="83"
+                       WIDTH="1206"
+                       VPOS="966"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,966 1503,966 1503,1049 297,1049"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_10"
+                         BASELINE="412,996 442,996 472,998 502,998 532,998 562,1000 592,1000 622,1000 652,1000 682,1000 712,1002 742,1002 772,1002 802,1004 832,1002 862,1004 892,1004 922,1004 952,1004 982,1004 1012,1006 1042,1006 1072,1008 1102,1008 1132,1008 1162,1008 1192,1008 1222,1008 1252,1008 1282,1010 1312,1010 1342,1010 1372,1010 1402,1010 1432,1008 1438,1010"
+                         HEIGHT="90"
+                         WIDTH="1032"
+                         VPOS="951"
+                         HPOS="403">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_10"
+                          HEIGHT="90"
+                          WIDTH="1032"
+                          VPOS="951"
+                          HPOS="403"
+                          CONTENT="Bonnard &amp; Cie., S. A. (general drapers, for ladies and gentle¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_1"
+                         BASELINE="440,1034 470,1034 500,1036 530,1036 560,1036 590,1036 620,1036 650,1036 680,1036 710,1038 740,1038 770,1038 800,1038 830,1038 860,1040 890,1040 920,1040 950,1040 980,1040 1010,1040 1040,1042 1070,1042 1100,1042 1130,1042 1160,1044 1182,1044"
+                         HEIGHT="56"
+                         WIDTH="748"
+                         VPOS="1010"
+                         HPOS="432">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_1"
+                          HEIGHT="56"
+                          WIDTH="748"
+                          VPOS="1010"
+                          HPOS="432"
+                          CONTENT="men, retail), 14, Place St. François, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414603480_25370"
+                       HEIGHT="115"
+                       WIDTH="1206"
+                       VPOS="1049"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1049 1503,1049 1503,1164 297,1164"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_11"
+                         BASELINE="408,1076 438,1076 468,1078 498,1078 528,1078 558,1080 588,1080 618,1080 648,1080 678,1080 708,1080 738,1080 768,1082 798,1082 828,1084 858,1082 888,1084 918,1084 948,1086 978,1084 1008,1086 1038,1086 1068,1086 1098,1086 1128,1086 1158,1086 1188,1088 1218,1088 1248,1090 1278,1090 1308,1088 1338,1090 1368,1088 1398,1090 1428,1090 1440,1090"
+                         HEIGHT="65"
+                         WIDTH="1036"
+                         VPOS="1032"
+                         HPOS="401">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_11"
+                          HEIGHT="65"
+                          WIDTH="1036"
+                          VPOS="1032"
+                          HPOS="401"
+                          CONTENT="Aimée Carey (Knitted costumes, jumpers and coats for ladies,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_2"
+                         BASELINE="440,1112 470,1114 500,1114 530,1116 560,1116 590,1116 620,1116 650,1116 680,1116 710,1116 740,1116 770,1118 800,1118 830,1120 860,1122 890,1120 920,1120 950,1120 980,1120 1010,1120 1040,1122 1070,1122 1100,1122 1130,1122 1160,1124 1190,1124 1220,1124 1250,1124 1280,1124 1310,1124 1340,1126 1370,1124 1400,1124 1430,1126 1442,1126"
+                         HEIGHT="61"
+                         WIDTH="1008"
+                         VPOS="1087"
+                         HPOS="432">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_2"
+                          HEIGHT="61"
+                          WIDTH="1008"
+                          VPOS="1087"
+                          HPOS="432"
+                          CONTENT="in wool and artificial silk, knitted ties in real and artificial"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_3"
+                         BASELINE="436,1148 466,1150 496,1150 526,1150 556,1152 586,1152 616,1152 646,1152 676,1152 706,1152 736,1154 766,1154 796,1154 826,1154 856,1156 886,1156 916,1156 946,1156 976,1156 1006,1156 1036,1158 1066,1160 1096,1160 1126,1158 1156,1158 1186,1160 1216,1160 1236,1160"
+                         HEIGHT="67"
+                         WIDTH="805"
+                         VPOS="1124"
+                         HPOS="429">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_3"
+                          HEIGHT="67"
+                          WIDTH="805"
+                          VPOS="1124"
+                          HPOS="429"
+                          CONTENT="silk, wholesale and retail), 3, Jumelles, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414601861_25366"
+                       HEIGHT="45"
+                       WIDTH="1206"
+                       VPOS="1164"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1164 1503,1164 1503,1209 297,1209"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_12"
+                         BASELINE="408,1192 438,1194 468,1194 498,1194 528,1196 558,1194 588,1196 618,1196 648,1198 678,1196 708,1198 738,1198 768,1198 798,1198 828,1200 858,1200 888,1200 918,1200 948,1200 978,1200 1008,1202 1024,1202"
+                         HEIGHT="59"
+                         WIDTH="619"
+                         VPOS="1163"
+                         HPOS="401">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_12"
+                          HEIGHT="59"
+                          WIDTH="619"
+                          VPOS="1163"
+                          HPOS="401"
+                          CONTENT="C. P. Coate, 1, Grand Pont Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414600286_25362"
+                       HEIGHT="80"
+                       WIDTH="1206"
+                       VPOS="1209"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1209 1503,1209 1503,1289 297,1289"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_13"
+                         BASELINE="410,1238 440,1238 470,1240 500,1238 530,1240 560,1240 590,1240 620,1240 650,1242 680,1242 710,1242 740,1244 770,1242 800,1242 830,1242 860,1242 890,1244 920,1244 950,1244 980,1244 1010,1246 1040,1246 1070,1246 1100,1248 1130,1248 1160,1248 1190,1248 1220,1250 1250,1250 1280,1250 1310,1250 1340,1250 1370,1250 1400,1250 1430,1250 1436,1252"
+                         HEIGHT="104"
+                         WIDTH="1031"
+                         VPOS="1178"
+                         HPOS="402">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_13"
+                          HEIGHT="104"
+                          WIDTH="1031"
+                          VPOS="1178"
+                          HPOS="402"
+                          CONTENT="Curzon Bros., Ltd. (the World's Measure Tailors, gentlemens"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_3"
+                         BASELINE="442,1274 472,1274 502,1274 532,1276 562,1274 592,1276 622,1276 652,1278 682,1278 712,1278 742,1278 772,1278 802,1278 832,1280 862,1280 892,1280 922,1280 952,1282 982,1282 1012,1284 1042,1284 1072,1282 1102,1284 1132,1282 1162,1284 1192,1284 1222,1286 1226,1286"
+                         HEIGHT="45"
+                         WIDTH="789"
+                         VPOS="1252"
+                         HPOS="435">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_3"
+                          HEIGHT="45"
+                          WIDTH="789"
+                          VPOS="1252"
+                          HPOS="435"
+                          CONTENT="clothing) 45-53, Leonard Street, London E. C. 2."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414599193_25358"
+                       HEIGHT="81"
+                       WIDTH="1206"
+                       VPOS="1289"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1289 1503,1289 1503,1370 297,1370"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_14"
+                         BASELINE="404,1316 434,1316 464,1318 494,1318 524,1320 554,1320 584,1320 614,1320 644,1320 674,1320 704,1322 734,1322 764,1324 794,1322 824,1324 854,1324 884,1324 914,1324 944,1326 974,1326 1004,1326 1034,1326 1064,1328 1094,1328 1124,1328 1154,1330 1184,1330 1214,1330 1244,1330 1274,1330 1304,1330 1334,1330 1364,1330 1394,1330 1424,1330 1442,1332"
+                         HEIGHT="90"
+                         WIDTH="1043"
+                         VPOS="1274"
+                         HPOS="396">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_14"
+                          HEIGHT="90"
+                          WIDTH="1043"
+                          VPOS="1274"
+                          HPOS="396"
+                          CONTENT="H. de Groot, &#34;Maison Albion&#34; (mens' outfitting, retail), 22, Rue"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_4"
+                         BASELINE="442,1354 472,1354 502,1354 532,1354 562,1356 592,1356 622,1358 652,1356 682,1358 712,1358 742,1358 772,1360 774,1360"
+                         HEIGHT="58"
+                         WIDTH="339"
+                         VPOS="1319"
+                         HPOS="433">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_4"
+                          HEIGHT="58"
+                          WIDTH="339"
+                          VPOS="1319"
+                          HPOS="433"
+                          CONTENT="de Bourg, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414597503_25354"
+                       HEIGHT="42"
+                       WIDTH="1206"
+                       VPOS="1370"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1370 1503,1370 1503,1412 297,1412"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_15"
+                         BASELINE="408,1404 438,1400 468,1398 498,1398 528,1400 558,1400 588,1400 618,1400 648,1400 678,1402 708,1402 738,1402 768,1404 798,1402 828,1404 858,1404 888,1404 918,1404 948,1404 978,1404 1008,1406 1038,1406 1068,1406 1098,1408 1128,1408 1158,1408 1188,1408 1218,1406 1248,1408 1278,1408 1308,1410 1318,1410"
+                         HEIGHT="83"
+                         WIDTH="914"
+                         VPOS="1352"
+                         HPOS="399">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_15"
+                          HEIGHT="83"
+                          WIDTH="914"
+                          VPOS="1352"
+                          HPOS="399"
+                          CONTENT="Joel Edwards &amp; Sons, 9, Hanover Street, London W. 1."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414594435_25348"
+                       HEIGHT="44"
+                       WIDTH="1206"
+                       VPOS="1412"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1412 1503,1412 1503,1456 297,1456"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_16"
+                         BASELINE="406,1440 436,1442 466,1442 496,1442 526,1442 556,1444 586,1444 616,1444 646,1444 676,1446 706,1446 736,1446 766,1448 796,1448 826,1448 856,1450 886,1450 916,1448 946,1450 976,1450 1006,1450 1036,1450 1066,1452 1096,1452 1126,1452 1156,1452 1186,1452 1216,1454 1246,1454 1276,1454 1306,1454 1336,1454 1346,1454"
+                         HEIGHT="59"
+                         WIDTH="945"
+                         VPOS="1411"
+                         HPOS="398">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_16"
+                          HEIGHT="59"
+                          WIDTH="945"
+                          VPOS="1411"
+                          HPOS="398"
+                          CONTENT="Reuben Gaunt &amp; Sons, Ltd., Broom Mills, Farsley, Leeds."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414593310_25344"
+                       HEIGHT="80"
+                       WIDTH="1206"
+                       VPOS="1456"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1456 1503,1456 1503,1536 297,1536"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_17"
+                         BASELINE="404,1486 434,1486 464,1486 494,1488 524,1488 554,1486 584,1488 614,1488 644,1490 674,1490 704,1490 734,1490 764,1490 794,1492 824,1492 854,1492 884,1492 914,1494 944,1492 974,1494 1004,1494 1034,1494 1064,1494 1094,1496 1124,1496 1154,1496 1184,1498 1214,1496 1244,1498 1274,1498 1304,1498 1334,1498 1364,1498 1394,1498 1424,1500 1440,1502"
+                         HEIGHT="68"
+                         WIDTH="1041"
+                         VPOS="1443"
+                         HPOS="396">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_17"
+                          HEIGHT="68"
+                          WIDTH="1041"
+                          VPOS="1443"
+                          HPOS="396"
+                          CONTENT="Gautschy-Kuhn, A. G. (woven sports coats, etc., in silk, artificial"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_5"
+                         BASELINE="432,1522 462,1522 492,1524 522,1524 552,1524 582,1524 612,1526 642,1526 672,1526 702,1526 732,1526 762,1528 792,1528 822,1528 852,1528 882,1528 912,1530 942,1530 972,1530 1002,1530 1032,1530 1062,1532 1092,1530 1122,1532 1152,1532 1182,1532 1212,1532 1242,1532 1272,1534 1302,1534 1332,1534 1362,1534 1392,1536 1400,1536"
+                         HEIGHT="48"
+                         WIDTH="972"
+                         VPOS="1495"
+                         HPOS="424">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_5"
+                          HEIGHT="48"
+                          WIDTH="972"
+                          VPOS="1495"
+                          HPOS="424"
+                          CONTENT="silk, cotton and wool, wholesale) 20, Aeschengraben, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414592062_25340"
+                       HEIGHT="79"
+                       WIDTH="1206"
+                       VPOS="1536"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1536 1503,1536 1503,1615 297,1615"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_18"
+                         BASELINE="400,1564 430,1566 460,1568 490,1568 520,1568 550,1568 580,1568 610,1568 640,1570 670,1570 700,1572 730,1572 760,1572 790,1572 820,1572 850,1572 880,1574 910,1572 940,1574 970,1576 1000,1574 1030,1574 1060,1574 1090,1574 1120,1576 1150,1576 1180,1576 1210,1576 1240,1578 1270,1576 1300,1578 1330,1578 1360,1578 1390,1578 1420,1580 1430,1580"
+                         HEIGHT="79"
+                         WIDTH="1034"
+                         VPOS="1524"
+                         HPOS="392">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_18"
+                          HEIGHT="79"
+                          WIDTH="1034"
+                          VPOS="1524"
+                          HPOS="392"
+                          CONTENT="Grieder &amp; Co. (costumes for ladies, robes and mantles), Parade"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_6"
+                         BASELINE="432,1604 462,1604 492,1604 522,1604 552,1604 582,1604 612,1606 642,1606 650,1606"
+                         HEIGHT="65"
+                         WIDTH="223"
+                         VPOS="1571"
+                         HPOS="424">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_6"
+                          HEIGHT="65"
+                          WIDTH="223"
+                          VPOS="1571"
+                          HPOS="424"
+                          CONTENT="platz, Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414591151_25336"
+                       HEIGHT="140"
+                       WIDTH="1206"
+                       VPOS="1615"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1615 1503,1615 1503,1755 297,1755"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_19"
+                         BASELINE="404,1644 434,1646 464,1646 494,1648 524,1648 554,1648 584,1648 614,1648 644,1648 674,1648 704,1650 734,1650 764,1650 794,1650 824,1652 854,1652 884,1652 914,1654 944,1656 974,1654 1004,1654 1034,1656 1064,1654 1094,1654 1124,1656 1154,1656 1184,1656 1214,1656 1244,1656 1274,1656 1304,1658 1334,1658 1364,1658 1394,1658 1422,1658"
+                         HEIGHT="82"
+                         WIDTH="1022"
+                         VPOS="1586"
+                         HPOS="396">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_19"
+                          HEIGHT="82"
+                          WIDTH="1022"
+                          VPOS="1586"
+                          HPOS="396"
+                          CONTENT="The M. Hyam Wholesale Clothing Co., Ltd. (agent for Switzer"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_7"
+                         BASELINE="432,1682 462,1682 492,1684 522,1684 552,1684 582,1684 612,1684 642,1684 672,1686 702,1686 732,1686 762,1686 792,1688 822,1688 852,1688 882,1688 912,1690 942,1690 972,1690 1002,1690 1032,1690 1062,1690 1092,1690 1122,1692 1152,1692 1182,1692 1212,1692 1242,1692 1272,1692 1302,1694 1332,1694 1362,1694 1392,1694 1422,1696 1430,1696"
+                         HEIGHT="52"
+                         WIDTH="1001"
+                         VPOS="1653"
+                         HPOS="424">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_7"
+                          HEIGHT="52"
+                          WIDTH="1001"
+                          VPOS="1653"
+                          HPOS="424"
+                          CONTENT="land: E. Hugentobler-Bowden, 20, Sihlstrasse, Zurich, mens"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_3_1"
+                         BASELINE="434,1720 464,1720 494,1718 524,1720 554,1720 584,1720 614,1720 644,1720 674,1722 704,1722 734,1724 764,1724 794,1724 824,1724 854,1722 884,1724 914,1726 944,1726 974,1726 1004,1726 1034,1726 1064,1728 1094,1726 1124,1728 1154,1728 1184,1728 1214,1730 1244,1730 1274,1730 1304,1730 1334,1730 1364,1730 1394,1730 1424,1730 1434,1732"
+                         HEIGHT="59"
+                         WIDTH="1006"
+                         VPOS="1692"
+                         HPOS="427">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_3_1"
+                          HEIGHT="59"
+                          WIDTH="1006"
+                          VPOS="1692"
+                          HPOS="427"
+                          CONTENT="and youths' clothing), 69—73, Cannon Street, London E. C. 4."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414589648_25332"
+                       HEIGHT="53"
+                       WIDTH="1206"
+                       VPOS="1755"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1755 1503,1755 1503,1808 297,1808"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_20"
+                         BASELINE="366,1796 396,1796 426,1796 456,1798 486,1798 516,1798 546,1800 576,1800 606,1800 636,1800 666,1800 696,1802 726,1802 738,1804"
+                         HEIGHT="74"
+                         WIDTH="378"
+                         VPOS="1741"
+                         HPOS="359">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_20"
+                          HEIGHT="74"
+                          WIDTH="378"
+                          VPOS="1741"
+                          HPOS="359"
+                          CONTENT="Cloth Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414588956_25328"
+                       HEIGHT="141"
+                       WIDTH="1206"
+                       VPOS="1808"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1808 1503,1808 1503,1949 297,1949"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_21"
+                         BASELINE="396,1840 426,1840 456,1842 486,1842 516,1844 546,1844 576,1844 606,1844 636,1846 666,1846 696,1846 726,1846 756,1846 786,1848 816,1848 846,1848 876,1848 906,1848 936,1848 966,1848 996,1850 1026,1850 1056,1850 1086,1850 1116,1850 1146,1852 1176,1852 1206,1852 1236,1852 1266,1852 1296,1852 1326,1854 1356,1854 1386,1854 1416,1856 1436,1858"
+                         HEIGHT="82"
+                         WIDTH="1044"
+                         VPOS="1785"
+                         HPOS="389">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_21"
+                          HEIGHT="82"
+                          WIDTH="1044"
+                          VPOS="1785"
+                          HPOS="389"
+                          CONTENT="Reuben Gaunt &amp; Sons, Ltd. (indigo and black worsted serges,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_2_8"
+                         BASELINE="432,1878 462,1878 492,1878 522,1880 552,1880 582,1880 612,1880 642,1880 672,1882 702,1882 732,1884 762,1884 792,1884 822,1884 852,1884 882,1886 912,1884 942,1886 972,1886 1002,1886 1032,1886 1062,1888 1092,1888 1122,1888 1152,1888 1182,1888 1212,1888 1242,1890 1272,1890 1302,1890 1332,1890 1362,1890 1392,1890 1422,1890 1436,1890"
+                         HEIGHT="64"
+                         WIDTH="1009"
+                         VPOS="1849"
+                         HPOS="424">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_2_8"
+                          HEIGHT="64"
+                          WIDTH="1009"
+                          VPOS="1849"
+                          HPOS="424"
+                          CONTENT="fine and medium qualities, weight: 9 ozs. to 24 ozs.), Broom"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_3_2"
+                         BASELINE="432,1914 462,1914 492,1916 522,1916 552,1916 582,1916 612,1916 642,1918 672,1918 702,1918 732,1918 762,1918 782,1918"
+                         HEIGHT="72"
+                         WIDTH="355"
+                         VPOS="1879"
+                         HPOS="423">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_3_2"
+                          HEIGHT="72"
+                          WIDTH="355"
+                          VPOS="1879"
+                          HPOS="423"
+                          CONTENT="Mills, Farsley, Leeds."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414587572_25324"
+                       HEIGHT="55"
+                       WIDTH="1206"
+                       VPOS="1949"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1949 1503,1949 1503,2004 297,2004"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_22"
+                         BASELINE="366,1992 396,1994 426,1994 456,1996 486,1994 516,1996 546,1996 576,1996 606,1998 624,1998"
+                         HEIGHT="89"
+                         WIDTH="263"
+                         VPOS="1928"
+                         HPOS="358">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_22"
+                          HEIGHT="89"
+                          WIDTH="263"
+                          VPOS="1928"
+                          HPOS="358"
+                          CONTENT="Coal Shippers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414587042_25320"
+                       HEIGHT="48"
+                       WIDTH="1206"
+                       VPOS="2004"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,2004 1503,2004 1503,2052 297,2052"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_23"
+                         BASELINE="396,2036 426,2038 456,2040 486,2040 516,2040 546,2042 576,2042 606,2042 636,2042 666,2044 696,2044 726,2044 756,2044 786,2044 816,2044 846,2044 876,2044 906,2044 936,2046 966,2046 996,2046 1026,2048 1056,2048 1086,2048 1116,2048 1142,2050"
+                         HEIGHT="76"
+                         WIDTH="750"
+                         VPOS="1990"
+                         HPOS="389">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_23"
+                          HEIGHT="76"
+                          WIDTH="750"
+                          VPOS="1990"
+                          HPOS="389"
+                          CONTENT="Coal Supply Co., Ltd., 13, Wallstrasse, Basle,"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414586313_25316"
+                       HEIGHT="65"
+                       WIDTH="1206"
+                       VPOS="2052"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,2052 1503,2052 1503,2117 297,2117"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_24"
+                         BASELINE="398,2090 428,2086 458,2086 488,2086 518,2086 548,2086 578,2086 608,2086 638,2088 668,2088 698,2090 728,2088 758,2088 788,2088 818,2088 848,2090 878,2088 908,2088 938,2090 968,2090 998,2092 1028,2092 1048,2092"
+                         HEIGHT="77"
+                         WIDTH="657"
+                         VPOS="2043"
+                         HPOS="389">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_24"
+                          HEIGHT="77"
+                          WIDTH="657"
+                          VPOS="2043"
+                          HPOS="389"
+                          CONTENT="J. Hirter &amp; Co., 3, Gurtengasse, Berne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414585245_25312"
+                       HEIGHT="57"
+                       WIDTH="1206"
+                       VPOS="2117"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,2117 1503,2117 1503,2174 297,2174"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_25"
+                         BASELINE="362,2162 392,2164 422,2164 452,2164 482,2166 512,2164 542,2164 572,2166 602,2166 632,2164 662,2166 692,2166 722,2168 748,2170"
+                         HEIGHT="85"
+                         WIDTH="390"
+                         VPOS="2105"
+                         HPOS="354">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_25"
+                          HEIGHT="85"
+                          WIDTH="390"
+                          VPOS="2105"
+                          HPOS="354"
+                          CONTENT="Cocoa Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675414584693_25308"
+                       HEIGHT="69"
+                       WIDTH="1206"
+                       VPOS="2174"
+                       HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,2174 1503,2174 1503,2243 297,2243"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675414584693_25308_tl_1_26"
+                         BASELINE="396,2208 426,2208 456,2210 486,2210 516,2210 546,2210 576,2210 606,2210 636,2212 666,2212 696,2212 726,2214 756,2214 786,2214 816,2214 846,2214 876,2216 906,2216 936,2216 966,2218 996,2220 1002,2222"
+                         HEIGHT="94"
+                         WIDTH="610"
+                         VPOS="2152"
+                         HPOS="389">
+                  <String ID="string_TextRegion_1675414584693_25308_tl_1_26"
+                          HEIGHT="94"
+                          WIDTH="610"
+                          VPOS="2152"
+                          HPOS="389"
+                          CONTENT="Chocolats de Villars, S. A., Fribourg."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

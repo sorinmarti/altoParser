@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-08T09:46:25.297+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="364" WIDTH="1696">
+         <TopMargin HEIGHT="0" WIDTH="1696" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="364" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="364" WIDTH="0" VPOS="0" HPOS="1696"/>
+         <BottomMargin HEIGHT="0" WIDTH="1696" VPOS="364" HPOS="0"/>
+         <PrintSpace HEIGHT="364" WIDTH="1696" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675412774116_23579"
+                       HEIGHT="51"
+                       WIDTH="1137"
+                       VPOS="70"
+                       HPOS="300">
+               <Shape>
+                  <Polygon POINTS="300,70 1437,70 1437,121 300,121"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675412770044_23566_tl_1"
+                         BASELINE="332,114 362,116 392,116 422,118 452,116 482,116 512,116 542,116 572,116 602,116 632,114 662,116 692,116 722,116 752,116 764,114 794,116 824,116 832,116"
+                         HEIGHT="73"
+                         WIDTH="504"
+                         VPOS="57"
+                         HPOS="327">
+                  <String ID="string_TextRegion_1675412770044_23566_tl_1"
+                          HEIGHT="73"
+                          WIDTH="504"
+                          VPOS="57"
+                          HPOS="327"
+                          CONTENT="Fabrique de Cadres et Baguett"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675412770044_23566_tl_2"
+                         BASELINE="898,116 928,116 958,116"
+                         HEIGHT="71"
+                         WIDTH="64"
+                         VPOS="65"
+                         HPOS="893">
+                  <String ID="string_TextRegion_1675412770044_23566_tl_2"
+                          HEIGHT="71"
+                          WIDTH="64"
+                          VPOS="65"
+                          HPOS="893"
+                          CONTENT="S. A"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675412774116_23578"
+                       HEIGHT="38"
+                       WIDTH="1137"
+                       VPOS="121"
+                       HPOS="300">
+               <Shape>
+                  <Polygon POINTS="300,121 1437,121 1437,159 300,159"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675412770044_23566_tl_1_1"
+                         BASELINE="332,150 362,152 392,152 422,152 452,152 482,152 512,152 542,152 572,152 602,152 632,152 662,152 692,154 722,152 736,152"
+                         HEIGHT="58"
+                         WIDTH="407"
+                         VPOS="117"
+                         HPOS="327">
+                  <String ID="string_TextRegion_1675412770044_23566_tl_1_1"
+                          HEIGHT="58"
+                          WIDTH="407"
+                          VPOS="117"
+                          HPOS="327"
+                          CONTENT="Fankhauser (F.) &amp; Co. A"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675412770044_23566_tl_2_1"
+                         BASELINE="1100,152 1130,152 1160,152 1190,152 1218,154 1224,154 1254,154 1276,156"
+                         HEIGHT="84"
+                         WIDTH="180"
+                         VPOS="93"
+                         HPOS="1094">
+                  <String ID="string_TextRegion_1675412770044_23566_tl_2_1"
+                          HEIGHT="84"
+                          WIDTH="180"
+                          VPOS="93"
+                          HPOS="1094"
+                          CONTENT="22, 23, 35,"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675412772283_23574"
+                       HEIGHT="35"
+                       WIDTH="1137"
+                       VPOS="159"
+                       HPOS="300">
+               <Shape>
+                  <Polygon POINTS="300,159 1437,159 1437,194 300,194"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675412770044_23566_tl_1_2"
+                         BASELINE="332,188 362,188 392,188 422,188 452,188 482,188 512,186 542,188 572,188 596,188"
+                         HEIGHT="47"
+                         WIDTH="268"
+                         VPOS="153"
+                         HPOS="327">
+                  <String ID="string_TextRegion_1675412770044_23566_tl_1_2"
+                          HEIGHT="47"
+                          WIDTH="268"
+                          VPOS="153"
+                          HPOS="327"
+                          CONTENT="Field (A.) &amp; Co."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675412771101_23570"
+                       HEIGHT="34"
+                       WIDTH="1137"
+                       VPOS="194"
+                       HPOS="300">
+               <Shape>
+                  <Polygon POINTS="300,194 1437,194 1437,228 300,228"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675412770044_23566_tl_1_3"
+                         BASELINE="608,224 638,224 668,224 688,224"
+                         HEIGHT="69"
+                         WIDTH="84"
+                         VPOS="170"
+                         HPOS="603">
+                  <String ID="string_TextRegion_1675412770044_23566_tl_1_3"
+                          HEIGHT="69"
+                          WIDTH="84"
+                          VPOS="170"
+                          HPOS="603"
+                          CONTENT="ners'"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675412770044_23566"
+                       HEIGHT="55"
+                       WIDTH="1137"
+                       VPOS="228"
+                       HPOS="300">
+               <Shape>
+                  <Polygon POINTS="300,228 1437,228 1437,283 300,283"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

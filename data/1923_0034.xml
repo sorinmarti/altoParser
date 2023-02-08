@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-08T09:46:29.538+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2663" WIDTH="1787">
+         <TopMargin HEIGHT="0" WIDTH="1787" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2663" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2663" WIDTH="0" VPOS="0" HPOS="1787"/>
+         <BottomMargin HEIGHT="0" WIDTH="1787" VPOS="2663" HPOS="0"/>
+         <PrintSpace HEIGHT="2663" WIDTH="1787" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675415344107_26182"
+                       HEIGHT="102"
+                       WIDTH="1170"
+                       VPOS="403"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,403 1492,403 1492,505 322,505"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1"
+                         BASELINE="417,445 447,443 477,445 507,445 537,447 567,445 597,447 627,447 657,447 687,449 717,449 747,449 777,449 807,449 837,449 867,451 897,453 927,455 957,453 987,453 1017,453 1047,455 1077,455 1107,455 1137,455 1167,457 1197,457 1227,457 1257,459 1287,459 1317,461 1347,461 1377,461 1407,461 1437,461 1463,465"
+                         HEIGHT="92"
+                         WIDTH="1052"
+                         VPOS="388"
+                         HPOS="409">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1"
+                          HEIGHT="92"
+                          WIDTH="1052"
+                          VPOS="388"
+                          HPOS="409"
+                          CONTENT="Walter Schutz (all kinds of apparatus, wholesale), 10, Avenue"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2"
+                         BASELINE="453,481 483,481 513,483 543,481 573,483 603,483 633,483 663,485 693,485 723,485 753,485 783,485 813,485 843,485 873,487 901,489"
+                         HEIGHT="54"
+                         WIDTH="452"
+                         VPOS="453"
+                         HPOS="445">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2"
+                          HEIGHT="54"
+                          WIDTH="452"
+                          VPOS="453"
+                          HPOS="445"
+                          CONTENT="Louis Ruchonnet, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415344106_26181"
+                       HEIGHT="49"
+                       WIDTH="1170"
+                       VPOS="505"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,505 1492,505 1492,554 322,554"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_1"
+                         BASELINE="375,541 405,541 435,541 465,543 495,545 525,545 555,545 585,545 615,545 645,545 675,545 705,545 735,547 765,547 795,547 825,547 855,547 885,549 913,549"
+                         HEIGHT="75"
+                         WIDTH="542"
+                         VPOS="490"
+                         HPOS="368">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_1"
+                          HEIGHT="75"
+                          WIDTH="542"
+                          VPOS="490"
+                          HPOS="368"
+                          CONTENT="Electric Chandeliers &amp; Cords"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415342975_26177"
+                       HEIGHT="63"
+                       WIDTH="1170"
+                       VPOS="554"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,554 1492,554 1492,617 322,617"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_2"
+                         BASELINE="409,587 439,587 469,587 499,589 529,589 559,591 589,591 619,591 649,591 679,591 709,591 739,593 769,593 799,593 829,595 859,595 889,595 919,595 949,597 979,597 1009,597 1039,597 1069,597 1099,599 1117,601"
+                         HEIGHT="72"
+                         WIDTH="712"
+                         VPOS="549"
+                         HPOS="402">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_2"
+                          HEIGHT="72"
+                          WIDTH="712"
+                          VPOS="549"
+                          HPOS="402"
+                          CONTENT="D. Barnett, 15, Rue de Malagnou, Geneva."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415342083_26173"
+                       HEIGHT="47"
+                       WIDTH="1170"
+                       VPOS="617"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,617 1492,617 1492,664 322,664"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_3"
+                         BASELINE="377,649 407,647 437,647 467,649 497,649 527,649 557,651 587,651 617,651 647,651 677,653 707,653 737,655 767,655 797,655 827,653 857,655 887,655 917,657 919,655"
+                         HEIGHT="80"
+                         WIDTH="545"
+                         VPOS="598"
+                         HPOS="369">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_3"
+                          HEIGHT="80"
+                          WIDTH="545"
+                          VPOS="598"
+                          HPOS="369"
+                          CONTENT="Electrical Insulating Materials"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415341430_26169"
+                       HEIGHT="64"
+                       WIDTH="1170"
+                       VPOS="664"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,664 1492,664 1492,728 322,728"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_4"
+                         BASELINE="419,693 449,693 479,695 509,695 539,695 569,697 599,697 629,697 659,697 689,697 719,699 749,699 779,699 809,699 839,699 869,699 899,701 929,701 959,703 989,703 1019,703 1049,703 1079,703 1109,705 1139,705 1169,705 1199,705 1229,707 1259,707 1289,707 1319,707 1349,709 1379,709 1399,713"
+                         HEIGHT="125"
+                         WIDTH="985"
+                         VPOS="632"
+                         HPOS="410">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_4"
+                          HEIGHT="125"
+                          WIDTH="985"
+                          VPOS="632"
+                          HPOS="410"
+                          CONTENT="W. E. Hughes &amp; Co., 50—51, Lime Street, London E. C. 3."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415340162_26165"
+                       HEIGHT="50"
+                       WIDTH="1170"
+                       VPOS="728"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,728 1492,728 1492,778 322,778"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_5"
+                         BASELINE="375,765 405,763 435,765 465,765 495,765 525,767 555,767 585,767 615,769 645,767 675,769 705,769 735,769 765,771 795,771 817,773"
+                         HEIGHT="71"
+                         WIDTH="447"
+                         VPOS="711"
+                         HPOS="368">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_5"
+                          HEIGHT="71"
+                          WIDTH="447"
+                          VPOS="711"
+                          HPOS="368"
+                          CONTENT="Electric Lamp Diffusors"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415339397_26161"
+                       HEIGHT="90"
+                       WIDTH="1170"
+                       VPOS="778"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,778 1492,778 1492,868 322,868"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_6"
+                         BASELINE="411,809 441,809 471,809 501,811 531,811 561,811 591,811 621,813 651,813 681,813 711,815 741,815 771,815 801,815 831,815 861,817 891,817 921,817 951,817 981,819 1011,819 1041,819 1071,819 1101,819 1131,821 1161,819 1191,821 1221,823 1251,823 1281,823 1311,825 1341,825 1371,827 1401,825 1431,825 1461,829"
+                         HEIGHT="101"
+                         WIDTH="1055"
+                         VPOS="745"
+                         HPOS="403">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_6"
+                          HEIGHT="101"
+                          WIDTH="1055"
+                          VPOS="745"
+                          HPOS="403"
+                          CONTENT="Albert Scheidegger &amp; Co., Gas Mantle Factory (ordinary and"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2_1"
+                         BASELINE="447,845 477,847 507,847 537,849 567,849 597,847 627,849 657,849 687,851 717,851 747,851 777,851 807,851 837,849 867,853 897,853 927,853 957,853 987,855 1017,855 1047,855 1077,855 1107,857 1137,857 1167,857 1197,859 1215,859"
+                         HEIGHT="51"
+                         WIDTH="771"
+                         VPOS="820"
+                         HPOS="440">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2_1"
+                          HEIGHT="51"
+                          WIDTH="771"
+                          VPOS="820"
+                          HPOS="440"
+                          CONTENT="daylight diffusors), 82—84, Güterstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415338144_26157"
+                       HEIGHT="57"
+                       WIDTH="1170"
+                       VPOS="868"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,868 1492,868 1492,925 322,925"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_7"
+                         BASELINE="377,907 407,907 437,907 467,907 497,909 527,909 557,909 587,911 617,911 647,911 677,911 707,915 713,917"
+                         HEIGHT="79"
+                         WIDTH="342"
+                         VPOS="859"
+                         HPOS="369">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_7"
+                          HEIGHT="79"
+                          WIDTH="342"
+                          VPOS="859"
+                          HPOS="369"
+                          CONTENT="Electric Machinery"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415337088_26153"
+                       HEIGHT="98"
+                       WIDTH="1170"
+                       VPOS="925"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,925 1492,925 1492,1023 322,1023"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_8"
+                         BASELINE="411,953 441,953 471,953 501,953 531,953 561,953 591,955 621,955 651,955 681,955 711,957 741,959 771,957 801,957 831,957 861,959 891,961 921,961 951,961 981,961 1011,963 1041,963 1071,963 1101,963 1131,963 1161,963 1191,965 1221,963 1251,965 1281,965 1311,965 1341,967 1371,969 1401,969 1431,971 1459,973"
+                         HEIGHT="106"
+                         WIDTH="1053"
+                         VPOS="891"
+                         HPOS="403">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_8"
+                          HEIGHT="106"
+                          WIDTH="1053"
+                          VPOS="891"
+                          HPOS="403"
+                          CONTENT="A. G. Brown Boveri &amp; Co. (electric apparatus of all kinds)."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2_2"
+                         BASELINE="447,987 477,989 507,989 537,991 567,991 597,991 627,993 657,993 687,993 717,995 719,995"
+                         HEIGHT="81"
+                         WIDTH="276"
+                         VPOS="952"
+                         HPOS="440">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2_2"
+                          HEIGHT="81"
+                          WIDTH="276"
+                          VPOS="952"
+                          HPOS="440"
+                          CONTENT="Baden (Aargau)."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415336034_26149"
+                       HEIGHT="53"
+                       WIDTH="1170"
+                       VPOS="1023"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1023 1492,1023 1492,1076 322,1076"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_9"
+                         BASELINE="373,1059 403,1059 433,1059 463,1059 493,1061 523,1061 553,1061 583,1061 613,1061 643,1063 653,1063"
+                         HEIGHT="85"
+                         WIDTH="287"
+                         VPOS="1005"
+                         HPOS="365">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_9"
+                          HEIGHT="85"
+                          WIDTH="287"
+                          VPOS="1005"
+                          HPOS="365"
+                          CONTENT="Electric Meters"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415335438_26145"
+                       HEIGHT="87"
+                       WIDTH="1170"
+                       VPOS="1076"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1076 1492,1076 1492,1163 322,1163"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_10"
+                         BASELINE="411,1105 441,1105 471,1105 501,1105 531,1105 561,1105 591,1107 621,1107 651,1107 681,1107 711,1107 741,1109 771,1109 801,1109 831,1109 861,1109 891,1111 921,1111 951,1111 981,1113 1011,1113 1041,1115 1071,1115 1101,1115 1131,1115 1161,1115 1191,1117 1221,1117 1251,1117 1281,1117 1311,1119 1341,1119 1371,1117 1401,1117 1431,1119 1459,1121"
+                         HEIGHT="114"
+                         WIDTH="1053"
+                         VPOS="1043"
+                         HPOS="403">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_10"
+                          HEIGHT="114"
+                          WIDTH="1053"
+                          VPOS="1043"
+                          HPOS="403"
+                          CONTENT="Société Genevoise d'Instruments de Physique, 8, Rue des Vieux"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2_3"
+                         BASELINE="447,1141 477,1139 507,1141 537,1141 567,1143 597,1143 627,1145 657,1145 687,1145 717,1145 747,1145 777,1147 783,1147"
+                         HEIGHT="68"
+                         WIDTH="342"
+                         VPOS="1106"
+                         HPOS="440">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2_3"
+                          HEIGHT="68"
+                          WIDTH="342"
+                          VPOS="1106"
+                          HPOS="440"
+                          CONTENT="Grenadiers, Geneva."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415334064_26141"
+                       HEIGHT="64"
+                       WIDTH="1170"
+                       VPOS="1163"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1163 1492,1163 1492,1227 322,1227"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_11"
+                         BASELINE="375,1211 405,1211 435,1211 465,1211 495,1211 525,1213 555,1211 585,1213 615,1213 645,1215 675,1215 705,1213 735,1215 765,1215 769,1215"
+                         HEIGHT="73"
+                         WIDTH="399"
+                         VPOS="1157"
+                         HPOS="368">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_11"
+                          HEIGHT="73"
+                          WIDTH="399"
+                          VPOS="1157"
+                          HPOS="368"
+                          CONTENT="Electric Meter Jewels"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415333457_26137"
+                       HEIGHT="53"
+                       WIDTH="1170"
+                       VPOS="1227"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1227 1492,1227 1492,1280 322,1280"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_12"
+                         BASELINE="407,1255 437,1255 467,1257 497,1257 527,1257 557,1257 587,1257 617,1259 647,1259 677,1261 707,1261 737,1261 767,1261 797,1263 827,1261 857,1261 887,1263 917,1263 947,1263 955,1265"
+                         HEIGHT="74"
+                         WIDTH="553"
+                         VPOS="1231"
+                         HPOS="398">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_12"
+                          HEIGHT="74"
+                          WIDTH="553"
+                          VPOS="1231"
+                          HPOS="398"
+                          CONTENT="Swiss Jewel Co., S. A., Locarno."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415332221_26133"
+                       HEIGHT="63"
+                       WIDTH="1170"
+                       VPOS="1280"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1280 1492,1280 1492,1343 322,1343"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_13"
+                         BASELINE="373,1327 403,1325 433,1325 463,1327 493,1327 523,1327 553,1327 583,1329 613,1329 643,1331 657,1331"
+                         HEIGHT="76"
+                         WIDTH="291"
+                         VPOS="1281"
+                         HPOS="365">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_13"
+                          HEIGHT="76"
+                          WIDTH="291"
+                          VPOS="1281"
+                          HPOS="365"
+                          CONTENT="Electric Motors"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415329373_26127"
+                       HEIGHT="60"
+                       WIDTH="1170"
+                       VPOS="1343"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1343 1492,1343 1492,1403 322,1403"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_14"
+                         BASELINE="413,1371 443,1371 473,1371 503,1373 533,1373 563,1373 593,1375 623,1375 653,1375 683,1375 713,1377 743,1377 773,1377 803,1377 833,1377 863,1377 893,1377 923,1377 953,1379 983,1379 1013,1379 1043,1379 1073,1381 1103,1381 1133,1381 1163,1383 1193,1381 1223,1383 1253,1383 1283,1385 1313,1389 1315,1389"
+                         HEIGHT="128"
+                         WIDTH="906"
+                         VPOS="1301"
+                         HPOS="406">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_14"
+                          HEIGHT="128"
+                          WIDTH="906"
+                          VPOS="1301"
+                          HPOS="406"
+                          CONTENT="Walter Schutz, 10, Avenue Louis Ruchonnet, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415327841_26123"
+                       HEIGHT="52"
+                       WIDTH="1170"
+                       VPOS="1403"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1403 1492,1403 1492,1455 322,1455"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_15"
+                         BASELINE="373,1443 403,1441 433,1441 463,1443 493,1443 523,1443 553,1443 583,1445 613,1445 615,1445"
+                         HEIGHT="67"
+                         WIDTH="250"
+                         VPOS="1398"
+                         HPOS="364">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_15"
+                          HEIGHT="67"
+                          WIDTH="250"
+                          VPOS="1398"
+                          HPOS="364"
+                          CONTENT="Electro-Plate"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415327236_26119"
+                       HEIGHT="60"
+                       WIDTH="1170"
+                       VPOS="1455"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1455 1492,1455 1492,1515 322,1515"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_16"
+                         BASELINE="409,1485 439,1487 469,1489 499,1489 529,1489 559,1489 589,1489 619,1489 649,1489 679,1491 709,1491 739,1493 769,1493 799,1493 829,1491 859,1493 889,1493 919,1493 949,1493 979,1495 1009,1495 1039,1495 1069,1495 1099,1497 1129,1497 1159,1497 1189,1497 1219,1497 1249,1499 1279,1499 1299,1503"
+                         HEIGHT="114"
+                         WIDTH="893"
+                         VPOS="1411"
+                         HPOS="402">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_16"
+                          HEIGHT="114"
+                          WIDTH="893"
+                          VPOS="1411"
+                          HPOS="402"
+                          CONTENT="Mappin &amp; Webb, Ltd., Galerie St. François, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415326129_26115"
+                       HEIGHT="56"
+                       WIDTH="1170"
+                       VPOS="1515"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1515 1492,1515 1492,1571 322,1571"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_17"
+                         BASELINE="367,1557 397,1555 427,1557 457,1557 487,1557 517,1559 547,1559 577,1559 607,1561 637,1561 667,1561 697,1563 727,1563 747,1563"
+                         HEIGHT="88"
+                         WIDTH="385"
+                         VPOS="1492"
+                         HPOS="359">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_17"
+                          HEIGHT="88"
+                          WIDTH="385"
+                          VPOS="1492"
+                          HPOS="359"
+                          CONTENT="Electrical Stampings"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415325648_26111"
+                       HEIGHT="105"
+                       WIDTH="1170"
+                       VPOS="1571"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1571 1492,1571 1492,1676 322,1676"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_18"
+                         BASELINE="415,1603 445,1603 475,1603 505,1603 535,1603 565,1603 595,1603 625,1605 655,1607 685,1607 715,1607 745,1607 775,1607 805,1607 835,1609 865,1609 895,1609 925,1609 955,1609 985,1609 1015,1611 1045,1611 1075,1611 1105,1613 1135,1611 1165,1611 1195,1613 1225,1613 1255,1615 1285,1615 1315,1615 1345,1615 1375,1615 1405,1617 1435,1621 1449,1621"
+                         HEIGHT="128"
+                         WIDTH="1039"
+                         VPOS="1538"
+                         HPOS="407">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_18"
+                          HEIGHT="128"
+                          WIDTH="1039"
+                          VPOS="1538"
+                          HPOS="407"
+                          CONTENT="W. E. Hughes &amp; Co. (for rotors and stators), 50—51, Lime Street,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2_4"
+                         BASELINE="443,1637 473,1639 503,1639 533,1641 563,1641 593,1641 623,1641 653,1643 683,1643 711,1645"
+                         HEIGHT="69"
+                         WIDTH="273"
+                         VPOS="1609"
+                         HPOS="435">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2_4"
+                          HEIGHT="69"
+                          WIDTH="273"
+                          VPOS="1609"
+                          HPOS="435"
+                          CONTENT="London E. C. 3."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415324919_26107"
+                       HEIGHT="48"
+                       WIDTH="1170"
+                       VPOS="1676"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1676 1492,1676 1492,1724 322,1724"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_19"
+                         BASELINE="365,1707 395,1707 425,1707 455,1709 485,1709 515,1709 545,1709 575,1709 605,1711 635,1711 665,1715 677,1713"
+                         HEIGHT="81"
+                         WIDTH="318"
+                         VPOS="1654"
+                         HPOS="356">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_19"
+                          HEIGHT="81"
+                          WIDTH="318"
+                          VPOS="1654"
+                          HPOS="356"
+                          CONTENT="Electric Welding"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415324366_26103"
+                       HEIGHT="90"
+                       WIDTH="1170"
+                       VPOS="1724"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1724 1492,1724 1492,1814 322,1814"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_20"
+                         BASELINE="407,1753 437,1753 467,1753 497,1753 527,1753 557,1753 587,1755 617,1757 647,1757 677,1757 707,1757 737,1757 767,1759 797,1757 827,1757 857,1759 887,1759 917,1759 947,1759 977,1761 1007,1761 1037,1761 1067,1761 1097,1761 1127,1763 1157,1763 1187,1765 1217,1765 1247,1765 1277,1765 1307,1765 1337,1765 1367,1765 1397,1767 1427,1767 1449,1769"
+                         HEIGHT="106"
+                         WIDTH="1047"
+                         VPOS="1682"
+                         HPOS="399">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_20"
+                          HEIGHT="106"
+                          WIDTH="1047"
+                          VPOS="1682"
+                          HPOS="399"
+                          CONTENT="Quasi-Arc Co., Ltd., 15, Grosvenor Road, Victoria, London S.W. 1."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2_5"
+                         BASELINE="439,1789 469,1789 499,1789 529,1791 559,1791 589,1793 619,1791 649,1793 679,1793 709,1793 739,1793 769,1793 799,1795 829,1795 859,1795 889,1797 911,1797"
+                         HEIGHT="63"
+                         WIDTH="476"
+                         VPOS="1759"
+                         HPOS="432">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2_5"
+                          HEIGHT="63"
+                          WIDTH="476"
+                          VPOS="1759"
+                          HPOS="432"
+                          CONTENT="and 22, Gellertstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415322980_26099"
+                       HEIGHT="51"
+                       WIDTH="1170"
+                       VPOS="1814"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1814 1492,1814 1492,1865 322,1865"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_21"
+                         BASELINE="369,1851 399,1849 429,1851 459,1851 489,1851 519,1851 549,1853 579,1853 609,1853 639,1853 669,1853 699,1853 729,1855 759,1855 789,1855 819,1855 849,1855 879,1857 909,1857 939,1863"
+                         HEIGHT="80"
+                         WIDTH="573"
+                         VPOS="1801"
+                         HPOS="361">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_21"
+                          HEIGHT="80"
+                          WIDTH="573"
+                          VPOS="1801"
+                          HPOS="361"
+                          CONTENT="Electrodes for Electric Welding"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415322396_26095"
+                       HEIGHT="91"
+                       WIDTH="1170"
+                       VPOS="1865"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1865 1492,1865 1492,1956 322,1956"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_22"
+                         BASELINE="413,1897 443,1897 473,1897 503,1895 533,1897 563,1897 593,1897 623,1899 653,1899 683,1899 713,1899 743,1901 773,1901 803,1901 833,1901 863,1901 893,1901 923,1903 953,1903 983,1905 1013,1905 1043,1905 1073,1905 1103,1905 1133,1905 1163,1907 1193,1907 1223,1907 1253,1905 1283,1907 1313,1907 1343,1907 1373,1909 1403,1909 1433,1911 1445,1911"
+                         HEIGHT="103"
+                         WIDTH="1037"
+                         VPOS="1845"
+                         HPOS="405">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_22"
+                          HEIGHT="103"
+                          WIDTH="1037"
+                          VPOS="1845"
+                          HPOS="405"
+                          CONTENT="Quasi-Arc Co., Ltd., 15, Grosvenor Road, Victoria, London S.W. 1."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2_6"
+                         BASELINE="443,1931 473,1933 503,1933 533,1933 563,1935 593,1933 623,1935 653,1935 683,1935 713,1935 743,1935 773,1937 803,1937 833,1937 863,1937 893,1939 915,1939"
+                         HEIGHT="69"
+                         WIDTH="476"
+                         VPOS="1908"
+                         HPOS="436">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2_6"
+                          HEIGHT="69"
+                          WIDTH="476"
+                          VPOS="1908"
+                          HPOS="436"
+                          CONTENT="and 22, Gellertstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415321202_26091"
+                       HEIGHT="59"
+                       WIDTH="1170"
+                       VPOS="1956"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,1956 1492,1956 1492,2015 322,2015"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_23"
+                         BASELINE="367,2001 397,2003 427,2001 457,2003 487,2003 517,2003 547,2005 577,2005 607,2005"
+                         HEIGHT="80"
+                         WIDTH="245"
+                         VPOS="1947"
+                         HPOS="359">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_23"
+                          HEIGHT="80"
+                          WIDTH="245"
+                          VPOS="1947"
+                          HPOS="359"
+                          CONTENT="Electrolysers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415320694_26087"
+                       HEIGHT="91"
+                       WIDTH="1170"
+                       VPOS="2015"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,2015 1492,2015 1492,2106 322,2106"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_24"
+                         BASELINE="405,2047 435,2047 465,2047 495,2047 525,2047 555,2049 585,2049 615,2049 645,2051 675,2051 705,2049 735,2051 765,2051 795,2051 825,2051 855,2053 885,2053 915,2053 945,2055 975,2055 1005,2055 1035,2055 1065,2055 1095,2055 1125,2055 1155,2057 1185,2057 1215,2057 1245,2057 1275,2057 1305,2057 1335,2059 1365,2061 1395,2063 1425,2063 1453,2067"
+                         HEIGHT="134"
+                         WIDTH="1051"
+                         VPOS="1977"
+                         HPOS="397">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_24"
+                          HEIGHT="134"
+                          WIDTH="1051"
+                          VPOS="1977"
+                          HPOS="397"
+                          CONTENT="Sauerstoff- und Wasserstoffwerk, A. G. (system &#34;Pechkranz&#34;)."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_2_7"
+                         BASELINE="439,2083 469,2083 499,2083 529,2085 559,2085 587,2089"
+                         HEIGHT="58"
+                         WIDTH="152"
+                         VPOS="2051"
+                         HPOS="431">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_2_7"
+                          HEIGHT="58"
+                          WIDTH="152"
+                          VPOS="2051"
+                          HPOS="431"
+                          CONTENT="Lucerne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415319585_26083"
+                       HEIGHT="51"
+                       WIDTH="1170"
+                       VPOS="2106"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,2106 1492,2106 1492,2157 322,2157"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_25"
+                         BASELINE="365,2145 395,2145 425,2145 455,2145 485,2145 515,2145 545,2145 575,2147 605,2147 635,2147 665,2147 695,2147 725,2149 755,2149 785,2149 815,2149 845,2149 875,2151 877,2151"
+                         HEIGHT="105"
+                         WIDTH="519"
+                         VPOS="2068"
+                         HPOS="356">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_25"
+                          HEIGHT="105"
+                          WIDTH="519"
+                          VPOS="2068"
+                          HPOS="356"
+                          CONTENT="Electro-Metal Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675415318876_26079"
+                       HEIGHT="63"
+                       WIDTH="1170"
+                       VPOS="2157"
+                       HPOS="322">
+               <Shape>
+                  <Polygon POINTS="322,2157 1492,2157 1492,2220 322,2220"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675415318876_26079_tl_1_26"
+                         BASELINE="405,2191 435,2191 465,2191 495,2191 525,2191 555,2191 585,2193 615,2193 645,2195 675,2195 705,2195 735,2195 765,2195 795,2195 825,2199 829,2197"
+                         HEIGHT="92"
+                         WIDTH="430"
+                         VPOS="2151"
+                         HPOS="398">
+                  <String ID="string_TextRegion_1675415318876_26079_tl_1_26"
+                          HEIGHT="92"
+                          WIDTH="430"
+                          VPOS="2151"
+                          HPOS="398"
+                          CONTENT="Schindler &amp; Co., Lucerne."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2023-02-02T16:55:39.608+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2422" WIDTH="1643">
+         <TopMargin HEIGHT="0" WIDTH="1643" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2422" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2422" WIDTH="0" VPOS="0" HPOS="1643"/>
+         <BottomMargin HEIGHT="0" WIDTH="1643" VPOS="2422" HPOS="0"/>
+         <PrintSpace HEIGHT="2422" WIDTH="1643" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675329085193_392"
+                       HEIGHT="159"
+                       WIDTH="1181"
+                       VPOS="335"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,335 1313,335 1313,494 132,494"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675329053773_323_tl_1"
+                         BASELINE="182,412 212,412 242,412 272,414 302,414 332,414 362,414 392,414 422,414 452,414 482,414 512,416 542,416 572,416 602,416 632,416 662,416 692,416 722,416 752,416 782,416 812,416 842,416 872,416 902,416 932,416 962,416 992,416 1022,416 1052,418 1082,416 1112,418 1142,418 1172,416 1202,420 1232,420 1258,422"
+                         HEIGHT="105"
+                         WIDTH="1081"
+                         VPOS="333"
+                         HPOS="174">
+                  <String ID="string_TextRegion_1675329053773_323_tl_1"
+                          HEIGHT="105"
+                          WIDTH="1081"
+                          VPOS="333"
+                          HPOS="174"
+                          CONTENT="THE BRITISH CHAMBER OF COMMERCE"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675329053773_323_tl_2"
+                         BASELINE="444,474 474,474 504,474 534,474 564,476 594,476 624,476 654,476 684,476 714,476 744,478 774,476 804,476 834,476 864,478 894,478 924,476 954,478 984,476 994,476"
+                         HEIGHT="88"
+                         WIDTH="555"
+                         VPOS="417"
+                         HPOS="436">
+                  <String ID="string_TextRegion_1675329053773_323_tl_2"
+                          HEIGHT="88"
+                          WIDTH="555"
+                          VPOS="417"
+                          HPOS="436"
+                          CONTENT="FOR SWITZERLAND"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329083203_387"
+                       HEIGHT="98"
+                       WIDTH="1181"
+                       VPOS="647"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,647 1313,647 1313,745 132,745"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329081366_383"
+                       HEIGHT="98"
+                       WIDTH="1181"
+                       VPOS="745"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,745 1313,745 1313,843 132,843"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329079758_379"
+                       HEIGHT="88"
+                       WIDTH="1181"
+                       VPOS="843"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,843 1313,843 1313,931 132,931"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329078238_375"
+                       HEIGHT="54"
+                       WIDTH="1181"
+                       VPOS="931"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,931 1313,931 1313,985 132,985"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329076877_371"
+                       HEIGHT="56"
+                       WIDTH="1181"
+                       VPOS="985"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,985 1313,985 1313,1041 132,1041"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329075375_367"
+                       HEIGHT="53"
+                       WIDTH="1181"
+                       VPOS="1041"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1041 1313,1041 1313,1094 132,1094"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329074269_363"
+                       HEIGHT="115"
+                       WIDTH="1181"
+                       VPOS="1094"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1094 1313,1094 1313,1209 132,1209"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329067105_355"
+                       HEIGHT="124"
+                       WIDTH="1181"
+                       VPOS="1296"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1296 1313,1296 1313,1420 132,1420"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329065968_351"
+                       HEIGHT="121"
+                       WIDTH="1181"
+                       VPOS="1420"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1420 1313,1420 1313,1541 132,1541"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329061556_343"
+                       HEIGHT="95"
+                       WIDTH="1181"
+                       VPOS="1632"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1632 1313,1632 1313,1727 132,1727"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329060176_339"
+                       HEIGHT="67"
+                       WIDTH="1181"
+                       VPOS="1727"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1727 1313,1727 1313,1794 132,1794"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329058745_335"
+                       HEIGHT="41"
+                       WIDTH="1181"
+                       VPOS="1794"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1794 1313,1794 1313,1835 132,1835"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329057181_331"
+                       HEIGHT="46"
+                       WIDTH="1181"
+                       VPOS="1835"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1835 1313,1835 1313,1881 132,1881"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329055283_327"
+                       HEIGHT="46"
+                       WIDTH="1181"
+                       VPOS="1881"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1881 1313,1881 1313,1927 132,1927"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675329053773_323"
+                       HEIGHT="135"
+                       WIDTH="1181"
+                       VPOS="1927"
+                       HPOS="132">
+               <Shape>
+                  <Polygon POINTS="132,1927 1313,1927 1313,2062 132,2062"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
