@@ -5,13 +5,21 @@ from abc import abstractmethod
 class AltoFileParser:
     """This class parses 1 ALTO file sand returns structured JSON data"""
 
+    add_meta_data = True
     filename = None
     line_strings = []
     line_bounding_boxes = []
     structured_data = []
+    meta_data = {}
 
-    def __init__(self, filename):
+    def __init__(self, filename, meta_data):
         self.filename = filename
+        self.structured_data = []
+        self.line_strings = []
+        self.line_bounding_boxes = []
+        self.meta_data = meta_data
+        if self.meta_data is None:
+            self.meta_data = {}
 
     def parse_file(self, parsing_function, auto_clean=True):
         xml_tree, xmlns = AltoFileParser.xml_parse_file(self.filename)
@@ -25,9 +33,12 @@ class AltoFileParser:
                     line_content = text_bit.attrib.get('CONTENT')
                     merged_line += " " + line_content
 
-            data = parsing_function(merged_line, merged_line.split())
+            data = parsing_function(merged_line, merged_line.split(), self.meta_data)
             if auto_clean:
                 self.clean_data(data)
+
+            if self.add_meta_data:
+                data = data | self.meta_data
 
             self.structured_data.append(data)
             self.line_bounding_boxes.append(text_region.attrib.get('HPOS') + ',' + text_region.attrib.get('VPOS') + ',' +
@@ -42,6 +53,12 @@ class AltoFileParser:
 
     def get_number_of_lines(self):
         return len(self.structured_data)
+
+    def print_file_summary(self):
+        summary = f"File: {self.filename} has {self.get_number_of_lines()} lines."
+        if len(self.structured_data) > 0:
+            summary += f" First line: {self.structured_data[0]}"
+        return summary
 
     def print_line_summary(self, line):
         print(self.line_strings[line])

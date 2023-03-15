@@ -1,13 +1,17 @@
+import csv
 import os
 import re
 
 from alto_parser import AltoFileParser
 
 class MyAltoFileParser(AltoFileParser):
-    def __init__(self, filename):
-        super().__init__(filename)
+    def __init__(self, filename, meta_data):
+        super().__init__(filename, meta_data)
 
     def clean_data(self, data):
+        if data is None:
+            return
+
         for key in data:
             if data[key] is not None and isinstance(data[key], str):
                 data[key] = data[key].strip().strip(",").strip('\n').strip('\r').strip('\t')
@@ -31,13 +35,41 @@ def readcsv(filename):
         return [line.strip() for line in f]
 
 # Dictionaries
-locations = readcsv('data/locations_parser.csv')
+locations = readcsv('meta/locations_parser.csv')
 locations_extended = [locations[i] + "." for i in range(len(locations))]
 personal_titles = ["Esq."]
 address = ["Castle Mills", "Trafalgar", "Trafalgar Square", "Imperial Buildings", "Cambridge Street"]
-titles = readcsv('data/titles.csv')
+titles = readcsv('meta/titles.csv')
 
-def parsing_function(text, words):
+def parsing_function(text, words, meta_data):
+
+    if meta_data['range_definition'] == 'board_member':
+        return parse_board_member_page(text, words)
+
+    elif meta_data['range_definition'] == 'alphabetical':
+        return parse_alphabetical_index_page(text, words)
+
+    elif meta_data['range_definition'] == 'new_member':
+        return parse_new_member_page(text, words)
+
+    elif meta_data['range_definition'] == 'index':
+        return parse_index_page(text, words)
+
+    else:
+        print("Unknown range_definition: " + meta_data['range_definition'])
+        return {}
+
+
+def parse_board_member_page(text, words):
+    return {}
+
+def parse_new_member_page(text, words):
+    return {}
+
+def parse_index_page(text, words):
+    return {}
+
+def parse_alphabetical_index_page(text, words):
     # print("Structuring line: " + text)
 
     result = {'transcription': text}
@@ -55,17 +87,20 @@ def parsing_function(text, words):
             result["location_extended"] = word
 
     # Check each line against a regex for Title
-    match = re.search(r'^(\w{1,20} ?(\w{1,10})) (\(\w*[^.]\))$|^\w{1,20}$|^\w{1,10} \w{1,10}$|^\w{1,10} \w{1,10} \w{1,15}$|^\w{1,10} \(\w{1,10}, .{1,25}\)$', text)
+    match = re.search(
+        r'^(\w{1,20} ?(\w{1,10})) (\(\w*[^.]\))$|^\w{1,20}$|^\w{1,10} \w{1,10}$|^\w{1,10} \w{1,10} \w{1,15}$|^\w{1,10} \(\w{1,10}, .{1,25}\)$',
+        text)
     if match:
         result["title_found"] = True
         result["title"] = match.group(0)
 
     # Check each line against a regex for Company
-    match = re.search(r'(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^[A-Z]. \w{1,10}|.{1,100} Co\.)', text)
+    match = re.search(
+        r'(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^[A-Z]. \w{1,10}|.{1,100} Co\.)',
+        text)
     if match:
         result["company_found"] = True
         result["company"] = match.group(0)
-
 
     # Check each line against a regex for Goods in brackets
     match = re.search(r'(\(.{1,150}\),)', text)
@@ -81,20 +116,73 @@ def parsing_function(text, words):
 
     return result
 
+def get_meta_data(file):
+    # The file variable gets split by _ and the first part is the year
+    year = file.split('_')[0]
+    page = int(file.split('_')[1].split('.')[0])
+    meta_data = {}
+    # load page_info.csv as csv file. Search for the year in the first column
+    # and return the second column as the page number
+    with open('meta/page_info.csv', 'r') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if row[0] == year:
+                meta_data['year'] = year
+                meta_data['page'] = page
 
-if __name__ == "__main__":
+                range_definition = "unknown"
+                try:
+                    if page in range(int(row[1]), int(row[2]) + 1):
+                        range_definition = "board_member"
+                except ValueError:
+                    pass
+
+                try:
+                    if page in range(int(row[3]), int(row[4]) + 1):
+                        range_definition = "index"
+                except ValueError:
+                    pass
+
+                try:
+                    if page in range(int(row[5]), int(row[6]) + 1):
+                        range_definition = "new_member"
+                except ValueError:
+                    pass
+
+                try:
+                    if page in range(int(row[7]), int(row[8]) + 1):
+                        range_definition = "alphabetical"
+                except ValueError:
+                    pass
+
+                meta_data['range_definition'] = range_definition
+
+                excluded = [int(x) for x in row[12].replace("'", "").split(',')]
+                if page in excluded:
+                    meta_data['excluded'] = True
+
+    return meta_data
+
+def parse_year(data_folder, output_folder):
     # Open the data folder and create a AltoFileParser object for each file in the folder.
     # The AltoParser object will parse the file and store the results in a list of dictionaries.
-    for file in os.listdir('data/'):
+    for file in sorted(os.listdir(f'{data_folder}/')):
         if file.endswith(".xml") or file.endswith(".alto"):
             print("Parsing file: " + file)
-            parser = MyAltoFileParser('data/' + file)
-            parser.parse_file(parsing_function)
-            for line in range(parser.get_number_of_lines()):
-                parser.print_line_summary(line)
-                pass
+            meta_data = get_meta_data(file)
+            if not meta_data.get('excluded', False):
+                parser = MyAltoFileParser(f'{data_folder}/' + file, meta_data)
+                parser.parse_file(parsing_function)
+                for line in range(parser.get_number_of_lines()):
+                    # parser.print_line_summary(line)
+                    pass
+                csv_filename = file.split('.')[0] + '.csv'
+                print(parser.print_file_summary())
+                parser.save_csv_file(f"./{output_folder}/" + csv_filename)
+                print("Done parsing file: " + file)
+            else:
+                print("File is excluded: " + file)
 
-            csv_filename = file.split('.')[0] + '.csv'
-            parser.save_csv_file("./" + csv_filename)
-            print("Done parsing file: " + file)
+if __name__ == "__main__":
+    parse_year('data_1923', 'output_1923')
 
