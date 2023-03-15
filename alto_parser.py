@@ -13,7 +13,7 @@ class AltoFileParser:
     def __init__(self, filename):
         self.filename = filename
 
-    def parse_file(self, parsing_function):
+    def parse_file(self, parsing_function, auto_clean=True):
         xml_tree, xmlns = AltoFileParser.xml_parse_file(self.filename)
         if xml_tree is None:
             return
@@ -25,7 +25,11 @@ class AltoFileParser:
                     line_content = text_bit.attrib.get('CONTENT')
                     merged_line += " " + line_content
 
-            self.structured_data.append(parsing_function(merged_line, merged_line.split()))
+            data = parsing_function(merged_line, merged_line.split())
+            if auto_clean:
+                self.clean_data(data)
+
+            self.structured_data.append(data)
             self.line_bounding_boxes.append(text_region.attrib.get('HPOS') + ',' + text_region.attrib.get('VPOS') + ',' +
                                             text_region.attrib.get('WIDTH') + ',' + text_region.attrib.get('HEIGHT'))
             self.line_strings.append(merged_line)
@@ -44,11 +48,28 @@ class AltoFileParser:
         print(self.line_bounding_boxes[line])
         print(self.structured_data[line])
 
-    def save_csv_file(self, filename, delimiter=';'):
+    def save_csv_file(self, filename, delimiter='\t'):
         csv_file = ''
-        for line in range(self.get_number_of_lines()):
-            csv_file += self.line_strings[line] + delimiter + \
-                        self.line_bounding_boxes[line] + "\n"
+        list_of_keys = []
+        for line in self.structured_data:
+            for key in line:
+                if key not in list_of_keys:
+                    list_of_keys.append(key)
+
+        # write header
+        for key in list_of_keys:
+            csv_file += key + delimiter
+        csv_file = csv_file[:-len(delimiter)]
+        csv_file += '\n'
+
+        for line in self.structured_data:
+            for key in list_of_keys:
+                if key in line:
+                    csv_file += str(line[key]) + delimiter
+                else:
+                    csv_file += delimiter
+            csv_file = csv_file[:-len(delimiter)]
+            csv_file += '\n'
 
         # write to file
         with open(filename, 'w', encoding='utf-8') as f:
@@ -83,4 +104,19 @@ class AltoFileParser:
             raise IndexError('No valid namespace has been found.')
 
         return xml_tree, xmlns
+
+    def clean_data(self, data):
+        """This function cleans the data from the parsing function. It should not be called from outside this class.
+            The parse_file() method calls it."""
+
+        for key in data:
+            data[key].strip()
+
+        return data
+
+    def export_data(self, type='csv', filename='export.csv', delimiter='\t'):
+        if type == 'csv':
+            self.save_csv_file(filename, delimiter)
+        else:
+            raise ValueError("Export type not supported.")
 
