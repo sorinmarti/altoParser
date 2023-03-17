@@ -1,30 +1,30 @@
-transcription	location_found	location	address_found	address	year	page	range_definition	location_extended_found	location_extended	company_found	company	goods_found	goods
-Canadian Pacific Railway Company, 62/65, Charing Cross, Trafalgar Square, London S. W. 1.	True	London	True	62/65, Charing Cross	1923	38	index						
-Thos. Cook & Son, Lucerne, Zurich, Geneva, Lausanne, Montreux, Interlaken, Lugano.					1923	38	index	True	Lugano.				
-Crowe & Co., Ltd., 9, Langegasse, Basle.					1923	38	index	True	Basle.	True	Crowe & Co., Ltd.		
-Danzas & Co., A.-G., Basle.					1923	38	index	True	Basle.	True	Danzas & Co., A.-G		
-Dominion Express Company of Canada, 62/65, Charing Cross Trafalgar Square, London S. W. 1.	True	London	True	S. W. 1.	1923	38	index						
-Goth & Co., 45, Elisabethenstrasse, Basle.			True	45, Elisabethenstrasse	1923	38	index	True	Basle.	True	Goth & Co.		
-Charles ImObersteg & Co., 30, Aeschengraben, Basle.			True	30, Aeschengraben	1923	38	index	True	Basle.	True	Charles ImObersteg & Co.		
-Jacky, Maeder & Co., Basle.					1923	38	index	True	Basle.	True	Jacky, Maeder & Co.		
-Lep Transport and Depository, Ltd., 4, Sunlight Wharf, 37, Upper Thames Street, London E. C.	True	London	True	37, Upper Thames Street	1923	38	index			True	Lep Transport and Depository, Ltd.		
-Perrin & Co., Place de la Gare, Lausanne.					1923	38	index	True	Lausanne.	True	Perrin & Co.		
-Schweiz. Schleppschiffahrtsgenossenschaft, 16, Blumenrain, Basle.			True	16, Blumenrain	1923	38	index	True	Basle.				
-South-Eastern and Chatham Railway, 9, Centralbahnplatz, Basle.					1923	38	index	True	Basle.				
-J. Véron, Grauer & Cie., 22, Rue du Mont-Blanc, Geneva and at Vallorbe, La Chaux-de-Fonds, Brigue.	True	Geneva	True	22, Rue du Mont-Blanc	1923	38	index			True	J. Véron, Grauer & Cie		
-World Transport Agency, Ltd., 21, Great Tower Street, London E.C. and Hochstrasse, Basle.	True	London	True	21, Great Tower Street	1923	38	index	True	Basle.	True	World Transport Agency, Ltd.		
-Foundries					1923	38	index						
-Gesellschaft der L. von Roll'schen Eisenwerke, Gerlafingen. Sulzer Frères S. A., Winterthur.					1923	38	index	True	Winterthur.				
-Fountain Pens					1923	38	index						
-Mabie, Todd & Co., 89, Bahnhofstrasse, Zurich.			True	89, Bahnhofstrasse	1923	38	index	True	Zurich.	True	Mabie, Todd & Co.		
-Frames					1923	38	index						
-Fabrique de Cadres et Baguettes S.A. (for photographs and other purposes), Lausanne.					1923	38	index	True	Lausanne.			True	for photographs and other purposes
-Fruit (Dealers in)					1923	38	index						
-Gräni & Willi (High grade Swiss apples), Wauwil (Ct. Lucerne).					1923	38	index					True	High grade Swiss apples
-Fuel (Patent)					1923	38	index						
-"Meta" S. A. (for Household, Sport, Toilet and Nursing room), 72, Aeschenvorstadt, Basle.			True	72, Aeschenvorstadt	1923	38	index	True	Basle.			True	for Household, Sport, Toilet and Nursing room
-Fuel Shippers					1923	38	index						
-Coal Supply Co., Ltd. (Patent and oil fuels), 13, Wallstrasse, Basle			True	13, Wallstrasse	1923	38	index			True	Coal Supply Co., Ltd.	True	Patent and oil fuels
-Georges Michoud (oil fuels), Place Grand St. Jean, Lausanne					1923	38	index					True	oil fuels
-Gas Mantles (Incandescent)					1923	38	index						
-Albert Scheidegger & Co. (Gasmantle Factory). Basle.					1923	38	index	True	Basle.	True	Albert Scheidegger & Co.		
+transcription	location_found	location	address_found	address	address_list_found	address_list_item	year	page	range_definition	location_extended_found	location_extended	company_found	company	goods_found	goods
+Canadian Pacific Railway Company, 62/65, Charing Cross, Trafalgar Square, London S. W. 1.	True	London	True	62/65, Charing Cross	True	Trafalgar Square	1923	38	index						
+Thos. Cook & Son, Lucerne, Zurich, Geneva, Lausanne, Montreux, Interlaken, Lugano.							1923	38	index	True	Lugano.				
+Crowe & Co., Ltd., 9, Langegasse, Basle.							1923	38	index	True	Basle.	True	Crowe & Co., Ltd.		
+Danzas & Co., A.-G., Basle.							1923	38	index	True	Basle.	True	Danzas & Co., A.-G		
+Dominion Express Company of Canada, 62/65, Charing Cross Trafalgar Square, London S. W. 1.	True	London	True	S. W. 1.	True	Trafalgar Square	1923	38	index						
+Goth & Co., 45, Elisabethenstrasse, Basle.			True	45, Elisabethenstrasse			1923	38	index	True	Basle.	True	Goth & Co.		
+Charles ImObersteg & Co., 30, Aeschengraben, Basle.			True	30, Aeschengraben			1923	38	index	True	Basle.	True	Charles ImObersteg & Co.		
+Jacky, Maeder & Co., Basle.							1923	38	index	True	Basle.	True	Jacky, Maeder & Co.		
+Lep Transport and Depository, Ltd., 4, Sunlight Wharf, 37, Upper Thames Street, London E. C.	True	London	True	37, Upper Thames Street			1923	38	index			True	Lep Transport and Depository, Ltd.		
+Perrin & Co., Place de la Gare, Lausanne.							1923	38	index	True	Lausanne.	True	Perrin & Co.		
+Schweiz. Schleppschiffahrtsgenossenschaft, 16, Blumenrain, Basle.			True	16, Blumenrain			1923	38	index	True	Basle.				
+South-Eastern and Chatham Railway, 9, Centralbahnplatz, Basle.							1923	38	index	True	Basle.				
+J. Véron, Grauer & Cie., 22, Rue du Mont-Blanc, Geneva and at Vallorbe, La Chaux-de-Fonds, Brigue.	True	Geneva	True	22, Rue du Mont-Blanc			1923	38	index			True	J. Véron, Grauer & Cie		
+World Transport Agency, Ltd., 21, Great Tower Street, London E.C. and Hochstrasse, Basle.	True	London	True	21, Great Tower Street			1923	38	index	True	Basle.	True	World Transport Agency, Ltd.		
+Foundries							1923	38	index						
+Gesellschaft der L. von Roll'schen Eisenwerke, Gerlafingen. Sulzer Frères S. A., Winterthur.							1923	38	index	True	Winterthur.				
+Fountain Pens							1923	38	index						
+Mabie, Todd & Co., 89, Bahnhofstrasse, Zurich.			True	89, Bahnhofstrasse			1923	38	index	True	Zurich.	True	Mabie, Todd & Co.		
+Frames							1923	38	index						
+Fabrique de Cadres et Baguettes S.A. (for photographs and other purposes), Lausanne.							1923	38	index	True	Lausanne.			True	for photographs and other purposes
+Fruit (Dealers in)							1923	38	index						
+Gräni & Willi (High grade Swiss apples), Wauwil (Ct. Lucerne).							1923	38	index					True	High grade Swiss apples
+Fuel (Patent)							1923	38	index						
+"Meta" S. A. (for Household, Sport, Toilet and Nursing room), 72, Aeschenvorstadt, Basle.			True	72, Aeschenvorstadt			1923	38	index	True	Basle.			True	for Household, Sport, Toilet and Nursing room
+Fuel Shippers							1923	38	index						
+Coal Supply Co., Ltd. (Patent and oil fuels), 13, Wallstrasse, Basle			True	13, Wallstrasse			1923	38	index			True	Coal Supply Co., Ltd.	True	Patent and oil fuels
+Georges Michoud (oil fuels), Place Grand St. Jean, Lausanne							1923	38	index					True	oil fuels
+Gas Mantles (Incandescent)							1923	38	index						
+Albert Scheidegger & Co. (Gasmantle Factory). Basle.							1923	38	index	True	Basle.	True	Albert Scheidegger & Co.		

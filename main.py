@@ -38,7 +38,10 @@ def readcsv(filename):
 locations = readcsv('meta/locations_parser.csv')
 locations_extended = [locations[i] + "." for i in range(len(locations))]
 personal_titles = ["Esq.", "C.B.", "C.V. O."]
+
 address = ["Castle Mills", "Trafalgar", "Trafalgar Square", "Imperial Buildings", "Cambridge Street"]
+address_list = sorted(address, key=len, reverse=True)
+
 names = ["FALCONER EVANS CROWE", "MAURICE GALLAND", "0ALEXANDER RICHARDSON", "THEO. RUSSELL"]
 titles = readcsv('meta/titles.csv')
 
@@ -57,12 +60,12 @@ def parsing_function(text, words, meta_data):
         return parse_index_page(text, words)
 
     else:
-        print("Unknown range_definition: " + meta_data['range_definition'])
+        print("Unknown range_definition: ", meta_data)
         return {}
 
 
 def parse_board_member_page(text, words):
-
+    text = text.strip()
     result = {'transcription': text}
 
     # Check each line against a regex for name
@@ -154,6 +157,12 @@ def parse_index_page(text, words):
     if match:
         result["address_found"] = True
         result["address"] = match.group(0)
+
+    for my_address in address_list:
+        if my_address in text:
+            result["address_list_found"] = True
+            result["address_list_item"] = my_address
+            break
 
     # Check each line against a regex for Company
     match = re.search(
@@ -258,7 +267,7 @@ def parse_year(data_folder, output_folder):
     # The AltoParser object will parse the file and store the results in a list of dictionaries.
     for file in sorted(os.listdir(f'{data_folder}/')):
         if file.endswith(".xml") or file.endswith(".alto"):
-            print("Parsing file: " + file)
+            # print("Parsing file: " + file)
             meta_data = get_meta_data(file)
             if not meta_data.get('excluded', False):
                 parser = MyAltoFileParser(f'{data_folder}/' + file, meta_data)
@@ -267,9 +276,9 @@ def parse_year(data_folder, output_folder):
                     # parser.print_line_summary(line)
                     pass
                 csv_filename = file.split('.')[0] + '.csv'
-                print(parser.print_file_summary())
+                # print(parser.print_file_summary())
                 parser.save_csv_file(f"./{output_folder}/" + csv_filename)
-                print("Done parsing file: " + file)
+                # print("Done parsing file: " + file)
             else:
                 print("File is excluded: " + file)
 

@@ -1,31 +1,31 @@
-transcription	location_extended_found	location_extended	address_found	address	company_found	company	year	page	range_definition	location_found	location	goods_found	goods
-Senn & Co., 17, St. Johannvorstadt, Basle.	True	Basle.	True	17, St. Johannvorstadt	True	Senn & Co.	1923	53	index				
-Trüdinger & Cons., Ltd., 10, Nauenstrasse, Basle.	True	Basle.	True	10, Nauenstrasse	True	Trüdinger & Cons., Ltd.	1923	53	index				
-Vischer & Co., 16, Rheinsprung, Basle.	True	Basle.	True	16, Rheinsprung	True	Vischer & Co.	1923	53	index				
-Vischer vorm. Paravicini, A. G., 21, Elisabethenstrasse, Basle.	True	Basle.	True	21, Elisabethenstrasse	True	Vischer vorm. Paravicini, A. G	1923	53	index				
-Ribbon Merchants							1923	53	index				
-Howes, Williams & Co., Ltd., 3—5, Monkwell Street, London E. C.2.			True	3—5, Monkwell Street	True	Howes, Williams & Co., Ltd.	1923	53	index	True	London		
-Rifles (Manufacturers)							1923	53	index				
-Birmingham Small Arms Co., Ltd. (all kinds of sporting, military, miniature and air-guns and rifles), 27, Pall Mall, London S. W.1.			True	27, Pall Mall	True	Birmingham Small Arms Co., Ltd.	1923	53	index	True	London	True	all kinds of sporting, military, miniature and air-guns and rifles
-Robes							1923	53	index				
-Zuberbühler & Co., Ltd., Zurzach.					True	Zuberbühler & Co., Ltd.	1923	53	index				
-Rubber Hose Manufacturers							1923	53	index				
-Chas. Macintosh & Co., Ltd., Cambridge Street, Manchester.	True	Manchester.			True	Chas. Macintosh & Co., Ltd.	1923	53	index	True	Cambridge		
-North British Rubber Co., Ltd., Castle Mills, Edinburgh.	True	Edinburgh.			True	North British Rubber Co., Ltd.	1923	53	index				
-George Spencer, Moulton & Co., Ltd., 2/3, Central Buildings, London W 1.			True	2/3, Central Buildings	True	George Spencer, Moulton & Co.	1923	53	index	True	London		
-Rubber Importers							1923	53	index				
-Beck Frères (wholesale rubber dealers), 23, Avenue de la Gare, Lausanne.	True	Lausanne.	True	23, Avenue de la Gare	True	Beck Frères	1923	53	index			True	wholesale rubber dealers
-O. Jæger, 30, Bahnhofstrasse, Zurich.	True	Zurich.	True	30, Bahnhofstrasse			1923	53	index				
-Rubber Manufacturers							1923	53	index				
-Hooley Hill Rubber and Chemical Co. (manufacturers of rubber soles and heels, flooring and moulded articles), Hooley Hill, Manchester.	True	Manchester.			True	Hooley Hill Rubber and Chemical Co.	1923	53	index			True	manufacturers of rubber soles and heels, flooring and moulded articles
-Chas. Macintosh & Co., Ltd. (all kinds of india rubber goods), Cambridge Street, Manchester.	True	Manchester.			True	Chas. Macintosh & Co., Ltd.	1923	53	index	True	Cambridge	True	all kinds of india rubber goods
-North British Rubber Co., Ltd., Castle Mills, Edinburgh.	True	Edinburgh.			True	North British Rubber Co., Ltd.	1923	53	index				
-George Spencer, Moulton & Co., Ltd., 2/3, Central Buildings, London W 1.			True	2/3, Central Buildings	True	George Spencer, Moulton & Co.	1923	53	index	True	London		
-Rustless Iron							1923	53	index				
-Fr. Schenkel-Wyss, 60, Huttenstrasse, Zurich.	True	Zurich.	True	60, Huttenstrasse			1923	53	index				
-Saccharin Export							1923	53	index				
-"Hermes", Ltd., P. O. Box 5392 Zurich-Enge, Zurich.	True	Zurich.			True	"Hermes", Ltd.	1923	53	index				
-Sanitary Installations							1923	53	index				
-"Calorie" S. A. 5—7, Rue de l'Est, Geneva.	True	Geneva.	True	5—7, Rue de l'Est			1923	53	index				
-Schools							1923	53	index				
-Ecole Nouvelle "La Chätaigneraie", Coppet near Geneva.	True	Geneva.					1923	53	index				
+transcription	location_extended_found	location_extended	address_found	address	company_found	company	year	page	range_definition	location_found	location	goods_found	goods	address_list_found	address_list_item
+Senn & Co., 17, St. Johannvorstadt, Basle.	True	Basle.	True	17, St. Johannvorstadt	True	Senn & Co.	1923	53	index						
+Trüdinger & Cons., Ltd., 10, Nauenstrasse, Basle.	True	Basle.	True	10, Nauenstrasse	True	Trüdinger & Cons., Ltd.	1923	53	index						
+Vischer & Co., 16, Rheinsprung, Basle.	True	Basle.	True	16, Rheinsprung	True	Vischer & Co.	1923	53	index						
+Vischer vorm. Paravicini, A. G., 21, Elisabethenstrasse, Basle.	True	Basle.	True	21, Elisabethenstrasse	True	Vischer vorm. Paravicini, A. G	1923	53	index						
+Ribbon Merchants							1923	53	index						
+Howes, Williams & Co., Ltd., 3—5, Monkwell Street, London E. C.2.			True	3—5, Monkwell Street	True	Howes, Williams & Co., Ltd.	1923	53	index	True	London				
+Rifles (Manufacturers)							1923	53	index						
+Birmingham Small Arms Co., Ltd. (all kinds of sporting, military, miniature and air-guns and rifles), 27, Pall Mall, London S. W.1.			True	27, Pall Mall	True	Birmingham Small Arms Co., Ltd.	1923	53	index	True	London	True	all kinds of sporting, military, miniature and air-guns and rifles		
+Robes							1923	53	index						
+Zuberbühler & Co., Ltd., Zurzach.					True	Zuberbühler & Co., Ltd.	1923	53	index						
+Rubber Hose Manufacturers							1923	53	index						
+Chas. Macintosh & Co., Ltd., Cambridge Street, Manchester.	True	Manchester.			True	Chas. Macintosh & Co., Ltd.	1923	53	index	True	Cambridge			True	Cambridge Street
+North British Rubber Co., Ltd., Castle Mills, Edinburgh.	True	Edinburgh.			True	North British Rubber Co., Ltd.	1923	53	index					True	Castle Mills
+George Spencer, Moulton & Co., Ltd., 2/3, Central Buildings, London W 1.			True	2/3, Central Buildings	True	George Spencer, Moulton & Co.	1923	53	index	True	London				
+Rubber Importers							1923	53	index						
+Beck Frères (wholesale rubber dealers), 23, Avenue de la Gare, Lausanne.	True	Lausanne.	True	23, Avenue de la Gare	True	Beck Frères	1923	53	index			True	wholesale rubber dealers		
+O. Jæger, 30, Bahnhofstrasse, Zurich.	True	Zurich.	True	30, Bahnhofstrasse			1923	53	index						
+Rubber Manufacturers							1923	53	index						
+Hooley Hill Rubber and Chemical Co. (manufacturers of rubber soles and heels, flooring and moulded articles), Hooley Hill, Manchester.	True	Manchester.			True	Hooley Hill Rubber and Chemical Co.	1923	53	index			True	manufacturers of rubber soles and heels, flooring and moulded articles		
+Chas. Macintosh & Co., Ltd. (all kinds of india rubber goods), Cambridge Street, Manchester.	True	Manchester.			True	Chas. Macintosh & Co., Ltd.	1923	53	index	True	Cambridge	True	all kinds of india rubber goods	True	Cambridge Street
+North British Rubber Co., Ltd., Castle Mills, Edinburgh.	True	Edinburgh.			True	North British Rubber Co., Ltd.	1923	53	index					True	Castle Mills
+George Spencer, Moulton & Co., Ltd., 2/3, Central Buildings, London W 1.			True	2/3, Central Buildings	True	George Spencer, Moulton & Co.	1923	53	index	True	London				
+Rustless Iron							1923	53	index						
+Fr. Schenkel-Wyss, 60, Huttenstrasse, Zurich.	True	Zurich.	True	60, Huttenstrasse			1923	53	index						
+Saccharin Export							1923	53	index						
+"Hermes", Ltd., P. O. Box 5392 Zurich-Enge, Zurich.	True	Zurich.			True	"Hermes", Ltd.	1923	53	index						
+Sanitary Installations							1923	53	index						
+"Calorie" S. A. 5—7, Rue de l'Est, Geneva.	True	Geneva.	True	5—7, Rue de l'Est			1923	53	index						
+Schools							1923	53	index						
+Ecole Nouvelle "La Chätaigneraie", Coppet near Geneva.	True	Geneva.					1923	53	index						

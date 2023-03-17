@@ -1,31 +1,31 @@
-transcription	location_extended_found	location_extended	company_found	company	year	page	range_definition	location_found	location	address_found	address	goods_found	goods
-James Livesey Ltd., Ewood Mills, Blackburn.	True	Blackburn.	True	James Livesey Ltd.	1923	59	index						
-James Porteous & Co., Ltd. (Scotch Tweeds) Alva, Scotland.			True	James Porteous & Co., Ltd.	1923	59	index						
-Timber Merchants					1923	59	index						
-Venesta Ltd., 1, Great Tower Street, London E. C. 2.			True	Venesta Ltd.	1923	59	index	True	London				
-Time Switches (electric)					1923	59	index						
-Fr. Sauter A.-G., Basle.	True	Basle.	True	Fr. Sauter A.-G	1923	59	index						
-Tin Box Manufacturers					1923	59	index						
-Barringer, Wallis and Manners Ltd., Mansfield.	True	Mansfield.	True	Barringer, Wallis and Manners Ltd.	1923	59	index						
-Tin Foil and Collapsible Tin Tubes					1923	59	index						
-Venesta Ltd., 1, Great Tower Street, London E. C. 2.			True	Venesta Ltd.	1923	59	index	True	London				
-Tin Merchants					1923	59	index						
-O. Jæger, 30, Bahnhofstrasse, Zurich.	True	Zurich.			1923	59	index			True	30, Bahnhofstrasse		
-Tinplates					1923	59	index						
-Carl Geissler A.-G., 22, Spalenvorstadt, Basle.	True	Basle.	True	Carl Geissler A.-G	1923	59	index			True	22, Spalenvorstadt		
-W. E. Hughes & Co., 50 & 51, Lime Street, London E. C. 3.			True	W. E. Hughes & Co.	1923	59	index	True	London	True	51, Lime Street		
-Tobacco Merchants					1923	59	index						
-Ernst Weitnauer & Co. (wholesale and retail), 36, Petersgasse, Basle.	True	Basle.	True	Ernst Weitnauer & Co.	1923	59	index			True	36, Petersgasse	True	wholesale and retail
-Toilet Requisites					1923	59	index						
-"Meta" S. A., Basle.	True	Basle.	True	"Meta" S. A.	1923	59	index						
-Tool Manufacturers					1923	59	index						
-Arthur Balfour & Co., Ltd. (engineers' tools, hacksaw blades etc.) Capital Steel Works, Sheffield.	True	Sheffield.	True	Arthur Balfour & Co., Ltd.	1923	59	index						
-Birmingham Small Arms Co., Ltd. (engineers', small tools and machine tools), 27, Pall Mall, London S. W. 1.			True	Birmingham Small Arms Co., Ltd.	1923	59	index	True	London	True	27, Pall Mall	True	engineers', small tools and machine tools
-Donzelot & Co. (for watchmaking and precision work in general) 6, Rue du Marché, Porrentruy.	True	Porrentruy.	True	Donzelot & Co.	1923	59	index						
-Tool Merchants					1923	59	index						
-Fr. Schenkel-Wyss, 60, Huttenstrasse, Zurich.	True	Zurich.			1923	59	index			True	60, Huttenstrasse		
-Topmakers					1923	59	index						
-Ackroyd Brothers, Imperial Buildings, Bolton Road, Bradford.	True	Bradford.	True	Ackroyd Brothers	1923	59	index	True	Bolton				
-Tourist Offices					1923	59	index						
-Canadian National Railways, 2/4, Rue Edouard VII, Paris 9me.					1923	59	index			True	2/4, Rue Edouard VII		
-Canadian Pacific Railway Company, 62/65, Charing Cross, Tra¬ falgar Square, London S. W.					1923	59	index	True	London	True	62/65, Charing Cross		
+transcription	location_extended_found	location_extended	company_found	company	year	page	range_definition	location_found	location	address_found	address	goods_found	goods	address_list_found	address_list_item
+James Livesey Ltd., Ewood Mills, Blackburn.	True	Blackburn.	True	James Livesey Ltd.	1923	59	index								
+James Porteous & Co., Ltd. (Scotch Tweeds) Alva, Scotland.			True	James Porteous & Co., Ltd.	1923	59	index								
+Timber Merchants					1923	59	index								
+Venesta Ltd., 1, Great Tower Street, London E. C. 2.			True	Venesta Ltd.	1923	59	index	True	London						
+Time Switches (electric)					1923	59	index								
+Fr. Sauter A.-G., Basle.	True	Basle.	True	Fr. Sauter A.-G	1923	59	index								
+Tin Box Manufacturers					1923	59	index								
+Barringer, Wallis and Manners Ltd., Mansfield.	True	Mansfield.	True	Barringer, Wallis and Manners Ltd.	1923	59	index								
+Tin Foil and Collapsible Tin Tubes					1923	59	index								
+Venesta Ltd., 1, Great Tower Street, London E. C. 2.			True	Venesta Ltd.	1923	59	index	True	London						
+Tin Merchants					1923	59	index								
+O. Jæger, 30, Bahnhofstrasse, Zurich.	True	Zurich.			1923	59	index			True	30, Bahnhofstrasse				
+Tinplates					1923	59	index								
+Carl Geissler A.-G., 22, Spalenvorstadt, Basle.	True	Basle.	True	Carl Geissler A.-G	1923	59	index			True	22, Spalenvorstadt				
+W. E. Hughes & Co., 50 & 51, Lime Street, London E. C. 3.			True	W. E. Hughes & Co.	1923	59	index	True	London	True	51, Lime Street				
+Tobacco Merchants					1923	59	index								
+Ernst Weitnauer & Co. (wholesale and retail), 36, Petersgasse, Basle.	True	Basle.	True	Ernst Weitnauer & Co.	1923	59	index			True	36, Petersgasse	True	wholesale and retail		
+Toilet Requisites					1923	59	index								
+"Meta" S. A., Basle.	True	Basle.	True	"Meta" S. A.	1923	59	index								
+Tool Manufacturers					1923	59	index								
+Arthur Balfour & Co., Ltd. (engineers' tools, hacksaw blades etc.) Capital Steel Works, Sheffield.	True	Sheffield.	True	Arthur Balfour & Co., Ltd.	1923	59	index								
+Birmingham Small Arms Co., Ltd. (engineers', small tools and machine tools), 27, Pall Mall, London S. W. 1.			True	Birmingham Small Arms Co., Ltd.	1923	59	index	True	London	True	27, Pall Mall	True	engineers', small tools and machine tools		
+Donzelot & Co. (for watchmaking and precision work in general) 6, Rue du Marché, Porrentruy.	True	Porrentruy.	True	Donzelot & Co.	1923	59	index								
+Tool Merchants					1923	59	index								
+Fr. Schenkel-Wyss, 60, Huttenstrasse, Zurich.	True	Zurich.			1923	59	index			True	60, Huttenstrasse				
+Topmakers					1923	59	index								
+Ackroyd Brothers, Imperial Buildings, Bolton Road, Bradford.	True	Bradford.	True	Ackroyd Brothers	1923	59	index	True	Bolton					True	Imperial Buildings
+Tourist Offices					1923	59	index								
+Canadian National Railways, 2/4, Rue Edouard VII, Paris 9me.					1923	59	index			True	2/4, Rue Edouard VII				
+Canadian Pacific Railway Company, 62/65, Charing Cross, Tra¬ falgar Square, London S. W.					1923	59	index	True	London	True	62/65, Charing Cross				

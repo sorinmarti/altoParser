@@ -1,34 +1,34 @@
-transcription	location_extended_found	location_extended	year	page	range_definition	address_found	address	company_found	company	location_found	location	goods_found	goods
-C. P. Coate, "Old England", 1, Grand Pont, Lausanne.	True	Lausanne.	1923	49	index								
-H. de Groot, "Maison Albion", 22, Rue de Bourg, Lausanne.	True	Lausanne.	1923	49	index	True	22, Rue de Bourg						
-Outfitters' Articles			1923	49	index								
-D. Barnett, 15, Rue du Malagnou, Geneva.	True	Geneva.	1923	49	index	True	15, Rue du Malagnou						
-Ovens (Electric)			1923	49	index								
-Fr. Sauter A. G., Basle.	True	Basle.	1923	49	index			True	Fr. Sauter A. G				
-Packing Papers			1923	49	index								
-D. Barnett, 15, Rue du Malagnou, Geneva.	True	Geneva.	1923	49	index	True	15, Rue du Malagnou						
-Paint Manufacturers			1923	49	index								
-Blundell, Spence & Co., Ltd., Hull.	True	Hull.	1923	49	index			True	Blundell, Spence & Co., Ltd.				
-Jenson & Nicholson, Ltd., Goswell Works, Stratford, London E.15.			1923	49	index			True	Jenson & Nicholson, Ltd.	True	London		
-Papermaking Machinery			1923	49	index								
-Escher, Wyss & Co., A. G., Zurich.	True	Zurich.	1923	49	index			True	Escher, Wyss & Co., A. G				
-Paper Merchants			1923	49	index								
-Th. Roussy "Librairie Anglaise", 3, Rue de Bourg, Lausanne.	True	Lausanne.	1923	49	index								
-Passenger and Tourist Agents			1923	49	index								
-Canadian National Railways, 2—4, Rue Edouard VII, Paris, 9me			1923	49	index	True	2—4, Rue Edouard VII						
-Canadian Pacific Railway Co., 62—65, Charing Cross, Trafalgar Square, London S. W. 1.			1923	49	index	True	62—65, Charing Cross	True	Canadian Pacific Railway Co.	True	London		
-Galland & Co., 3, Place St. François, Lausanne.	True	Lausanne.	1923	49	index			True	Galland & Co.				
-Lep Transport & Depository, Ltd., 4, Sunlight Wharf, 37, Upper Thames St., London E. C.			1923	49	index	True	37, Upper Thames St.	True	Lep Transport & Depository, Ltd.	True	London		
-South Eastern & Chatham Railway, 9, Centralbahnplatz, Basle.	True	Basle.	1923	49	index								
-Patent Agents			1923	49	index								
-Herren & Guerchet, 10, Rue Petitot, Geneva.	True	Geneva.	1923	49	index	True	10, Rue Petitot						
-Patent Fuel			1923	49	index								
-"Meta", S. A. (patent security fuel), 27, Aeschenvorstadt, Basle.	True	Basle.	1923	49	index	True	27, Aeschenvorstadt					True	patent security fuel
-Pens			1923	49	index								
-Mabie, Todd & Co. (gold pens), 89, Bahnhofstrasse, Zurich.	True	Zurich.	1923	49	index	True	89, Bahnhofstrasse	True	Mabie, Todd & Co.			True	gold pens
-Perfume Manufacturers			1923	49	index								
-Th. Mühlethaler S. A., Nyon.			1923	49	index			True	Th. Mühlethaler S. A.				
-Usines de l'Allondon, La Plaine, Geneva.	True	Geneva.	1923	49	index								
-Pharmaceutical Products			1923	49	index								
-Chemische Fabrik vorm. Sandoz, Basle.	True	Basle.	1923	49	index								
-Clayton Aniline Co., Ltd., Clayton, Manchester.	True	Manchester.	1923	49	index			True	Clayton Aniline Co., Ltd.				
+transcription	location_extended_found	location_extended	year	page	range_definition	address_found	address	company_found	company	location_found	location	address_list_found	address_list_item	goods_found	goods
+C. P. Coate, "Old England", 1, Grand Pont, Lausanne.	True	Lausanne.	1923	49	index										
+H. de Groot, "Maison Albion", 22, Rue de Bourg, Lausanne.	True	Lausanne.	1923	49	index	True	22, Rue de Bourg								
+Outfitters' Articles			1923	49	index										
+D. Barnett, 15, Rue du Malagnou, Geneva.	True	Geneva.	1923	49	index	True	15, Rue du Malagnou								
+Ovens (Electric)			1923	49	index										
+Fr. Sauter A. G., Basle.	True	Basle.	1923	49	index			True	Fr. Sauter A. G						
+Packing Papers			1923	49	index										
+D. Barnett, 15, Rue du Malagnou, Geneva.	True	Geneva.	1923	49	index	True	15, Rue du Malagnou								
+Paint Manufacturers			1923	49	index										
+Blundell, Spence & Co., Ltd., Hull.	True	Hull.	1923	49	index			True	Blundell, Spence & Co., Ltd.						
+Jenson & Nicholson, Ltd., Goswell Works, Stratford, London E.15.			1923	49	index			True	Jenson & Nicholson, Ltd.	True	London				
+Papermaking Machinery			1923	49	index										
+Escher, Wyss & Co., A. G., Zurich.	True	Zurich.	1923	49	index			True	Escher, Wyss & Co., A. G						
+Paper Merchants			1923	49	index										
+Th. Roussy "Librairie Anglaise", 3, Rue de Bourg, Lausanne.	True	Lausanne.	1923	49	index										
+Passenger and Tourist Agents			1923	49	index										
+Canadian National Railways, 2—4, Rue Edouard VII, Paris, 9me			1923	49	index	True	2—4, Rue Edouard VII								
+Canadian Pacific Railway Co., 62—65, Charing Cross, Trafalgar Square, London S. W. 1.			1923	49	index	True	62—65, Charing Cross	True	Canadian Pacific Railway Co.	True	London	True	Trafalgar Square		
+Galland & Co., 3, Place St. François, Lausanne.	True	Lausanne.	1923	49	index			True	Galland & Co.						
+Lep Transport & Depository, Ltd., 4, Sunlight Wharf, 37, Upper Thames St., London E. C.			1923	49	index	True	37, Upper Thames St.	True	Lep Transport & Depository, Ltd.	True	London				
+South Eastern & Chatham Railway, 9, Centralbahnplatz, Basle.	True	Basle.	1923	49	index										
+Patent Agents			1923	49	index										
+Herren & Guerchet, 10, Rue Petitot, Geneva.	True	Geneva.	1923	49	index	True	10, Rue Petitot								
+Patent Fuel			1923	49	index										
+"Meta", S. A. (patent security fuel), 27, Aeschenvorstadt, Basle.	True	Basle.	1923	49	index	True	27, Aeschenvorstadt							True	patent security fuel
+Pens			1923	49	index										
+Mabie, Todd & Co. (gold pens), 89, Bahnhofstrasse, Zurich.	True	Zurich.	1923	49	index	True	89, Bahnhofstrasse	True	Mabie, Todd & Co.					True	gold pens
+Perfume Manufacturers			1923	49	index										
+Th. Mühlethaler S. A., Nyon.			1923	49	index			True	Th. Mühlethaler S. A.						
+Usines de l'Allondon, La Plaine, Geneva.	True	Geneva.	1923	49	index										
+Pharmaceutical Products			1923	49	index										
+Chemische Fabrik vorm. Sandoz, Basle.	True	Basle.	1923	49	index										
+Clayton Aniline Co., Ltd., Clayton, Manchester.	True	Manchester.	1923	49	index			True	Clayton Aniline Co., Ltd.						

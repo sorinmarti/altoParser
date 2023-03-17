@@ -1,4 +1,4 @@
-transcription	year	page	range_definition	company_found	company	location_found	location	page_numbers_found	page_numbers
+transcription	year	page	range_definition	company_found	company	page_numbers_found	page_numbers	location_found	location
 9 11 20 26 51 Sauerstoff & Wasserstoff-Werke A. G.	1921	64	alphabetical						
 10 35 45 47 Schenkel-Wyss, Fr.	1921	64	alphabetical	True	7 Schenkel-Wyss, Fr				
 19 22 23 34 Schindler & Co.	1921	64	alphabetical	True	19 22 23 34 Schindler & Co.				
@@ -10,7 +10,7 @@ Schweizerische Bankgesellschaft (Union Bank of Switzerland).	1921	64	alphabetica
 11 12 Schweizerischer Bankverein (Swiss Bank Corporation)	1921	64	alphabetical						
 Schweizerische Rückversicherungsgesellschaft (Swiss Reinsurance Co.)	1921	64	alphabetical	True	Schweizerische Rückversicherungsgesellschaft (Swiss Reinsurance Co.				
 Schweizerische Seidengazefabrik A. G., Thal (Swiss Silk 12 Bolting Cloth Mog., Co., Ltd.)	1921	64	alphabetical	True	Schweizerische Seidengazefabrik A. G., Thal (Swiss Silk 12 Bolting Cloth Mog., Co.				
-Schweizerische Seidengazefabrik A. G., Zürich (Swiss 12 Silk Bolting Cloth Mrg, Co., Ltd.)	1921	64	alphabetical	True	Schweizerische Seidengazefabrik A. G., Zürich (Swiss 12 Silk Bolting Cloth Mrg, Co.	True	Zürich		
+Schweizerische Seidengazefabrik A. G., Zürich (Swiss 12 Silk Bolting Cloth Mrg, Co., Ltd.)	1921	64	alphabetical	True	Schweizerische Seidengazefabrik A. G., Zürich (Swiss 12 Silk Bolting Cloth Mrg, Co.				
 Schweizerische Schleppschiffahrtgenossenschaft (Société 26 40 42 48 * * * Suisse de Remorquage	1921	64	alphabetical						
 Sedgley & Lighting	1921	64	alphabetical						
 Seidenwarenfabrik vorm. Edwin Naef	1921	64	alphabetical						
@@ -22,9 +22,9 @@ Simonius, Vischer & Co.	1921	64	alphabetical	True	Simonius, Vischer & Co.
 10 30 34 38 45 47 Skipworth, G. P.	1921	64	alphabetical						
 Société anonyme des Aciéries ci-devant 14 19 51 Georges Fischer	1921	64	alphabetical						
 33 34 36 49 Société anonyme Adolpe Saurer	1921	64	alphabetical						
-14 20 24 30 Société anonyme anct. B. Siegfried 12	1921	64	alphabetical					True	12
+14 20 24 30 Société anonyme anct. B. Siegfried 12	1921	64	alphabetical			True	12		
 Société de Banque Suisse	1921	64	alphabetical						
-Société de la Feuille d'Avis de Lausanne 28	1921	64	alphabetical			True	Lausanne	True	28
+Société de la Feuille d'Avis de Lausanne 28	1921	64	alphabetical			True	28	True	Lausanne
 Société des Hoteliers de Lausanne-Ouchy	1921	64	alphabetical						
 Société des Hotels Seiler	1921	64	alphabetical						
 21 29 30 34 40 Société Genevoise d'instruments de Physique	1921	64	alphabetical						
