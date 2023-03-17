@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1921_69 seiten-0068.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-16T09:06:46.364+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2424" WIDTH="1731">
+         <TopMargin HEIGHT="0" WIDTH="1731" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2424" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2424" WIDTH="0" VPOS="0" HPOS="1731"/>
+         <BottomMargin HEIGHT="0" WIDTH="1731" VPOS="2424" HPOS="0"/>
+         <PrintSpace HEIGHT="2424" WIDTH="1731" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="224"
+                       WIDTH="566"
+                       VPOS="1052"
+                       HPOS="646"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="646,1052 1212,1052 1212,1276 646,1276"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="654,1106 684,1102 714,1104 744,1104 774,1102 804,1104 834,1104 864,1104 894,1104 924,1104 954,1104 984,1104 1014,1104 1044,1104 1074,1104 1104,1104 1134,1106 1164,1106 1194,1108 1212,1110"
+                         HEIGHT="90"
+                         WIDTH="562"
+                         VPOS="1035"
+                         HPOS="648">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="90"
+                          WIDTH="562"
+                          VPOS="1035"
+                          HPOS="648"
+                          CONTENT="THIS BOOK IS SENT TO ALL"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="698,1154 728,1156 758,1156 788,1156 818,1156 848,1156 878,1156 908,1158 938,1156 968,1156 998,1156 1028,1156 1058,1156 1088,1156 1118,1158 1148,1160 1166,1158"
+                         HEIGHT="61"
+                         WIDTH="471"
+                         VPOS="1115"
+                         HPOS="693">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="61"
+                          WIDTH="471"
+                          VPOS="1115"
+                          HPOS="693"
+                          CONTENT="BRITISH CHAMBERS OF"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="646,1212 676,1210 706,1210 736,1208 766,1210 796,1210 826,1210 856,1210 886,1210 916,1210 946,1210 976,1210 1006,1212 1036,1212 1066,1210 1096,1212 1126,1212 1156,1212 1186,1216 1204,1218"
+                         HEIGHT="72"
+                         WIDTH="561"
+                         VPOS="1162"
+                         HPOS="641">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="72"
+                          WIDTH="561"
+                          VPOS="1162"
+                          HPOS="641"
+                          CONTENT="COMMERCE IN THE WORLD,"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="772,1262 802,1264 832,1264 862,1262 892,1262 922,1264 952,1264 982,1264 1012,1266 1042,1266 1072,1266 1086,1266"
+                         HEIGHT="85"
+                         WIDTH="318"
+                         VPOS="1217"
+                         HPOS="767">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="85"
+                          WIDTH="318"
+                          VPOS="1217"
+                          HPOS="767"
+                          CONTENT="NUMBERING 116"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
