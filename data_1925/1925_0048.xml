@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1925_57 seiten-0048.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-22T09:23:27.372+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2680" WIDTH="1803">
+         <TopMargin HEIGHT="0" WIDTH="1803" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2680" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2680" WIDTH="0" VPOS="0" HPOS="1803"/>
+         <BottomMargin HEIGHT="0" WIDTH="1803" VPOS="2680" HPOS="0"/>
+         <PrintSpace HEIGHT="2680" WIDTH="1803" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675524429416_35529"
+                       HEIGHT="70"
+                       WIDTH="1189"
+                       VPOS="418"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,418 1554,418 1554,488 365,488"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524429416_35529_tl_1"
+                         BASELINE="414,472 444,470 474,472 504,472 534,470 564,470 594,472 624,470"
+                         HEIGHT="89"
+                         WIDTH="216"
+                         VPOS="409"
+                         HPOS="407">
+                  <String ID="string_TextRegion_1675524429416_35529_tl_1"
+                          HEIGHT="89"
+                          WIDTH="216"
+                          VPOS="409"
+                          HPOS="407"
+                          CONTENT="Topmakers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524429416_35528"
+                       HEIGHT="56"
+                       WIDTH="1189"
+                       VPOS="488"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,488 1554,488 1554,544 365,544"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524429416_35528_tl_1"
+                         BASELINE="448,518 478,520 508,520 538,520 568,522 598,522 628,520 658,520 688,520 718,522 748,522 778,522 808,522 838,522 868,522 898,522 928,520 958,522 988,522 1018,524 1048,524 1078,524 1108,524 1138,524 1168,524 1198,524 1228,524 1258,526 1288,526 1318,526 1348,526 1378,526 1408,526 1438,526 1460,530"
+                         HEIGHT="92"
+                         WIDTH="1016"
+                         VPOS="454"
+                         HPOS="441">
+                  <String ID="string_TextRegion_1675524429416_35528_tl_1"
+                          HEIGHT="92"
+                          WIDTH="1016"
+                          VPOS="454"
+                          HPOS="441"
+                          CONTENT="Ackroyd Brothers, Imperial Buildings, Bolton Road, Bradford."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524428697_35524"
+                       HEIGHT="49"
+                       WIDTH="1189"
+                       VPOS="544"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,544 1554,544 1554,593 365,593"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524428697_35524_tl_1"
+                         BASELINE="418,582 448,580 478,580 508,582 538,582 568,582 598,582 628,582 658,582 688,582 696,584"
+                         HEIGHT="86"
+                         WIDTH="283"
+                         VPOS="534"
+                         HPOS="409">
+                  <String ID="string_TextRegion_1675524428697_35524_tl_1"
+                          HEIGHT="86"
+                          WIDTH="283"
+                          VPOS="534"
+                          HPOS="409"
+                          CONTENT="Tourist Offices"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524427596_35520"
+                       HEIGHT="81"
+                       WIDTH="1189"
+                       VPOS="593"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,593 1554,593 1554,674 365,674"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524427596_35520_tl_1"
+                         BASELINE="456,630 486,630 516,632 546,632 576,632 606,632 636,630 666,630 696,630 726,630 756,632 786,632 816,632 846,634 876,634 906,634 936,634 966,634 996,636 1026,636 1056,634 1086,634 1116,636 1146,634 1176,634 1206,636 1236,636 1266,636 1296,638 1326,636 1356,638 1386,638 1408,642"
+                         HEIGHT="101"
+                         WIDTH="955"
+                         VPOS="566"
+                         HPOS="449">
+                  <String ID="string_TextRegion_1675524427596_35520_tl_1"
+                          HEIGHT="101"
+                          WIDTH="955"
+                          VPOS="566"
+                          HPOS="449"
+                          CONTENT="Canadian Pacific Railway Company, 62/65, Charing Cross,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675524427596_35520_tl_2"
+                         BASELINE="492,664 522,666 552,668 582,668 612,668 642,668 672,668 702,668 732,668 762,668 792,668 822,668 852,668 882,670 912,670 942,668 972,668 1002,672 1006,670"
+                         HEIGHT="43"
+                         WIDTH="519"
+                         VPOS="636"
+                         HPOS="484">
+                  <String ID="string_TextRegion_1675524427596_35520_tl_2"
+                          HEIGHT="43"
+                          WIDTH="519"
+                          VPOS="636"
+                          HPOS="484"
+                          CONTENT="Trafalgar Square, London S. W."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524426645_35516"
+                       HEIGHT="85"
+                       WIDTH="1189"
+                       VPOS="674"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,674 1554,674 1554,759 365,759"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524426645_35516_tl_1"
+                         BASELINE="454,712 484,712 514,710 544,710 574,712 604,710 634,710 664,710 694,710 724,712 754,714 784,714 814,714 844,714 874,714 904,714 934,714 964,714 994,714 1024,714 1054,716 1084,716 1114,716 1144,716 1174,716 1204,716 1234,716 1264,716 1294,716 1324,716 1354,716 1384,716 1414,718 1444,718 1474,720 1492,722"
+                         HEIGHT="89"
+                         WIDTH="1044"
+                         VPOS="665"
+                         HPOS="446">
+                  <String ID="string_TextRegion_1675524426645_35516_tl_1"
+                          HEIGHT="89"
+                          WIDTH="1044"
+                          VPOS="665"
+                          HPOS="446"
+                          CONTENT="Thos. Cook &amp; Son, Lucerne, Zurich, Geneva, Montreux, Interlaken,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675524426645_35516_tl_2"
+                         BASELINE="486,748 516,748 546,748 576,748 606,748 636,748 666,748 696,748 726,748 756,748 786,750 794,752"
+                         HEIGHT="44"
+                         WIDTH="312"
+                         VPOS="715"
+                         HPOS="479">
+                  <String ID="string_TextRegion_1675524426645_35516_tl_2"
+                          HEIGHT="44"
+                          WIDTH="312"
+                          VPOS="715"
+                          HPOS="479"
+                          CONTENT="Lugano, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524426017_35512"
+                       HEIGHT="41"
+                       WIDTH="1189"
+                       VPOS="759"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,759 1554,759 1554,800 365,800"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524426017_35512_tl_1"
+                         BASELINE="452,790 482,790 512,790 542,790 572,792 602,790 632,790 662,792 692,792 722,792 752,792 782,794 812,794 842,794 872,794 902,794 932,794 962,794 992,794 1022,794 1052,794 1082,794 1112,794 1142,796 1172,796 1202,796 1232,796 1262,796 1292,796 1322,796 1352,796 1382,798 1390,796"
+                         HEIGHT="76"
+                         WIDTH="943"
+                         VPOS="745"
+                         HPOS="444">
+                  <String ID="string_TextRegion_1675524426017_35512_tl_1"
+                          HEIGHT="76"
+                          WIDTH="943"
+                          VPOS="745"
+                          HPOS="444"
+                          CONTENT="Cunard Steam Ship Co., Ltd., 5, Haldenstrasse, Lucerne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524424578_35508"
+                       HEIGHT="49"
+                       WIDTH="1189"
+                       VPOS="800"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,800 1554,800 1554,849 365,849"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524424578_35508_tl_1"
+                         BASELINE="450,836 480,836 510,836 540,836 570,836 600,836 630,836 660,836 690,838 720,838 750,838 780,838 810,838 840,838 870,838 900,838 906,838"
+                         HEIGHT="59"
+                         WIDTH="461"
+                         VPOS="798"
+                         HPOS="442">
+                  <String ID="string_TextRegion_1675524424578_35508_tl_1"
+                          HEIGHT="59"
+                          WIDTH="461"
+                          VPOS="798"
+                          HPOS="442"
+                          CONTENT="Danzas &amp; Co., S. A., Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524423746_35504"
+                       HEIGHT="43"
+                       WIDTH="1189"
+                       VPOS="849"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,849 1554,849 1554,892 365,892"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524423746_35504_tl_1"
+                         BASELINE="452,878 482,880 512,880 542,880 572,880 602,880 632,880 662,882 692,882 722,882 752,882 782,882 812,882 842,882 872,882 902,882 932,882 962,882 992,882 1022,884 1052,884 1082,884 1112,884 1142,884 1172,884 1202,884 1232,886 1238,886"
+                         HEIGHT="83"
+                         WIDTH="790"
+                         VPOS="820"
+                         HPOS="445">
+                  <String ID="string_TextRegion_1675524423746_35504_tl_1"
+                          HEIGHT="83"
+                          WIDTH="790"
+                          VPOS="820"
+                          HPOS="445"
+                          CONTENT="Galland &amp; Co., 3, Place St. François, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524423018_35500"
+                       HEIGHT="43"
+                       WIDTH="1189"
+                       VPOS="892"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,892 1554,892 1554,935 365,935"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524423018_35500_tl_1"
+                         BASELINE="450,924 480,924 510,924 540,924 570,924 600,924 630,924 660,926 690,926 720,926 750,926 780,926 810,926 840,926 870,926 900,926 930,926 960,926 990,928 1020,928 1050,928 1080,928 1110,928 1140,928 1170,928 1200,930 1228,932"
+                         HEIGHT="77"
+                         WIDTH="782"
+                         VPOS="886"
+                         HPOS="442">
+                  <String ID="string_TextRegion_1675524423018_35500_tl_1"
+                          HEIGHT="77"
+                          WIDTH="782"
+                          VPOS="886"
+                          HPOS="442"
+                          CONTENT="Perrin &amp; Co., 15, Place St. François, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524422196_35496"
+                       HEIGHT="44"
+                       WIDTH="1189"
+                       VPOS="935"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,935 1554,935 1554,979 365,979"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524422196_35496_tl_1"
+                         BASELINE="448,968 478,968 508,968 538,970 568,968 598,968 628,968 658,970 688,970 718,970 748,970 778,970 808,970 838,970 868,970 898,972 928,972 958,972 988,970 1018,970 1048,972 1078,974"
+                         HEIGHT="53"
+                         WIDTH="634"
+                         VPOS="932"
+                         HPOS="440">
+                  <String ID="string_TextRegion_1675524422196_35496_tl_1"
+                          HEIGHT="53"
+                          WIDTH="634"
+                          VPOS="932"
+                          HPOS="440"
+                          CONTENT="Pro Lemano, Grand Chène, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524421437_35492"
+                       HEIGHT="59"
+                       WIDTH="1189"
+                       VPOS="979"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,979 1554,979 1554,1038 365,1038"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524421437_35492_tl_1"
+                         BASELINE="452,1012 482,1012 512,1012 542,1012 572,1012 602,1014 632,1014 662,1014 692,1014 722,1014 752,1014 782,1014 812,1014 842,1014 872,1014 902,1016 932,1016 962,1016 992,1016 1022,1016 1052,1016 1082,1016 1112,1016 1142,1018 1172,1018 1202,1018 1232,1018 1262,1018 1292,1018 1322,1020 1350,1022"
+                         HEIGHT="77"
+                         WIDTH="903"
+                         VPOS="971"
+                         HPOS="445">
+                  <String ID="string_TextRegion_1675524421437_35492_tl_1"
+                          HEIGHT="77"
+                          WIDTH="903"
+                          VPOS="971"
+                          HPOS="445"
+                          CONTENT="Royal Mail Steam Packet Co., 14, Küchengasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524420537_35488"
+                       HEIGHT="55"
+                       WIDTH="1189"
+                       VPOS="1038"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1038 1554,1038 1554,1093 365,1093"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524420537_35488_tl_1"
+                         BASELINE="418,1078 448,1078 478,1078 508,1080 538,1080 568,1080 598,1080 628,1080 658,1080 678,1080"
+                         HEIGHT="75"
+                         WIDTH="264"
+                         VPOS="1025"
+                         HPOS="411">
+                  <String ID="string_TextRegion_1675524420537_35488_tl_1"
+                          HEIGHT="75"
+                          WIDTH="264"
+                          VPOS="1025"
+                          HPOS="411"
+                          CONTENT="Tracing Cloth"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524419706_35484"
+                       HEIGHT="97"
+                       WIDTH="1189"
+                       VPOS="1093"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1093 1554,1093 1554,1190 365,1190"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524419706_35484_tl_1"
+                         BASELINE="454,1128 484,1128 514,1126 544,1128 574,1128 604,1128 634,1128 664,1128 694,1128 724,1130 754,1130 784,1130 814,1130 844,1130 874,1130 904,1130 934,1132 964,1132 994,1132 1024,1132 1054,1132 1084,1134 1114,1134 1144,1134 1174,1134 1204,1134 1234,1136 1264,1134 1294,1134 1324,1134 1354,1134 1384,1136 1414,1134 1444,1136 1474,1138 1494,1142"
+                         HEIGHT="89"
+                         WIDTH="1045"
+                         VPOS="1071"
+                         HPOS="446">
+                  <String ID="string_TextRegion_1675524419706_35484_tl_1"
+                          HEIGHT="89"
+                          WIDTH="1045"
+                          VPOS="1071"
+                          HPOS="446"
+                          CONTENT="The Winterbottom Book Cloth Company Ltd., 12, Newton Street,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675524419706_35484_tl_2"
+                         BASELINE="482,1164 512,1164 542,1166 572,1164 602,1164 632,1166 662,1166 682,1166"
+                         HEIGHT="70"
+                         WIDTH="204"
+                         VPOS="1132"
+                         HPOS="475">
+                  <String ID="string_TextRegion_1675524419706_35484_tl_2"
+                          HEIGHT="70"
+                          WIDTH="204"
+                          VPOS="1132"
+                          HPOS="475"
+                          CONTENT="Manchester"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524418916_35480"
+                       HEIGHT="55"
+                       WIDTH="1189"
+                       VPOS="1190"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1190 1554,1190 1554,1245 365,1245"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524418916_35480_tl_1"
+                         BASELINE="412,1230 442,1230 472,1230 502,1230 532,1230 562,1232 592,1232 622,1232 652,1232 680,1230"
+                         HEIGHT="84"
+                         WIDTH="272"
+                         VPOS="1174"
+                         HPOS="405">
+                  <String ID="string_TextRegion_1675524418916_35480_tl_1"
+                          HEIGHT="84"
+                          WIDTH="272"
+                          VPOS="1174"
+                          HPOS="405"
+                          CONTENT="Tracing Paper"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524418466_35476"
+                       HEIGHT="95"
+                       WIDTH="1189"
+                       VPOS="1245"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1245 1554,1245 1554,1340 365,1340"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524418466_35476_tl_1"
+                         BASELINE="442,1278 472,1278 502,1280 532,1278 562,1280 592,1280 622,1280 652,1280 682,1280 712,1280 742,1280 772,1280 802,1282 832,1282 862,1282 892,1282 922,1282 952,1282 982,1282 1012,1284 1042,1284 1072,1284 1102,1284 1132,1284 1162,1284 1192,1284 1222,1284 1252,1284 1282,1284 1312,1286 1342,1286 1372,1286 1402,1286 1432,1288 1462,1290 1484,1294"
+                         HEIGHT="61"
+                         WIDTH="1047"
+                         VPOS="1233"
+                         HPOS="434">
+                  <String ID="string_TextRegion_1675524418466_35476_tl_1"
+                          HEIGHT="61"
+                          WIDTH="1047"
+                          VPOS="1233"
+                          HPOS="434"
+                          CONTENT="Ed. Aerni-Leuch blue prints etc., for architects and drawing"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675524418466_35476_tl_2"
+                         BASELINE="488,1316 518,1316 548,1316 578,1316 608,1316 638,1316 668,1318 698,1316 728,1318 758,1316 788,1318 818,1318 848,1318 878,1318 908,1318 938,1318 968,1318 998,1318 1028,1318 1058,1320 1088,1322 1090,1322"
+                         HEIGHT="66"
+                         WIDTH="607"
+                         VPOS="1286"
+                         HPOS="480">
+                  <String ID="string_TextRegion_1675524418466_35476_tl_2"
+                          HEIGHT="66"
+                          WIDTH="607"
+                          VPOS="1286"
+                          HPOS="480"
+                          CONTENT="office use), 34, Zieglerstrasse, Berne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524417305_35472"
+                       HEIGHT="51"
+                       WIDTH="1189"
+                       VPOS="1340"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1340 1554,1340 1554,1391 365,1391"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524417305_35472_tl_1"
+                         BASELINE="418,1382 448,1380 478,1380 508,1382 538,1382 568,1382 598,1382 628,1382 658,1382 688,1382 718,1382 748,1380 778,1382 808,1384 810,1382"
+                         HEIGHT="75"
+                         WIDTH="393"
+                         VPOS="1329"
+                         HPOS="411">
+                  <String ID="string_TextRegion_1675524417305_35472_tl_1"
+                          HEIGHT="75"
+                          WIDTH="393"
+                          VPOS="1329"
+                          HPOS="411"
+                          CONTENT="Tractors and Trailers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524413697_35466"
+                       HEIGHT="64"
+                       WIDTH="1189"
+                       VPOS="1391"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1391 1554,1391 1554,1455 365,1455"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524413697_35466_tl_1"
+                         BASELINE="448,1428 478,1428 508,1430 538,1430 568,1430 598,1430 628,1432 658,1432 688,1432 718,1432 748,1432 778,1432 808,1432 838,1434 868,1432 898,1432 928,1434 958,1432 988,1432 1018,1434 1048,1434 1078,1434 1108,1434 1138,1434 1168,1434 1198,1436 1228,1436 1258,1434 1288,1436 1318,1436 1348,1436 1378,1436 1408,1436 1438,1438 1468,1438 1498,1442 1500,1442"
+                         HEIGHT="98"
+                         WIDTH="1056"
+                         VPOS="1366"
+                         HPOS="441">
+                  <String ID="string_TextRegion_1675524413697_35466_tl_1"
+                          HEIGHT="98"
+                          WIDTH="1056"
+                          VPOS="1366"
+                          HPOS="441"
+                          CONTENT="Fabrique d'Automobiles „Berna&#34; S. A. road and agricultural), Olten."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524412624_35462"
+                       HEIGHT="55"
+                       WIDTH="1189"
+                       VPOS="1455"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1455 1554,1455 1554,1510 365,1510"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524412624_35462_tl_1"
+                         BASELINE="414,1496 444,1494 474,1496 504,1496 534,1496 564,1498 594,1498 624,1498 654,1500 684,1498 714,1498 744,1498 756,1498"
+                         HEIGHT="82"
+                         WIDTH="349"
+                         VPOS="1441"
+                         HPOS="405">
+                  <String ID="string_TextRegion_1675524412624_35462_tl_1"
+                          HEIGHT="82"
+                          WIDTH="349"
+                          VPOS="1441"
+                          HPOS="405"
+                          CONTENT="Tramway Supplies"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524411984_35458"
+                       HEIGHT="102"
+                       WIDTH="1189"
+                       VPOS="1510"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1510 1554,1510 1554,1612 365,1612"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524411984_35458_tl_1"
+                         BASELINE="448,1546 478,1546 508,1546 538,1546 568,1546 598,1546 628,1546 658,1546 688,1546 718,1548 748,1546 778,1546 808,1546 838,1548 868,1548 898,1548 928,1548 958,1548 988,1548 1018,1550 1048,1550 1078,1550 1108,1550 1138,1550 1168,1550 1198,1550 1228,1550 1258,1550 1288,1552 1318,1552 1348,1552 1378,1556 1408,1556 1434,1560"
+                         HEIGHT="100"
+                         WIDTH="990"
+                         VPOS="1485"
+                         HPOS="441">
+                  <String ID="string_TextRegion_1675524411984_35458_tl_1"
+                          HEIGHT="100"
+                          WIDTH="990"
+                          VPOS="1485"
+                          HPOS="441"
+                          CONTENT="Brown Bayley's Steel Works Ltd. (tyres, axles and springs)."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675524411984_35458_tl_2"
+                         BASELINE="484,1582 514,1582 544,1582 574,1582 604,1582 634,1582 664,1582 694,1582 724,1582 754,1582 784,1582 814,1584 844,1584 868,1586"
+                         HEIGHT="76"
+                         WIDTH="389"
+                         VPOS="1547"
+                         HPOS="476">
+                  <String ID="string_TextRegion_1675524411984_35458_tl_2"
+                          HEIGHT="76"
+                          WIDTH="389"
+                          VPOS="1547"
+                          HPOS="476"
+                          CONTENT="Leeds Road, Sheffield."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524408706_35454"
+                       HEIGHT="51"
+                       WIDTH="1189"
+                       VPOS="1612"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1612 1554,1612 1554,1663 365,1663"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524408706_35454_tl_1"
+                         BASELINE="418,1646 448,1646 478,1648 508,1648 538,1648 568,1650 598,1648 628,1648 658,1648 688,1648 718,1648 748,1648 776,1650"
+                         HEIGHT="79"
+                         WIDTH="362"
+                         VPOS="1594"
+                         HPOS="411">
+                  <String ID="string_TextRegion_1675524408706_35454_tl_1"
+                          HEIGHT="79"
+                          WIDTH="362"
+                          VPOS="1594"
+                          HPOS="411"
+                          CONTENT="Transport Agencies"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524408254_35450"
+                       HEIGHT="45"
+                       WIDTH="1189"
+                       VPOS="1663"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1663 1554,1663 1554,1708 365,1708"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524408254_35450_tl_1"
+                         BASELINE="452,1698 482,1696 512,1698 542,1698 572,1696 602,1696 632,1698 662,1698 692,1698 722,1698 752,1698 782,1700 812,1700 842,1700 872,1700 902,1702 932,1700 962,1702 992,1702 1022,1702 1052,1702 1082,1702 1112,1702 1142,1702 1172,1702 1202,1702 1232,1702 1262,1702 1292,1704 1322,1704 1352,1702 1382,1704 1412,1704 1426,1706"
+                         HEIGHT="80"
+                         WIDTH="978"
+                         VPOS="1655"
+                         HPOS="445">
+                  <String ID="string_TextRegion_1675524408254_35450_tl_1"
+                          HEIGHT="80"
+                          WIDTH="978"
+                          VPOS="1655"
+                          HPOS="445"
+                          CONTENT="The Basle Warehouse Company Ltd., 1, Erlenstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524405756_35446"
+                       HEIGHT="50"
+                       WIDTH="1189"
+                       VPOS="1708"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1708 1554,1708 1554,1758 365,1758"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524405756_35446_tl_1"
+                         BASELINE="454,1740 484,1742 514,1742 544,1742 574,1742 604,1742 634,1742 664,1744 694,1744 724,1744 754,1744 784,1744 814,1744 844,1746 874,1746 904,1746 934,1746 964,1746 994,1746 1024,1746 1054,1746 1084,1746 1114,1746 1144,1746 1174,1748"
+                         HEIGHT="78"
+                         WIDTH="724"
+                         VPOS="1703"
+                         HPOS="446">
+                  <String ID="string_TextRegion_1675524405756_35446_tl_1"
+                          HEIGHT="78"
+                          WIDTH="724"
+                          VPOS="1703"
+                          HPOS="446"
+                          CONTENT="Crow &amp; Co., Ltd., 67, Nauenstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524404396_35442"
+                       HEIGHT="44"
+                       WIDTH="1189"
+                       VPOS="1758"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1758 1554,1758 1554,1802 365,1802"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524404396_35442_tl_1"
+                         BASELINE="450,1786 480,1786 510,1786 540,1786 570,1786 600,1786 630,1786 660,1786 690,1788 720,1788 750,1788 780,1788 810,1790 840,1788 870,1788 900,1790 918,1792"
+                         HEIGHT="54"
+                         WIDTH="474"
+                         VPOS="1748"
+                         HPOS="441">
+                  <String ID="string_TextRegion_1675524404396_35442_tl_1"
+                          HEIGHT="54"
+                          WIDTH="474"
+                          VPOS="1748"
+                          HPOS="441"
+                          CONTENT="Danzas &amp; Co., A.-G., Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524403796_35438"
+                       HEIGHT="79"
+                       WIDTH="1189"
+                       VPOS="1802"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1802 1554,1802 1554,1881 365,1881"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524403796_35438_tl_1"
+                         BASELINE="452,1832 482,1830 512,1830 542,1830 572,1830 602,1830 632,1832 662,1832 692,1830 722,1832 752,1832 782,1832 812,1832 842,1832 872,1832 902,1834 932,1834 962,1834 992,1834 1022,1834 1052,1834 1082,1834 1112,1834 1142,1836 1172,1836 1202,1836 1232,1838 1262,1836 1292,1836 1322,1838 1352,1836 1382,1838 1412,1838 1442,1838 1472,1838 1498,1842"
+                         HEIGHT="75"
+                         WIDTH="1052"
+                         VPOS="1784"
+                         HPOS="445">
+                  <String ID="string_TextRegion_1675524403796_35438_tl_1"
+                          HEIGHT="75"
+                          WIDTH="1052"
+                          VPOS="1784"
+                          HPOS="445"
+                          CONTENT="Dominion Express Co. of Canada, 62/65, Charing Cross, Trafalgar"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675524403796_35438_tl_2"
+                         BASELINE="486,1866 516,1868 546,1868 576,1868 606,1868 636,1868 666,1868 696,1868 726,1868 756,1868 786,1868 816,1868 846,1870 876,1870 896,1870"
+                         HEIGHT="49"
+                         WIDTH="413"
+                         VPOS="1835"
+                         HPOS="479">
+                  <String ID="string_TextRegion_1675524403796_35438_tl_2"
+                          HEIGHT="49"
+                          WIDTH="413"
+                          VPOS="1835"
+                          HPOS="479"
+                          CONTENT="Square, London S. W. 1."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524402886_35434"
+                       HEIGHT="42"
+                       WIDTH="1189"
+                       VPOS="1881"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1881 1554,1881 1554,1923 365,1923"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524402886_35434_tl_1"
+                         BASELINE="452,1910 482,1910 512,1910 542,1910 572,1910 602,1912 632,1912 662,1912 692,1912 722,1912 752,1914 782,1912 812,1912 842,1912 872,1912 902,1912 932,1912 962,1914 992,1914 1022,1914 1052,1914 1082,1914 1112,1914 1142,1916 1152,1916"
+                         HEIGHT="68"
+                         WIDTH="705"
+                         VPOS="1866"
+                         HPOS="444">
+                  <String ID="string_TextRegion_1675524402886_35434_tl_1"
+                          HEIGHT="68"
+                          WIDTH="705"
+                          VPOS="1866"
+                          HPOS="444"
+                          CONTENT="Goth &amp; Co., 45, Elisabethenstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524401785_35430"
+                       HEIGHT="47"
+                       WIDTH="1189"
+                       VPOS="1923"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1923 1554,1923 1554,1970 365,1970"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524401785_35430_tl_1"
+                         BASELINE="454,1954 484,1956 514,1956 544,1956 574,1956 604,1956 634,1956 664,1956 694,1956 724,1956 754,1956 784,1958 814,1958 844,1958 874,1958 904,1958 934,1958 964,1960 994,1960 1024,1960 1054,1958 1084,1960 1114,1960 1144,1960 1174,1960 1204,1960 1234,1960 1264,1960 1294,1958 1324,1960 1334,1962"
+                         HEIGHT="77"
+                         WIDTH="885"
+                         VPOS="1893"
+                         HPOS="446">
+                  <String ID="string_TextRegion_1675524401785_35430_tl_1"
+                          HEIGHT="77"
+                          WIDTH="885"
+                          VPOS="1893"
+                          HPOS="446"
+                          CONTENT="Charles Imbersteg &amp; Co., 30, Aeschengraben, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524397355_35426"
+                       HEIGHT="43"
+                       WIDTH="1189"
+                       VPOS="1970"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,1970 1554,1970 1554,2013 365,2013"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524397355_35426_tl_1"
+                         BASELINE="452,2006 482,2000 512,2000 542,2002 572,2000 602,2000 632,2000 662,2000 692,2000 722,2000 752,2002 782,2002 812,2004 842,2002 872,2002 902,2004 920,2006"
+                         HEIGHT="63"
+                         WIDTH="472"
+                         VPOS="1960"
+                         HPOS="445">
+                  <String ID="string_TextRegion_1675524397355_35426_tl_1"
+                          HEIGHT="63"
+                          WIDTH="472"
+                          VPOS="1960"
+                          HPOS="445"
+                          CONTENT="Jacky, Maeder &amp; Co., Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524396416_35422"
+                       HEIGHT="80"
+                       WIDTH="1189"
+                       VPOS="2013"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,2013 1554,2013 1554,2093 365,2093"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524396416_35422_tl_1"
+                         BASELINE="454,2046 484,2044 514,2044 544,2044 574,2044 604,2044 634,2044 664,2044 694,2044 724,2046 754,2046 784,2046 814,2048 844,2046 874,2046 904,2046 934,2048 964,2048 994,2048 1024,2048 1054,2048 1084,2048 1114,2048 1144,2048 1174,2048 1204,2048 1234,2048 1264,2050 1294,2050 1324,2050 1354,2050 1384,2052 1414,2050 1444,2050 1474,2052 1488,2054"
+                         HEIGHT="100"
+                         WIDTH="1040"
+                         VPOS="1986"
+                         HPOS="446">
+                  <String ID="string_TextRegion_1675524396416_35422_tl_1"
+                          HEIGHT="100"
+                          WIDTH="1040"
+                          VPOS="1986"
+                          HPOS="446"
+                          CONTENT="Lep Transport and Depository Ltd. (Transport insurance), 4, Sun-"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675524396416_35422_tl_2"
+                         BASELINE="492,2080 522,2080 552,2080 582,2080 612,2080 642,2080 672,2082 702,2082 732,2082 762,2084 792,2084 822,2084 852,2084 882,2084 912,2084 942,2084 972,2084 1002,2082 1032,2084 1062,2084 1092,2084 1122,2086 1152,2084 1182,2084 1212,2086 1242,2086 1272,2086 1302,2086 1332,2086 1360,2088"
+                         HEIGHT="70"
+                         WIDTH="872"
+                         VPOS="2049"
+                         HPOS="484">
+                  <String ID="string_TextRegion_1675524396416_35422_tl_2"
+                          HEIGHT="70"
+                          WIDTH="872"
+                          VPOS="2049"
+                          HPOS="484"
+                          CONTENT="light wharf, 37, Upper Thames Street, London E. C."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524395616_35418"
+                       HEIGHT="45"
+                       WIDTH="1189"
+                       VPOS="2093"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,2093 1554,2093 1554,2138 365,2138"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524395616_35418_tl_1"
+                         BASELINE="446,2124 476,2122 506,2124 536,2124 566,2124 596,2124 626,2124 656,2126 686,2124 716,2124 746,2124 776,2124 806,2126 836,2126 866,2126 896,2126 926,2128 956,2128 986,2128 1016,2126 1046,2126 1076,2128 1106,2128 1136,2130 1152,2132"
+                         HEIGHT="58"
+                         WIDTH="711"
+                         VPOS="2080"
+                         HPOS="438">
+                  <String ID="string_TextRegion_1675524395616_35418_tl_1"
+                          HEIGHT="58"
+                          WIDTH="711"
+                          VPOS="2080"
+                          HPOS="438"
+                          CONTENT="Perrin &amp; Co., Place de la Gare, Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524394674_35414"
+                       HEIGHT="44"
+                       WIDTH="1189"
+                       VPOS="2138"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,2138 1554,2138 1554,2182 365,2182"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524394674_35414_tl_1"
+                         BASELINE="450,2170 480,2168 510,2168 540,2168 570,2168 600,2170 630,2168 660,2170 690,2172 720,2170 750,2170 780,2170 810,2170 840,2170 870,2170 900,2172 930,2170 960,2172 990,2172 1020,2172 1050,2172 1080,2172 1110,2174 1140,2174 1170,2174 1200,2174 1230,2174 1260,2174 1290,2174 1320,2174 1350,2174 1380,2176 1410,2174 1440,2176 1470,2176 1476,2178"
+                         HEIGHT="60"
+                         WIDTH="1032"
+                         VPOS="2124"
+                         HPOS="442">
+                  <String ID="string_TextRegion_1675524394674_35414_tl_1"
+                          HEIGHT="60"
+                          WIDTH="1032"
+                          VPOS="2124"
+                          HPOS="442"
+                          CONTENT="Schweiz. Schleppschiffahrtsgenossenschaft, 5, Bonergasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675524393585_35410"
+                       HEIGHT="86"
+                       WIDTH="1189"
+                       VPOS="2182"
+                       HPOS="365"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="365,2182 1554,2182 1554,2268 365,2268"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675524393585_35410_tl_1"
+                         BASELINE="454,2212 484,2214 514,2214 544,2214 574,2214 604,2216 634,2216 664,2216 694,2216 724,2216 754,2216 784,2216 814,2216 844,2216 874,2216 904,2216 934,2216 964,2216 994,2216 1024,2218 1054,2218 1084,2218 1114,2218 1144,2222 1146,2222"
+                         HEIGHT="79"
+                         WIDTH="697"
+                         VPOS="2178"
+                         HPOS="446">
+                  <String ID="string_TextRegion_1675524393585_35410_tl_1"
+                          HEIGHT="79"
+                          WIDTH="697"
+                          VPOS="2178"
+                          HPOS="446"
+                          CONTENT="G. van Spyk, 3, Centralbahnstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

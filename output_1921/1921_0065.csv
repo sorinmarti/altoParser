@@ -1,34 +1,34 @@
-transcription	company_found	company	page_numbers_found	page_numbers	year	page	range_definition
-Stehli & Co. 43	True	Stehli & Co.	True	43	1921	65	alphabetical
-Strang, James					1921	65	alphabetical
-Suchard S. A. 1416			True	1416	1921	65	alphabetical
-44 49 12 17 19 20 23 24 27 28 29 3440 Sulzer Frères S. A.					1921	65	alphabetical
-31 36 Swiss Jewel Co., S. A.	True	31 36 Swiss Jewel Co.			1921	65	alphabetical
-30 46 Teaplanters Ltd.	True	30 46 Teaplanters Ltd.			1921	65	alphabetical
-10 Textile Trading Co., The	True	10 Textile Trading Co.			1921	65	alphabetical
-26 33 36 Thorens, Hermann.					1921	65	alphabetical
-Thornton, W.					1921	65	alphabetical
-Thurneysen & Cie.					1921	65	alphabetical
-Tissage mécanique d'Etoffes de Soie 43			True	43	1921	65	alphabetical
-18 Tootal Broadhurst Lee Company Ltd.					1921	65	alphabetical
-Trüdinger & Cons., Ltd.	True	Trüdinger & Cons., Ltd.			1921	65	alphabetical
-18 23 Union Company Ltd. The	True	18 23 Union Company Ltd.			1921	65	alphabetical
-10 14 Usines de l'Allondon					1921	65	alphabetical
-21 22 24 26 Usines Electro-Métallurgiques Météor S. A.					1921	65	alphabetical
-Usines Métallurgiques de Vallorbe					1921	65	alphabetical
-Utzinger R. (deed.)					1921	65	alphabetical
-39 Vaney-Burnier, G.	True	39 Vaney-Burnier, G			1921	65	alphabetical
-32 38 46 47 Venesta Ltd.	True	32 38 46 47 Venesta Ltd.			1921	65	alphabetical
-Vickers Agency for Switzerland Ltd. 23 35 45			True	23 35 45	1921	65	alphabetical
-Vischer & Co.	True	Vischer & Co.			1921	65	alphabetical
-Vischer vorm. Paravicini A. G.	True	Vischer vorm. Paravicini A. G			1921	65	alphabetical
-16 18 24 Volkart Brothers	True	16 18 24 Volkart Brothers			1921	65	alphabetical
-Wallinger, Captain W. A.					1921	65	alphabetical
-13 27 35 Weddel Beef Co., The.	True	13 27 35 Weddel Beef Co.			1921	65	alphabetical
-Wieler, Pius, Söhne					1921	65	alphabetical
-20 28 Weith, J. G.					1921	65	alphabetical
-Welti, Henry					1921	65	alphabetical
-10 43 Wildberger, C.					1921	65	alphabetical
-Wilson, P. K. & Son					1921	65	alphabetical
-Winkler, Fallert & Cie. A 34			True	34	1921	65	alphabetical
-16 Wiinandy & Cie.					1921	65	alphabetical
+transcription	company_found	company	company2_found	company2	page_numbers_found	page_numbers	year	page	range_definition	company_list_found	company_list
+Stehli & Co. 43	True	Stehli & Co.	True	Stehli & Co	True	43	1921	65	alphabetical		
+Strang, James			True	Strang, James			1921	65	alphabetical		
+Suchard S. A. 1416			True	Suchard S. A.	True	1416	1921	65	alphabetical		
+44 49 12 17 19 20 23 24 27 28 29 3440 Sulzer Frères S. A.	True	Sulzer Frères S. A.	True	Sulzer Fr	True	44 49 12 17 19 20 23 24 27 28 29 3440	1921	65	alphabetical		
+31 36 Swiss Jewel Co., S. A.	True	Swiss Jewel Co.	True	Swiss Jewel	True	31 36	1921	65	alphabetical	True	Swiss Jewel Co., S. A.
+30 46 Teaplanters Ltd.	True	Teaplanters Ltd.	True	Teaplanters Ltd	True	30 46	1921	65	alphabetical		
+10 Textile Trading Co., The	True	Textile Trading Co.	True	Textile Trading	True	10	1921	65	alphabetical	True	Textile Trading Co., The
+26 33 36 Thorens, Hermann.			True	Thorens, Hermann	True	26 33 36	1921	65	alphabetical		
+Thornton, W.			True	Thornton, W.			1921	65	alphabetical		
+Thurneysen & Cie.			True	Thurneysen & Cie			1921	65	alphabetical		
+Tissage mécanique d'Etoffes de Soie 43			True	Tissage	True	43	1921	65	alphabetical	True	Tissage mécanique d'Etoffes de Soie
+18 Tootal Broadhurst Lee Company Ltd.	True	Tootal Broadhurst Lee Company Ltd.	True	Tootal Broadhurst	True	18	1921	65	alphabetical		
+Trüdinger & Cons., Ltd.	True	Trüdinger & Cons., Ltd.	True	Tr			1921	65	alphabetical		
+18 23 Union Company Ltd. The	True	Union Company Ltd.	True	Union Company	True	18 23	1921	65	alphabetical	True	Union Company Ltd. The
+10 14 Usines de l'Allondon			True	Usines	True	10 14	1921	65	alphabetical	True	Usines de l'Allondon
+21 22 24 26 Usines Electro-Métallurgiques Météor S. A.			True	Usines Electro	True	21 22 24 26	1921	65	alphabetical	True	Usines Electro-Métallurgiques Météor S. A.
+Usines Métallurgiques de Vallorbe			True	Usines			1921	65	alphabetical	True	Usines Métallurgiques de Vallorbe
+Utzinger R. (deed.)			True	Utzinger R.			1921	65	alphabetical		
+39 Vaney-Burnier, G.	True	Vaney-Burnier, G	True	Vaney	True	39	1921	65	alphabetical		
+32 38 46 47 Venesta Ltd.	True	Venesta Ltd.	True	Venesta Ltd	True	32 38 46 47	1921	65	alphabetical		
+Vickers Agency for Switzerland Ltd. 23 35 45	True	Vickers Agency for Switzerland Ltd.	True	Vickers Agency	True	23 35 45	1921	65	alphabetical		
+Vischer & Co.	True	Vischer & Co.	True	Vischer & Co			1921	65	alphabetical		
+Vischer vorm. Paravicini A. G.	True	Vischer vorm. Paravicini A. G	True	Vischer			1921	65	alphabetical		
+16 18 24 Volkart Brothers	True	Volkart Brothers	True	Volkart Brothers	True	16 18 24	1921	65	alphabetical		
+Wallinger, Captain W. A.			True	Wallinger, Captain			1921	65	alphabetical	True	Wallinger, Captain W. A.
+13 27 35 Weddel Beef Co., The.	True	Weddel Beef Co.	True	Weddel Beef	True	13 27 35	1921	65	alphabetical	True	Weddel Beef Co., The
+Wieler, Pius, Söhne			True	Wieler, Pius			1921	65	alphabetical	True	Wieler, Pius, Söhne
+20 28 Weith, J. G.			True	Weith, J. G.	True	20 28	1921	65	alphabetical		
+Welti, Henry			True	Welti, Henry			1921	65	alphabetical		
+10 43 Wildberger, C.			True	Wildberger, C.	True	10 43	1921	65	alphabetical		
+Wilson, P. K. & Son			True	Wilson, P. K.			1921	65	alphabetical	True	Wilson, P. K. & Son
+Winkler, Fallert & Cie. A 34			True	Winkler, Fallert	True	34	1921	65	alphabetical	True	Winkler, Fallert & Cie.
+16 Wiinandy & Cie.			True	Wiinandy & Cie	True	16	1921	65	alphabetical		
