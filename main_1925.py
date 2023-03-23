@@ -61,7 +61,7 @@ address_searcher.set_pattern_list([r'([0-9]{1,4}(,|\.) [A-Z].{1,15}(quai|berg|ra
 names = ["FALCONER EVANS CROWE", "MAURICE GALLAND", "ALEXANDER RICHARDSON", "THEO. RUSSELL", "T. EDGAR HARLEY", "E. G. B. MAXSE", "J. LOMAS", "R. HAMILTON", "Sir Milne CHEETHAM", "A. RICHARDSON"]
 names_list = sorted(names, key=len, reverse=True)
 
-headline = ["LIST OF MEMBERS of the British Chamber of Commerce for Switzerland", "Page", "Address", "Trade and Name", "INDEX:", "Classified List of the Members of the British Chamber of Commerce for Switzerland", "TRADE INDEX"]
+headline = ["LIST OF MEMBERS of the British Chamber of Commerce for Switzerland", "Page", "Address", "Trade and Name", "INDEX:", "Classified List of the Members of the British Chamber of Commerce for Switzerland", "TRADE INDEX", "INDEX"]
 headline_list = sorted(headline, key=len, reverse=True)
 headline_searcher = SearchHelper("headline")
 headline_searcher.set_search_list(headline_list)
@@ -77,12 +77,19 @@ companies_list = sorted(companies, key=len, reverse=True)
 company_searcher = SearchHelper("company")
 company_searcher.set_search_list(companies_list)
 company_searcher.set_pattern_list([r'(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)', ])
+company_searcher_2 = SearchHelper("company_2")
+company_searcher_2.set_pattern_list([r'(([A-Z][a-z]{1,10},? &? ?[A-Z][a-z]{1,10}|[A-Z][a-z]{1,10},? [A-Z]\. ?[A-Z]?\.?|[A-Z][a-z]{1,8},? ?\([A-Z][a-z]{1,8}\)( ?&? ? (Sons)?)|[A-Z][a-z]{1,10} ?,?&? ?))', ])
+company_searcher_3 = SearchHelper("company_3")
+company_searcher_3.set_pattern_list([r'([A-Z][a-z]{1,10}.{1,10}\([A-Z].{1,10}\) ?&? ?(A. G.|A.G.|Son|Cie.|Co.,?|Frère,?)?,? ?(Ltd.|S. A.)?)', ])
 
 goods = readcsv('meta/goods.csv')
 goods_list = sorted(goods, key=len, reverse=True)
 goods_searcher = SearchHelper("goods")
 goods_searcher.set_search_list(goods_list)
 goods_searcher.set_pattern_list([r'(\(.{1,150}\),? ?)', ])
+
+page_number_searcher = SearchHelper("page_number")
+page_number_searcher.set_pattern_list([r'(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})', ])
 
 def parsing_function(text, words, meta_data):
 
@@ -169,6 +176,7 @@ def parse_index_page(text, words):
     additional_information_result = additional_information_searcher.search_in_list(text)
     result = result | additional_information_result
 
+
     if not headline_result and not title_result and not additional_information_result:
         # If no headline found, check each word against the location names
         location_result = location_searcher.search_in_list(text)
@@ -184,7 +192,6 @@ def parse_index_page(text, words):
                                                  exit_after_match=False)
         result = result | address_result
 
-    #print(result)
     return result
 
 def parse_alphabetical_index_page(text, words):
@@ -193,46 +200,26 @@ def parse_alphabetical_index_page(text, words):
     result = {'transcription': text}
 
     # Check each word against the list headings
-    for heading in headline:
-        if heading in text:
-            result["heading_found"] = True
-            result["heading"] = heading
-            break
+    headline_result = headline_searcher.search_in_list(text)
+    result = result | headline_result
 
-    company_result = company_searcher.search(text, SearchHelper.LIST_BF_PATTERN)
-    result = result | company_result
+    additional_information_result = additional_information_searcher.search_in_list(text)
+    result = result | additional_information_result
 
-    # Check each line against a regex for Company with & Co. etc
-    match = re.search(
-        r'([A-Z].{1,30} ? (& C\.|Limited|Frère|Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^[A-Z]. \w{1,10}|[A-Z].{1,100} Co\.|^.{1,10}\(.{1,10}\)( ?&? ? (Sons)?),? ?|[A-Z].{1,10}-.{1,10}, [A-Z][a-z]?.|^[A-Z][a-z]{1,10}, [A-Z]\.)',
-        text)
-    if match:
-        result["company_found"] = True
-        result["company"] = match.group(0)
+    if not headline_result and not additional_information_result:
 
-    # Check each line against a regex for Company with () etc
-    match = re.search(
-        r'(([A-Z][a-z]{1,10},? &? ?[A-Z][a-z]{1,10}|[A-Z][a-z]{1,10},? [A-Z]\. ?[A-Z]?\.?|[A-Z][a-z]{1,8},? ?\([A-Z][a-z]{1,8}\)( ?&? ? (Sons)?)|[A-Z][a-z]{1,10} ?,?&? ?))',
-        text)
-    if match:
-        result["company2_found"] = True
-        result["company2"] = match.group(0)
-
-    # Check each line against a regex for Company with () etc
-    match = re.search(
-        r'([A-Z][a-z]{1,10}.{1,10}\([A-Z].{1,10}\) ?&? ?(A. G.|A.G.|Son|Cie.|Co.,?|Frère,?)?,? ?(Ltd.|S. A.)?)',
-        text)
-    if match:
-        result["company3_found"] = True
-        result["company3"] = match.group(0)
-
-    # Check each line against a regex for Page Numbers
-    match = re.search(r'(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})', text)
-    if match:
-        result["page_numbers_found"] = True
-        result["page_numbers"] = match.group(0)
+        page_number_result = page_number_searcher.search_in_pattern(text)
+        result = result | page_number_result
 
     return result
+"""    
+    if not headline_result and not additional_information_result:
+
+    # Check each word against the regex for page_number
+    page_number_result = page_number_searcher.search_in_pattern(text)
+    result = result | page_number_result
+
+    return result"""
 
 def get_meta_data(file):
     # The file variable gets split by _ and the first part is the year
