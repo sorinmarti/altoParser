@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1948_189 seiten-0014.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:02:16.749+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2601" WIDTH="1741">
+         <TopMargin HEIGHT="0" WIDTH="1741" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2601" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2601" WIDTH="0" VPOS="0" HPOS="1741"/>
+         <BottomMargin HEIGHT="0" WIDTH="1741" VPOS="2601" HPOS="0"/>
+         <PrintSpace HEIGHT="2601" WIDTH="1741" VPOS="0" HPOS="0"/>
+      </Page>
+   </Layout>
+</alto>

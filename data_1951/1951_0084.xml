@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1951_85 seiten-0084.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:24.101+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2592" WIDTH="1856">
+         <TopMargin HEIGHT="0" WIDTH="1856" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2592" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2592" WIDTH="0" VPOS="0" HPOS="1856"/>
+         <BottomMargin HEIGHT="0" WIDTH="1856" VPOS="2592" HPOS="0"/>
+         <PrintSpace HEIGHT="2592" WIDTH="1856" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="62"
+                       WIDTH="574"
+                       VPOS="2294"
+                       HPOS="664"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="664,2294 1238,2294 1238,2356 664,2356"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="664,2344 694,2344 724,2344 754,2344 784,2344 814,2346 844,2344 874,2344 904,2344 934,2344 964,2344 994,2344 1024,2344 1054,2344 1084,2344 1114,2344 1144,2344 1174,2344 1204,2346 1234,2346 1238,2346"
+                         HEIGHT="82"
+                         WIDTH="577"
+                         VPOS="2305"
+                         HPOS="659">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="82"
+                          WIDTH="577"
+                          VPOS="2305"
+                          HPOS="659"
+                          CONTENT="Printer: Vogt-Schild lad., Soleure (Suiterland)"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

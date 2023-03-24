@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1937_57 seiten-0016.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:00:03.119+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2733" WIDTH="1806">
+         <TopMargin HEIGHT="0" WIDTH="1806" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2733" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2733" WIDTH="0" VPOS="0" HPOS="1806"/>
+         <BottomMargin HEIGHT="0" WIDTH="1806" VPOS="2733" HPOS="0"/>
+         <PrintSpace HEIGHT="2733" WIDTH="1806" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675544690102_55177"
+                       HEIGHT="85"
+                       WIDTH="1216"
+                       VPOS="372"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,372 1599,372 1599,457 383,457"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675544669191_55102_tl_1"
+                         BASELINE="472,442 502,442 532,442 562,442 592,442 622,442 652,442 682,442 712,444 742,442 772,442 802,442 832,442 862,442 892,442 922,442"
+                         HEIGHT="74"
+                         WIDTH="454"
+                         VPOS="392"
+                         HPOS="465">
+                  <String ID="string_TextRegion_1675544669191_55102_tl_1"
+                          HEIGHT="74"
+                          WIDTH="454"
+                          VPOS="392"
+                          HPOS="465"
+                          CONTENT="Consultants (Transport)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544690102_55176"
+                       HEIGHT="87"
+                       WIDTH="1216"
+                       VPOS="457"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,457 1599,457 1599,544 383,544"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675544669191_55102_tl_2"
+                         BASELINE="544,524 574,526 604,526 634,526 664,528 694,528 724,528 754,526 784,526 814,526 844,526 874,526 904,526 934,526 964,526 994,526 1024,528 1052,526"
+                         HEIGHT="59"
+                         WIDTH="513"
+                         VPOS="497"
+                         HPOS="537">
+                  <String ID="string_TextRegion_1675544669191_55102_tl_2"
+                          HEIGHT="59"
+                          WIDTH="513"
+                          VPOS="497"
+                          HPOS="537"
+                          CONTENT="Telegrams « Crowen, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544688828_55172"
+                       HEIGHT="72"
+                       WIDTH="1216"
+                       VPOS="544"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,544 1599,544 1599,616 383,616"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544687911_55168"
+                       HEIGHT="131"
+                       WIDTH="1216"
+                       VPOS="616"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,616 1599,616 1599,747 383,747"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675544669191_55102_tl_3"
+                         BASELINE="546,718 576,718 606,718 636,718 666,720 696,720"
+                         HEIGHT="64"
+                         WIDTH="155"
+                         VPOS="686"
+                         HPOS="539">
+                  <String ID="string_TextRegion_1675544669191_55102_tl_3"
+                          HEIGHT="64"
+                          WIDTH="155"
+                          VPOS="686"
+                          HPOS="539"
+                          CONTENT="Geneva."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544686877_55164"
+                       HEIGHT="57"
+                       WIDTH="1216"
+                       VPOS="747"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,747 1599,747 1599,804 383,804"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544686097_55160"
+                       HEIGHT="99"
+                       WIDTH="1216"
+                       VPOS="804"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,804 1599,804 1599,903 383,903"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544684807_55156"
+                       HEIGHT="54"
+                       WIDTH="1216"
+                       VPOS="903"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,903 1599,903 1599,957 383,957"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544684258_55152"
+                       HEIGHT="138"
+                       WIDTH="1216"
+                       VPOS="957"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,957 1599,957 1599,1095 383,1095"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544682407_55148"
+                       HEIGHT="52"
+                       WIDTH="1216"
+                       VPOS="1095"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1095 1599,1095 1599,1147 383,1147"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544681626_55144"
+                       HEIGHT="119"
+                       WIDTH="1216"
+                       VPOS="1147"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1147 1599,1147 1599,1266 383,1266"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544680290_55140"
+                       HEIGHT="225"
+                       WIDTH="1216"
+                       VPOS="1266"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1266 1599,1266 1599,1491 383,1491"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675544669191_55102_tl_4"
+                         BASELINE="554,1406 568,1406 598,1406 628,1406 658,1406 688,1408 718,1406 748,1404 778,1404 808,1404 838,1406 868,1406 898,1406 928,1406 958,1404 988,1402"
+                         HEIGHT="42"
+                         WIDTH="438"
+                         VPOS="1372"
+                         HPOS="547">
+                  <String ID="string_TextRegion_1675544669191_55102_tl_4"
+                          HEIGHT="42"
+                          WIDTH="438"
+                          VPOS="1372"
+                          HPOS="547"
+                          CONTENT="Agent for Switzerland:"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675544669191_55102_tl_5"
+                         BASELINE="1070,1402 1100,1402 1130,1404 1160,1404 1190,1404 1220,1404 1250,1404 1280,1404 1310,1404 1340,1404 1370,1404 1400,1402 1430,1404 1460,1402 1490,1402 1520,1402 1550,1402 1552,1402"
+                         HEIGHT="41"
+                         WIDTH="487"
+                         VPOS="1370"
+                         HPOS="1063">
+                  <String ID="string_TextRegion_1675544669191_55102_tl_5"
+                          HEIGHT="41"
+                          WIDTH="487"
+                          VPOS="1370"
+                          HPOS="1063"
+                          CONTENT="Max Hermann, 27, rue de"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675544669191_55102_tl_6"
+                         BASELINE="554,1440 584,1442 614,1442 644,1442 674,1444 704,1442 734,1442 764,1442 794,1442 824,1442 854,1442 884,1440 914,1442 944,1440 974,1440 1004,1440 1034,1440 1064,1440 1094,1440 1124,1440 1154,1440 1184,1440 1214,1438 1244,1438 1274,1440 1304,1440 1334,1438 1364,1438 1394,1438 1424,1438 1454,1438 1484,1438 1514,1438 1544,1440 1550,1440"
+                         HEIGHT="55"
+                         WIDTH="1000"
+                         VPOS="1404"
+                         HPOS="547">
+                  <String ID="string_TextRegion_1675544669191_55102_tl_6"
+                          HEIGHT="55"
+                          WIDTH="1000"
+                          VPOS="1404"
+                          HPOS="547"
+                          CONTENT="Bourg, Lausanne ; Phone 32.844, Telegrams «Agentis,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675544669191_55102_tl_7"
+                         BASELINE="554,1478 584,1478 614,1478 644,1478 674,1478 704,1478 734,1478 742,1478"
+                         HEIGHT="56"
+                         WIDTH="193"
+                         VPOS="1446"
+                         HPOS="547">
+                  <String ID="string_TextRegion_1675544669191_55102_tl_7"
+                          HEIGHT="56"
+                          WIDTH="193"
+                          VPOS="1446"
+                          HPOS="547"
+                          CONTENT="Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544675717_55134"
+                       HEIGHT="171"
+                       WIDTH="1216"
+                       VPOS="1491"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1491 1599,1491 1599,1662 383,1662"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544674997_55130"
+                       HEIGHT="54"
+                       WIDTH="1216"
+                       VPOS="1662"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1662 1599,1662 1599,1716 383,1716"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544674382_55126"
+                       HEIGHT="96"
+                       WIDTH="1216"
+                       VPOS="1716"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1716 1599,1716 1599,1812 383,1812"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544673272_55122"
+                       HEIGHT="53"
+                       WIDTH="1216"
+                       VPOS="1812"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1812 1599,1812 1599,1865 383,1865"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544672627_55118"
+                       HEIGHT="113"
+                       WIDTH="1216"
+                       VPOS="1865"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1865 1599,1865 1599,1978 383,1978"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544671680_55114"
+                       HEIGHT="44"
+                       WIDTH="1216"
+                       VPOS="1978"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,1978 1599,1978 1599,2022 383,2022"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544670961_55110"
+                       HEIGHT="126"
+                       WIDTH="1216"
+                       VPOS="2022"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,2022 1599,2022 1599,2148 383,2148"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544669987_55106"
+                       HEIGHT="66"
+                       WIDTH="1216"
+                       VPOS="2148"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,2148 1599,2148 1599,2214 383,2214"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675544669191_55102"
+                       HEIGHT="146"
+                       WIDTH="1216"
+                       VPOS="2214"
+                       HPOS="383"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="383,2214 1599,2214 1599,2360 383,2360"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

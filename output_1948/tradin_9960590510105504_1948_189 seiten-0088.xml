@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1948_189 seiten-0088.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:02:32.826+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2604" WIDTH="1775">
+         <TopMargin HEIGHT="0" WIDTH="1775" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2604" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2604" WIDTH="0" VPOS="0" HPOS="1775"/>
+         <BottomMargin HEIGHT="0" WIDTH="1775" VPOS="2604" HPOS="0"/>
+         <PrintSpace HEIGHT="2604" WIDTH="1775" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675684770069_67377"
+                       HEIGHT="154"
+                       WIDTH="1344"
+                       VPOS="327"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,327 1649,327 1649,481 305,481"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684770069_67377_tl_1"
+                         BASELINE="464,396 494,398 524,398 554,398 584,398 614,396 644,398 674,398 704,398 734,400 764,398 794,398 824,398 854,398 884,398 914,398 944,398 974,400 1004,400 1034,398 1064,398 1094,400 1124,398 1154,398 1184,398 1214,398 1244,398 1274,400 1304,400 1334,400 1364,398 1394,400 1424,400 1454,402 1484,400 1514,400 1544,400 1574,398 1584,398"
+                         HEIGHT="72"
+                         WIDTH="1124"
+                         VPOS="339"
+                         HPOS="457">
+                  <String ID="string_TextRegion_1675684770069_67377_tl_1"
+                          HEIGHT="72"
+                          WIDTH="1124"
+                          VPOS="339"
+                          HPOS="457"
+                          CONTENT="Zubac Trading Ltd. (General), 3, Limmatquai, Zurich; Phone"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684770069_67377_tl_2"
+                         BASELINE="472,438 502,438 532,438 562,438 592,436 622,438 652,438 682,438 712,436 742,436 772,438 802,436 832,436 862,438 892,438 922,438 952,438 982,438 1012,436 1042,436 1072,438 1102,438 1132,438 1162,438 1192,438 1216,438"
+                         HEIGHT="61"
+                         WIDTH="748"
+                         VPOS="406"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684770069_67377_tl_2"
+                          HEIGHT="61"
+                          WIDTH="748"
+                          VPOS="406"
+                          HPOS="464"
+                          CONTENT="(051) 24 780; Telgr. «Partstraden Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684770069_67376"
+                       HEIGHT="110"
+                       WIDTH="1344"
+                       VPOS="481"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,481 1649,481 1649,591 305,591"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684770069_67376_tl_1"
+                         BASELINE="396,568 426,566 456,566 486,566 490,568"
+                         HEIGHT="66"
+                         WIDTH="98"
+                         VPOS="513"
+                         HPOS="388">
+                  <String ID="string_TextRegion_1675684770069_67376_tl_1"
+                          HEIGHT="66"
+                          WIDTH="98"
+                          VPOS="513"
+                          HPOS="388"
+                          CONTENT="Fats"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684767158_67370"
+                       HEIGHT="98"
+                       WIDTH="1344"
+                       VPOS="591"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,591 1649,591 1649,689 305,689"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684767158_67370_tl_1"
+                         BASELINE="470,630 500,630 530,632 560,632 590,630 620,630 650,630 680,630 710,632 740,632 770,632 800,632 830,630 860,630 890,630 920,630 950,632 980,632 1010,632 1040,632 1070,632 1100,632 1130,632 1160,632 1190,632 1220,632 1250,634 1280,634 1310,632 1340,634 1370,634 1400,634 1430,634 1460,634 1490,632 1520,632 1550,630 1578,630"
+                         HEIGHT="68"
+                         WIDTH="1113"
+                         VPOS="579"
+                         HPOS="462">
+                  <String ID="string_TextRegion_1675684767158_67370_tl_1"
+                          HEIGHT="68"
+                          WIDTH="1113"
+                          VPOS="579"
+                          HPOS="462"
+                          CONTENT="Astra Fat and Oil Works Ltd. (Culinary fats), 1, Bogen¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684767158_67370_tl_2"
+                         BASELINE="464,670 494,670 524,672 554,672 584,670 614,670 644,670 674,668 704,668 734,670 764,670 794,670 824,670 854,670 884,670 914,670 944,672 974,672 1004,672 1034,672 1064,672 1094,672 1124,672 1154,672 1184,674 1214,672 1244,672 1274,672 1304,672 1334,672 1364,672 1394,672 1424,672 1454,672 1484,672 1514,672 1544,672 1574,672 1580,674"
+                         HEIGHT="66"
+                         WIDTH="1119"
+                         VPOS="635"
+                         HPOS="457">
+                  <String ID="string_TextRegion_1675684767158_67370_tl_2"
+                          HEIGHT="66"
+                          WIDTH="1119"
+                          VPOS="635"
+                          HPOS="457"
+                          CONTENT="schützenstrasse, Berne; Phone (031) 200 55; Telgr. Astra Berne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684766309_67366"
+                       HEIGHT="105"
+                       WIDTH="1344"
+                       VPOS="689"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,689 1649,689 1649,794 305,794"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684766309_67366_tl_1"
+                         BASELINE="468,732 498,732 528,732 558,732 588,730 618,730 648,732 678,732 708,734 738,732 768,732 798,732 828,732 858,732 888,732 918,732 948,732 978,732 1008,732 1038,732 1068,732 1098,730 1128,732 1158,732 1188,732 1218,732 1248,732 1278,734 1308,734 1338,734 1368,732 1398,734 1428,734 1458,734 1488,734 1518,734 1548,736 1578,736 1582,738"
+                         HEIGHT="80"
+                         WIDTH="1119"
+                         VPOS="691"
+                         HPOS="460">
+                  <String ID="string_TextRegion_1675684766309_67366_tl_1"
+                          HEIGHT="80"
+                          WIDTH="1119"
+                          VPOS="691"
+                          HPOS="460"
+                          CONTENT="Th. Beyer, 5, Rämistrasse, Zurich; Phone (051) 24 64 62; Telgr."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684766309_67366_tl_2"
+                         BASELINE="472,770 502,772 532,772 562,772 592,774 622,772 652,772 682,774 712,772 742,774 772,774 802,774"
+                         HEIGHT="59"
+                         WIDTH="337"
+                         VPOS="738"
+                         HPOS="462">
+                  <String ID="string_TextRegion_1675684766309_67366_tl_2"
+                          HEIGHT="59"
+                          WIDTH="337"
+                          VPOS="738"
+                          HPOS="462"
+                          CONTENT="Ragosine Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684765075_67362"
+                       HEIGHT="98"
+                       WIDTH="1344"
+                       VPOS="794"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,794 1649,794 1649,892 305,892"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684765075_67362_tl_1"
+                         BASELINE="468,830 498,830 528,832 558,832 588,830 618,830 648,830 678,830 708,830 738,830 768,830 798,828 828,830 858,830 888,830 918,830 948,830 978,832 1008,830 1038,832 1068,832 1098,832 1128,830 1158,830 1188,832 1218,830 1248,830 1278,832 1308,832 1338,832 1368,830 1398,830 1428,832 1458,832 1488,832 1518,830 1548,830 1578,832 1586,830"
+                         HEIGHT="99"
+                         WIDTH="1122"
+                         VPOS="764"
+                         HPOS="460">
+                  <String ID="string_TextRegion_1675684765075_67362_tl_1"
+                          HEIGHT="99"
+                          WIDTH="1122"
+                          VPOS="764"
+                          HPOS="460"
+                          CONTENT="Carl Brandenberger (dealer), 37, Rämistrasse, Zurich; Phone"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684765075_67362_tl_2"
+                         BASELINE="476,870 506,870 536,872 566,870 596,872 626,872 656,870 686,870 716,870 746,870 776,870 806,870 836,870 866,872 896,870 926,870 956,870 986,870 1016,870 1046,872 1076,870 1106,872 1122,870"
+                         HEIGHT="66"
+                         WIDTH="650"
+                         VPOS="834"
+                         HPOS="468">
+                  <String ID="string_TextRegion_1675684765075_67362_tl_2"
+                          HEIGHT="66"
+                          WIDTH="650"
+                          VPOS="834"
+                          HPOS="468"
+                          CONTENT="(051) 3277 67; Telgr. Braca, Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684764024_67358"
+                       HEIGHT="100"
+                       WIDTH="1344"
+                       VPOS="892"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,892 1649,892 1649,992 305,992"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684764024_67358_tl_1"
+                         BASELINE="470,930 500,928 530,932 560,932 590,932 620,930 650,932 680,932 710,930 740,932 770,932 800,932 830,932 860,932 890,932 920,932 950,932 980,932 1010,932 1040,932 1070,932 1100,932 1130,932 1160,932 1190,934 1220,934 1250,934 1280,934 1310,932 1340,932 1370,932 1400,932 1430,932 1460,932 1490,932 1520,932 1550,934 1576,934"
+                         HEIGHT="81"
+                         WIDTH="1110"
+                         VPOS="872"
+                         HPOS="462">
+                  <String ID="string_TextRegion_1675684764024_67358_tl_1"
+                          HEIGHT="81"
+                          WIDTH="1110"
+                          VPOS="872"
+                          HPOS="462"
+                          CONTENT="Fehlmann &amp; Co. (culinary fats and oils), 35, rue de la Gare,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684764024_67358_tl_2"
+                         BASELINE="468,970 498,970 528,972 558,972 588,972 618,970 648,972 678,970 708,972 738,970 768,972 798,972 828,972 858,972 888,972 918,972 948,972 978,972 1008,972 1038,972 1068,972 1098,972 1128,972 1158,972 1188,972 1218,972 1248,970 1278,972 1308,972 1338,972 1368,970 1398,972 1428,972 1458,972 1488,970 1518,972 1548,974"
+                         HEIGHT="43"
+                         WIDTH="1084"
+                         VPOS="936"
+                         HPOS="460">
+                  <String ID="string_TextRegion_1675684764024_67358_tl_2"
+                          HEIGHT="43"
+                          WIDTH="1084"
+                          VPOS="936"
+                          HPOS="460"
+                          CONTENT="Morges; Phone (021) 7 29 51; 7 29 52; Telgr. Felco» Morges."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684763334_67354"
+                       HEIGHT="107"
+                       WIDTH="1344"
+                       VPOS="992"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,992 1649,992 1649,1099 305,1099"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684763334_67354_tl_1"
+                         BASELINE="468,1032 498,1032 528,1032 558,1032 588,1032 618,1032 648,1032 678,1030 708,1032 738,1032 768,1032 798,1032 828,1032 858,1032 888,1034 918,1034 948,1034 978,1034 1008,1034 1038,1034 1068,1032 1098,1032 1128,1032 1158,1032 1188,1032 1218,1032 1248,1032 1278,1034 1308,1034 1338,1034 1368,1032 1398,1032 1428,1034 1458,1034 1488,1032 1518,1032 1548,1032 1578,1032 1586,1032"
+                         HEIGHT="65"
+                         WIDTH="1122"
+                         VPOS="982"
+                         HPOS="460">
+                  <String ID="string_TextRegion_1675684763334_67354_tl_1"
+                          HEIGHT="65"
+                          WIDTH="1122"
+                          VPOS="982"
+                          HPOS="460"
+                          CONTENT="Oil &amp; Fat Works Sais, Ltd., 13, Bahnhofstrasse, Zurich; Phone"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684763334_67354_tl_2"
+                         BASELINE="472,1074 502,1074 532,1074 562,1074 592,1072 622,1074 652,1074 682,1074 712,1072 742,1074 772,1074 802,1072 832,1072 862,1074 892,1074 922,1072 952,1074 982,1074 1012,1074 1042,1074 1072,1074 1102,1074 1108,1074"
+                         HEIGHT="56"
+                         WIDTH="640"
+                         VPOS="1038"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684763334_67354_tl_2"
+                          HEIGHT="56"
+                          WIDTH="640"
+                          VPOS="1038"
+                          HPOS="464"
+                          CONTENT="(051) 27 07 33; Telgr.-Oelsais» Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684762105_67350"
+                       HEIGHT="102"
+                       WIDTH="1344"
+                       VPOS="1099"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,1099 1649,1099 1649,1201 305,1201"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684762105_67350_tl_1"
+                         BASELINE="472,1134 502,1134 532,1134 562,1134 592,1136 622,1134 652,1134 682,1134 712,1136 742,1136 772,1136 802,1136 832,1136 862,1136 892,1134 922,1136 952,1136 982,1136 1012,1136 1042,1136 1072,1136 1102,1136 1132,1136 1162,1136 1192,1138 1222,1136 1252,1136 1282,1136 1312,1136 1342,1136 1372,1136 1402,1138 1432,1138 1462,1138 1492,1138 1522,1136 1552,1138 1582,1140 1588,1140"
+                         HEIGHT="81"
+                         WIDTH="1121"
+                         VPOS="1092"
+                         HPOS="462">
+                  <String ID="string_TextRegion_1675684762105_67350_tl_1"
+                          HEIGHT="81"
+                          WIDTH="1121"
+                          VPOS="1092"
+                          HPOS="462"
+                          CONTENT="Hans Rahn &amp; Co., 30, Talacker, Zurich; Phone (051) 25 17 14;"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684762105_67350_tl_2"
+                         BASELINE="476,1174 506,1176 536,1176 566,1176 596,1176 626,1176 656,1176 686,1176 716,1176 746,1176 776,1176 806,1174 836,1176 866,1176 896,1176 926,1176 956,1178 960,1178"
+                         HEIGHT="45"
+                         WIDTH="489"
+                         VPOS="1142"
+                         HPOS="468">
+                  <String ID="string_TextRegion_1675684762105_67350_tl_2"
+                          HEIGHT="45"
+                          WIDTH="489"
+                          VPOS="1142"
+                          HPOS="468"
+                          CONTENT="Telgr. Chemrahne Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684760995_67346"
+                       HEIGHT="142"
+                       WIDTH="1344"
+                       VPOS="1201"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,1201 1649,1201 1649,1343 305,1343"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684760995_67346_tl_1"
+                         BASELINE="472,1236 502,1236 532,1236 562,1236 592,1236 622,1236 652,1236 682,1236 712,1236 742,1236 772,1236 802,1236 832,1236 862,1236 892,1236 922,1238 952,1238 982,1238 1012,1236 1042,1236 1072,1236 1102,1236 1132,1236 1162,1236 1192,1236 1222,1236 1252,1236 1282,1236 1312,1236 1342,1236 1372,1236 1402,1236 1432,1236 1462,1236 1492,1238 1522,1236 1552,1236 1582,1236"
+                         HEIGHT="67"
+                         WIDTH="1114"
+                         VPOS="1187"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684760995_67346_tl_1"
+                          HEIGHT="67"
+                          WIDTH="1114"
+                          VPOS="1187"
+                          HPOS="464"
+                          CONTENT="Emile Scheller &amp; Co. Ltd. (Vegetable and animal oils, also"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684760995_67346_tl_2"
+                         BASELINE="472,1276 502,1276 532,1276 562,1276 592,1276 622,1276 652,1276 682,1276 712,1276 742,1278 772,1276 802,1276 832,1276 862,1276 892,1276 922,1276 952,1278 982,1278 1012,1276 1042,1278 1072,1278 1102,1276 1132,1276 1162,1276 1192,1276 1222,1276 1252,1276 1282,1276 1312,1278 1342,1276 1372,1276 1402,1276 1432,1276 1462,1276 1492,1276 1522,1276 1552,1276 1582,1276"
+                         HEIGHT="52"
+                         WIDTH="1114"
+                         VPOS="1237"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684760995_67346_tl_2"
+                          HEIGHT="52"
+                          WIDTH="1114"
+                          VPOS="1237"
+                          HPOS="464"
+                          CONTENT="seeds), 21, Hottingerstrasse, Zurich; Phone (051) 32 68 60; Telgr."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684760995_67346_tl_3"
+                         BASELINE="472,1312 502,1314 532,1314 562,1316 592,1316 622,1314 652,1316 682,1316 712,1316 742,1316 772,1318 778,1318"
+                         HEIGHT="68"
+                         WIDTH="312"
+                         VPOS="1279"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684760995_67346_tl_3"
+                          HEIGHT="68"
+                          WIDTH="312"
+                          VPOS="1279"
+                          HPOS="464"
+                          CONTENT="Acidus Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684760229_67342"
+                       HEIGHT="140"
+                       WIDTH="1344"
+                       VPOS="1343"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,1343 1649,1343 1649,1483 305,1483"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684760229_67342_tl_1"
+                         BASELINE="474,1374 504,1376 534,1376 564,1376 594,1376 624,1376 654,1376 684,1376 714,1376 744,1376 774,1376 804,1376 834,1376 864,1376 894,1378 924,1378 954,1378 984,1378 1014,1378 1044,1376 1074,1376 1104,1376 1134,1376 1164,1376 1194,1376 1224,1376 1254,1376 1284,1376 1314,1378 1344,1378 1374,1378 1404,1378 1434,1378 1464,1380 1494,1378 1524,1378 1554,1378 1584,1378"
+                         HEIGHT="79"
+                         WIDTH="1114"
+                         VPOS="1317"
+                         HPOS="467">
+                  <String ID="string_TextRegion_1675684760229_67342_tl_1"
+                          HEIGHT="79"
+                          WIDTH="1114"
+                          VPOS="1317"
+                          HPOS="467"
+                          CONTENT="Swiss Tanners Trading Co., 25, Walchestrasse, Zurich; Phone"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684760229_67342_tl_2"
+                         BASELINE="472,1418 502,1418 532,1418 562,1418 592,1418 622,1416 652,1416 682,1418 712,1418 742,1416 772,1416 802,1416 832,1416 862,1418 892,1416 922,1418 952,1418 982,1418 1012,1418 1042,1418 1072,1418 1102,1416 1132,1416 1162,1416 1192,1416 1222,1416 1252,1418 1282,1418 1312,1418 1342,1418 1364,1418"
+                         HEIGHT="60"
+                         WIDTH="897"
+                         VPOS="1382"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684760229_67342_tl_2"
+                          HEIGHT="60"
+                          WIDTH="897"
+                          VPOS="1382"
+                          HPOS="464"
+                          CONTENT="(051) 26 4777; 26 47 78; Telgr. Tanneurs, Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684759317_67338"
+                       HEIGHT="87"
+                       WIDTH="1344"
+                       VPOS="1483"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,1483 1649,1483 1649,1570 305,1570"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684759317_67338_tl_1"
+                         BASELINE="396,1548 426,1550 456,1550 486,1550 516,1550 546,1550 576,1548 606,1550 636,1550 666,1550 676,1550"
+                         HEIGHT="81"
+                         WIDTH="286"
+                         VPOS="1491"
+                         HPOS="388">
+                  <String ID="string_TextRegion_1675684759317_67338_tl_1"
+                          HEIGHT="81"
+                          WIDTH="286"
+                          VPOS="1491"
+                          HPOS="388"
+                          CONTENT="Fatty Alcools"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684758473_67334"
+                       HEIGHT="188"
+                       WIDTH="1344"
+                       VPOS="1570"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,1570 1649,1570 1649,1758 305,1758"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684758473_67334_tl_1"
+                         BASELINE="476,1614 506,1616 536,1616 566,1614 596,1614 626,1614 656,1614 686,1616 716,1614 746,1614 776,1614 806,1614 836,1616 866,1616 896,1614 926,1616 956,1614 986,1616 1016,1616 1046,1614 1076,1614 1106,1614 1136,1614 1166,1614 1196,1614 1226,1614 1256,1614 1286,1614 1316,1614 1346,1614 1376,1614 1406,1616 1436,1614 1466,1614 1496,1614 1526,1614 1556,1616 1580,1616"
+                         HEIGHT="77"
+                         WIDTH="1108"
+                         VPOS="1553"
+                         HPOS="468">
+                  <String ID="string_TextRegion_1675684758473_67334_tl_1"
+                          HEIGHT="77"
+                          WIDTH="1108"
+                          VPOS="1553"
+                          HPOS="468"
+                          CONTENT="Cyclo Chemicals Ltd. (and sulphonated fatty alcohol products),"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684758473_67334_tl_2"
+                         BASELINE="474,1654 504,1654 534,1654 564,1654 594,1654 624,1654 654,1654 684,1654 714,1654 744,1654 774,1654 804,1654 834,1654 864,1654 894,1652 924,1654 954,1654 984,1654 1014,1656 1044,1654 1074,1654 1104,1652 1134,1652 1164,1650 1194,1652 1224,1654 1254,1654 1284,1654 1314,1652 1344,1654 1374,1654 1404,1652 1434,1650 1464,1652 1494,1652 1524,1654 1554,1652 1584,1654"
+                         HEIGHT="59"
+                         WIDTH="1114"
+                         VPOS="1617"
+                         HPOS="467">
+                  <String ID="string_TextRegion_1675684758473_67334_tl_2"
+                          HEIGHT="59"
+                          WIDTH="1114"
+                          VPOS="1617"
+                          HPOS="467"
+                          CONTENT="Manfield House, 376 Strand, London W.C. 2; Phone Temple"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684758473_67334_tl_3"
+                         BASELINE="472,1692 502,1694 532,1694 562,1694 592,1694 622,1694 652,1694 682,1694 712,1694 742,1694 772,1694 802,1694 832,1694 862,1692 892,1694 922,1692 952,1694 982,1694 1012,1694 1042,1694 1072,1694 1102,1694 1132,1692 1162,1692 1192,1694 1212,1696"
+                         HEIGHT="67"
+                         WIDTH="744"
+                         VPOS="1652"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684758473_67334_tl_3"
+                          HEIGHT="67"
+                          WIDTH="744"
+                          VPOS="1652"
+                          HPOS="464"
+                          CONTENT="Bar 3855; 8619; Telgr. Cyclosol, London."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684757844_67330"
+                       HEIGHT="94"
+                       WIDTH="1344"
+                       VPOS="1758"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,1758 1649,1758 1649,1852 305,1852"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684757844_67330_tl_1"
+                         BASELINE="402,1824 432,1826 462,1828 492,1826 522,1826 552,1826 582,1828 612,1828 642,1826 672,1826 702,1826 732,1826 750,1826"
+                         HEIGHT="95"
+                         WIDTH="353"
+                         VPOS="1764"
+                         HPOS="394">
+                  <String ID="string_TextRegion_1675684757844_67330_tl_1"
+                          HEIGHT="95"
+                          WIDTH="353"
+                          VPOS="1764"
+                          HPOS="394"
+                          CONTENT="File Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684756975_67326"
+                       HEIGHT="153"
+                       WIDTH="1344"
+                       VPOS="1852"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,1852 1649,1852 1649,2005 305,2005"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684756975_67326_tl_1"
+                         BASELINE="478,1890 508,1892 538,1892 568,1890 598,1890 628,1892 658,1892 688,1892 718,1892 748,1894 778,1892 808,1892 838,1890 868,1890 898,1892 928,1890 958,1892 988,1892 1018,1890 1048,1890 1078,1890 1108,1892 1138,1892 1168,1892 1198,1892 1228,1892 1258,1890 1288,1890 1318,1890 1348,1892 1378,1892 1408,1890 1438,1892 1468,1892 1498,1892 1528,1892 1558,1892 1584,1890"
+                         HEIGHT="80"
+                         WIDTH="1110"
+                         VPOS="1827"
+                         HPOS="471">
+                  <String ID="string_TextRegion_1675684756975_67326_tl_1"
+                          HEIGHT="80"
+                          WIDTH="1110"
+                          VPOS="1827"
+                          HPOS="471"
+                          CONTENT="Usines Métallurgiques de Vallorbe S. A. (files and tools), Val¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684756975_67326_tl_2"
+                         BASELINE="472,1934 494,1934 524,1932 554,1934 584,1934 614,1932 644,1932 674,1934 704,1934 734,1932 764,1932 794,1932 824,1930 854,1932 884,1932 914,1932 944,1932 974,1932 1004,1932 1034,1932 1064,1932 1094,1932 1124,1932 1154,1932 1184,1932 1214,1932 1244,1932 1274,1932 1304,1932 1334,1930 1364,1932 1394,1932 1424,1930 1454,1932 1484,1932 1514,1932"
+                         HEIGHT="62"
+                         WIDTH="1047"
+                         VPOS="1893"
+                         HPOS="464">
+                  <String ID="string_TextRegion_1675684756975_67326_tl_2"
+                          HEIGHT="62"
+                          WIDTH="1047"
+                          VPOS="1893"
+                          HPOS="464"
+                          CONTENT="lorbe (Vaud); Phone (021) 841 36; Telgr. Limes» Vallorbe."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684756164_67322"
+                       HEIGHT="81"
+                       WIDTH="1344"
+                       VPOS="2005"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,2005 1649,2005 1649,2086 305,2086"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684756164_67322_tl_1"
+                         BASELINE="400,2060 430,2062 460,2062 490,2062 520,2062 550,2062 580,2062 610,2062 640,2062 670,2062 690,2062"
+                         HEIGHT="76"
+                         WIDTH="295"
+                         VPOS="2008"
+                         HPOS="392">
+                  <String ID="string_TextRegion_1675684756164_67322_tl_1"
+                          HEIGHT="76"
+                          WIDTH="295"
+                          VPOS="2008"
+                          HPOS="392"
+                          CONTENT="Film Producers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675684755384_67318"
+                       HEIGHT="148"
+                       WIDTH="1344"
+                       VPOS="2086"
+                       HPOS="305"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="305,2086 1649,2086 1649,2234 305,2234"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675684755384_67318_tl_1"
+                         BASELINE="474,2128 482,2128 512,2128 542,2128 572,2128 602,2128 632,2128 662,2128 692,2128 722,2128 752,2128 782,2128 812,2128 842,2128 872,2128 902,2128 932,2128 962,2128 992,2128 1022,2128 1052,2126 1082,2126 1112,2126 1142,2126 1172,2126 1202,2126 1232,2126 1262,2126 1292,2126 1322,2126 1352,2126 1382,2126 1412,2126 1442,2126 1472,2126 1502,2126 1532,2126 1562,2126 1592,2126"
+                         HEIGHT="68"
+                         WIDTH="1122"
+                         VPOS="2068"
+                         HPOS="467">
+                  <String ID="string_TextRegion_1675684755384_67318_tl_1"
+                          HEIGHT="68"
+                          WIDTH="1122"
+                          VPOS="2068"
+                          HPOS="467"
+                          CONTENT="Central Film A. G. (Producers and distributors of all kinds of"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684755384_67318_tl_2"
+                         BASELINE="476,2168 506,2168 536,2168 566,2170 596,2170 626,2168 656,2168 686,2168 716,2168 746,2168 776,2168 806,2168 836,2168 866,2168 896,2168 926,2168 956,2168 986,2168 1016,2168 1046,2168 1076,2168 1106,2168 1136,2168 1166,2168 1196,2168 1226,2168 1256,2168 1286,2168 1316,2168 1346,2168 1376,2168 1406,2166 1436,2166 1466,2166 1496,2166 1526,2166 1556,2166 1586,2166"
+                         HEIGHT="58"
+                         WIDTH="1114"
+                         VPOS="2131"
+                         HPOS="468">
+                  <String ID="string_TextRegion_1675684755384_67318_tl_2"
+                          HEIGHT="58"
+                          WIDTH="1114"
+                          VPOS="2131"
+                          HPOS="468"
+                          CONTENT="films), 11, Weinbergstrasse, Zurich; Phone (051) 26 47 85; 26 47 86;"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675684755384_67318_tl_3"
+                         BASELINE="476,2208 506,2208 536,2208 566,2210 596,2208 626,2210 656,2208 686,2208 716,2208 746,2208 776,2208 806,2208 836,2208 866,2208 896,2208 926,2208 956,2208 980,2208"
+                         HEIGHT="67"
+                         WIDTH="510"
+                         VPOS="2175"
+                         HPOS="468">
+                  <String ID="string_TextRegion_1675684755384_67318_tl_3"
+                          HEIGHT="67"
+                          WIDTH="510"
+                          VPOS="2175"
+                          HPOS="468"
+                          CONTENT="Telgr. «Centralfilm Zurich."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

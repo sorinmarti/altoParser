@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1929_49 seiten-0049.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T11:59:35.929+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2654" WIDTH="1768">
+         <TopMargin HEIGHT="0" WIDTH="1768" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2654" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2654" WIDTH="0" VPOS="0" HPOS="1768"/>
+         <BottomMargin HEIGHT="0" WIDTH="1768" VPOS="2654" HPOS="0"/>
+         <PrintSpace HEIGHT="2654" WIDTH="1768" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_8"
+                       HEIGHT="268"
+                       WIDTH="336"
+                       VPOS="254"
+                       HPOS="290"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="290,254 626,254 626,522 290,522"/>
+               </Shape>
+               <TextLine ID="tr_8_tl_2"
+                         BASELINE="474,422 480,420 510,420 540,420 570,418"
+                         HEIGHT="86"
+                         WIDTH="100"
+                         VPOS="356"
+                         HPOS="469">
+                  <String ID="string_tr_8_tl_2"
+                          HEIGHT="86"
+                          WIDTH="100"
+                          VPOS="356"
+                          HPOS="469"
+                          CONTENT="TEL"/>
+               </TextLine>
+               <TextLine ID="tr_8_tl_3"
+                         BASELINE="290,508 320,510 350,510 380,508 410,508 440,510 470,508 500,508 530,508 560,508 590,506 620,512 622,512"
+                         HEIGHT="103"
+                         WIDTH="335"
+                         VPOS="439"
+                         HPOS="285">
+                  <String ID="string_tr_8_tl_3"
+                          HEIGHT="103"
+                          WIDTH="335"
+                          VPOS="439"
+                          HPOS="285"
+                          CONTENT="OF COMM"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_5"
+                       HEIGHT="462"
+                       WIDTH="422"
+                       VPOS="872"
+                       HPOS="242"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="242,872 664,872 664,1334 242,1334"/>
+               </Shape>
+               <TextLine ID="tr_5_tl_1"
+                         BASELINE="464,924 484,924 514,922 544,922 574,922 604,924 634,924 664,932"
+                         HEIGHT="74"
+                         WIDTH="204"
+                         VPOS="868"
+                         HPOS="458">
+                  <String ID="string_tr_5_tl_1"
+                          HEIGHT="74"
+                          WIDTH="204"
+                          VPOS="868"
+                          HPOS="458"
+                          CONTENT="SIXTHE"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_2"
+                         BASELINE="328,1082 358,1082 388,1082 418,1082 448,1082 478,1082 508,1084 538,1084 568,1084 598,1086 622,1086"
+                         HEIGHT="76"
+                         WIDTH="298"
+                         VPOS="1020"
+                         HPOS="322">
+                  <String ID="string_tr_5_tl_2"
+                          HEIGHT="76"
+                          WIDTH="298"
+                          VPOS="1020"
+                          HPOS="322"
+                          CONTENT="THIS TRADE INE"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_3"
+                         BASELINE="324,1128 354,1130 384,1130 414,1126 444,1128 474,1126 504,1128 534,1126 564,1126 594,1130 596,1130"
+                         HEIGHT="55"
+                         WIDTH="275"
+                         VPOS="1092"
+                         HPOS="319">
+                  <String ID="string_tr_5_tl_3"
+                          HEIGHT="55"
+                          WIDTH="275"
+                          VPOS="1092"
+                          HPOS="319"
+                          CONTENT="ALL MEMBERS"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_4"
+                         BASELINE="436,1172 466,1172 496,1170 526,1170 556,1172 586,1174 616,1174 624,1174"
+                         HEIGHT="58"
+                         WIDTH="192"
+                         VPOS="1139"
+                         HPOS="430">
+                  <String ID="string_tr_5_tl_4"
+                          HEIGHT="58"
+                          WIDTH="192"
+                          VPOS="1139"
+                          HPOS="430"
+                          CONTENT="CHAMBERS"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_5"
+                         BASELINE="436,1218 466,1218 496,1218 526,1218 556,1218 586,1220 616,1220 628,1218"
+                         HEIGHT="57"
+                         WIDTH="195"
+                         VPOS="1185"
+                         HPOS="431">
+                  <String ID="string_tr_5_tl_5"
+                          HEIGHT="57"
+                          WIDTH="195"
+                          VPOS="1185"
+                          HPOS="431"
+                          CONTENT="INSTITUTIE"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_6"
+                         BASELINE="272,1294 302,1294 332,1294 362,1294 392,1294 422,1294 452,1294 482,1294 512,1296 542,1296 572,1294 602,1296 618,1296"
+                         HEIGHT="62"
+                         WIDTH="349"
+                         VPOS="1238"
+                         HPOS="267">
+                  <String ID="string_tr_5_tl_6"
+                          HEIGHT="62"
+                          WIDTH="349"
+                          VPOS="1238"
+                          HPOS="267"
+                          CONTENT="bessessessessessessesses"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_7"
+                       HEIGHT="196"
+                       WIDTH="350"
+                       VPOS="2092"
+                       HPOS="264"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="264,2092 614,2092 614,2288 264,2288"/>
+               </Shape>
+               <TextLine ID="tr_7_tl_1"
+                         BASELINE="520,2144 524,2142 554,2142 584,2142 614,2142"
+                         HEIGHT="98"
+                         WIDTH="98"
+                         VPOS="2069"
+                         HPOS="515">
+                  <String ID="string_tr_7_tl_1"
+                          HEIGHT="98"
+                          WIDTH="98"
+                          VPOS="2069"
+                          HPOS="515"
+                          CONTENT="AL"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_4"
+                       HEIGHT="178"
+                       WIDTH="324"
+                       VPOS="142"
+                       HPOS="1136"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="1136,142 1460,142 1460,320 1136,320"/>
+               </Shape>
+               <TextLine ID="tr_4_tl_1"
+                         BASELINE="1320,192 1350,200 1372,196"
+                         HEIGHT="92"
+                         WIDTH="64"
+                         VPOS="128"
+                         HPOS="1309">
+                  <String ID="string_tr_4_tl_1"
+                          HEIGHT="92"
+                          WIDTH="64"
+                          VPOS="128"
+                          HPOS="1309"
+                          CONTENT="2"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_2"
+                         BASELINE="1136,260 1166,268 1196,266 1210,266"
+                         HEIGHT="76"
+                         WIDTH="81"
+                         VPOS="205"
+                         HPOS="1128">
+                  <String ID="string_tr_4_tl_2"
+                          HEIGHT="76"
+                          WIDTH="81"
+                          VPOS="205"
+                          HPOS="1128"
+                          CONTENT="A"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_3"
+                         BASELINE="1296,272 1326,274 1344,274"
+                         HEIGHT="57"
+                         WIDTH="54"
+                         VPOS="224"
+                         HPOS="1288">
+                  <String ID="string_tr_4_tl_3"
+                          HEIGHT="57"
+                          WIDTH="54"
+                          VPOS="224"
+                          HPOS="1288"
+                          CONTENT="A"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_4"
+                         BASELINE="1410,306 1440,306 1460,310"
+                         HEIGHT="108"
+                         WIDTH="60"
+                         VPOS="231"
+                         HPOS="1400">
+                  <String ID="string_tr_4_tl_4"
+                          HEIGHT="108"
+                          WIDTH="60"
+                          VPOS="231"
+                          HPOS="1400"
+                          CONTENT="1"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_6"
+                       HEIGHT="382"
+                       WIDTH="720"
+                       VPOS="370"
+                       HPOS="728"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="728,370 1448,370 1448,752 728,752"/>
+               </Shape>
+               <TextLine ID="tr_6_tl_1"
+                         BASELINE="908,420 938,422 968,422 998,422 1028,422 1058,422 1088,422 1118,420 1148,420 1178,420 1208,422 1238,424 1256,428"
+                         HEIGHT="82"
+                         WIDTH="351"
+                         VPOS="358"
+                         HPOS="903">
+                  <String ID="string_tr_6_tl_1"
+                          HEIGHT="82"
+                          WIDTH="351"
+                          VPOS="358"
+                          HPOS="903"
+                          CONTENT="CHAMBER"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_3"
+                         BASELINE="856,514 878,510 908,510 938,510 968,510 998,510 1028,510 1058,510 1088,510 1118,510 1148,512 1178,512 1208,514 1238,512 1268,514 1298,512 1328,514 1358,514 1388,514 1418,514 1448,512"
+                         HEIGHT="120"
+                         WIDTH="596"
+                         VPOS="434"
+                         HPOS="850">
+                  <String ID="string_tr_6_tl_3"
+                          HEIGHT="120"
+                          WIDTH="596"
+                          VPOS="434"
+                          HPOS="850"
+                          CONTENT="DR SWITZERLAND"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_4"
+                         BASELINE="820,574 850,576 880,576 910,580 940,578 970,580 1000,580 1030,580 1044,580"
+                         HEIGHT="80"
+                         WIDTH="228"
+                         VPOS="531"
+                         HPOS="814">
+                  <String ID="string_tr_6_tl_4"
+                          HEIGHT="80"
+                          WIDTH="228"
+                          VPOS="531"
+                          HPOS="814"
+                          CONTENT="RATED"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_5"
+                         BASELINE="728,670 758,670 782,670"
+                         HEIGHT="48"
+                         WIDTH="57"
+                         VPOS="637"
+                         HPOS="723">
+                  <String ID="string_tr_6_tl_5"
+                          HEIGHT="48"
+                          WIDTH="57"
+                          VPOS="637"
+                          HPOS="723"
+                          CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_6"
+                         BASELINE="730,734 760,738 780,742"
+                         HEIGHT="89"
+                         WIDTH="64"
+                         VPOS="674"
+                         HPOS="716">
+                  <String ID="string_tr_6_tl_6"
+                          HEIGHT="89"
+                          WIDTH="64"
+                          VPOS="674"
+                          HPOS="716"
+                          CONTENT="2"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="542"
+                       WIDTH="618"
+                       VPOS="792"
+                       HPOS="818"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="818,792 1436,792 1436,1334 818,1334"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="1136,842 1166,842 1196,846 1226,848 1256,850 1270,850"
+                         HEIGHT="93"
+                         WIDTH="140"
+                         VPOS="781"
+                         HPOS="1127">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="93"
+                          WIDTH="140"
+                          VPOS="781"
+                          HPOS="1127"
+                          CONTENT="1"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="888,920 918,920 948,922 978,922 1008,924 1038,924 1068,924 1098,924 1128,924 1158,924 1188,924 1218,924 1248,926 1270,926"
+                         HEIGHT="83"
+                         WIDTH="386"
+                         VPOS="866"
+                         HPOS="882">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="83"
+                          WIDTH="386"
+                          VPOS="866"
+                          HPOS="882"
+                          CONTENT="1929-1930"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="818,1064 846,1074 876,1084 906,1084 936,1086 966,1086 996,1084 1026,1086 1056,1086 1086,1086 1116,1086 1146,1086 1176,1086 1206,1086 1236,1086 1266,1086 1296,1086 1326,1086 1356,1086 1386,1086 1398,1086"
+                         HEIGHT="96"
+                         WIDTH="585"
+                         VPOS="1010"
+                         HPOS="812">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="96"
+                          WIDTH="585"
+                          VPOS="1010"
+                          HPOS="812"
+                          CONTENT="HAUTED FREE OF CHANGE TO"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="836,1126 866,1126 896,1128 926,1130 956,1130 986,1130 1016,1132 1046,1132 1076,1130 1106,1130 1136,1130 1166,1130 1196,1132 1226,1132 1256,1132 1286,1132 1316,1132 1346,1132 1376,1132 1398,1130"
+                         HEIGHT="48"
+                         WIDTH="566"
+                         VPOS="1093"
+                         HPOS="831">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="48"
+                          WIDTH="566"
+                          VPOS="1093"
+                          HPOS="831"
+                          CONTENT="EMBER AND TO ALL BRITISH"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="860,1174 890,1174 920,1174 950,1176 980,1176 1010,1176 1040,1176 1070,1176 1100,1176 1130,1176 1160,1176 1190,1176 1220,1176 1250,1176 1280,1178 1302,1176"
+                         HEIGHT="47"
+                         WIDTH="445"
+                         VPOS="1143"
+                         HPOS="855">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="47"
+                          WIDTH="445"
+                          VPOS="1143"
+                          HPOS="855"
+                          CONTENT="CE AND OTHER SIMILAR"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="870,1218 900,1218 930,1220 960,1222 990,1222 1020,1222 1050,1222 1080,1222 1110,1222 1140,1222 1170,1222 1200,1222 1230,1222 1260,1222 1290,1224 1292,1224"
+                         HEIGHT="68"
+                         WIDTH="425"
+                         VPOS="1189"
+                         HPOS="865">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="68"
+                          WIDTH="425"
+                          VPOS="1189"
+                          HPOS="865"
+                          CONTENT="PROMOTION OF TRADE."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_7"
+                         BASELINE="866,1296 896,1298 926,1298 956,1298 986,1298 1016,1298 1036,1298"
+                         HEIGHT="97"
+                         WIDTH="174"
+                         VPOS="1222"
+                         HPOS="861">
+                  <String ID="string_tr_2_tl_7"
+                          HEIGHT="97"
+                          WIDTH="174"
+                          VPOS="1222"
+                          HPOS="861"
+                          CONTENT="."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_8"
+                         BASELINE="1154,1296 1184,1298 1214,1298 1244,1298 1274,1298 1304,1298 1334,1298 1364,1298 1394,1296 1396,1296"
+                         HEIGHT="55"
+                         WIDTH="245"
+                         VPOS="1248"
+                         HPOS="1149">
+                  <String ID="string_tr_2_tl_8"
+                          HEIGHT="55"
+                          WIDTH="245"
+                          VPOS="1248"
+                          HPOS="1149"
+                          CONTENT="cessessessessesses"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_9"
+                         BASELINE="870,1324 900,1324 930,1324 960,1324 990,1324 1020,1324 1050,1324 1080,1324 1110,1324 1140,1324 1170,1324 1200,1324 1230,1324 1260,1324 1290,1324 1320,1324 1350,1324 1380,1324 1410,1324 1436,1324"
+                         HEIGHT="46"
+                         WIDTH="569"
+                         VPOS="1313"
+                         HPOS="865">
+                  <String ID="string_tr_2_tl_9"
+                          HEIGHT="46"
+                          WIDTH="569"
+                          VPOS="1313"
+                          HPOS="865"
+                          CONTENT="bestessessessessessessessessessessessesses besse¬"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="292"
+                       WIDTH="850"
+                       VPOS="1760"
+                       HPOS="548"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="548,1760 1398,1760 1398,2052 548,2052"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="548,1810 578,1812 608,1810"
+                         HEIGHT="106"
+                         WIDTH="64"
+                         VPOS="1735"
+                         HPOS="543">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="106"
+                          WIDTH="64"
+                          VPOS="1735"
+                          HPOS="543"
+                          CONTENT="C"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="974,1810 1004,1814 1034,1812 1064,1812 1094,1812 1124,1812 1154,1814 1184,1814 1214,1816 1244,1814 1274,1814 1304,1812 1334,1812 1364,1814 1394,1818 1396,1818"
+                         HEIGHT="105"
+                         WIDTH="426"
+                         VPOS="1737"
+                         HPOS="969">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="105"
+                          WIDTH="426"
+                          VPOS="1737"
+                          HPOS="969"
+                          CONTENT="CHEESE"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="658,1908 670,1888 662,1858"
+                         HEIGHT="56"
+                         WIDTH="104"
+                         VPOS="1859"
+                         HPOS="582">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="56"
+                          WIDTH="104"
+                          VPOS="1859"
+                          HPOS="582"
+                          CONTENT="I"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_4"
+                         BASELINE="842,1885 874,1886 904,1888 934,1888 964,1886 994,1888 1024,1888 1054,1890 1084,1890 1114,1888 1144,1888 1174,1888 1204,1888 1234,1888 1264,1888 1294,1888 1324,1888 1354,1890 1384,1890 1398,1892"
+                         HEIGHT="83"
+                         WIDTH="559"
+                         VPOS="1830"
+                         HPOS="837">
+                  <String ID="string_tr_3_tl_4"
+                          HEIGHT="83"
+                          WIDTH="559"
+                          VPOS="1830"
+                          HPOS="837"
+                          CONTENT="umption in cardboard boxes."/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_5"
+                         BASELINE="850,1930 880,1934 910,1936 940,1936 970,1938 1000,1938 1030,1938 1060,1938 1090,1938 1120,1938 1150,1938 1180,1938 1210,1938 1240,1938 1270,1938 1300,1938 1330,1938 1360,1940 1390,1940 1398,1942"
+                         HEIGHT="84"
+                         WIDTH="551"
+                         VPOS="1894"
+                         HPOS="845">
+                  <String ID="string_tr_3_tl_5"
+                          HEIGHT="84"
+                          WIDTH="551"
+                          VPOS="1894"
+                          HPOS="845"
+                          CONTENT="as in tins and cardboard boxes."/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_6"
+                         BASELINE="840,1984 870,1984 900,1984 930,1986 960,1986 990,1986 1020,1986 1050,1986 1080,1986 1110,1986 1140,1988 1170,1988"
+                         HEIGHT="65"
+                         WIDTH="334"
+                         VPOS="1944"
+                         HPOS="835">
+                  <String ID="string_tr_3_tl_6"
+                          HEIGHT="65"
+                          WIDTH="334"
+                          VPOS="1944"
+                          HPOS="835"
+                          CONTENT="box or tin: 80."/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_7"
+                         BASELINE="832,2032 864,2032 894,2032 924,2034 954,2034 984,2034 1014,2034 1044,2034 1074,2034 1104,2034 1134,2036 1164,2036 1194,2038 1224,2038 1254,2040 1264,2042"
+                         HEIGHT="80"
+                         WIDTH="436"
+                         VPOS="1990"
+                         HPOS="827">
+                  <String ID="string_tr_3_tl_7"
+                          HEIGHT="80"
+                          WIDTH="436"
+                          VPOS="1990"
+                          HPOS="827"
+                          CONTENT="und 12 Portion-Packing."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="344"
+                       WIDTH="750"
+                       VPOS="2092"
+                       HPOS="712"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="712,2092 1462,2092 1462,2436 712,2436"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="866,2144 896,2144 926,2144 956,2144 986,2144 1016,2142 1046,2142 1076,2142 1106,2142 1136,2142 1166,2142 1196,2142 1226,2142 1256,2142 1286,2142 1316,2142 1346,2142 1376,2144 1396,2144"
+                         HEIGHT="94"
+                         WIDTH="534"
+                         VPOS="2072"
+                         HPOS="861">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="94"
+                          WIDTH="534"
+                          VPOS="2072"
+                          HPOS="861"
+                          CONTENT="ESE BURGDORE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="832,2183 864,2184 894,2186 924,2188 954,2190 984,2190 1014,2190 1044,2190 1074,2188 1088,2188"
+                         HEIGHT="80"
+                         WIDTH="261"
+                         VPOS="2146"
+                         HPOS="826">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="80"
+                          WIDTH="261"
+                          VPOS="2146"
+                          HPOS="826"
+                          CONTENT="WITZERLAND"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="840,2274 870,2278 900,2278 930,2278 960,2280 990,2280 1020,2280 1050,2280 1080,2280 1110,2280 1140,2280 1170,2280 1200,2280 1204,2280"
+                         HEIGHT="87"
+                         WIDTH="368"
+                         VPOS="2228"
+                         HPOS="835">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="87"
+                          WIDTH="368"
+                          VPOS="2228"
+                          HPOS="835"
+                          CONTENT="."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="814,2344 844,2344 874,2346 904,2348 934,2348 964,2350 994,2350 1014,2350"
+                         HEIGHT="62"
+                         WIDTH="206"
+                         VPOS="2310"
+                         HPOS="807">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="62"
+                          WIDTH="206"
+                          VPOS="2310"
+                          HPOS="807"
+                          CONTENT="S. BASE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="712,2426 730,2424 760,2424"
+                         HEIGHT="96"
+                         WIDTH="53"
+                         VPOS="2355"
+                         HPOS="706">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="96"
+                          WIDTH="53"
+                          VPOS="2355"
+                          HPOS="706"
+                          CONTENT="N"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

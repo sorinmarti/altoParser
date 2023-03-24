@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1948_189 seiten-0006.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:02:14.818+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2598" WIDTH="1753">
+         <TopMargin HEIGHT="0" WIDTH="1753" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2598" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2598" WIDTH="0" VPOS="0" HPOS="1753"/>
+         <BottomMargin HEIGHT="0" WIDTH="1753" VPOS="2598" HPOS="0"/>
+         <PrintSpace HEIGHT="2598" WIDTH="1753" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="322"
+                       WIDTH="478"
+                       VPOS="1752"
+                       HPOS="1014"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="1014,1752 1492,1752 1492,2074 1014,2074"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="1402,1802 1432,1802 1450,1802"
+                         HEIGHT="70"
+                         WIDTH="51"
+                         VPOS="1738"
+                         HPOS="1397">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="70"
+                          WIDTH="51"
+                          VPOS="1738"
+                          HPOS="1397"
+                          CONTENT="-"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="1050,1808 1080,1808 1110,1808 1140,1810 1170,1812 1178,1810"
+                         HEIGHT="90"
+                         WIDTH="133"
+                         VPOS="1730"
+                         HPOS="1043">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="90"
+                          WIDTH="133"
+                          VPOS="1730"
+                          HPOS="1043"
+                          CONTENT="a"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

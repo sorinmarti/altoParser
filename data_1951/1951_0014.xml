@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1951_85 seiten-0014.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:05.043+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2589" WIDTH="1834">
+         <TopMargin HEIGHT="0" WIDTH="1834" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2589" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2589" WIDTH="0" VPOS="0" HPOS="1834"/>
+         <BottomMargin HEIGHT="0" WIDTH="1834" VPOS="2589" HPOS="0"/>
+         <PrintSpace HEIGHT="2589" WIDTH="1834" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2"
+                       HEIGHT="264"
+                       WIDTH="788"
+                       VPOS="400"
+                       HPOS="696"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="696,400 1484,400 1484,664 696,664"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="696,450 726,450 756,450 786,450 816,450 846,450 876,450 906,450 936,452 966,452 996,454 1026,452 1056,454 1076,454"
+                         HEIGHT="123"
+                         WIDTH="385"
+                         VPOS="376"
+                         HPOS="689">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="123"
+                          WIDTH="385"
+                          VPOS="376"
+                          HPOS="689"
+                          CONTENT="Manufactured by"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="1150,642 1180,644 1210,642 1240,644 1270,644 1300,644 1330,648 1360,646 1364,646 1370,646 1400,644 1430,644 1460,646 1484,648"
+                         HEIGHT="221"
+                         WIDTH="339"
+                         VPOS="486"
+                         HPOS="1142">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="221"
+                          WIDTH="339"
+                          VPOS="486"
+                          HPOS="1142"
+                          CONTENT="ALTE"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="706,646 712,648 742,646 772,648 802,652 832,654 862,650 892,648 922,650 952,648 982,648 1012,644"
+                         HEIGHT="230"
+                         WIDTH="309"
+                         VPOS="493"
+                         HPOS="699">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="230"
+                          WIDTH="309"
+                          VPOS="493"
+                          HPOS="699"
+                          CONTENT="E. J."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_4"
+                       HEIGHT="144"
+                       WIDTH="1046"
+                       VPOS="800"
+                       HPOS="354"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="354,800 1400,800 1400,944 354,944"/>
+               </Shape>
+               <TextLine ID="tr_4_tl_1"
+                         BASELINE="354,852 370,852 400,852 430,852 460,852 490,852 520,852 550,850 580,850 610,850 640,850 670,850 700,850 730,850 760,852 790,852 820,852 850,852 880,852 910,852 940,852 970,850"
+                         HEIGHT="129"
+                         WIDTH="620"
+                         VPOS="770"
+                         HPOS="346">
+                  <String ID="string_tr_4_tl_1"
+                          HEIGHT="129"
+                          WIDTH="620"
+                          VPOS="770"
+                          HPOS="346"
+                          CONTENT="ZURICH Switzerland"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_2"
+                         BASELINE="358,928 388,930 418,930 448,930 478,930 508,930 538,930 568,928 598,928 628,930 658,928 688,930 718,930 748,930 778,932 808,932 838,932 868,932 898,932 928,932 958,934 988,934 1018,932 1048,930 1078,930 1108,930 1138,930 1168,930 1198,930 1228,930 1258,930 1288,930 1318,930 1348,932 1378,932 1400,932"
+                         HEIGHT="106"
+                         WIDTH="1047"
+                         VPOS="872"
+                         HPOS="350">
+                  <String ID="string_tr_4_tl_2"
+                          HEIGHT="106"
+                          WIDTH="1047"
+                          VPOS="872"
+                          HPOS="350"
+                          CONTENT="Hafnerstrasse 31 Telephone (051) 23 35 53 Established 1913"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="236"
+                       WIDTH="616"
+                       VPOS="1248"
+                       HPOS="964"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="964,1248 1580,1248 1580,1484 964,1484"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="982,1308 998,1308 1028,1308 1058,1306 1088,1306 1118,1304 1148,1304 1178,1304 1208,1302 1238,1300 1268,1300 1298,1300 1328,1302 1358,1304 1388,1300 1418,1300 1448,1298 1478,1300 1508,1300 1538,1300 1568,1300"
+                         HEIGHT="126"
+                         WIDTH="592"
+                         VPOS="1205"
+                         HPOS="974">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="126"
+                          WIDTH="592"
+                          VPOS="1205"
+                          HPOS="974"
+                          CONTENT="lypewriter Ribbons"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="970,1410 1000,1410 1030,1410 1060,1410 1090,1410 1120,1410 1150,1410 1180,1410 1210,1410 1240,1410 1270,1410 1300,1410 1330,1412 1360,1412 1390,1414 1420,1412 1450,1414 1480,1414 1510,1414 1540,1414 1570,1412 1580,1414"
+                         HEIGHT="108"
+                         WIDTH="615"
+                         VPOS="1351"
+                         HPOS="962">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="108"
+                          WIDTH="615"
+                          VPOS="1351"
+                          HPOS="962"
+                          CONTENT="of highest Quality for all Types"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="964,1472 994,1472 1024,1472 1054,1472 1084,1474 1114,1474 1144,1474 1174,1474 1202,1474"
+                         HEIGHT="97"
+                         WIDTH="244"
+                         VPOS="1426"
+                         HPOS="955">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="97"
+                          WIDTH="244"
+                          VPOS="1426"
+                          HPOS="955"
+                          CONTENT="of Machines"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="542"
+                       WIDTH="1088"
+                       VPOS="1568"
+                       HPOS="492"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="492,1568 1580,1568 1580,2110 492,2110"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="494,1618 524,1622 554,1620"
+                         HEIGHT="94"
+                         WIDTH="66"
+                         VPOS="1557"
+                         HPOS="485">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="94"
+                          WIDTH="66"
+                          VPOS="1557"
+                          HPOS="485"
+                          CONTENT="by"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="500,1764 530,1764 560,1764 590,1766 620,1766 650,1768 680,1768 710,1770 740,1768 770,1766 800,1768 830,1768 860,1770 890,1770 920,1770 950,1770 980,1768 1010,1768 1040,1770 1070,1768 1100,1770 1130,1770 1160,1770 1190,1772 1220,1770 1250,1770 1280,1772 1310,1770 1340,1770 1370,1770 1400,1770 1430,1770 1460,1768 1490,1768 1520,1770 1550,1770 1580,1770"
+                         HEIGHT="129"
+                         WIDTH="1085"
+                         VPOS="1665"
+                         HPOS="493">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="129"
+                          WIDTH="1085"
+                          VPOS="1665"
+                          HPOS="493"
+                          CONTENT="Budge Carbon Paper MEG."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="492,1842 522,1842 552,1842 582,1842 612,1842 642,1842 672,1842 680,1842"
+                         HEIGHT="93"
+                         WIDTH="192"
+                         VPOS="1797"
+                         HPOS="485">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="93"
+                          WIDTH="192"
+                          VPOS="1797"
+                          HPOS="485"
+                          CONTENT="Co. Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="502,1944 532,1944 562,1946 592,1946 622,1948 652,1946 682,1946 712,1946 742,1948 772,1948 802,1948 832,1950 862,1950 892,1948 922,1948 952,1948 982,1948 1012,1948 1042,1948 1072,1948 1102,1948 1132,1948 1162,1948 1192,1948 1222,1952 1232,1950"
+                         HEIGHT="101"
+                         WIDTH="735"
+                         VPOS="1854"
+                         HPOS="495">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="101"
+                          WIDTH="735"
+                          VPOS="1854"
+                          HPOS="495"
+                          CONTENT="Montreal, Canada"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="970,2094 1000,2096 1030,2096 1060,2096 1090,2096 1120,2096 1150,2098 1180,2098 1210,2098 1240,2098 1270,2098 1300,2098 1330,2098 1360,2098 1390,2098 1420,2098 1450,2100 1480,2100 1510,2100 1536,2100"
+                         HEIGHT="118"
+                         WIDTH="570"
+                         VPOS="2024"
+                         HPOS="961">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="118"
+                          WIDTH="570"
+                          VPOS="2024"
+                          HPOS="961"
+                          CONTENT="Switzerland sales office"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

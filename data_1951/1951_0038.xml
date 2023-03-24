@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1951_85 seiten-0038.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:10.916+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2588" WIDTH="1806">
+         <TopMargin HEIGHT="0" WIDTH="1806" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2588" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2588" WIDTH="0" VPOS="0" HPOS="1806"/>
+         <BottomMargin HEIGHT="0" WIDTH="1806" VPOS="2588" HPOS="0"/>
+         <PrintSpace HEIGHT="2588" WIDTH="1806" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="348"
+                       WIDTH="368"
+                       VPOS="1586"
+                       HPOS="980"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="980,1586 1348,1586 1348,1934 980,1934"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="1148,1664 1174,1666 1204,1658 1234,1652 1264,1644 1264,1644 1288,1640 1318,1636 1348,1636"
+                         HEIGHT="158"
+                         WIDTH="220"
+                         VPOS="1530"
+                         HPOS="1139">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="158"
+                          WIDTH="220"
+                          VPOS="1530"
+                          HPOS="1139"
+                          CONTENT="0"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="980,1702 1008,1696 1038,1690"
+                         HEIGHT="154"
+                         WIDTH="83"
+                         VPOS="1561"
+                         HPOS="976">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="154"
+                          WIDTH="83"
+                          VPOS="1561"
+                          HPOS="976"
+                          CONTENT="1"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="1186,1916 1212,1904 1242,1900 1272,1898"
+                         HEIGHT="75"
+                         WIDTH="97"
+                         VPOS="1848"
+                         HPOS="1183">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="75"
+                          WIDTH="97"
+                          VPOS="1848"
+                          HPOS="1183"
+                          CONTENT="0"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="1116,1924 1136,1922 1166,1918"
+                         HEIGHT="97"
+                         WIDTH="60"
+                         VPOS="1848"
+                         HPOS="1110">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="97"
+                          WIDTH="60"
+                          VPOS="1848"
+                          HPOS="1110"
+                          CONTENT="0"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

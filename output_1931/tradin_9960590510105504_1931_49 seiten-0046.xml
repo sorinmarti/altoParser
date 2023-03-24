@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1931_49 seiten-0046.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T11:59:08.12+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2660" WIDTH="1759">
+         <TopMargin HEIGHT="0" WIDTH="1759" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2660" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2660" WIDTH="0" VPOS="0" HPOS="1759"/>
+         <BottomMargin HEIGHT="0" WIDTH="1759" VPOS="2660" HPOS="0"/>
+         <PrintSpace HEIGHT="2660" WIDTH="1759" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675540656104_50518"
+                       HEIGHT="70"
+                       WIDTH="1183"
+                       VPOS="386"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,386 1547,386 1547,456 364,456"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1"
+                         BASELINE="406,440 436,440 466,442 496,440 526,440 556,442 586,440 616,442 646,442 676,442 706,440 736,440 766,440 796,442 826,442 832,440"
+                         HEIGHT="82"
+                         WIDTH="430"
+                         VPOS="384"
+                         HPOS="399">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1"
+                          HEIGHT="82"
+                          WIDTH="430"
+                          VPOS="384"
+                          HPOS="399"
+                          CONTENT="Worsted Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540656104_50517"
+                       HEIGHT="77"
+                       WIDTH="1183"
+                       VPOS="456"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,456 1547,456 1547,533 364,533"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_1"
+                         BASELINE="436,492 466,492 496,492 526,492 556,492 586,492 616,492 646,490 676,490 706,490 736,490 766,490 796,492 826,492 856,490 886,492 916,490 946,490 976,490 1006,490 1036,490 1066,490 1096,490 1126,492 1156,490 1186,490 1216,490 1246,490 1276,492 1284,492"
+                         HEIGHT="65"
+                         WIDTH="852"
+                         VPOS="453"
+                         HPOS="429">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_1"
+                          HEIGHT="65"
+                          WIDTH="852"
+                          VPOS="453"
+                          HPOS="429"
+                          CONTENT="A. &amp; S. Henry &amp; Co., Ltd., Leeds Road, Bradford."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540655147_50513"
+                       HEIGHT="57"
+                       WIDTH="1183"
+                       VPOS="533"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,533 1547,533 1547,590 364,590"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_2"
+                         BASELINE="414,578 438,578 468,580 498,578 528,580 558,580 588,580 618,578 648,578 678,578 708,578 738,578 768,578 798,578 828,578 858,578 888,578 918,578 948,578 978,578 1008,578 1038,578 1068,578 1098,576"
+                         HEIGHT="58"
+                         WIDTH="688"
+                         VPOS="534"
+                         HPOS="407">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_2"
+                          HEIGHT="58"
+                          WIDTH="688"
+                          VPOS="534"
+                          HPOS="407"
+                          CONTENT="Woven Handkerchiefs (Manufacturers)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540652007_50507"
+                       HEIGHT="86"
+                       WIDTH="1183"
+                       VPOS="590"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,590 1547,590 1547,676 364,676"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_3"
+                         BASELINE="442,626 472,626 502,626 532,624 562,624 592,624 622,624 652,624 682,624 712,624 742,624 772,624 802,624 832,624 862,624 892,624 922,624 952,624 982,624 1012,624 1042,624 1072,624 1102,624 1132,624 1162,624 1192,624 1202,626"
+                         HEIGHT="91"
+                         WIDTH="765"
+                         VPOS="570"
+                         HPOS="435">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_3"
+                          HEIGHT="91"
+                          WIDTH="765"
+                          VPOS="570"
+                          HPOS="435"
+                          CONTENT="Zürcher, Tobler &amp; Oertle, Teufen (St. Gallen)."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540650905_50503"
+                       HEIGHT="53"
+                       WIDTH="1183"
+                       VPOS="676"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,676 1547,676 1547,729 364,729"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_4"
+                         BASELINE="412,712 442,714 472,714 502,714 532,712 562,714 592,714 622,712 652,712 682,712 712,712 742,712 772,714"
+                         HEIGHT="79"
+                         WIDTH="364"
+                         VPOS="660"
+                         HPOS="405">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_4"
+                          HEIGHT="79"
+                          WIDTH="364"
+                          VPOS="660"
+                          HPOS="405"
+                          CONTENT="Yarn Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540650462_50499"
+                       HEIGHT="84"
+                       WIDTH="1183"
+                       VPOS="729"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,729 1547,729 1547,813 364,813"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_5"
+                         BASELINE="444,762 474,764 504,762 534,764 564,764 594,762 624,764 654,762 684,764 714,762 744,764 774,762 804,762 834,762 864,762 894,762 924,762 954,762 984,762 1014,762 1044,762 1074,762 1104,762 1134,762 1164,762 1194,762 1224,762 1254,762 1284,762 1314,762 1344,762 1374,762 1404,762 1434,764 1464,764 1482,764"
+                         HEIGHT="69"
+                         WIDTH="1045"
+                         VPOS="717"
+                         HPOS="436">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_5"
+                          HEIGHT="69"
+                          WIDTH="1045"
+                          VPOS="717"
+                          HPOS="436"
+                          CONTENT="Croal Spinning Co. (1920), Ltd. (yarns for voile trade a speciality)"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_2"
+                         BASELINE="478,798 508,798 538,798 568,798 598,800 628,798 658,798 688,798 718,798"
+                         HEIGHT="57"
+                         WIDTH="243"
+                         VPOS="768"
+                         HPOS="471">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_2"
+                          HEIGHT="57"
+                          WIDTH="243"
+                          VPOS="768"
+                          HPOS="471"
+                          CONTENT="Bolton, Lancs."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540648508_50495"
+                       HEIGHT="123"
+                       WIDTH="1183"
+                       VPOS="813"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,813 1547,813 1547,936 364,936"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_6"
+                         BASELINE="444,850 462,848 492,848 522,848 552,848 582,846 612,846 642,846 672,846 702,846 732,846 762,848 792,846 822,846 852,846 882,846 912,848 942,848 972,848 1002,846 1032,844 1062,846 1092,846 1122,846 1152,846 1182,846 1212,846 1242,846 1272,846 1302,846 1332,846 1362,844 1392,846 1422,846 1452,848 1482,848"
+                         HEIGHT="79"
+                         WIDTH="1045"
+                         VPOS="787"
+                         HPOS="436">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_6"
+                          HEIGHT="79"
+                          WIDTH="1045"
+                          VPOS="787"
+                          HPOS="436"
+                          CONTENT="Industrie-Gesellschaft für Schappe Société industrielle pour la"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_2_1"
+                         BASELINE="478,882 508,884 538,884 568,884 598,882 628,884 658,884 688,884 718,884 748,882 778,882 808,884 838,884 868,884 898,884 928,884 958,884 976,882"
+                         HEIGHT="69"
+                         WIDTH="502"
+                         VPOS="849"
+                         HPOS="471">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_2_1"
+                          HEIGHT="69"
+                          WIDTH="502"
+                          VPOS="849"
+                          HPOS="471"
+                          CONTENT="Schappel (Trade Mark: S. I. S.,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_3"
+                         BASELINE="1016,884 1028,882 1058,884 1088,884 1118,884 1148,884 1178,884 1208,884 1238,884 1268,882 1298,884 1328,882 1358,882 1388,882 1418,882 1448,882 1478,882"
+                         HEIGHT="70"
+                         WIDTH="466"
+                         VPOS="851"
+                         HPOS="1009">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_3"
+                          HEIGHT="70"
+                          WIDTH="466"
+                          VPOS="851"
+                          HPOS="1009"
+                          CONTENT="Schappe spun silk and Tussah"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_4"
+                         BASELINE="482,924 512,920 542,920 572,922 602,920 632,920 662,920 692,920"
+                         HEIGHT="53"
+                         WIDTH="215"
+                         VPOS="886"
+                         HPOS="475">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_4"
+                          HEIGHT="53"
+                          WIDTH="215"
+                          VPOS="886"
+                          HPOS="475"
+                          CONTENT="yarns), Basle"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540647766_50491"
+                       HEIGHT="79"
+                       WIDTH="1183"
+                       VPOS="936"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,936 1547,936 1547,1015 364,1015"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_7"
+                         BASELINE="450,970 460,968 490,968 520,968 550,968 580,970 610,968 640,968 670,968 700,968 730,968 760,970 790,970 820,970 850,968 880,968 910,968 940,968 970,968 1000,968 1030,968 1060,968 1090,968 1120,968 1150,968 1180,968 1210,968 1240,966 1270,968 1300,968 1330,968 1360,968 1390,968 1420,966 1450,966 1480,964"
+                         HEIGHT="84"
+                         WIDTH="1034"
+                         VPOS="903"
+                         HPOS="443">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_7"
+                          HEIGHT="84"
+                          WIDTH="1034"
+                          VPOS="903"
+                          HPOS="443"
+                          CONTENT="Marland Spinning Co., Ltd. (cotton, combed and general), Roch¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_2_2"
+                         BASELINE="484,1004 514,1004 544,1006 574,1004 604,1004 634,1004 664,1004 676,1006"
+                         HEIGHT="52"
+                         WIDTH="196"
+                         VPOS="969"
+                         HPOS="477">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_2_2"
+                          HEIGHT="52"
+                          WIDTH="196"
+                          VPOS="969"
+                          HPOS="477"
+                          CONTENT="dale, Lancs."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675540646900_50487"
+                       HEIGHT="176"
+                       WIDTH="1183"
+                       VPOS="1015"
+                       HPOS="364"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="364,1015 1547,1015 1547,1191 364,1191"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_1_8"
+                         BASELINE="448,1054 464,1054 494,1054 524,1054 554,1054 584,1052 614,1052 644,1052 674,1050 704,1050 734,1052 764,1052 794,1054 824,1054 854,1054 884,1052 914,1052 944,1052 974,1052 1004,1052 1034,1054 1064,1054 1094,1052 1124,1052 1154,1052 1184,1052 1214,1052 1244,1052 1274,1052 1304,1052 1334,1052 1364,1052 1394,1052 1424,1052 1454,1052 1484,1052"
+                         HEIGHT="81"
+                         WIDTH="1041"
+                         VPOS="981"
+                         HPOS="440">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_1_8"
+                          HEIGHT="81"
+                          WIDTH="1041"
+                          VPOS="981"
+                          HPOS="440"
+                          CONTENT="Mars Mill (1920) Ltd., Rochdale, England (Spinners of Carded"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675540646900_50487_tl_2_3"
+                         BASELINE="480,1090 492,1090 522,1090 552,1090 582,1090 612,1090 642,1090 672,1090 702,1090 732,1090 762,1090 792,1090 822,1090 852,1090 882,1090 912,1090 942,1090 972,1090 1002,1090 1032,1090 1062,1088 1092,1088 1122,1090 1152,1090 1182,1088 1212,1088 1242,1088 1272,1088 1302,1088 1332,1088 1362,1088 1392,1088 1422,1086 1452,1088 1482,1086"
+                         HEIGHT="65"
+                         WIDTH="1006"
+                         VPOS="1053"
+                         HPOS="473">
+                  <String ID="string_TextRegion_1675540646900_50487_tl_2_3"
+                          HEIGHT="65"
+                          WIDTH="1006"
+                          VPOS="1053"
+                          HPOS="473"
+                          CONTENT="and Combed Yarns for general, Hosiery and Electrical trades)."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

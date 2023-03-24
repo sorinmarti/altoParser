@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1951_85 seiten-0002.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:01.807+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2588" WIDTH="1830">
+         <TopMargin HEIGHT="0" WIDTH="1830" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2588" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2588" WIDTH="0" VPOS="0" HPOS="1830"/>
+         <BottomMargin HEIGHT="0" WIDTH="1830" VPOS="2588" HPOS="0"/>
+         <PrintSpace HEIGHT="2588" WIDTH="1830" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2"
+                       HEIGHT="500"
+                       WIDTH="864"
+                       VPOS="460"
+                       HPOS="310"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="310,460 1174,460 1174,960 310,960"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="310,518 340,512 370,510 400,510 430,514 460,514 490,516 520,516 550,514 580,512 610,512 640,510 670,510 700,512 730,510 760,512 790,512 820,512 850,510 880,512 910,510 940,510 970,510 1000,512 1030,512 1060,512 1090,516 1120,518 1150,522 1174,530"
+                         HEIGHT="158"
+                         WIDTH="868"
+                         VPOS="403"
+                         HPOS="303">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="158"
+                          WIDTH="868"
+                          VPOS="403"
+                          HPOS="303"
+                          CONTENT="Fly either way"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="640,950 668,946 698,948 728,946 758,942 766,948 796,946 826,942 856,948 868,950"
+                         HEIGHT="136"
+                         WIDTH="232"
+                         VPOS="841"
+                         HPOS="634">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="136"
+                          WIDTH="232"
+                          VPOS="841"
+                          HPOS="634"
+                          CONTENT="A"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="226"
+                       WIDTH="368"
+                       VPOS="1972"
+                       HPOS="336"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="336,1972 704,1972 704,2198 336,2198"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="350,2028 376,2028 406,2030 436,2030 466,2028 496,2032 526,2028 556,2028 586,2022"
+                         HEIGHT="169"
+                         WIDTH="241"
+                         VPOS="1913"
+                         HPOS="343">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="169"
+                          WIDTH="241"
+                          VPOS="1913"
+                          HPOS="343"
+                          CONTENT="BEA"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="338,2128 368,2130 398,2130 428,2130 458,2130 488,2130 518,2130 548,2130 578,2130 608,2130 638,2130 668,2130 698,2130 704,2130"
+                         HEIGHT="84"
+                         WIDTH="370"
+                         VPOS="2077"
+                         HPOS="332">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="84"
+                          WIDTH="370"
+                          VPOS="2077"
+                          HPOS="332"
+                          CONTENT="BRITIS EUROPEAN"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="336,2184 366,2184 396,2184 426,2184 456,2186 486,2186 516,2188 526,2186"
+                         HEIGHT="79"
+                         WIDTH="194"
+                         VPOS="2138"
+                         HPOS="329">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="79"
+                          WIDTH="194"
+                          VPOS="2138"
+                          HPOS="329"
+                          CONTENT="AIRWAYS"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_4"
+                       HEIGHT="66"
+                       WIDTH="178"
+                       VPOS="1292"
+                       HPOS="1192"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="1192,1292 1370,1292 1370,1358 1192,1358"/>
+               </Shape>
+               <TextLine ID="tr_4_tl_1"
+                         BASELINE="1192,1348 1220,1346 1250,1344 1280,1342 1310,1342 1340,1342 1370,1342"
+                         HEIGHT="62"
+                         WIDTH="184"
+                         VPOS="1294"
+                         HPOS="1186">
+                  <String ID="string_tr_4_tl_1"
+                          HEIGHT="62"
+                          WIDTH="184"
+                          VPOS="1294"
+                          HPOS="1186"
+                          CONTENT="Vienna"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="328"
+                       WIDTH="806"
+                       VPOS="1872"
+                       HPOS="774"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="774,1872 1580,1872 1580,2200 774,2200"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="780,1924 800,1924 830,1924 860,1924 890,1924 920,1924 950,1924 980,1922 1010,1922 1040,1922 1070,1924 1100,1924 1130,1924 1160,1924 1190,1924 1220,1924 1250,1924 1280,1924 1310,1924 1340,1924 1370,1924 1400,1924 1430,1924 1460,1924 1490,1922 1520,1922 1550,1922 1580,1922"
+                         HEIGHT="99"
+                         WIDTH="805"
+                         VPOS="1859"
+                         HPOS="774">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="99"
+                          WIDTH="805"
+                          VPOS="1859"
+                          HPOS="774"
+                          CONTENT="ZURICHLONDON ZURICH VIENNE GENEVA-LONDON"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="774,1970 804,1972 834,1972 864,1974 894,1974 924,1974 946,1974"
+                         HEIGHT="81"
+                         WIDTH="176"
+                         VPOS="1938"
+                         HPOS="767">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="81"
+                          WIDTH="176"
+                          VPOS="1938"
+                          HPOS="767"
+                          CONTENT="twice dally"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="1318,1972 1348,1972 1378,1974 1402,1974"
+                         HEIGHT="53"
+                         WIDTH="89"
+                         VPOS="1935"
+                         HPOS="1310">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="53"
+                          WIDTH="89"
+                          VPOS="1935"
+                          HPOS="1310"
+                          CONTENT="daily"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="1052,1974 1082,1972 1112,1972 1142,1974 1172,1974 1202,1974 1226,1974"
+                         HEIGHT="68"
+                         WIDTH="178"
+                         VPOS="1941"
+                         HPOS="1046">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="68"
+                          WIDTH="178"
+                          VPOS="1941"
+                          HPOS="1046"
+                          CONTENT="twice daily"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="780,2078 810,2076 840,2078 870,2078 900,2078 930,2078 960,2078 990,2078 1020,2078 1050,2078 1080,2078 1110,2078 1140,2078 1170,2078 1200,2078 1230,2078 1260,2078 1290,2078 1320,2078 1350,2078 1380,2078 1410,2078 1440,2078 1470,2078 1500,2078 1530,2078 1560,2080 1578,2078"
+                         HEIGHT="80"
+                         WIDTH="801"
+                         VPOS="2025"
+                         HPOS="774">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="80"
+                          WIDTH="801"
+                          VPOS="2025"
+                          HPOS="774"
+                          CONTENT="Reservations: Leading Travel Agents and BEA offices:"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="780,2132 806,2132 836,2132 866,2132 896,2132 926,2134 956,2134 986,2134 1016,2134 1046,2134 1076,2132 1106,2134 1136,2134 1166,2134 1196,2134 1226,2132 1256,2132 1286,2132 1316,2132 1346,2132 1376,2130 1406,2130"
+                         HEIGHT="61"
+                         WIDTH="630"
+                         VPOS="2089"
+                         HPOS="773">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="61"
+                          WIDTH="630"
+                          VPOS="2089"
+                          HPOS="773"
+                          CONTENT="ZURICH, Löwenstrasse 44, Tel. 51 25 5454"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="778,2186 808,2186 838,2186 868,2188 898,2188 928,2190 958,2190 988,2190 1018,2190 1048,2188 1078,2190 1108,2188 1138,2188 1168,2188 1198,2188 1228,2186 1258,2188 1288,2188 1318,2188 1348,2188 1378,2188 1408,2188 1438,2186 1468,2186 1498,2186 1508,2186"
+                         HEIGHT="69"
+                         WIDTH="734"
+                         VPOS="2146"
+                         HPOS="772">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="69"
+                          WIDTH="734"
+                          VPOS="2146"
+                          HPOS="772"
+                          CONTENT="GENEVA, 13, rue de Chantepoulet, Tel. 222 7161"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1938_61 seiten-0004.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:00:36.143+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2730" WIDTH="1813">
+         <TopMargin HEIGHT="0" WIDTH="1813" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2730" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2730" WIDTH="0" VPOS="0" HPOS="1813"/>
+         <BottomMargin HEIGHT="0" WIDTH="1813" VPOS="2730" HPOS="0"/>
+         <PrintSpace HEIGHT="2730" WIDTH="1813" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_3"
+                       HEIGHT="588"
+                       WIDTH="1294"
+                       VPOS="638"
+                       HPOS="332"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="332,638 1626,638 1626,1226 332,1226"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="342,696 352,694 382,692 412,694 442,692 472,692 502,694 532,694 562,694 592,694 622,694 652,692 682,692 712,692 742,692 772,692 802,692 832,694 862,692 892,692 922,690 952,690 982,690 1012,690 1042,690 1072,690 1102,690 1132,690 1162,688 1192,688 1222,690 1252,690 1282,692 1312,692 1342,690 1372,690 1402,694"
+                         HEIGHT="98"
+                         WIDTH="1065"
+                         VPOS="609"
+                         HPOS="333">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="98"
+                          WIDTH="1065"
+                          VPOS="609"
+                          HPOS="333"
+                          CONTENT="ENGLAND A FEM HOURS ACROSS THE AIR"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="818,752 848,754 878,758 908,758 938,760 968,760 998,758 1028,758 1058,760 1088,760 1118,760 1148,760 1178,760 1208,760 1238,760 1268,760 1298,760 1328,762 1358,762 1388,762 1418,762 1448,762 1478,760 1508,760 1538,760 1568,760 1598,758 1622,756"
+                         HEIGHT="52"
+                         WIDTH="809"
+                         VPOS="721"
+                         HPOS="810">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="52"
+                          WIDTH="809"
+                          VPOS="721"
+                          HPOS="810"
+                          CONTENT="Fly from Basle or Zurich to England.... all through"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="816,802 842,802 872,802 902,802 932,804 962,804 992,804 1022,804 1052,804 1082,804 1112,806 1142,804 1172,804 1202,804 1232,804 1262,804 1292,804 1322,806 1352,806 1382,806 1412,806 1442,806 1472,806 1502,804 1532,802 1562,802 1592,802 1622,800"
+                         HEIGHT="47"
+                         WIDTH="813"
+                         VPOS="769"
+                         HPOS="807">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="47"
+                          WIDTH="813"
+                          VPOS="769"
+                          HPOS="807"
+                          CONTENT="the summer two air liners leave each day you save"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_4"
+                         BASELINE="812,848 842,846 872,848 902,848 932,848 962,848 992,848 1022,848 1052,850 1082,850 1112,850 1142,850 1172,850 1202,850 1232,850 1262,850 1292,852 1322,850 1352,850 1382,850 1412,850 1442,850 1472,850 1502,850 1532,848 1562,846 1592,846 1622,844"
+                         HEIGHT="58"
+                         WIDTH="815"
+                         VPOS="809"
+                         HPOS="804">
+                  <String ID="string_tr_3_tl_4"
+                          HEIGHT="58"
+                          WIDTH="815"
+                          VPOS="809"
+                          HPOS="804"
+                          CONTENT="hours on the journey.... save money that you would"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_5"
+                         BASELINE="816,896 846,894 876,892 906,894 936,894 966,892 996,894 1026,894 1056,894 1086,894 1116,894 1146,894 1176,896 1206,894 1236,896 1266,896 1296,894 1326,894 1356,896 1386,894 1416,894 1446,894 1476,894 1506,894 1536,892 1566,892 1596,890 1626,888"
+                         HEIGHT="56"
+                         WIDTH="815"
+                         VPOS="853"
+                         HPOS="807">
+                  <String ID="string_tr_3_tl_5"
+                          HEIGHT="56"
+                          WIDTH="815"
+                          VPOS="853"
+                          HPOS="807"
+                          CONTENT="otherwise spend on meals, tips, sleeping car berth"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_6"
+                         BASELINE="816,942 846,942 876,942 906,942 936,942 966,940 996,942 1026,942 1056,942 1086,942 1116,942 1146,942 1176,942 1206,942 1236,944 1266,942 1296,944 1326,944 1356,942 1386,942 1416,942 1446,942 1476,942 1506,942 1536,942 1566,942 1596,940 1626,938"
+                         HEIGHT="83"
+                         WIDTH="815"
+                         VPOS="896"
+                         HPOS="807">
+                  <String ID="string_tr_3_tl_6"
+                          HEIGHT="83"
+                          WIDTH="815"
+                          VPOS="896"
+                          HPOS="807"
+                          CONTENT="Zurich London return 225 Swiss francs"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_8"
+                         BASELINE="580,1077 612,1078 642,1078 672,1078 674,1078"
+                         HEIGHT="136"
+                         WIDTH="101"
+                         VPOS="966"
+                         HPOS="570">
+                  <String ID="string_tr_3_tl_8"
+                          HEIGHT="136"
+                          WIDTH="101"
+                          VPOS="966"
+                          HPOS="570"
+                          CONTENT="55"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_9"
+                         BASELINE="332,1132 342,1132 372,1134 402,1132 432,1132 462,1132 492,1132 522,1132 552,1132 582,1132 612,1132 642,1132 672,1132 702,1132 732,1132 762,1132 792,1132 822,1130 852,1130 882,1132 912,1132 942,1134 972,1134 1002,1134 1032,1130"
+                         HEIGHT="45"
+                         WIDTH="704"
+                         VPOS="1093"
+                         HPOS="324">
+                  <String ID="string_tr_3_tl_9"
+                          HEIGHT="45"
+                          WIDTH="704"
+                          VPOS="1093"
+                          HPOS="324"
+                          CONTENT="Bookings from Imperial Always Lid., London; Airway Ter¬"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_10"
+                         BASELINE="336,1160 358,1160 388,1162 418,1160 448,1158 478,1160 508,1160 538,1158 568,1160 598,1160 628,1160 658,1158 688,1158"
+                         HEIGHT="34"
+                         WIDTH="357"
+                         VPOS="1133"
+                         HPOS="327">
+                  <String ID="string_tr_3_tl_10"
+                          HEIGHT="34"
+                          WIDTH="357"
+                          VPOS="1133"
+                          HPOS="327"
+                          CONTENT="minus, Victoria Station, 8."/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_11"
+                         BASELINE="764,1160 794,1160 824,1160 854,1160 884,1160 914,1160 944,1160 974,1160 1004,1160 1030,1160"
+                         HEIGHT="38"
+                         WIDTH="273"
+                         VPOS="1135"
+                         HPOS="755">
+                  <String ID="string_tr_3_tl_11"
+                          HEIGHT="38"
+                          WIDTH="273"
+                          VPOS="1135"
+                          HPOS="755"
+                          CONTENT="Victoria 2211 (Day a"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_12"
+                         BASELINE="336,1190 342,1188 372,1188 402,1186 432,1186 462,1186 492,1186 522,1184 552,1184 582,1186 612,1186 642,1186 672,1186 702,1186 732,1186 762,1186 792,1186 822,1186 852,1188 882,1186 912,1186 942,1186 972,1188 1002,1188 1032,1188"
+                         HEIGHT="45"
+                         WIDTH="702"
+                         VPOS="1161"
+                         HPOS="327">
+                  <String ID="string_tr_3_tl_12"
+                          HEIGHT="45"
+                          WIDTH="702"
+                          VPOS="1161"
+                          HPOS="327"
+                          CONTENT="Night); Baste: Swissair Offices, Centralbahnplatz, 3;"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_13"
+                         BASELINE="1258,1197 1290,1200 1320,1202 1350,1200 1380,1196 1410,1194 1440,1198 1470,1198 1500,1200 1530,1200 1560,1198 1590,1200 1608,1200"
+                         HEIGHT="112"
+                         WIDTH="354"
+                         VPOS="1123"
+                         HPOS="1250">
+                  <String ID="string_tr_3_tl_13"
+                          HEIGHT="112"
+                          WIDTH="354"
+                          VPOS="1123"
+                          HPOS="1250"
+                          CONTENT="AT"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_14"
+                         BASELINE="1078,1202 1094,1196 1124,1200 1154,1202 1184,1200"
+                         HEIGHT="97"
+                         WIDTH="114"
+                         VPOS="1138"
+                         HPOS="1068">
+                  <String ID="string_tr_3_tl_14"
+                          HEIGHT="97"
+                          WIDTH="114"
+                          VPOS="1138"
+                          HPOS="1068"
+                          CONTENT="A"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_15"
+                         BASELINE="464,1212 494,1214 524,1214 554,1214 584,1214 614,1216 644,1216 674,1216 704,1216 734,1216 764,1216 794,1214 824,1214 854,1216 884,1214 906,1214"
+                         HEIGHT="47"
+                         WIDTH="446"
+                         VPOS="1191"
+                         HPOS="456">
+                  <String ID="string_tr_3_tl_15"
+                          HEIGHT="47"
+                          WIDTH="446"
+                          VPOS="1191"
+                          HPOS="456"
+                          CONTENT="Zurich: Swissair, Bahnhofplatz, 7."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="532"
+                       WIDTH="1190"
+                       VPOS="1438"
+                       HPOS="382"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="382,1438 1572,1438 1572,1970 382,1970"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="392,1488 422,1488 452,1490 482,1492 512,1492 542,1492 572,1494 602,1492 632,1492 662,1494 692,1494 722,1492 752,1492 782,1494 812,1490 842,1492 872,1492 902,1490 932,1492 962,1490 992,1490 1022,1492 1052,1492 1082,1492 1112,1492 1142,1492 1172,1492 1202,1490 1232,1490 1262,1490 1292,1492 1322,1492 1352,1490 1382,1488 1412,1488 1442,1488 1472,1488 1502,1488 1532,1488 1562,1490 1568,1490"
+                         HEIGHT="103"
+                         WIDTH="1182"
+                         VPOS="1421"
+                         HPOS="384">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="103"
+                          WIDTH="1182"
+                          VPOS="1421"
+                          HPOS="384"
+                          CONTENT="BUY your RAW Products from"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="390,1592 392,1592 422,1588 452,1590 482,1588 512,1588 542,1588 572,1588 602,1590 632,1590 662,1590 692,1590 722,1590 752,1590 782,1588 812,1590 842,1590 872,1588 902,1590 932,1590 962,1590 992,1590 1022,1590 1052,1590 1082,1590 1112,1590 1142,1590 1172,1590 1202,1588 1232,1588 1262,1586 1292,1586 1322,1588 1352,1588 1382,1588 1412,1588 1442,1588 1472,1586 1502,1584 1532,1586 1562,1588"
+                         HEIGHT="112"
+                         WIDTH="1176"
+                         VPOS="1514"
+                         HPOS="382">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="112"
+                          WIDTH="1176"
+                          VPOS="1514"
+                          HPOS="382"
+                          CONTENT="the Union of South Africa"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="388,1684 402,1684 432,1684 462,1684 492,1684 522,1684 552,1684 582,1682 612,1682 642,1682 672,1682 702,1682 732,1684 762,1684 792,1684 822,1682 852,1682 882,1682 912,1682 942,1680 972,1680 1002,1682 1032,1682 1062,1682 1092,1682 1122,1682 1152,1682 1182,1682 1212,1684 1242,1682 1272,1682 1302,1684 1332,1684 1362,1684 1392,1684 1422,1682 1452,1682 1482,1682 1512,1680 1542,1680 1572,1676"
+                         HEIGHT="95"
+                         WIDTH="1191"
+                         VPOS="1604"
+                         HPOS="379">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="95"
+                          WIDTH="1191"
+                          VPOS="1604"
+                          HPOS="379"
+                          CONTENT="EXPORT-PRODUCTS OF THE HIGHEST QUALITY"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="670,1750 700,1750 730,1750 760,1750 790,1750 820,1750 850,1750 880,1748 910,1748 940,1748 970,1748 1000,1750 1030,1750 1060,1750 1090,1750 1120,1750 1150,1748 1180,1750 1210,1750 1240,1748 1270,1748 1290,1750"
+                         HEIGHT="68"
+                         WIDTH="624"
+                         VPOS="1714"
+                         HPOS="662">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="68"
+                          WIDTH="624"
+                          VPOS="1714"
+                          HPOS="662"
+                          CONTENT="for Manufacturing purposes"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="382,1864 390,1866 420,1866 450,1864 480,1864 510,1864 540,1862 570,1862 600,1862 630,1860 660,1862 690,1862 720,1864 750,1864 780,1864 810,1862 840,1862 870,1862 900,1860 930,1860 960,1860 990,1860 1020,1860 1050,1860 1080,1860 1110,1860 1140,1860 1170,1862 1200,1862 1230,1860 1260,1860 1290,1860 1320,1862 1350,1862"
+                         HEIGHT="74"
+                         WIDTH="973"
+                         VPOS="1804"
+                         HPOS="373">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="74"
+                          WIDTH="973"
+                          VPOS="1804"
+                          HPOS="373"
+                          CONTENT="AGRICULTURAL AND MINERAL PRODUCTS :"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="644,1914 674,1916 704,1918 734,1918 764,1918 794,1918 824,1918 854,1918 884,1918 914,1918 944,1918 974,1918 1004,1916 1034,1916 1064,1916 1094,1916 1124,1916 1154,1918 1184,1918 1214,1918 1244,1918 1274,1916 1304,1916 1334,1916 1364,1916 1394,1916 1424,1916 1454,1916 1484,1916 1514,1918 1544,1918 1566,1918"
+                         HEIGHT="65"
+                         WIDTH="928"
+                         VPOS="1868"
+                         HPOS="635">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="65"
+                          WIDTH="928"
+                          VPOS="1868"
+                          HPOS="635"
+                          CONTENT="Wool, mohair, skins (cattle and sheep, wattlebark,"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="642,1958 672,1958 702,1960 732,1960 762,1958 792,1958 822,1958 852,1958 882,1958 912,1958 942,1958 972,1958 1002,1958 1032,1958 1062,1956 1092,1958 1122,1956 1152,1958 1182,1958 1212,1958 1242,1958 1272,1958 1302,1958 1332,1958 1362,1958 1392,1958 1422,1958 1452,1958 1482,1958 1512,1958 1542,1958 1570,1960"
+                         HEIGHT="58"
+                         WIDTH="932"
+                         VPOS="1921"
+                         HPOS="634">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="58"
+                          WIDTH="932"
+                          VPOS="1921"
+                          HPOS="634"
+                          CONTENT="maize, sugar, ostrich feathers, crayfish, etc., etc."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="378"
+                       WIDTH="1184"
+                       VPOS="1994"
+                       HPOS="390"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="390,1994 1574,1994 1574,2372 390,2372"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="646,2046 672,2046 702,2046 732,2046 762,2046 792,2046 822,2046 852,2044 882,2044 912,2044 942,2046 972,2048 1002,2046 1032,2048 1062,2046 1092,2046 1122,2046 1152,2046 1182,2046 1212,2046 1242,2044 1272,2046 1302,2046 1332,2046 1362,2046 1392,2046 1422,2046 1452,2046 1482,2046 1512,2046 1542,2046 1572,2044"
+                         HEIGHT="65"
+                         WIDTH="932"
+                         VPOS="1989"
+                         HPOS="638">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="65"
+                          WIDTH="932"
+                          VPOS="1989"
+                          HPOS="638"
+                          CONTENT="Copper, asbestos, platinum, osmiridium, chrome"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="644,2086 674,2088 704,2088 734,2086 764,2088 794,2086 824,2088 854,2088 884,2088 914,2088 944,2086 974,2088 1004,2088 1034,2088 1064,2088 1094,2090 1124,2090 1154,2090 1184,2090 1214,2088 1244,2088 1274,2088 1304,2088 1334,2088 1364,2090 1394,2090 1424,2090 1454,2090 1484,2088 1514,2088 1544,2088 1568,2090"
+                         HEIGHT="68"
+                         WIDTH="929"
+                         VPOS="2050"
+                         HPOS="635">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="68"
+                          WIDTH="929"
+                          VPOS="2050"
+                          HPOS="635"
+                          CONTENT="manganese, magnesite, coal, corundum, graphite,"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="642,2128 672,2128 702,2128 732,2128 762,2130 792,2128 822,2128 852,2130 882,2128 890,2128"
+                         HEIGHT="74"
+                         WIDTH="252"
+                         VPOS="2090"
+                         HPOS="634">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="74"
+                          WIDTH="252"
+                          VPOS="2090"
+                          HPOS="634"
+                          CONTENT="lead, etc., etc."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="390,2218 420,2220 450,2218 480,2220 510,2218 540,2218 570,2218 600,2218 630,2218 660,2218 690,2218 720,2218 750,2218 780,2218 810,2220 840,2220 870,2220 900,2220 930,2220 960,2220 990,2220 1020,2222 1050,2222 1080,2222 1110,2220 1140,2220 1170,2220 1200,2220 1230,2220 1260,2220 1290,2220 1320,2220 1350,2220 1380,2220 1410,2220 1440,2220 1470,2220 1500,2218 1530,2218 1560,2216 1574,2218"
+                         HEIGHT="80"
+                         WIDTH="1188"
+                         VPOS="2154"
+                         HPOS="382">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="80"
+                          WIDTH="1188"
+                          VPOS="2154"
+                          HPOS="382"
+                          CONTENT="For all INFORMATION regarding South African Exporters and"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="428,2262 458,2262 488,2262 518,2260 548,2260 578,2260 608,2262 638,2260 668,2260 698,2260 728,2260 758,2260 788,2260"
+                         HEIGHT="66"
+                         WIDTH="365"
+                         VPOS="2225"
+                         HPOS="419">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="66"
+                          WIDTH="365"
+                          VPOS="2225"
+                          HPOS="419"
+                          CONTENT="Commerce, write:"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="592,2314 622,2318 652,2318 682,2318 712,2318 742,2320 772,2320 802,2318 832,2318 862,2318 892,2318 922,2318 952,2318 982,2318 1012,2318 1042,2318 1072,2316 1102,2318 1132,2318 1162,2316 1192,2316 1222,2316 1252,2316 1282,2316 1312,2318 1342,2318 1372,2318 1402,2318 1432,2316 1462,2316 1492,2316 1522,2316 1552,2316 1568,2316"
+                         HEIGHT="57"
+                         WIDTH="980"
+                         VPOS="2277"
+                         HPOS="584">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="57"
+                          WIDTH="980"
+                          VPOS="2277"
+                          HPOS="584"
+                          CONTENT="The Commercial Counsellor, South African Legation,"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_7"
+                         BASELINE="844,2358 848,2358 878,2358 908,2360 938,2360 968,2362 998,2362 1028,2362 1058,2362 1088,2362 1118,2360 1148,2360 1178,2360 1208,2360 1238,2360 1268,2360 1298,2360 1328,2360 1358,2360 1388,2360 1418,2360 1448,2358 1478,2358 1508,2356 1538,2354 1568,2354"
+                         HEIGHT="70"
+                         WIDTH="729"
+                         VPOS="2318"
+                         HPOS="835">
+                  <String ID="string_tr_2_tl_7"
+                          HEIGHT="70"
+                          WIDTH="729"
+                          VPOS="2318"
+                          HPOS="835"
+                          CONTENT="Piazza Indipendenza 3, ROME, ITALY."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

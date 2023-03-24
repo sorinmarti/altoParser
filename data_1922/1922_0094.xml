@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1922_97 seiten-0094.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:29.68+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2710" WIDTH="1747">
+         <TopMargin HEIGHT="0" WIDTH="1747" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2710" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2710" WIDTH="0" VPOS="0" HPOS="1747"/>
+         <BottomMargin HEIGHT="0" WIDTH="1747" VPOS="2710" HPOS="0"/>
+         <PrintSpace HEIGHT="2710" WIDTH="1747" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="64"
+                       WIDTH="810"
+                       VPOS="1204"
+                       HPOS="598"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="598,1204 1408,1204 1408,1268 598,1268"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="598,1254 628,1256 654,1254 658,1254 688,1256 718,1256 748,1256 778,1258 808,1256 838,1256 868,1256 898,1256 928,1256 958,1256 988,1256 1018,1256 1048,1256 1078,1256 1108,1256 1138,1256 1168,1256 1198,1256 1228,1256 1258,1256 1288,1256 1318,1256 1348,1256 1378,1256 1408,1256"
+                         HEIGHT="107"
+                         WIDTH="813"
+                         VPOS="1184"
+                         HPOS="592">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="107"
+                          WIDTH="813"
+                          VPOS="1184"
+                          HPOS="592"
+                          CONTENT="TED BY EMILE BIRKHAUSER &amp; Cie., BASLE"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

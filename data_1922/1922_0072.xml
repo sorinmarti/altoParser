@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1922_97 seiten-0072.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:25.178+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2710" WIDTH="1765">
+         <TopMargin HEIGHT="0" WIDTH="1765" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2710" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2710" WIDTH="0" VPOS="0" HPOS="1765"/>
+         <BottomMargin HEIGHT="0" WIDTH="1765" VPOS="2710" HPOS="0"/>
+         <PrintSpace HEIGHT="2710" WIDTH="1765" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2"
+                       HEIGHT="480"
+                       WIDTH="1071"
+                       VPOS="322"
+                       HPOS="402"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="402,322 1473,322 1473,802 402,802"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="402,374 432,372 456,374"
+                         HEIGHT="104"
+                         WIDTH="59"
+                         VPOS="300"
+                         HPOS="395">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="104"
+                          WIDTH="59"
+                          VPOS="300"
+                          HPOS="395"
+                          CONTENT="62"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="570,652 600,654 630,654 660,654 690,654 720,654 750,654 780,658 810,656 840,656 870,656 900,656 930,656 960,658 990,656 1020,658 1050,658 1080,658 1110,658 1140,658 1170,658 1200,658 1230,658 1260,658 1290,660 1316,664"
+                         HEIGHT="156"
+                         WIDTH="751"
+                         VPOS="566"
+                         HPOS="562">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="156"
+                          WIDTH="751"
+                          VPOS="566"
+                          HPOS="562"
+                          CONTENT="URGENT APPEAL"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="404,784 434,784 464,784 494,784 524,786 554,786 584,786 614,786 644,786 674,786 704,788 734,788 764,786 794,788 824,788 854,788 884,788 914,790 944,790 974,790 1004,790 1034,790 1064,790 1094,790 1124,790 1154,790 1184,790 1214,790 1244,790 1274,790 1304,792 1334,792 1364,790 1394,790 1424,790 1454,790 1473,792"
+                         HEIGHT="148"
+                         WIDTH="1074"
+                         VPOS="691"
+                         HPOS="396">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="148"
+                          WIDTH="1074"
+                          VPOS="691"
+                          HPOS="396"
+                          CONTENT="EVERY ONE OF OUR MEMBERS"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="576"
+                       WIDTH="1008"
+                       VPOS="998"
+                       HPOS="436"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="436,998 1444,998 1444,1574 436,1574"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="664,1050 694,1048 724,1050 754,1050 784,1050 814,1050 844,1050 874,1052 904,1052 934,1052 964,1052 994,1052 1024,1052 1054,1054 1084,1054 1114,1052 1144,1052 1174,1052 1204,1052 1224,1054"
+                         HEIGHT="121"
+                         WIDTH="566"
+                         VPOS="961"
+                         HPOS="655">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="121"
+                          WIDTH="566"
+                          VPOS="961"
+                          HPOS="655"
+                          CONTENT="Please return the appended"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="436,1118 466,1120 496,1120 526,1120 556,1120 586,1122 616,1122 646,1122 676,1120 706,1122 736,1120 766,1122 796,1122 826,1122 856,1122 886,1122 916,1122 946,1122 976,1122 1006,1122 1036,1124 1066,1124 1096,1124 1126,1124 1156,1124 1186,1124 1216,1124 1246,1124 1276,1124 1306,1124 1336,1124 1366,1122 1396,1124 1426,1126 1444,1126"
+                         HEIGHT="113"
+                         WIDTH="1012"
+                         VPOS="1068"
+                         HPOS="428">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="113"
+                          WIDTH="1012"
+                          VPOS="1068"
+                          HPOS="428"
+                          CONTENT="FORM OF APPLICATION FOR MEMBERSHIE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="796,1194 826,1194 856,1194 886,1194 916,1194 946,1194 976,1194 1006,1194 1036,1194 1066,1196 1096,1198 1098,1198"
+                         HEIGHT="86"
+                         WIDTH="306"
+                         VPOS="1139"
+                         HPOS="789">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="86"
+                          WIDTH="306"
+                          VPOS="1139"
+                          HPOS="789"
+                          CONTENT="duly signed by"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="656,1274 678,1274 708,1274 738,1274 768,1274 798,1274 828,1276 858,1274 888,1274 918,1274 948,1272 978,1272 1008,1274 1038,1274 1068,1274 1098,1274 1128,1276 1158,1276 1188,1276 1218,1272"
+                         HEIGHT="107"
+                         WIDTH="565"
+                         VPOS="1197"
+                         HPOS="649">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="107"
+                          WIDTH="565"
+                          VPOS="1197"
+                          HPOS="649"
+                          CONTENT="A NEW MEMBER"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="656,1340 686,1342 716,1342 746,1344 776,1344 806,1344 836,1344 866,1344 896,1344 926,1344 956,1344 986,1346 1016,1344 1046,1346 1076,1346 1106,1346 1136,1346 1166,1346 1196,1346 1224,1346"
+                         HEIGHT="92"
+                         WIDTH="572"
+                         VPOS="1287"
+                         HPOS="649">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="92"
+                          WIDTH="572"
+                          VPOS="1287"
+                          HPOS="649"
+                          CONTENT="and help us to keep up our"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="548,1414 578,1412 608,1412 638,1412 668,1414 698,1414 728,1416 758,1416 788,1414 818,1416 848,1414 878,1414 908,1414 938,1414 968,1414 998,1414 1028,1416 1058,1416 1088,1418 1118,1416 1148,1416 1178,1416 1208,1418 1238,1418 1268,1418 1298,1418 1328,1422 1330,1422"
+                         HEIGHT="94"
+                         WIDTH="786"
+                         VPOS="1359"
+                         HPOS="541">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="94"
+                          WIDTH="786"
+                          VPOS="1359"
+                          HPOS="541"
+                          CONTENT="HIGH STANDARD OF EFFICIENCY"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="670,1490 700,1490 730,1488 760,1488 790,1488 820,1488 850,1488 880,1488 910,1488 940,1490 970,1490 1000,1488 1030,1488 1060,1488 1090,1488 1120,1488 1150,1488 1180,1488 1210,1490 1218,1492"
+                         HEIGHT="75"
+                         WIDTH="551"
+                         VPOS="1435"
+                         HPOS="663">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="75"
+                          WIDTH="551"
+                          VPOS="1435"
+                          HPOS="663"
+                          CONTENT="by inducing your friends to"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_8"
+                         BASELINE="472,1556 502,1556 532,1556 562,1558 592,1558 622,1560 652,1560 682,1560 712,1560 742,1560 772,1558 802,1558 832,1558 862,1558 892,1558 922,1560 952,1560 982,1558 1012,1560 1042,1560 1072,1560 1102,1560 1132,1562 1162,1562 1192,1562 1222,1560 1252,1562 1282,1562 1312,1562 1342,1562 1372,1562 1402,1564 1414,1564"
+                         HEIGHT="102"
+                         WIDTH="948"
+                         VPOS="1505"
+                         HPOS="463">
+                  <String ID="string_tr_1_tl_8"
+                          HEIGHT="102"
+                          WIDTH="948"
+                          VPOS="1505"
+                          HPOS="463"
+                          CONTENT="BECOME MEMBERS OF OUR CHAMBER"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="230"
+                       WIDTH="1070"
+                       VPOS="1784"
+                       HPOS="406"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="406,1784 1476,1784 1476,2014 406,2014"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="606,1834 636,1834 666,1834 696,1834 726,1836 756,1834 786,1834 816,1834 846,1836 876,1836 906,1834 936,1836 966,1836 996,1834 1026,1836 1056,1836 1086,1834 1116,1834 1146,1834 1176,1836 1206,1836 1236,1836 1266,1836 1268,1836"
+                         HEIGHT="124"
+                         WIDTH="668"
+                         VPOS="1750"
+                         HPOS="598">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="124"
+                          WIDTH="668"
+                          VPOS="1750"
+                          HPOS="598"
+                          CONTENT="ONE NEW MEMBER"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="614,1914 644,1914 674,1914 704,1914 734,1914 764,1916 794,1916 824,1916 854,1916 884,1916 914,1916 944,1916 974,1916 1004,1916 1034,1916 1064,1916 1094,1916 1124,1916 1154,1916 1184,1916 1214,1916 1244,1918 1264,1918"
+                         HEIGHT="92"
+                         WIDTH="656"
+                         VPOS="1868"
+                         HPOS="605">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="92"
+                          WIDTH="656"
+                          VPOS="1868"
+                          HPOS="605"
+                          CONTENT="introduced by each of our old members"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="406,1996 436,1998 466,1998 496,2000 526,2000 556,2000 586,2000 616,2000 646,2000 676,1998 706,2000 736,2000 766,2002 796,2000 826,2000 856,2002 886,2002 916,2002 946,2000 976,2002 1006,2002 1036,2000 1066,2002 1096,2002 1126,2002 1156,2002 1186,2002 1216,2002 1246,2002 1276,2002 1306,2002 1336,2004 1366,2004 1396,2004 1426,2002 1456,2002 1476,2004"
+                         HEIGHT="123"
+                         WIDTH="1074"
+                         VPOS="1941"
+                         HPOS="399">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="123"
+                          WIDTH="1074"
+                          VPOS="1941"
+                          HPOS="399"
+                          CONTENT="WILL DO AWAY WITH ALLOUR FINANCIAL DIFFICULTIES"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

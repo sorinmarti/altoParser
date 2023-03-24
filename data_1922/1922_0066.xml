@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1922_97 seiten-0066.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:23.723+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2712" WIDTH="1808">
+         <TopMargin HEIGHT="0" WIDTH="1808" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2712" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2712" WIDTH="0" VPOS="0" HPOS="1808"/>
+         <BottomMargin HEIGHT="0" WIDTH="1808" VPOS="2712" HPOS="0"/>
+         <PrintSpace HEIGHT="2712" WIDTH="1808" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="600"
+                       WIDTH="1022"
+                       VPOS="318"
+                       HPOS="446"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="446,318 1468,318 1468,918 446,918"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="446,368 476,368 506,370"
+                         HEIGHT="70"
+                         WIDTH="65"
+                         VPOS="322"
+                         HPOS="440">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="70"
+                          WIDTH="65"
+                          VPOS="322"
+                          HPOS="440"
+                          CONTENT="56"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="454,452 456,454 486,452 516,452 546,452 576,454 606,452 636,452 666,452 696,450 726,450 756,450 786,450 816,450 846,450 876,450 906,448 936,448"
+                         HEIGHT="87"
+                         WIDTH="485"
+                         VPOS="388"
+                         HPOS="449">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="87"
+                          WIDTH="485"
+                          VPOS="388"
+                          HPOS="449"
+                          CONTENT="TYRE MANUFACTURERS"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="1156,492 1166,490 1196,490 1226,492 1256,492 1286,490 1316,490 1346,490"
+                         HEIGHT="69"
+                         WIDTH="194"
+                         VPOS="439"
+                         HPOS="1151">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="69"
+                          WIDTH="194"
+                          VPOS="439"
+                          HPOS="1151"
+                          CONTENT="Manchester"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="490,500 512,500 542,502 572,502 602,502 632,500 662,500 692,500 722,498 752,498 782,498 812,498 842,498 872,500 902,498 932,498 962,498"
+                         HEIGHT="81"
+                         WIDTH="475"
+                         VPOS="454"
+                         HPOS="485">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="81"
+                          WIDTH="475"
+                          VPOS="454"
+                          HPOS="485"
+                          CONTENT="Chas. Macintos &amp; Co., Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="1188,530 1218,530 1248,530 1278,530 1308,530 1338,530 1368,528 1398,528 1428,528 1458,530 1468,530"
+                         HEIGHT="76"
+                         WIDTH="284"
+                         VPOS="486"
+                         HPOS="1183">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="76"
+                          WIDTH="284"
+                          VPOS="486"
+                          HPOS="1183"
+                          CONTENT="Cambridge Street"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="1156,574 1174,572 1204,572 1234,570 1264,572 1294,570 1324,570"
+                         HEIGHT="61"
+                         WIDTH="171"
+                         VPOS="534"
+                         HPOS="1151">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="61"
+                          WIDTH="171"
+                          VPOS="534"
+                          HPOS="1151"
+                          CONTENT="Edinburgh"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="484,582 512,580 542,580 572,580 602,580 632,578 662,578 692,578 722,578 752,578 782,578 812,578 842,578 872,578 902,578 932,578 962,578 992,580"
+                         HEIGHT="80"
+                         WIDTH="512"
+                         VPOS="519"
+                         HPOS="479">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="80"
+                          WIDTH="512"
+                          VPOS="519"
+                          HPOS="479"
+                          CONTENT="North British Rubber Co., Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_8"
+                         BASELINE="458,642 486,640 516,638 546,640 576,640 606,638 636,638 666,638 696,638 726,638 756,638 786,636 816,636 846,636 876,636 906,636 936,636 966,634 996,634 1026,636 1056,636 1086,638"
+                         HEIGHT="61"
+                         WIDTH="631"
+                         VPOS="595"
+                         HPOS="453">
+                  <String ID="string_tr_1_tl_8"
+                          HEIGHT="61"
+                          WIDTH="631"
+                          VPOS="595"
+                          HPOS="453"
+                          CONTENT="UNDERWAR MANUFACTURERS"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_9"
+                         BASELINE="1160,680 1190,678 1220,678 1250,676 1280,676 1310,678 1340,680"
+                         HEIGHT="66"
+                         WIDTH="184"
+                         VPOS="629"
+                         HPOS="1155">
+                  <String ID="string_tr_1_tl_9"
+                          HEIGHT="66"
+                          WIDTH="184"
+                          VPOS="629"
+                          HPOS="1155"
+                          CONTENT="Laufenburg"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_10"
+                         BASELINE="492,688 518,686 548,686 578,686 608,686 638,686 668,684 698,684 728,684 758,684 788,684 818,686 848,686"
+                         HEIGHT="60"
+                         WIDTH="359"
+                         VPOS="644"
+                         HPOS="487">
+                  <String ID="string_tr_1_tl_10"
+                          HEIGHT="60"
+                          WIDTH="359"
+                          VPOS="644"
+                          HPOS="487"
+                          CONTENT="Buser &amp; Keiser &amp; Co."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_11"
+                         BASELINE="528,726 542,722 572,722 602,722 632,722 662,720 692,722 722,722 752,720 782,720 812,720 842,722 872,720 902,720 932,718 962,720 992,718 1022,718 1052,718 1082,718 1112,720 1142,720"
+                         HEIGHT="87"
+                         WIDTH="617"
+                         VPOS="667"
+                         HPOS="523">
+                  <String ID="string_tr_1_tl_11"
+                          HEIGHT="87"
+                          WIDTH="617"
+                          VPOS="667"
+                          HPOS="523"
+                          CONTENT="(Knitted and woven, ladies, children's"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_12"
+                         BASELINE="562,760 592,758 622,758 652,758 682,758 712,760 732,762"
+                         HEIGHT="47"
+                         WIDTH="175"
+                         VPOS="726"
+                         HPOS="556">
+                  <String ID="string_tr_1_tl_12"
+                          HEIGHT="47"
+                          WIDTH="175"
+                          VPOS="726"
+                          HPOS="556"
+                          CONTENT="and men's)"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_13"
+                         BASELINE="490,804 494,804 524,802 554,802 584,802 614,802 644,802 674,802 704,802 734,802 764,800 794,800 824,800 854,800 884,800 914,798 944,798 974,798 1004,798 1034,798 1064,798 1094,798 1124,798 1154,800 1170,796 1200,794 1230,794 1260,794 1276,796"
+                         HEIGHT="91"
+                         WIDTH="790"
+                         VPOS="743"
+                         HPOS="485">
+                  <String ID="string_tr_1_tl_13"
+                          HEIGHT="91"
+                          WIDTH="790"
+                          VPOS="743"
+                          HPOS="485"
+                          CONTENT="Hanro Knitting Works, Handschin &amp; Ronus, Liestal"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_14"
+                         BASELINE="530,840 560,838 590,840 596,840"
+                         HEIGHT="45"
+                         WIDTH="69"
+                         VPOS="806"
+                         HPOS="525">
+                  <String ID="string_tr_1_tl_14"
+                          HEIGHT="45"
+                          WIDTH="69"
+                          VPOS="806"
+                          HPOS="525"
+                          CONTENT="Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_15"
+                         BASELINE="530,876 560,872 590,872 620,872 650,872 680,872 710,870 740,872 770,870 800,870 830,870 860,870 890,870 920,870 950,868 980,870 1010,870 1040,868 1070,870 1100,870 1130,868 1160,872"
+                         HEIGHT="66"
+                         WIDTH="634"
+                         VPOS="820"
+                         HPOS="525">
+                  <String ID="string_tr_1_tl_15"
+                          HEIGHT="66"
+                          WIDTH="634"
+                          VPOS="820"
+                          HPOS="525"
+                          CONTENT="(Swiss ribbed underwear for ladies and"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_16"
+                         BASELINE="562,906 592,908 622,908 652,908 682,908 702,908"
+                         HEIGHT="53"
+                         WIDTH="144"
+                         VPOS="873"
+                         HPOS="557">
+                  <String ID="string_tr_1_tl_16"
+                          HEIGHT="53"
+                          WIDTH="144"
+                          VPOS="873"
+                          HPOS="557"
+                          CONTENT="children)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="1310"
+                       WIDTH="1084"
+                       VPOS="892"
+                       HPOS="464"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="464,892 1548,892 1548,2202 464,2202"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="1158,946 1164,944 1194,944 1224,944 1254,944 1284,942 1314,942 1344,944"
+                         HEIGHT="85"
+                         WIDTH="190"
+                         VPOS="882"
+                         HPOS="1153">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="85"
+                          WIDTH="190"
+                          VPOS="882"
+                          HPOS="1153"
+                          CONTENT="Murgenthal"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="498,952 528,950 558,952 588,952 618,952 648,954 678,952 708,952 738,952 768,954 770,954"
+                         HEIGHT="75"
+                         WIDTH="275"
+                         VPOS="903"
+                         HPOS="493">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="75"
+                          WIDTH="275"
+                          VPOS="903"
+                          HPOS="493"
+                          CONTENT="His &amp; Co., A.-G."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="1160,990 1190,988 1220,988 1250,988 1280,990 1310,990 1340,990 1370,992 1400,992 1430,992 1444,994"
+                         HEIGHT="74"
+                         WIDTH="288"
+                         VPOS="949"
+                         HPOS="1155">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="74"
+                          WIDTH="288"
+                          VPOS="949"
+                          HPOS="1155"
+                          CONTENT="Satenwil (Aargau)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="494,998 524,996 554,996 584,998 614,998 644,996 674,996 704,998 728,998"
+                         HEIGHT="53"
+                         WIDTH="237"
+                         VPOS="960"
+                         HPOS="489">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="53"
+                          WIDTH="237"
+                          VPOS="960"
+                          HPOS="489"
+                          CONTENT="Hochuli &amp; Co."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="1162,1036 1180,1034 1210,1032 1240,1032 1270,1030"
+                         HEIGHT="48"
+                         WIDTH="110"
+                         VPOS="998"
+                         HPOS="1157">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="48"
+                          WIDTH="110"
+                          VPOS="998"
+                          HPOS="1157"
+                          CONTENT="Zurich"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="504,1040 534,1040 564,1040 594,1040 624,1042 654,1040 684,1040 714,1040 744,1040 774,1042 804,1040 834,1040 860,1040"
+                         HEIGHT="56"
+                         WIDTH="359"
+                         VPOS="1002"
+                         HPOS="499">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="56"
+                          WIDTH="359"
+                          VPOS="1002"
+                          HPOS="499"
+                          CONTENT="W. Hollins &amp; Co., Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_7"
+                         BASELINE="1194,1072 1220,1072 1250,1072 1280,1072 1310,1072 1340,1070 1370,1070 1400,1070 1430,1070 1460,1068 1490,1070"
+                         HEIGHT="78"
+                         WIDTH="300"
+                         VPOS="1028"
+                         HPOS="1188">
+                  <String ID="string_tr_2_tl_7"
+                          HEIGHT="78"
+                          WIDTH="300"
+                          VPOS="1028"
+                          HPOS="1188"
+                          CONTENT="31, Bahnhofstrasse"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_8"
+                         BASELINE="530,1080 546,1076 576,1076 606,1076 636,1076 666,1076 696,1076 726,1076 756,1076 786,1076 816,1076 846,1074 876,1074 906,1074 936,1074 966,1074 996,1076 1026,1070 1056,1072 1086,1072 1116,1074 1146,1076"
+                         HEIGHT="72"
+                         WIDTH="619"
+                         VPOS="1018"
+                         HPOS="525">
+                  <String ID="string_tr_2_tl_8"
+                          HEIGHT="72"
+                          WIDTH="619"
+                          VPOS="1018"
+                          HPOS="525"
+                          CONTENT="(Manufacturers of Pomada.&#34; Vivella"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_9"
+                         BASELINE="566,1114 574,1112 604,1112 634,1112 664,1112 694,1112 724,1112 754,1112 784,1110 814,1110 844,1110 874,1112 904,1112 934,1110 964,1110 994,1110 1024,1108 1054,1110 1084,1110 1114,1108 1144,1108 1174,1112"
+                         HEIGHT="66"
+                         WIDTH="611"
+                         VPOS="1077"
+                         HPOS="561">
+                  <String ID="string_tr_2_tl_9"
+                          HEIGHT="66"
+                          WIDTH="611"
+                          VPOS="1077"
+                          HPOS="561"
+                          CONTENT="underwear for ladies, men and children,"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_10"
+                         BASELINE="1164,1150 1194,1148 1224,1148 1254,1148 1284,1148 1312,1150"
+                         HEIGHT="75"
+                         WIDTH="151"
+                         VPOS="1109"
+                         HPOS="1159">
+                  <String ID="string_tr_2_tl_10"
+                          HEIGHT="75"
+                          WIDTH="151"
+                          VPOS="1109"
+                          HPOS="1159"
+                          CONTENT="Zofingen"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_11"
+                         BASELINE="496,1158 526,1156 556,1156 586,1156 616,1156 646,1156 676,1156 706,1156 734,1158"
+                         HEIGHT="74"
+                         WIDTH="241"
+                         VPOS="1101"
+                         HPOS="491">
+                  <String ID="string_tr_2_tl_11"
+                          HEIGHT="74"
+                          WIDTH="241"
+                          VPOS="1101"
+                          HPOS="491"
+                          CONTENT="Ruegger &amp; Co."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_12"
+                         BASELINE="528,1194 548,1192 578,1192 608,1192 638,1192 668,1192 698,1192 728,1190 758,1192 788,1190 818,1190 848,1192 878,1192 908,1190 938,1190 968,1190 998,1190 1028,1188 1058,1188 1088,1188 1118,1188 1148,1192"
+                         HEIGHT="93"
+                         WIDTH="624"
+                         VPOS="1130"
+                         HPOS="523">
+                  <String ID="string_tr_2_tl_12"
+                          HEIGHT="93"
+                          WIDTH="624"
+                          VPOS="1130"
+                          HPOS="523"
+                          CONTENT="(Knitted and woven, ladies, children's"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_13"
+                         BASELINE="564,1228 594,1228 624,1228 654,1228 684,1228 714,1228 738,1232"
+                         HEIGHT="47"
+                         WIDTH="177"
+                         VPOS="1196"
+                         HPOS="559">
+                  <String ID="string_tr_2_tl_13"
+                          HEIGHT="47"
+                          WIDTH="177"
+                          VPOS="1196"
+                          HPOS="559"
+                          CONTENT="and men's)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_14"
+                         BASELINE="496,1272 518,1270 548,1270 578,1272 608,1272 638,1270 668,1270 698,1270 728,1270 758,1270 788,1268 818,1270 848,1270 878,1270 908,1268 938,1268 968,1268 998,1268 1028,1268 1058,1268 1088,1268 1118,1268 1148,1268 1178,1264 1208,1264 1238,1262 1268,1262"
+                         HEIGHT="72"
+                         WIDTH="776"
+                         VPOS="1210"
+                         HPOS="491">
+                  <String ID="string_tr_2_tl_14"
+                          HEIGHT="72"
+                          WIDTH="776"
+                          VPOS="1210"
+                          HPOS="491"
+                          CONTENT="Swan Knitting Works, Ryff &amp; Co., Ltd. Berne"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_15"
+                         BASELINE="1198,1304 1216,1304 1246,1302 1276,1302 1306,1302 1336,1302 1366,1300 1396,1300 1426,1300 1456,1300 1486,1302"
+                         HEIGHT="82"
+                         WIDTH="292"
+                         VPOS="1252"
+                         HPOS="1192">
+                  <String ID="string_tr_2_tl_15"
+                          HEIGHT="82"
+                          WIDTH="292"
+                          VPOS="1252"
+                          HPOS="1192"
+                          CONTENT="3. Sandrainstrasse"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_16"
+                         BASELINE="500,1312 514,1310 544,1308 574,1306 604,1306 634,1306 664,1306 694,1306 724,1306 754,1306 784,1306 814,1304 844,1304 874,1304 904,1304 934,1304 964,1302 994,1304 1024,1304 1054,1302 1084,1302 1114,1302 1144,1304"
+                         HEIGHT="54"
+                         WIDTH="648"
+                         VPOS="1271"
+                         HPOS="495">
+                  <String ID="string_tr_2_tl_16"
+                          HEIGHT="54"
+                          WIDTH="648"
+                          VPOS="1271"
+                          HPOS="495"
+                          CONTENT="(Ladies and children s fine ribbed, knitted"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_17"
+                         BASELINE="564,1342 594,1342 624,1342 654,1342 684,1342 714,1342 744,1342 774,1342 804,1340 834,1342 864,1342 894,1340 924,1340 954,1340 984,1340 1014,1340 1044,1338 1074,1338 1104,1338 1134,1338 1164,1338 1194,1340 1202,1342"
+                         HEIGHT="66"
+                         WIDTH="641"
+                         VPOS="1292"
+                         HPOS="559">
+                  <String ID="string_tr_2_tl_17"
+                          HEIGHT="66"
+                          WIDTH="641"
+                          VPOS="1292"
+                          HPOS="559"
+                          CONTENT="underwear, cotton, wool, silk and mixed)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_18"
+                         BASELINE="464,1394 478,1394 508,1392 538,1392 568,1392 598,1392 628,1392 658,1392 688,1392 718,1392 748,1392 778,1390 808,1390 838,1390 868,1390 898,1390 928,1388 958,1388 988,1388"
+                         HEIGHT="67"
+                         WIDTH="528"
+                         VPOS="1346"
+                         HPOS="458">
+                  <String ID="string_tr_2_tl_18"
+                          HEIGHT="67"
+                          WIDTH="528"
+                          VPOS="1346"
+                          HPOS="458"
+                          CONTENT="UNDERWAR MERCHANTS"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_19"
+                         BASELINE="1168,1434 1190,1434 1220,1432 1250,1432 1280,1430 1310,1432"
+                         HEIGHT="57"
+                         WIDTH="146"
+                         VPOS="1392"
+                         HPOS="1163">
+                  <String ID="string_tr_2_tl_19"
+                          HEIGHT="57"
+                          WIDTH="146"
+                          VPOS="1392"
+                          HPOS="1163"
+                          CONTENT="Leicester"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_20"
+                         BASELINE="498,1444 508,1442 538,1442 568,1442 598,1440 628,1440 658,1440 688,1440 718,1440 748,1440 778,1440 808,1440 838,1438 868,1438 898,1436"
+                         HEIGHT="76"
+                         WIDTH="405"
+                         VPOS="1403"
+                         HPOS="492">
+                  <String ID="string_tr_2_tl_20"
+                          HEIGHT="76"
+                          WIDTH="405"
+                          VPOS="1403"
+                          HPOS="492"
+                          CONTENT="Sedgley &amp; Lighting. Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_21"
+                         BASELINE="1200,1472 1204,1472 1234,1472 1264,1472 1294,1470 1324,1468 1354,1470 1384,1470 1414,1468 1444,1468 1474,1468 1504,1470"
+                         HEIGHT="79"
+                         WIDTH="308"
+                         VPOS="1414"
+                         HPOS="1195">
+                  <String ID="string_tr_2_tl_21"
+                          HEIGHT="79"
+                          WIDTH="308"
+                          VPOS="1414"
+                          HPOS="1195"
+                          CONTENT="33. Bowling Green"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_22"
+                         BASELINE="1232,1506 1262,1506 1292,1506 1322,1506 1334,1506"
+                         HEIGHT="65"
+                         WIDTH="105"
+                         VPOS="1473"
+                         HPOS="1227">
+                  <String ID="string_tr_2_tl_22"
+                          HEIGHT="65"
+                          WIDTH="105"
+                          VPOS="1473"
+                          HPOS="1227"
+                          CONTENT="Street"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_23"
+                         BASELINE="468,1572 490,1570 520,1570 550,1570 580,1570 610,1570 640,1570 670,1570 700,1568 730,1568 760,1568 790,1570 820,1568 850,1568 880,1568 910,1570 940,1568 970,1568 1000,1566 1030,1566 1060,1566 1090,1564 1120,1566 1150,1564 1180,1566 1210,1570"
+                         HEIGHT="97"
+                         WIDTH="745"
+                         VPOS="1495"
+                         HPOS="463">
+                  <String ID="string_tr_2_tl_23"
+                          HEIGHT="97"
+                          WIDTH="745"
+                          VPOS="1495"
+                          HPOS="463"
+                          CONTENT="UPHOLSTERY TRADE (TEXTILES FOR)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_24"
+                         BASELINE="1168,1612 1198,1610 1228,1610 1258,1610"
+                         HEIGHT="76"
+                         WIDTH="95"
+                         VPOS="1569"
+                         HPOS="1162">
+                  <String ID="string_tr_2_tl_24"
+                          HEIGHT="76"
+                          WIDTH="95"
+                          VPOS="1569"
+                          HPOS="1162"
+                          CONTENT="Basse"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_25"
+                         BASELINE="502,1620 520,1618 550,1618 580,1618 610,1618 640,1618 670,1618 700,1616 730,1616 760,1616 790,1618 820,1616"
+                         HEIGHT="65"
+                         WIDTH="322"
+                         VPOS="1575"
+                         HPOS="497">
+                  <String ID="string_tr_2_tl_25"
+                          HEIGHT="65"
+                          WIDTH="322"
+                          VPOS="1575"
+                          HPOS="497"
+                          CONTENT="Rod. Brenner &amp; Co."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_26"
+                         BASELINE="474,1670 476,1670 506,1668 536,1668 566,1668 596,1668 626,1668 656,1668 686,1666 716,1668 746,1666 776,1668 806,1666 836,1666 866,1666 896,1666 926,1664 956,1664 986,1664 1016,1664"
+                         HEIGHT="85"
+                         WIDTH="545"
+                         VPOS="1612"
+                         HPOS="469">
+                  <String ID="string_tr_2_tl_26"
+                          HEIGHT="85"
+                          WIDTH="545"
+                          VPOS="1612"
+                          HPOS="469"
+                          CONTENT="VARNISH MANUFACTURERS"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_27"
+                         BASELINE="1174,1708 1204,1706 1234,1706 1250,1708"
+                         HEIGHT="69"
+                         WIDTH="79"
+                         VPOS="1656"
+                         HPOS="1169">
+                  <String ID="string_tr_2_tl_27"
+                          HEIGHT="69"
+                          WIDTH="79"
+                          VPOS="1656"
+                          HPOS="1169"
+                          CONTENT="Hull"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_28"
+                         BASELINE="500,1716 514,1716 544,1716 574,1716 604,1716 634,1716 664,1716 694,1716 724,1714 754,1714 784,1714 814,1714 844,1714 874,1714 904,1714 934,1714 964,1714"
+                         HEIGHT="56"
+                         WIDTH="467"
+                         VPOS="1673"
+                         HPOS="495">
+                  <String ID="string_tr_2_tl_28"
+                          HEIGHT="56"
+                          WIDTH="467"
+                          VPOS="1673"
+                          HPOS="495"
+                          CONTENT="Blundell, Spence &amp; Co., Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_29"
+                         BASELINE="1172,1754 1190,1752 1220,1752 1250,1750 1280,1752 1310,1752 1340,1752 1370,1750 1400,1750"
+                         HEIGHT="65"
+                         WIDTH="232"
+                         VPOS="1707"
+                         HPOS="1167">
+                  <String ID="string_tr_2_tl_29"
+                          HEIGHT="65"
+                          WIDTH="232"
+                          VPOS="1707"
+                          HPOS="1167"
+                          CONTENT="London, E. 15"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_30"
+                         BASELINE="500,1766 514,1764 544,1762 574,1760 604,1760 634,1760 664,1760 694,1758 724,1758 754,1758 784,1758 814,1758 844,1758 874,1758 904,1760"
+                         HEIGHT="85"
+                         WIDTH="408"
+                         VPOS="1718"
+                         HPOS="495">
+                  <String ID="string_tr_2_tl_30"
+                          HEIGHT="85"
+                          WIDTH="408"
+                          VPOS="1718"
+                          HPOS="495"
+                          CONTENT="Jenson &amp; Nicholson, Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_31"
+                         BASELINE="1200,1788 1230,1790 1260,1790 1290,1788 1320,1788 1350,1788 1380,1788 1410,1788 1440,1790 1470,1788 1500,1788 1530,1788 1548,1790"
+                         HEIGHT="71"
+                         WIDTH="351"
+                         VPOS="1745"
+                         HPOS="1195">
+                  <String ID="string_tr_2_tl_31"
+                          HEIGHT="71"
+                          WIDTH="351"
+                          VPOS="1745"
+                          HPOS="1195"
+                          CONTENT="Goswell Works, Strat¬"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_32"
+                         BASELINE="1238,1826 1268,1826 1298,1826 1310,1826"
+                         HEIGHT="46"
+                         WIDTH="75"
+                         VPOS="1792"
+                         HPOS="1233">
+                  <String ID="string_tr_2_tl_32"
+                          HEIGHT="46"
+                          WIDTH="75"
+                          VPOS="1792"
+                          HPOS="1233"
+                          CONTENT="ford"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_33"
+                         BASELINE="1174,1866 1204,1866 1234,1866 1264,1866 1294,1866 1324,1866 1354,1866 1384,1866 1414,1866 1440,1868"
+                         HEIGHT="83"
+                         WIDTH="269"
+                         VPOS="1819"
+                         HPOS="1169">
+                  <String ID="string_tr_2_tl_33"
+                          HEIGHT="83"
+                          WIDTH="269"
+                          VPOS="1819"
+                          HPOS="1169"
+                          CONTENT="Altstetten/ Zurich"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_34"
+                         BASELINE="498,1878 520,1876 550,1876 580,1876 610,1876 640,1876 670,1876 700,1874 730,1874 760,1874 790,1874 820,1874 850,1874 880,1872 910,1872 940,1872 970,1872 1000,1874"
+                         HEIGHT="105"
+                         WIDTH="505"
+                         VPOS="1812"
+                         HPOS="493">
+                  <String ID="string_tr_2_tl_34"
+                          HEIGHT="105"
+                          WIDTH="505"
+                          VPOS="1812"
+                          HPOS="493"
+                          CONTENT="Standard Lack- &amp; Farbenwerke"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_35"
+                         BASELINE="476,1926 488,1926 518,1926 548,1926 578,1926 608,1926 638,1926 668,1926 698,1924 728,1924 758,1924 788,1924 818,1924 848,1924 878,1922 908,1922 938,1924 968,1924"
+                         HEIGHT="60"
+                         WIDTH="495"
+                         VPOS="1878"
+                         HPOS="471">
+                  <String ID="string_tr_2_tl_35"
+                          HEIGHT="60"
+                          WIDTH="495"
+                          VPOS="1878"
+                          HPOS="471"
+                          CONTENT="VEHICLES (COMMERCIAL)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_36"
+                         BASELINE="1178,1964 1208,1962 1238,1964 1268,1964 1274,1964"
+                         HEIGHT="70"
+                         WIDTH="100"
+                         VPOS="1908"
+                         HPOS="1172">
+                  <String ID="string_tr_2_tl_36"
+                          HEIGHT="70"
+                          WIDTH="100"
+                          VPOS="1908"
+                          HPOS="1172"
+                          CONTENT="Olten"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_37"
+                         BASELINE="502,1974 522,1974 552,1974 582,1974 612,1972 642,1972 672,1972 702,1972 732,1972 762,1972 792,1972 822,1972 852,1972 882,1972 912,1970 942,1970 972,1972 1002,1972 1032,1974 1062,1970 1092,1970 1122,1972"
+                         HEIGHT="59"
+                         WIDTH="624"
+                         VPOS="1927"
+                         HPOS="497">
+                  <String ID="string_tr_2_tl_37"
+                          HEIGHT="59"
+                          WIDTH="624"
+                          VPOS="1927"
+                          HPOS="497"
+                          CONTENT="Fabrique d'Automobiles Berna&#34;, S. A."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_38"
+                         BASELINE="1172,2012 1194,2010 1224,2008 1254,2008 1284,2010"
+                         HEIGHT="57"
+                         WIDTH="116"
+                         VPOS="1969"
+                         HPOS="1167">
+                  <String ID="string_tr_2_tl_38"
+                          HEIGHT="57"
+                          WIDTH="116"
+                          VPOS="1969"
+                          HPOS="1167"
+                          CONTENT="Arbon"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_39"
+                         BASELINE="504,2020 528,2018 558,2020 588,2018 618,2018 648,2018 678,2018 708,2018 738,2018 768,2018 798,2018 828,2018 858,2018"
+                         HEIGHT="60"
+                         WIDTH="357"
+                         VPOS="1978"
+                         HPOS="499">
+                  <String ID="string_tr_2_tl_39"
+                          HEIGHT="60"
+                          WIDTH="357"
+                          VPOS="1978"
+                          HPOS="499"
+                          CONTENT="Adolphe Saurer, S. A."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_40"
+                         BASELINE="482,2072 486,2070 516,2068 546,2070 576,2070 606,2068 636,2068 666,2068 696,2068 726,2068 756,2068 786,2068 816,2066 846,2066 876,2066 906,2066 936,2066"
+                         HEIGHT="60"
+                         WIDTH="457"
+                         VPOS="2022"
+                         HPOS="477">
+                  <String ID="string_tr_2_tl_40"
+                          HEIGHT="60"
+                          WIDTH="457"
+                          VPOS="2022"
+                          HPOS="477"
+                          CONTENT="VEIL MANUFACTURERS"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_41"
+                         BASELINE="1172,2108 1184,2108 1214,2106 1244,2106 1274,2106 1304,2106 1334,2106 1364,2106"
+                         HEIGHT="64"
+                         WIDTH="195"
+                         VPOS="2058"
+                         HPOS="1167">
+                  <String ID="string_tr_2_tl_41"
+                          HEIGHT="64"
+                          WIDTH="195"
+                          VPOS="2058"
+                          HPOS="1167"
+                          CONTENT="Nottingham"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_42"
+                         BASELINE="506,2118 536,2116 566,2116 596,2118 626,2116 656,2116 686,2116 716,2116 746,2116 776,2116 806,2116 836,2116 848,2118"
+                         HEIGHT="68"
+                         WIDTH="346"
+                         VPOS="2070"
+                         HPOS="501">
+                  <String ID="string_tr_2_tl_42"
+                          HEIGHT="68"
+                          WIDTH="346"
+                          VPOS="2070"
+                          HPOS="501"
+                          CONTENT="Thomas Adams, Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_43"
+                         BASELINE="1174,2154 1188,2152 1218,2152 1248,2152 1278,2150 1308,2150 1338,2150 1368,2150"
+                         HEIGHT="53"
+                         WIDTH="198"
+                         VPOS="2114"
+                         HPOS="1169">
+                  <String ID="string_tr_2_tl_43"
+                          HEIGHT="53"
+                          WIDTH="198"
+                          VPOS="2114"
+                          HPOS="1169"
+                          CONTENT="Nottingham"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_44"
+                         BASELINE="504,2164 512,2164 542,2162 572,2162 602,2162 632,2162 662,2162 692,2162 722,2162 752,2162 782,2162 812,2162 842,2160 872,2160 902,2162"
+                         HEIGHT="76"
+                         WIDTH="401"
+                         VPOS="2118"
+                         HPOS="499">
+                  <String ID="string_tr_2_tl_44"
+                          HEIGHT="76"
+                          WIDTH="401"
+                          VPOS="2118"
+                          HPOS="499"
+                          CONTENT="A. C. Pearse &amp; Co., Ltd."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_45"
+                         BASELINE="1218,2192 1226,2192 1256,2190 1286,2190 1316,2190 1346,2190 1376,2190 1406,2188 1436,2190 1466,2190"
+                         HEIGHT="106"
+                         WIDTH="252"
+                         VPOS="2120"
+                         HPOS="1213">
+                  <String ID="string_tr_2_tl_45"
+                          HEIGHT="106"
+                          WIDTH="252"
+                          VPOS="2120"
+                          HPOS="1213"
+                          CONTENT="14. Pilcher Gate"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

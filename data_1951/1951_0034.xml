@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1951_85 seiten-0034.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:09.517+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2586" WIDTH="1808">
+         <TopMargin HEIGHT="0" WIDTH="1808" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2586" WIDTH="0" VPOS="0" HPOS="1808"/>
+         <BottomMargin HEIGHT="0" WIDTH="1808" VPOS="2586" HPOS="0"/>
+         <PrintSpace HEIGHT="2586" WIDTH="1808" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_4"
+                       HEIGHT="264"
+                       WIDTH="706"
+                       VPOS="312"
+                       HPOS="412"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="412,312 1118,312 1118,576 412,576"/>
+               </Shape>
+               <TextLine ID="tr_4_tl_1"
+                         BASELINE="412,362 442,362 472,362 502,362 532,362 562,362 592,364 622,364 652,364 682,364 712,364 742,364 772,364 802,364 832,366 862,366 892,366 922,366 952,366 982,366 1012,366 1042,366 1072,366 1102,368 1112,368"
+                         HEIGHT="146"
+                         WIDTH="705"
+                         VPOS="273"
+                         HPOS="406">
+                  <String ID="string_tr_4_tl_1"
+                          HEIGHT="146"
+                          WIDTH="705"
+                          VPOS="273"
+                          HPOS="406"
+                          CONTENT="Oriental Capets"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_2"
+                         BASELINE="610,562 640,564 670,564 700,564 730,564 760,564 790,564 820,564 850,564 880,566 910,566 940,566 970,566 1000,566 1030,566 1060,566 1090,566 1118,562"
+                         HEIGHT="94"
+                         WIDTH="511"
+                         VPOS="516"
+                         HPOS="605">
+                  <String ID="string_tr_4_tl_2"
+                          HEIGHT="94"
+                          WIDTH="511"
+                          VPOS="516"
+                          HPOS="605"
+                          CONTENT="Haus du Pont Waisenhausstrasse 2"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_7"
+                       HEIGHT="278"
+                       WIDTH="330"
+                       VPOS="792"
+                       HPOS="386"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="386,792 716,792 716,1070 386,1070"/>
+               </Shape>
+               <TextLine ID="tr_7_tl_1"
+                         BASELINE="386,842 414,846 444,846 474,846 504,846 534,846 564,848 594,846 624,848 654,848 684,848 714,848 716,846"
+                         HEIGHT="94"
+                         WIDTH="331"
+                         VPOS="795"
+                         HPOS="381">
+                  <String ID="string_tr_7_tl_1"
+                          HEIGHT="94"
+                          WIDTH="331"
+                          VPOS="795"
+                          HPOS="381"
+                          CONTENT="Schwerchemikalien"/>
+               </TextLine>
+               <TextLine ID="tr_7_tl_2"
+                         BASELINE="386,954 398,952 428,954 458,952 488,954 518,954 548,954 578,954 608,954 638,954 668,954 698,952"
+                         HEIGHT="74"
+                         WIDTH="315"
+                         VPOS="904"
+                         HPOS="381">
+                  <String ID="string_tr_7_tl_2"
+                          HEIGHT="74"
+                          WIDTH="315"
+                          VPOS="904"
+                          HPOS="381"
+                          CONTENT="Zwischenprodukte"/>
+               </TextLine>
+               <TextLine ID="tr_7_tl_3"
+                         BASELINE="388,1060 416,1060 446,1060 476,1060 506,1060 536,1060 566,1060 596,1060 626,1058"
+                         HEIGHT="97"
+                         WIDTH="242"
+                         VPOS="1009"
+                         HPOS="382">
+                  <String ID="string_tr_7_tl_3"
+                          HEIGHT="97"
+                          WIDTH="242"
+                          VPOS="1009"
+                          HPOS="382"
+                          CONTENT="Lösungsmittel"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="488"
+                       WIDTH="320"
+                       VPOS="1116"
+                       HPOS="386"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="386,1116 706,1116 706,1604 386,1604"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="390,1166 420,1168 450,1166 480,1168 510,1168 540,1168 570,1168 600,1168 630,1166 648,1166"
+                         HEIGHT="92"
+                         WIDTH="261"
+                         VPOS="1116"
+                         HPOS="385">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="92"
+                          WIDTH="261"
+                          VPOS="1116"
+                          HPOS="385"
+                          CONTENT="Sprengzubehör"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="386,1272 416,1274 446,1272 476,1274 506,1272 536,1274 566,1272"
+                         HEIGHT="73"
+                         WIDTH="184"
+                         VPOS="1225"
+                         HPOS="381">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="73"
+                          WIDTH="184"
+                          VPOS="1225"
+                          HPOS="381"
+                          CONTENT="Farbstoffe"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="392,1376 422,1378 452,1380 482,1380 512,1380 542,1380 572,1380 602,1380 632,1380 648,1380"
+                         HEIGHT="103"
+                         WIDTH="260"
+                         VPOS="1323"
+                         HPOS="387">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="103"
+                          WIDTH="260"
+                          VPOS="1323"
+                          HPOS="387"
+                          CONTENT="Textilhilfsmittel"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="386,1484 416,1486 446,1486 476,1486 506,1486 536,1488 566,1486 582,1486"
+                         HEIGHT="120"
+                         WIDTH="199"
+                         VPOS="1436"
+                         HPOS="381">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="120"
+                          WIDTH="199"
+                          VPOS="1436"
+                          HPOS="381"
+                          CONTENT="Kunstharze"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="388,1592 418,1592 448,1592 478,1592 508,1592 538,1592 568,1594 598,1594 628,1594 658,1594 688,1594 706,1592"
+                         HEIGHT="76"
+                         WIDTH="322"
+                         VPOS="1547"
+                         HPOS="383">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="76"
+                          WIDTH="322"
+                          VPOS="1547"
+                          HPOS="383"
+                          CONTENT="Gummichemikalien"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="280"
+                       WIDTH="648"
+                       VPOS="1898"
+                       HPOS="396"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="396,1898 1044,1898 1044,2178 396,2178"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="402,1950 432,1948 462,1948 492,1950 522,1952 552,1950 582,1950 612,1952 642,1952 672,1952 702,1950 732,1952 762,1950 792,1950 822,1948 852,1948 882,1950 912,1950 942,1952 972,1952 1002,1952 1032,1956 1044,1956"
+                         HEIGHT="84"
+                         WIDTH="645"
+                         VPOS="1890"
+                         HPOS="397">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="84"
+                          WIDTH="645"
+                          VPOS="1890"
+                          HPOS="397"
+                          CONTENT="OSCARNEHER &amp; Co. LT."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="396,2008 426,2010 456,2010 486,2012 516,2012 546,2012 576,2014 606,2014 636,2014 666,2014 692,2010"
+                         HEIGHT="78"
+                         WIDTH="300"
+                         VPOS="1966"
+                         HPOS="391">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="78"
+                          WIDTH="300"
+                          VPOS="1966"
+                          HPOS="391"
+                          CONTENT="MES (Suiterland)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="526,2120 556,2120 586,2120 616,2120 646,2120 676,2122 706,2122 736,2122 766,2122 796,2122 826,2122 856,2122 886,2122 916,2122 946,2124 970,2124"
+                         HEIGHT="82"
+                         WIDTH="448"
+                         VPOS="2064"
+                         HPOS="521">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="82"
+                          WIDTH="448"
+                          VPOS="2064"
+                          HPOS="521"
+                          CONTENT="Manufacturers of electro-chemical"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="532,2168 562,2166 592,2166 622,2166 652,2168 682,2168 712,2168 742,2166 772,2168 802,2168 818,2168"
+                         HEIGHT="93"
+                         WIDTH="290"
+                         VPOS="2133"
+                         HPOS="526">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="93"
+                          WIDTH="290"
+                          VPOS="2133"
+                          HPOS="526"
+                          CONTENT="products for breaching"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_6"
+                       HEIGHT="308"
+                       WIDTH="380"
+                       VPOS="314"
+                       HPOS="1172"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="1172,314 1552,314 1552,622 1172,622"/>
+               </Shape>
+               <TextLine ID="tr_6_tl_1"
+                         BASELINE="1174,364 1204,366 1234,366 1264,366 1294,366 1324,368 1354,366 1384,368 1414,368 1444,368 1474,368 1504,368 1534,368 1552,366"
+                         HEIGHT="99"
+                         WIDTH="381"
+                         VPOS="301"
+                         HPOS="1169">
+                  <String ID="string_tr_6_tl_1"
+                          HEIGHT="99"
+                          WIDTH="381"
+                          VPOS="301"
+                          HPOS="1169"
+                          CONTENT="Importer and Exporter"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_2"
+                         BASELINE="1172,434 1202,436 1232,436 1262,436 1292,438 1322,436 1352,438 1382,438 1412,438 1442,438 1472,438 1502,438 1520,436"
+                         HEIGHT="95"
+                         WIDTH="352"
+                         VPOS="387"
+                         HPOS="1166">
+                  <String ID="string_tr_6_tl_2"
+                          HEIGHT="95"
+                          WIDTH="352"
+                          VPOS="387"
+                          HPOS="1166"
+                          CONTENT="Exclusive Wholesale"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_3"
+                         BASELINE="1184,542 1214,544 1244,544 1274,544 1304,544 1334,546 1364,544 1394,544 1424,544 1454,546 1484,544 1506,542"
+                         HEIGHT="98"
+                         WIDTH="325"
+                         VPOS="472"
+                         HPOS="1179">
+                  <String ID="string_tr_6_tl_3"
+                          HEIGHT="98"
+                          WIDTH="325"
+                          VPOS="472"
+                          HPOS="1179"
+                          CONTENT="Eugen Keller"/>
+               </TextLine>
+               <TextLine ID="tr_6_tl_4"
+                         BASELINE="1176,604 1206,606 1236,606 1266,608 1296,608 1326,608 1356,608 1380,612"
+                         HEIGHT="89"
+                         WIDTH="208"
+                         VPOS="554"
+                         HPOS="1170">
+                  <String ID="string_tr_6_tl_4"
+                          HEIGHT="89"
+                          WIDTH="208"
+                          VPOS="554"
+                          HPOS="1170"
+                          CONTENT="Zürich 1"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="310"
+                       WIDTH="742"
+                       VPOS="1298"
+                       HPOS="830"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="830,1298 1572,1298 1572,1608 830,1608"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="830,1350 860,1348 890,1350 920,1352 950,1350 980,1348 1010,1348 1040,1348 1070,1348 1100,1348 1130,1348 1160,1348 1190,1348 1220,1350 1250,1350 1280,1350 1310,1350 1340,1350 1370,1352 1400,1352 1430,1352 1460,1350 1490,1350 1520,1352 1550,1352 1572,1352"
+                         HEIGHT="126"
+                         WIDTH="745"
+                         VPOS="1252"
+                         HPOS="825">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="126"
+                          WIDTH="745"
+                          VPOS="1252"
+                          HPOS="825"
+                          CONTENT="Imperial Chemical industries"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="1042,1420 1046,1418 1076,1418 1106,1418 1136,1418 1166,1420 1196,1418 1226,1420 1256,1420 1286,1420 1316,1418 1346,1418"
+                         HEIGHT="106"
+                         WIDTH="307"
+                         VPOS="1368"
+                         HPOS="1037">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="106"
+                          WIDTH="307"
+                          VPOS="1368"
+                          HPOS="1037"
+                          CONTENT="(Export) Limited"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="946,1590 974,1596 1004,1594 1034,1596 1064,1594 1094,1596 1124,1596 1154,1596 1184,1596 1214,1596 1244,1596 1274,1596 1304,1598 1334,1598 1364,1598 1394,1598 1424,1598 1454,1598 1456,1596"
+                         HEIGHT="99"
+                         WIDTH="512"
+                         VPOS="1526"
+                         HPOS="940">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="99"
+                          WIDTH="512"
+                          VPOS="1526"
+                          HPOS="940"
+                          CONTENT="Schützenmattstrasse 46, Basel"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_5"
+                       HEIGHT="278"
+                       WIDTH="308"
+                       VPOS="1904"
+                       HPOS="1164"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="1164,1904 1472,1904 1472,2182 1164,2182"/>
+               </Shape>
+               <TextLine ID="tr_5_tl_1"
+                         BASELINE="1166,1956 1196,1956 1226,1956 1256,1956 1286,1956 1316,1956 1346,1956 1376,1958 1406,1954"
+                         HEIGHT="93"
+                         WIDTH="244"
+                         VPOS="1878"
+                         HPOS="1161">
+                  <String ID="string_tr_5_tl_1"
+                          HEIGHT="93"
+                          WIDTH="244"
+                          VPOS="1878"
+                          HPOS="1161"
+                          CONTENT="Sodium-Perborate"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_2"
+                         BASELINE="1164,2026 1194,2026 1224,2026 1254,2028 1284,2028 1314,2028 1344,2028 1374,2028 1404,2028 1430,2028"
+                         HEIGHT="80"
+                         WIDTH="270"
+                         VPOS="1970"
+                         HPOS="1159">
+                  <String ID="string_tr_5_tl_2"
+                          HEIGHT="80"
+                          WIDTH="270"
+                          VPOS="1970"
+                          HPOS="1159"
+                          CONTENT="Sodium-Persulphate"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_3"
+                         BASELINE="1164,2094 1194,2098 1224,2098 1254,2098 1284,2098 1314,2098 1344,2098 1374,2098 1404,2098 1434,2098 1464,2100"
+                         HEIGHT="76"
+                         WIDTH="304"
+                         VPOS="2054"
+                         HPOS="1159">
+                  <String ID="string_tr_5_tl_3"
+                          HEIGHT="76"
+                          WIDTH="304"
+                          VPOS="2054"
+                          HPOS="1159"
+                          CONTENT="Potassium-Persulphate"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_4"
+                         BASELINE="1166,2168 1196,2170 1226,2170 1256,2168 1286,2168 1316,2170 1346,2170 1376,2170 1406,2170 1436,2170 1466,2170 1472,2172"
+                         HEIGHT="111"
+                         WIDTH="309"
+                         VPOS="2115"
+                         HPOS="1161">
+                  <String ID="string_tr_5_tl_4"
+                          HEIGHT="111"
+                          WIDTH="309"
+                          VPOS="2115"
+                          HPOS="1161"
+                          CONTENT="Ammonium-Persulphate"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

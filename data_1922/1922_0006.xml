@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1922_97 seiten-0006.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:08.597+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2712" WIDTH="1799">
+         <TopMargin HEIGHT="0" WIDTH="1799" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2712" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2712" WIDTH="0" VPOS="0" HPOS="1799"/>
+         <BottomMargin HEIGHT="0" WIDTH="1799" VPOS="2712" HPOS="0"/>
+         <PrintSpace HEIGHT="2712" WIDTH="1799" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2"
+                       HEIGHT="384"
+                       WIDTH="1082"
+                       VPOS="702"
+                       HPOS="412"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="412,702 1494,702 1494,1086 412,1086"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="412,762 414,762 444,762 474,762 504,762 534,760 564,760 594,760 624,760 654,758 684,758 714,758 744,758 774,758 804,756 834,758 864,756 894,756 924,756 954,756 984,754 1014,754 1044,756 1074,754 1104,754 1134,752 1164,754 1194,754 1224,756 1254,756 1284,756 1314,756 1344,756 1374,756 1404,756 1434,754 1464,754 1494,756"
+                         HEIGHT="114"
+                         WIDTH="1087"
+                         VPOS="659"
+                         HPOS="405">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="114"
+                          WIDTH="1087"
+                          VPOS="659"
+                          HPOS="405"
+                          CONTENT="ST ANNAHOF ZURICH Tel. Nos. 1934"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="1396,806 1426,806 1456,808 1486,808 1490,808"
+                         HEIGHT="85"
+                         WIDTH="98"
+                         VPOS="765"
+                         HPOS="1388">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="85"
+                          WIDTH="98"
+                          VPOS="765"
+                          HPOS="1388"
+                          CONTENT="in"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="1076,808 1106,808 1136,806 1166,806 1184,808"
+                         HEIGHT="78"
+                         WIDTH="115"
+                         VPOS="755"
+                         HPOS="1067">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="78"
+                          WIDTH="115"
+                          VPOS="755"
+                          HPOS="1067"
+                          CONTENT="I"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="416,812 446,812 476,812 478,812"
+                         HEIGHT="88"
+                         WIDTH="66"
+                         VPOS="772"
+                         HPOS="409">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="88"
+                          WIDTH="66"
+                          VPOS="772"
+                          HPOS="409"
+                          CONTENT="I"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="482,996 498,998 528,996 558,994 588,996 618,996 648,996 678,996 708,994 738,996 768,996 798,994 828,994 858,994 888,996 918,996 948,994 978,996 1008,994 1038,996 1068,994 1098,994 1128,994 1158,994 1188,994 1218,994 1248,994 1278,994 1308,994 1338,994 1368,992 1398,992 1428,994"
+                         HEIGHT="96"
+                         WIDTH="949"
+                         VPOS="915"
+                         HPOS="475">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="96"
+                          WIDTH="949"
+                          VPOS="915"
+                          HPOS="475"
+                          CONTENT="Swiss Branch of Roneo Lid, London"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="482,1072 502,1072 532,1072 562,1072 592,1072 622,1072 652,1074 682,1072 712,1072 742,1072 772,1070 802,1070 832,1070 862,1072 892,1072 922,1072 952,1074 982,1074 1012,1076 1042,1074 1072,1074 1102,1072 1132,1072 1162,1074 1192,1074 1222,1074 1252,1072 1282,1070 1312,1070 1342,1070 1372,1068 1402,1068 1432,1070"
+                         HEIGHT="129"
+                         WIDTH="953"
+                         VPOS="1004"
+                         HPOS="475">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="129"
+                          WIDTH="953"
+                          VPOS="1004"
+                          HPOS="475"
+                          CONTENT="Manufacturers of Office Appliances"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="486"
+                       WIDTH="822"
+                       VPOS="1292"
+                       HPOS="572"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="572,1292 1394,1292 1394,1778 572,1778"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="582,1344 602,1344 632,1344 662,1344 692,1344 722,1344 752,1344 782,1344 812,1344 842,1344 872,1342 902,1342 932,1342 962,1342 992,1342 1022,1342"
+                         HEIGHT="117"
+                         WIDTH="446"
+                         VPOS="1252"
+                         HPOS="573">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="117"
+                          WIDTH="446"
+                          VPOS="1252"
+                          HPOS="573"
+                          CONTENT="DUPLICATORS"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="578,1428 608,1428 638,1428 668,1428 698,1426 728,1428 758,1428 788,1428 818,1428 848,1428 878,1426 908,1426 938,1426 968,1424 998,1426 1008,1428"
+                         HEIGHT="88"
+                         WIDTH="436"
+                         VPOS="1362"
+                         HPOS="570">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="88"
+                          WIDTH="436"
+                          VPOS="1362"
+                          HPOS="570"
+                          CONTENT="RONEOTYPES"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="580,1516 610,1514 640,1514 670,1514 700,1514 730,1516 760,1514 790,1514 820,1514 850,1512 880,1512 910,1512 940,1512 970,1512 1000,1510 1030,1510 1060,1510 1090,1512 1110,1516"
+                         HEIGHT="100"
+                         WIDTH="534"
+                         VPOS="1446"
+                         HPOS="573">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="100"
+                          WIDTH="534"
+                          VPOS="1446"
+                          HPOS="573"
+                          CONTENT="LETTER COPIERS"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_4"
+                         BASELINE="582,1598 610,1598 640,1598 670,1596 700,1596 730,1598 760,1596 790,1598 820,1596 850,1596 880,1596 910,1598 940,1596 970,1596 1000,1596 1030,1596 1060,1596 1090,1594 1120,1594 1150,1594 1180,1594 1210,1596 1240,1592"
+                         HEIGHT="107"
+                         WIDTH="663"
+                         VPOS="1512"
+                         HPOS="574">
+                  <String ID="string_tr_3_tl_4"
+                          HEIGHT="107"
+                          WIDTH="663"
+                          VPOS="1512"
+                          HPOS="574"
+                          CONTENT="PENCIL SHARPENERS"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_5"
+                         BASELINE="572,1686 584,1686 614,1682 644,1682 674,1682 704,1682 734,1682 764,1684 794,1682 824,1682 854,1682 884,1682 914,1682 944,1680 974,1680 1004,1680 1034,1680 1064,1678 1094,1680"
+                         HEIGHT="90"
+                         WIDTH="526"
+                         VPOS="1608"
+                         HPOS="565">
+                  <String ID="string_tr_3_tl_5"
+                          HEIGHT="90"
+                          WIDTH="526"
+                          VPOS="1608"
+                          HPOS="565"
+                          CONTENT="FILING SYSTEMS"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_6"
+                         BASELINE="578,1768 584,1768 614,1766 644,1766 674,1766 704,1768 734,1768 764,1766 794,1768 824,1768 854,1768 884,1768 914,1766 944,1768 974,1768 1004,1766 1034,1766 1064,1766 1094,1766 1124,1764 1154,1764 1184,1764 1214,1764 1244,1764 1274,1764 1304,1766 1334,1764 1364,1766 1394,1766"
+                         HEIGHT="136"
+                         WIDTH="820"
+                         VPOS="1675"
+                         HPOS="570">
+                  <String ID="string_tr_3_tl_6"
+                          HEIGHT="136"
+                          WIDTH="820"
+                          VPOS="1675"
+                          HPOS="570"
+                          CONTENT="ART METAL FILING UNITS"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="390"
+                       WIDTH="1082"
+                       VPOS="1984"
+                       HPOS="420"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="420,1984 1502,1984 1502,2374 420,2374"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="1348,2034 1378,2034 1408,2034 1410,2034"
+                         HEIGHT="65"
+                         WIDTH="67"
+                         VPOS="1986"
+                         HPOS="1340">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="65"
+                          WIDTH="67"
+                          VPOS="1986"
+                          HPOS="1340"
+                          CONTENT="in"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="1060,2036 1090,2036 1120,2036 1150,2036 1180,2036 1188,2036"
+                         HEIGHT="66"
+                         WIDTH="132"
+                         VPOS="2001"
+                         HPOS="1053">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="66"
+                          WIDTH="132"
+                          VPOS="2001"
+                          HPOS="1053"
+                          CONTENT="M"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="426,2042 434,2040 464,2040 494,2040"
+                         HEIGHT="82"
+                         WIDTH="75"
+                         VPOS="1972"
+                         HPOS="418">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="82"
+                          WIDTH="75"
+                          VPOS="1972"
+                          HPOS="418"
+                          CONTENT="in"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="420,2114 450,2112 480,2114 510,2114 540,2114 570,2114 600,2114 630,2112 660,2112 690,2112 720,2110 750,2110 780,2110 810,2110 840,2110 870,2110 900,2110 930,2110 960,2110 990,2110 1020,2110 1050,2110 1080,2110 1110,2110 1140,2110 1170,2110 1200,2108 1230,2110 1260,2110 1290,2108 1320,2108 1350,2110 1380,2110 1410,2110 1440,2110 1470,2112 1500,2114 1502,2114"
+                         HEIGHT="91"
+                         WIDTH="1086"
+                         VPOS="2052"
+                         HPOS="413">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="91"
+                          WIDTH="1086"
+                          VPOS="2052"
+                          HPOS="413"
+                          CONTENT="Descriptive booklets free upon application stating"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="814,2180 820,2178 850,2178 880,2178 910,2178 940,2178 970,2176 1000,2176 1030,2176 1060,2176 1090,2174 1120,2178"
+                         HEIGHT="92"
+                         WIDTH="310"
+                         VPOS="2121"
+                         HPOS="807">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="92"
+                          WIDTH="310"
+                          VPOS="2121"
+                          HPOS="807"
+                          CONTENT="requirements."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="468,2364 472,2364 502,2364 532,2362 562,2364 592,2362 622,2362 652,2362 682,2362 712,2362 742,2360 772,2360 802,2360 832,2360 862,2360 892,2360 922,2360 952,2360 982,2360 1012,2360 1042,2358 1072,2358 1102,2358 1132,2358 1162,2358 1192,2360 1222,2358 1252,2358 1282,2358 1312,2358 1342,2358 1372,2358 1402,2358 1432,2358 1462,2358"
+                         HEIGHT="52"
+                         WIDTH="998"
+                         VPOS="2318"
+                         HPOS="460">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="52"
+                          WIDTH="998"
+                          VPOS="2318"
+                          HPOS="460"
+                          CONTENT="Please mention this Trade index when communicating with advertisers."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

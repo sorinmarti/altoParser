@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1922_97 seiten-0009.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:09.09+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2695" WIDTH="1781">
+         <TopMargin HEIGHT="0" WIDTH="1781" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2695" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2695" WIDTH="0" VPOS="0" HPOS="1781"/>
+         <BottomMargin HEIGHT="0" WIDTH="1781" VPOS="2695" HPOS="0"/>
+         <PrintSpace HEIGHT="2695" WIDTH="1781" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2"
+                       HEIGHT="410"
+                       WIDTH="1112"
+                       VPOS="563"
+                       HPOS="309"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="309,563 1421,563 1421,973 309,973"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="309,613 339,617 369,617 399,617 429,617 459,617 489,619 519,619 549,617 579,617 609,617 639,615 669,617 699,615 729,615 759,619 789,617 819,619 849,617 879,619 909,619 939,619 969,621 999,619 1029,619 1059,619 1089,619 1119,619 1149,621 1179,621 1209,621 1239,621 1269,621 1299,621 1329,619 1359,619 1389,619 1419,623 1421,623"
+                         HEIGHT="187"
+                         WIDTH="1117"
+                         VPOS="472"
+                         HPOS="301">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="187"
+                          WIDTH="1117"
+                          VPOS="472"
+                          HPOS="301"
+                          CONTENT="hebt der"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="523,963 553,963 583,963 613,963 643,963 673,961 701,963"
+                         HEIGHT="239"
+                         WIDTH="185"
+                         VPOS="804"
+                         HPOS="513">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="239"
+                          WIDTH="185"
+                          VPOS="804"
+                          HPOS="513"
+                          CONTENT="E"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="250"
+                       WIDTH="584"
+                       VPOS="1293"
+                       HPOS="559"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="559,1293 1143,1293 1143,1543 559,1543"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="887,1349 895,1349 925,1353 955,1343"
+                         HEIGHT="151"
+                         WIDTH="82"
+                         VPOS="1233"
+                         HPOS="878">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="151"
+                          WIDTH="82"
+                          VPOS="1233"
+                          HPOS="878"
+                          CONTENT="1"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="559,1527 571,1523 601,1525 631,1527 661,1529 691,1529 721,1527 751,1527 781,1529 811,1527 841,1529 871,1529 901,1529 931,1529 961,1527 991,1529 1021,1527 1051,1529 1081,1531 1111,1529 1143,1533"
+                         HEIGHT="195"
+                         WIDTH="590"
+                         VPOS="1408"
+                         HPOS="551">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="195"
+                          WIDTH="590"
+                          VPOS="1408"
+                          HPOS="551"
+                          CONTENT="London"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="558"
+                       WIDTH="1040"
+                       VPOS="1813"
+                       HPOS="339"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="339,1813 1379,1813 1379,2371 339,2371"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="585,1875 615,1875 645,1877 675,1877 705,1879 735,1879 765,1877 795,1879 825,1875 855,1875 885,1877 915,1877 945,1875 975,1875 993,1875 1005,1873 1035,1867 1065,1863 1095,1865 1125,1865 1155,1865 1185,1867 1215,1869 1245,1875 1261,1873"
+                         HEIGHT="236"
+                         WIDTH="682"
+                         VPOS="1685"
+                         HPOS="577">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="236"
+                          WIDTH="682"
+                          VPOS="1685"
+                          HPOS="577"
+                          CONTENT="aller"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="355,2037 385,2035 415,2039 445,2039 475,2039 505,2041 535,2041 565,2041 595,2043 625,2043 655,2043 685,2045 715,2045 745,2045 775,2045 805,2045 835,2045 865,2045 895,2047 925,2047 955,2045 985,2045 1015,2047 1045,2047 1075,2047 1105,2047 1135,2047 1165,2049 1195,2049 1225,2051 1255,2051 1285,2049 1315,2051 1345,2051 1375,2051 1379,2053"
+                         HEIGHT="208"
+                         WIDTH="1030"
+                         VPOS="1912"
+                         HPOS="346">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="208"
+                          WIDTH="1030"
+                          VPOS="1912"
+                          HPOS="346"
+                          CONTENT="Sie"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="339,2353 369,2351 399,2353 429,2353 459,2353 489,2353 519,2353 549,2353 579,2355 609,2355 639,2355 669,2355 699,2355 729,2355 759,2355 789,2355 819,2355 849,2357 879,2357 909,2357 939,2357 969,2357 999,2357 1029,2357 1059,2357 1089,2359 1119,2359 1149,2357 1179,2357 1209,2357 1239,2357 1269,2357 1299,2359 1329,2361 1335,2361"
+                         HEIGHT="161"
+                         WIDTH="1000"
+                         VPOS="2261"
+                         HPOS="331">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="161"
+                          WIDTH="1000"
+                          VPOS="2261"
+                          HPOS="331"
+                          CONTENT="ne nennten des Tode inde ghen communicating sich ehesten"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

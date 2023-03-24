@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1922_97 seiten-0081.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:26.477+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2713" WIDTH="1756">
+         <TopMargin HEIGHT="0" WIDTH="1756" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2713" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2713" WIDTH="0" VPOS="0" HPOS="1756"/>
+         <BottomMargin HEIGHT="0" WIDTH="1756" VPOS="2713" HPOS="0"/>
+         <PrintSpace HEIGHT="2713" WIDTH="1756" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="514"
+                       WIDTH="1160"
+                       VPOS="376"
+                       HPOS="234"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="234,376 1394,376 1394,890 234,890"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="234,442 254,442 284,442 314,440 344,440 374,442 404,440 434,442 464,442 494,442 524,444 554,444 584,442 614,444 644,442 674,440 704,442 734,442 764,442 794,440 824,440 854,442 884,442 914,444 944,444 974,442 1004,442 1034,442 1064,446 1094,448 1124,450 1154,446 1184,444 1214,440 1244,436 1274,426 1304,428 1334,428 1364,428 1394,430"
+                         HEIGHT="130"
+                         WIDTH="1164"
+                         VPOS="358"
+                         HPOS="226">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="130"
+                          WIDTH="1164"
+                          VPOS="358"
+                          HPOS="226"
+                          CONTENT="DANZAS &amp; C, LT."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="614,500 644,498 674,498 704,498 734,498 764,498 794,498 824,498 854,498 884,498 914,500 944,498 974,498 1004,498 1016,500"
+                         HEIGHT="94"
+                         WIDTH="406"
+                         VPOS="444"
+                         HPOS="607">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="94"
+                          WIDTH="406"
+                          VPOS="444"
+                          HPOS="607"
+                          CONTENT="ESTABLISHED 1815"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="302,574 332,572 362,572 392,572 422,572 452,572 482,572 512,570 542,572 572,572 602,572 632,574 662,574 692,574 722,574 752,574 782,574 812,574 842,574 872,574 902,574 932,574 962,576 992,574 1022,576 1052,576 1082,576 1112,576 1142,576 1172,576 1202,574 1232,574 1262,576 1292,576 1306,574"
+                         HEIGHT="96"
+                         WIDTH="1007"
+                         VPOS="499"
+                         HPOS="295">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="96"
+                          WIDTH="1007"
+                          VPOS="499"
+                          HPOS="295"
+                          CONTENT="INTERNATIONAL FORWARDING &amp; SHIPPING AGENTS"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="526,636 556,636 586,636 616,636 646,636 676,636 706,636 736,636 766,638 796,638 826,638 856,638 886,638 916,638 946,638 976,638 1006,638 1036,638 1066,638 1092,642"
+                         HEIGHT="96"
+                         WIDTH="573"
+                         VPOS="579"
+                         HPOS="517">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="96"
+                          WIDTH="573"
+                          VPOS="579"
+                          HPOS="517"
+                          CONTENT="HEAD OFFICE BASLE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="428,766 458,766 488,766 518,768 548,766 578,766 608,766 638,768 668,768 698,768 728,768 758,768 788,768 818,768 848,770 878,768 908,768 938,768 968,768 998,770 1028,770 1058,770 1088,770 1118,770 1148,770 1178,772 1192,774"
+                         HEIGHT="81"
+                         WIDTH="771"
+                         VPOS="708"
+                         HPOS="419">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="81"
+                          WIDTH="771"
+                          VPOS="708"
+                          HPOS="419"
+                          CONTENT="Branch offices at Zurich, Schaffhouse, St. Gall,"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="428,808 458,806 488,806 518,808 548,808 578,808 608,806 638,808 668,808 698,808 728,808 758,808 788,808 818,808 848,808 878,810 908,810 938,810 968,810 998,810 1028,810 1058,812 1088,812 1118,810 1148,810 1178,812 1192,812"
+                         HEIGHT="78"
+                         WIDTH="770"
+                         VPOS="774"
+                         HPOS="419">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="78"
+                          WIDTH="770"
+                          VPOS="774"
+                          HPOS="419"
+                          CONTENT="Buchs, Geneva, Vallorbe, Chiasso, Brigue, etc."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="620,878 650,878 680,878 710,878 740,878 770,878 800,878 830,878 860,880 890,878 920,880 950,880 980,880 998,880"
+                         HEIGHT="68"
+                         WIDTH="385"
+                         VPOS="817"
+                         HPOS="611">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="68"
+                          WIDTH="385"
+                          VPOS="817"
+                          HPOS="611"
+                          CONTENT="General Freight Agents"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="374"
+                       WIDTH="1072"
+                       VPOS="866"
+                       HPOS="276"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="276,866 1348,866 1348,1240 276,1240"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="276,918 306,918 336,918 366,918 396,918 426,918 456,916 486,918 516,916 546,918 576,918 606,918 636,920 666,920 696,920 726,920 756,920 786,920 816,920 846,920 876,920 906,920 936,920 966,920 996,920 1026,920 1056,920 1086,920 1116,920 1146,920 1176,922 1206,920 1236,920 1266,920 1296,922 1326,924 1348,926"
+                         HEIGHT="96"
+                         WIDTH="1077"
+                         VPOS="852"
+                         HPOS="267">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="96"
+                          WIDTH="1077"
+                          VPOS="852"
+                          HPOS="267"
+                          CONTENT="of the London-Brighton &amp; South Coast Railway &amp; Great Central Railway"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="280,1002 310,1002 340,1004 370,1004 400,1002 430,1002 460,1002 490,1002 520,1002 550,1002 580,1002 610,1002 640,1002 670,1002 700,1004 730,1004 760,1004 790,1004 820,1004 850,1004 880,1004 910,1004 940,1004 970,1004 1000,1006 1030,1006 1060,1006 1090,1004 1120,1006 1150,1006 1180,1006 1210,1006 1240,1006 1270,1006 1300,1006 1330,1008 1338,1010"
+                         HEIGHT="105"
+                         WIDTH="1063"
+                         VPOS="936"
+                         HPOS="271">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="105"
+                          WIDTH="1063"
+                          VPOS="936"
+                          HPOS="271"
+                          CONTENT="Daily accelerated services from Suitzerland to England &amp; vice versa"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="368,1126 398,1124 428,1124 458,1124 488,1124 518,1126 548,1124 578,1124 608,1124 638,1126 668,1126 698,1126 728,1126 758,1126 788,1126 818,1126 848,1126 878,1124 908,1126 938,1126 968,1126 998,1126 1028,1126 1058,1126 1088,1126 1118,1126 1148,1126 1178,1126 1208,1126 1238,1128 1244,1130"
+                         HEIGHT="96"
+                         WIDTH="881"
+                         VPOS="1062"
+                         HPOS="360">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="96"
+                          WIDTH="881"
+                          VPOS="1062"
+                          HPOS="360"
+                          CONTENT="PROPRIETORS OF THE MESSAGERIES ANGLO-SUISSES"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_4"
+                         BASELINE="674,1190 704,1188 734,1190 764,1190 794,1190 824,1190 854,1190 884,1190 914,1190 944,1192"
+                         HEIGHT="46"
+                         WIDTH="275"
+                         VPOS="1154"
+                         HPOS="665">
+                  <String ID="string_tr_3_tl_4"
+                          HEIGHT="46"
+                          WIDTH="275"
+                          VPOS="1154"
+                          HPOS="665"
+                          CONTENT="POSTAL SERVICE"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_5"
+                         BASELINE="318,1228 348,1226 378,1226 408,1226 438,1226 468,1226 498,1226 528,1226 558,1226 588,1226 618,1226 648,1226 678,1228 708,1228 738,1228 768,1228 798,1228 828,1228 858,1228 888,1228 918,1228 948,1226 978,1226 1008,1226 1038,1228 1068,1228 1098,1226 1128,1228 1158,1228 1188,1228 1218,1228 1248,1228 1278,1228 1300,1230"
+                         HEIGHT="94"
+                         WIDTH="985"
+                         VPOS="1176"
+                         HPOS="311">
+                  <String ID="string_tr_3_tl_5"
+                          HEIGHT="94"
+                          WIDTH="985"
+                          VPOS="1176"
+                          HPOS="311"
+                          CONTENT="UNDER CONTRACT WITH THE FEDERAL POSTAL DEPARTMENT"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_5"
+                       HEIGHT="126"
+                       WIDTH="500"
+                       VPOS="1634"
+                       HPOS="236"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="236,1634 736,1634 736,1760 236,1760"/>
+               </Shape>
+               <TextLine ID="tr_5_tl_1"
+                         BASELINE="236,1684 266,1684 296,1686 326,1684 356,1684 386,1684 416,1684 446,1684 476,1684 506,1684 536,1684 566,1684 596,1684 626,1684 656,1684 686,1684 716,1684 734,1686"
+                         HEIGHT="45"
+                         WIDTH="502"
+                         VPOS="1649"
+                         HPOS="228">
+                  <String ID="string_tr_5_tl_1"
+                          HEIGHT="45"
+                          WIDTH="502"
+                          VPOS="1649"
+                          HPOS="228"
+                          CONTENT="(Opposite the English Church and"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_2"
+                         BASELINE="240,1718 270,1718 300,1716 330,1716 360,1716 390,1716 420,1716 450,1716 480,1716 510,1716 540,1714 570,1716 600,1716 630,1716 660,1716 690,1716 720,1716 736,1718"
+                         HEIGHT="68"
+                         WIDTH="501"
+                         VPOS="1689"
+                         HPOS="232">
+                  <String ID="string_tr_5_tl_2"
+                          HEIGHT="68"
+                          WIDTH="501"
+                          VPOS="1689"
+                          HPOS="232"
+                          CONTENT="Anglo-American Club and close to"/>
+               </TextLine>
+               <TextLine ID="tr_5_tl_3"
+                         BASELINE="340,1748 370,1748 400,1746 430,1746 460,1746 490,1746 520,1746 550,1746 580,1746 610,1748 636,1750"
+                         HEIGHT="61"
+                         WIDTH="301"
+                         VPOS="1721"
+                         HPOS="332">
+                  <String ID="string_tr_5_tl_3"
+                          HEIGHT="61"
+                          WIDTH="301"
+                          VPOS="1721"
+                          HPOS="332"
+                          CONTENT="the Central Station.)"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_4"
+                       HEIGHT="350"
+                       WIDTH="656"
+                       VPOS="1378"
+                       HPOS="754"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="754,1378 1410,1378 1410,1728 754,1728"/>
+               </Shape>
+               <TextLine ID="tr_4_tl_1"
+                         BASELINE="826,1430 856,1428 886,1428 916,1430 946,1430 976,1430 1006,1430 1036,1428 1066,1428 1096,1428 1126,1428 1156,1430 1186,1430 1216,1430 1246,1430 1276,1432 1306,1434 1328,1436"
+                         HEIGHT="133"
+                         WIDTH="506"
+                         VPOS="1347"
+                         HPOS="819">
+                  <String ID="string_tr_4_tl_1"
+                          HEIGHT="133"
+                          WIDTH="506"
+                          VPOS="1347"
+                          HPOS="819"
+                          CONTENT="LAUSANNE"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_2"
+                         BASELINE="754,1622 784,1622 814,1620 844,1620 874,1622 904,1620 934,1620 964,1622 994,1620 1024,1622 1054,1622 1084,1622 1114,1622 1144,1624 1174,1622 1204,1622 1234,1622 1264,1622 1294,1624 1324,1624 1354,1624 1384,1624 1410,1628"
+                         HEIGHT="114"
+                         WIDTH="660"
+                         VPOS="1540"
+                         HPOS="746">
+                  <String ID="string_tr_4_tl_2"
+                          HEIGHT="114"
+                          WIDTH="660"
+                          VPOS="1540"
+                          HPOS="746"
+                          CONTENT="MONTFLEURI"/>
+               </TextLine>
+               <TextLine ID="tr_4_tl_3"
+                         BASELINE="788,1710 818,1710 848,1708 878,1710 908,1710 938,1710 968,1712 998,1712 1028,1714 1058,1714 1088,1714 1118,1712 1148,1712 1178,1712 1208,1714 1238,1712 1268,1714 1298,1712 1328,1714 1358,1714 1376,1718"
+                         HEIGHT="125"
+                         WIDTH="595"
+                         VPOS="1638"
+                         HPOS="778">
+                  <String ID="string_tr_4_tl_3"
+                          HEIGHT="125"
+                          WIDTH="595"
+                          VPOS="1638"
+                          HPOS="778"
+                          CONTENT="PRIVATE HOTEL"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="588"
+                       WIDTH="1126"
+                       VPOS="1790"
+                       HPOS="282"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="282,1790 1408,1790 1408,2378 282,2378"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="414,1842 444,1840 474,1840 504,1842 534,1842 564,1842 594,1842 624,1842 654,1842 684,1842 714,1842 744,1840 774,1842 804,1842 834,1842 864,1842 894,1844 924,1842 954,1842 984,1842 1014,1842 1044,1842 1074,1842 1104,1842 1134,1842 1164,1842 1194,1842 1212,1846"
+                         HEIGHT="85"
+                         WIDTH="804"
+                         VPOS="1765"
+                         HPOS="406">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="85"
+                          WIDTH="804"
+                          VPOS="1765"
+                          HPOS="406"
+                          CONTENT="Leading Family Hotel in a position to satisfy"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="416,1888 446,1886 476,1886 506,1886 536,1886 566,1886 596,1886 626,1886 656,1886 686,1886 716,1886 746,1886 776,1886 806,1886 836,1886 866,1886 896,1888 926,1886 956,1886 986,1886 1016,1888 1046,1888 1076,1888 1106,1888 1136,1888 1166,1888 1196,1888 1214,1890"
+                         HEIGHT="68"
+                         WIDTH="804"
+                         VPOS="1849"
+                         HPOS="408">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="68"
+                          WIDTH="804"
+                          VPOS="1849"
+                          HPOS="408"
+                          CONTENT="those who seek the advantages and comfort"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="422,1932 452,1930 482,1930 512,1930 542,1930 572,1930 602,1932 632,1932 662,1932 692,1932 722,1932 752,1932 782,1932 812,1932 842,1932 872,1932 902,1932 932,1932 962,1932 992,1932 1022,1932 1052,1932 1082,1932 1112,1934 1142,1932 1172,1932 1202,1934 1208,1934"
+                         HEIGHT="83"
+                         WIDTH="791"
+                         VPOS="1894"
+                         HPOS="414">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="83"
+                          WIDTH="791"
+                          VPOS="1894"
+                          HPOS="414"
+                          CONTENT="of the best hotels, but at reasonable prices."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="282,2004 312,2002 342,2002 372,2002 402,2002 432,2002 462,2002 492,2000 522,2002 552,2002 582,2000 612,2000 642,2002 672,2000 702,2000 732,2000 762,2000 792,2002 822,2002 852,2002 882,2002 912,2002 942,2002 972,2002 1002,2002 1032,2002 1062,2002 1092,2002 1122,2002 1152,2002 1182,2002 1212,2004 1242,2004 1272,2004 1302,2004 1332,2004 1352,2004"
+                         HEIGHT="67"
+                         WIDTH="1074"
+                         VPOS="1952"
+                         HPOS="274">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="67"
+                          WIDTH="1074"
+                          VPOS="1952"
+                          HPOS="274"
+                          CONTENT="von"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="286,2044 314,2042 344,2042 374,2042 404,2042 434,2042 464,2042 494,2042 524,2042 554,2042 584,2042 614,2042 644,2042 674,2042 704,2042 734,2042 764,2042 794,2044 824,2042 854,2042 884,2042 914,2042 944,2042 974,2042 1004,2040 1034,2040 1064,2040 1094,2042 1124,2042 1154,2044 1184,2044 1214,2044 1244,2044 1274,2042 1304,2044 1334,2042"
+                         HEIGHT="48"
+                         WIDTH="1052"
+                         VPOS="2007"
+                         HPOS="279">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="48"
+                          WIDTH="1052"
+                          VPOS="2007"
+                          HPOS="279"
+                          CONTENT="INCLUSIVE TERME FROM 9/ PER DAY"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="286,2070 290,2070 320,2068 350,2068"
+                         HEIGHT="36"
+                         WIDTH="70"
+                         VPOS="2048"
+                         HPOS="277">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="36"
+                          WIDTH="70"
+                          VPOS="2048"
+                          HPOS="277"
+                          CONTENT="der"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_7"
+                         BASELINE="390,2070 420,2068 450,2068 480,2070 510,2068 540,2068 570,2068 600,2068 630,2068 660,2068 690,2068 720,2068 750,2070 780,2068 810,2068 840,2068 870,2068 900,2068 930,2070 960,2070"
+                         HEIGHT="60"
+                         WIDTH="574"
+                         VPOS="2049"
+                         HPOS="382">
+                  <String ID="string_tr_2_tl_7"
+                          HEIGHT="60"
+                          WIDTH="574"
+                          VPOS="2049"
+                          HPOS="382"
+                          CONTENT="DOOR"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_8"
+                         BASELINE="1286,2070 1316,2068 1346,2070 1352,2072"
+                         HEIGHT="62"
+                         WIDTH="71"
+                         VPOS="2052"
+                         HPOS="1279">
+                  <String ID="string_tr_2_tl_8"
+                          HEIGHT="62"
+                          WIDTH="71"
+                          VPOS="2052"
+                          HPOS="1279"
+                          CONTENT="te"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_9"
+                         BASELINE="1086,2070 1116,2070 1146,2070 1176,2070 1206,2070 1236,2070 1242,2070"
+                         HEIGHT="60"
+                         WIDTH="160"
+                         VPOS="2043"
+                         HPOS="1078">
+                  <String ID="string_tr_2_tl_9"
+                          HEIGHT="60"
+                          WIDTH="160"
+                          VPOS="2043"
+                          HPOS="1078"
+                          CONTENT="0"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_10"
+                         BASELINE="474,2144 504,2142 534,2142 564,2142 594,2144 624,2142 654,2142 684,2142 714,2142 744,2142 774,2140 804,2142 834,2142 864,2142 894,2142 924,2142 954,2142 984,2144 1014,2142 1044,2142 1074,2142 1104,2142 1134,2144 1146,2144"
+                         HEIGHT="105"
+                         WIDTH="676"
+                         VPOS="2081"
+                         HPOS="466">
+                  <String ID="string_tr_2_tl_10"
+                          HEIGHT="105"
+                          WIDTH="676"
+                          VPOS="2081"
+                          HPOS="466"
+                          CONTENT="Telegraphic Address: &#34;Montfleuri Lausanne“."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_11"
+                         BASELINE="876,2234 906,2236 936,2236 966,2238 996,2238 1026,2238 1056,2238 1086,2238 1116,2238 1146,2240 1176,2240 1206,2240 1236,2240 1266,2240 1296,2240 1326,2240 1356,2240 1386,2240 1408,2242"
+                         HEIGHT="125"
+                         WIDTH="537"
+                         VPOS="2162"
+                         HPOS="868">
+                  <String ID="string_tr_2_tl_11"
+                          HEIGHT="125"
+                          WIDTH="537"
+                          VPOS="2162"
+                          HPOS="868"
+                          CONTENT="W. STEFFAN. Managing Proprietor."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_12"
+                         BASELINE="314,2364 344,2362 374,2362 404,2364 434,2362 464,2364 494,2364 524,2364 554,2362 584,2364 614,2364 644,2364 674,2364 704,2364 734,2364 764,2364 794,2364 824,2364 854,2364 884,2364 914,2364 944,2364 974,2364 1004,2364 1034,2366 1064,2366 1094,2366 1124,2364 1154,2364 1184,2366 1214,2364 1244,2366 1274,2366 1304,2366 1320,2368"
+                         HEIGHT="83"
+                         WIDTH="1010"
+                         VPOS="2323"
+                         HPOS="306">
+                  <String ID="string_tr_2_tl_12"
+                          HEIGHT="83"
+                          WIDTH="1010"
+                          VPOS="2323"
+                          HPOS="306"
+                          CONTENT="Please mention this Trade index when communicating with advertisera."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

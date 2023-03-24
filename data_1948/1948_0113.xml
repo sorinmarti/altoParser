@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1948_189 seiten-0113.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:02:37.695+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2600" WIDTH="1793">
+         <TopMargin HEIGHT="0" WIDTH="1793" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2600" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2600" WIDTH="0" VPOS="0" HPOS="1793"/>
+         <BottomMargin HEIGHT="0" WIDTH="1793" VPOS="2600" HPOS="0"/>
+         <PrintSpace HEIGHT="2600" WIDTH="1793" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675685980247_69035"
+                       HEIGHT="142"
+                       WIDTH="1358"
+                       VPOS="270"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,270 1496,270 1496,412 138,412"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685980247_69035_tl_1"
+                         BASELINE="300,356 328,356 358,356 388,356 418,356 448,356 478,356 508,356 538,354 568,354 598,354 628,356 658,354 688,354 718,354 748,352 778,352 808,352 838,352 868,352 898,352 928,352 958,352 988,352 1018,352 1048,352 1078,352 1108,352 1138,352 1168,352 1198,352 1228,350 1258,350 1288,350 1318,350 1348,350 1378,350 1408,350"
+                         HEIGHT="90"
+                         WIDTH="1112"
+                         VPOS="281"
+                         HPOS="292">
+                  <String ID="string_TextRegion_1675685980247_69035_tl_1"
+                          HEIGHT="90"
+                          WIDTH="1112"
+                          VPOS="281"
+                          HPOS="292"
+                          CONTENT="Watch Stones Co. Ltd. (Precision intruments), 11, Bernstrasse,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685980247_69035_tl_2"
+                         BASELINE="296,396 310,396 340,396 370,396 400,396 430,396 460,396 490,396 520,396 550,396 580,396 610,396 640,396 670,396 700,396 730,396 760,394 790,396 820,394 850,394 880,394 910,394 940,394 970,394 1000,392 1030,392 1060,390 1090,390 1120,390 1150,390 1180,390 1210,390 1240,390 1270,392"
+                         HEIGHT="55"
+                         WIDTH="978"
+                         VPOS="359"
+                         HPOS="288">
+                  <String ID="string_TextRegion_1675685980247_69035_tl_2"
+                          HEIGHT="55"
+                          WIDTH="978"
+                          VPOS="359"
+                          HPOS="288"
+                          CONTENT="Thoune; Phone (033 23103; Telgr. Stones, Thoune."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685980246_69034"
+                       HEIGHT="136"
+                       WIDTH="1358"
+                       VPOS="412"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,412 1496,412 1496,548 138,548"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685980246_69034_tl_1"
+                         BASELINE="298,456 318,454 348,456 378,456 408,456 438,454 468,454 498,454 528,456 558,456 588,456 618,454 648,456 678,454 708,456 738,456 768,454 798,454 828,454 858,454 888,452 918,452 948,452 978,452 1008,454 1038,454 1068,454 1098,452 1128,452 1158,450 1188,450 1218,452 1248,452 1278,452 1308,450 1338,450 1368,450 1398,450"
+                         HEIGHT="77"
+                         WIDTH="1104"
+                         VPOS="390"
+                         HPOS="291">
+                  <String ID="string_TextRegion_1675685980246_69034_tl_1"
+                          HEIGHT="77"
+                          WIDTH="1104"
+                          VPOS="390"
+                          HPOS="291"
+                          CONTENT="Henry Wild, Surveying Instruments Supply Co. Ltd., Heer¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685980246_69034_tl_2"
+                         BASELINE="296,498 300,498 330,498 360,498 390,500 420,498 450,496 480,496 510,496 540,494 570,494 600,494 630,496 660,494 690,496 720,494 750,494 780,494 810,494 840,496 870,494 900,494 930,494 960,492 990,492 1020,492 1050,492 1080,492 1110,492 1140,490 1170,492 1200,492 1230,494 1260,494"
+                         HEIGHT="80"
+                         WIDTH="968"
+                         VPOS="452"
+                         HPOS="288">
+                  <String ID="string_TextRegion_1675685980246_69034_tl_2"
+                          HEIGHT="80"
+                          WIDTH="968"
+                          VPOS="452"
+                          HPOS="288"
+                          CONTENT="brugg; Phone (071) 7 2433; Telgr. Wico» Heerbrugg."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685979151_69030"
+                       HEIGHT="64"
+                       WIDTH="1358"
+                       VPOS="548"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,548 1496,548 1496,612 138,612"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685979151_69030_tl_1"
+                         BASELINE="228,600 252,598 282,598 312,598 342,598 372,598 402,598 432,598 462,596 492,596 522,596 552,596 582,598"
+                         HEIGHT="90"
+                         WIDTH="358"
+                         VPOS="537"
+                         HPOS="221">
+                  <String ID="string_TextRegion_1675685979151_69030_tl_1"
+                          HEIGHT="90"
+                          WIDTH="358"
+                          VPOS="537"
+                          HPOS="221"
+                          CONTENT="Insulating Material"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685976378_69024"
+                       HEIGHT="104"
+                       WIDTH="1358"
+                       VPOS="612"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,612 1496,612 1496,716 138,716"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685976378_69024_tl_1"
+                         BASELINE="300,658 302,658 332,658 362,658 392,658 422,658 452,656 482,658 512,656 542,656 572,656 602,656 632,656 662,656 692,656 722,656 752,656 782,654 812,654 842,656 872,656 902,656 932,654 962,652 992,652 1022,652 1052,652 1082,652 1112,652 1142,652 1172,652 1202,652 1232,652 1262,652 1292,652 1322,652 1352,652 1382,652 1412,656"
+                         HEIGHT="77"
+                         WIDTH="1118"
+                         VPOS="597"
+                         HPOS="292">
+                  <String ID="string_TextRegion_1675685976378_69024_tl_1"
+                          HEIGHT="77"
+                          WIDTH="1118"
+                          VPOS="597"
+                          HPOS="292"
+                          CONTENT="A. Schellenbaum &amp; Co., Winterthur; Phone (052) 2 1777; 2 17 78;"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685976378_69024_tl_2"
+                         BASELINE="304,698 334,698 364,698 394,698 424,698 454,698 484,696 514,696 544,696 574,694 604,694 634,694 664,694 694,694 724,696 754,696 784,696 802,698"
+                         HEIGHT="48"
+                         WIDTH="502"
+                         VPOS="660"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685976378_69024_tl_2"
+                          HEIGHT="48"
+                          WIDTH="502"
+                          VPOS="660"
+                          HPOS="297"
+                          CONTENT="Telgr. Schecob Winterthur."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685975492_69020"
+                       HEIGHT="96"
+                       WIDTH="1358"
+                       VPOS="716"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,716 1496,716 1496,812 138,812"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685975492_69020_tl_1"
+                         BASELINE="298,756 306,756 336,756 366,754 396,752 426,754 456,754 486,754 516,752 546,752 576,752 606,752 636,752 666,752 696,752 726,752 756,752 786,752 816,752 846,752 876,752 906,750 936,750 966,750 996,748 1026,750 1056,750 1086,748 1116,748 1146,748 1176,748 1206,746 1236,748 1266,748 1296,746 1326,746 1356,746 1386,748 1416,750"
+                         HEIGHT="81"
+                         WIDTH="1122"
+                         VPOS="690"
+                         HPOS="291">
+                  <String ID="string_TextRegion_1675685975492_69020_tl_1"
+                          HEIGHT="81"
+                          WIDTH="1122"
+                          VPOS="690"
+                          HPOS="291"
+                          CONTENT="Société Suisse Clémateite S.A., Vallorbe; Phone (021) 8 41 52;"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685975492_69020_tl_2"
+                         BASELINE="302,796 322,796 352,796 382,796 412,794 442,796 472,796 502,794 532,794 562,794 592,794 622,792 652,792 682,792 712,792 742,792 772,794 802,794"
+                         HEIGHT="67"
+                         WIDTH="505"
+                         VPOS="755"
+                         HPOS="294">
+                  <String ID="string_TextRegion_1675685975492_69020_tl_2"
+                          HEIGHT="67"
+                          WIDTH="505"
+                          VPOS="755"
+                          HPOS="294"
+                          CONTENT="Telgr. Clématites Vallorbe."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685974057_69016"
+                       HEIGHT="141"
+                       WIDTH="1358"
+                       VPOS="812"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,812 1496,812 1496,953 138,953"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685974057_69016_tl_1"
+                         BASELINE="298,854 326,854 356,852 386,852 416,852 446,852 476,850 506,852 536,852 566,850 596,850 626,850 656,850 686,850 716,850 746,850 776,850 806,848 836,848 866,848 896,848 926,846 956,848 986,848 1016,848 1046,848 1076,848 1106,846 1136,846 1166,846 1196,848 1226,846 1256,848 1286,846 1316,846 1346,846 1376,844 1406,844"
+                         HEIGHT="73"
+                         WIDTH="1112"
+                         VPOS="796"
+                         HPOS="291">
+                  <String ID="string_TextRegion_1675685974057_69016_tl_1"
+                          HEIGHT="73"
+                          WIDTH="1112"
+                          VPOS="796"
+                          HPOS="291"
+                          CONTENT="L. Wachendorf &amp; Co. (for the electrical industry), 45, Frei¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685974057_69016_tl_2"
+                         BASELINE="300,894 304,894 334,892 364,892 394,892 424,892 454,892 484,892 514,892 544,892 574,892 604,892 634,892 664,890 694,890 724,890 754,890 784,890 814,890 844,890 874,890 904,890 934,888 964,888 994,888 1024,890 1054,888 1084,888 1114,888 1144,886 1174,886 1204,886 1234,886 1264,886 1294,886 1324,886 1354,886 1384,884 1414,886"
+                         HEIGHT="52"
+                         WIDTH="1118"
+                         VPOS="849"
+                         HPOS="292">
+                  <String ID="string_TextRegion_1675685974057_69016_tl_2"
+                          HEIGHT="52"
+                          WIDTH="1118"
+                          VPOS="849"
+                          HPOS="292"
+                          CONTENT="strasse, Basle; Phone (061) 4 1890; 4 18 99; Telgr. Wachendorf,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685974057_69016_tl_3"
+                         BASELINE="300,934 330,932 360,932 390,934 410,934"
+                         HEIGHT="59"
+                         WIDTH="116"
+                         VPOS="898"
+                         HPOS="291">
+                  <String ID="string_TextRegion_1675685974057_69016_tl_3"
+                          HEIGHT="59"
+                          WIDTH="116"
+                          VPOS="898"
+                          HPOS="291"
+                          CONTENT="Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685973217_69012"
+                       HEIGHT="126"
+                       WIDTH="1358"
+                       VPOS="953"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,953 1496,953 1496,1079 138,1079"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685973217_69012_tl_1"
+                         BASELINE="306,988 326,986 356,986 386,986 416,986 446,986 476,988 506,986 536,986 566,988 596,986 626,986 656,986 686,986 716,984 746,984 776,984 806,984 836,984 866,984 896,984 926,984 956,982 986,982 1016,984 1046,984 1076,984 1106,984 1136,982 1166,982 1196,982 1226,980 1256,980 1286,980 1316,980 1346,980 1376,980 1406,982"
+                         HEIGHT="77"
+                         WIDTH="1106"
+                         VPOS="927"
+                         HPOS="298">
+                  <String ID="string_TextRegion_1675685973217_69012_tl_1"
+                          HEIGHT="77"
+                          WIDTH="1106"
+                          VPOS="927"
+                          HPOS="298"
+                          CONTENT="Wettler &amp; Frey (for the electrical industry), 37, Ottikerstrasse,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685973217_69012_tl_2"
+                         BASELINE="302,1030 308,1028 338,1028 368,1028 398,1028 428,1026 458,1028 488,1026 518,1026 548,1026 578,1026 608,1026 638,1026 668,1026 698,1026 728,1026 758,1026 788,1024 818,1024 848,1024 878,1024 908,1024 938,1024 968,1022 998,1024 1028,1022 1058,1022 1088,1022 1118,1022 1148,1022 1178,1022 1208,1020 1238,1020 1268,1020 1298,1020 1328,1020 1358,1022"
+                         HEIGHT="67"
+                         WIDTH="1061"
+                         VPOS="989"
+                         HPOS="294">
+                  <String ID="string_TextRegion_1675685973217_69012_tl_2"
+                          HEIGHT="67"
+                          WIDTH="1061"
+                          VPOS="989"
+                          HPOS="294"
+                          CONTENT="Zurich 6; Phone (051) 28 12 60; Telgr. Stahlwettler, Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685971607_69008"
+                       HEIGHT="79"
+                       WIDTH="1358"
+                       VPOS="1079"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1079 1496,1079 1496,1158 138,1158"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685971607_69008_tl_1"
+                         BASELINE="228,1134 258,1132 288,1132 318,1132 348,1134 378,1134 408,1134 412,1134"
+                         HEIGHT="65"
+                         WIDTH="187"
+                         VPOS="1085"
+                         HPOS="221">
+                  <String ID="string_TextRegion_1675685971607_69008_tl_1"
+                          HEIGHT="65"
+                          WIDTH="187"
+                          VPOS="1085"
+                          HPOS="221"
+                          CONTENT="Insurance"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685970829_69004"
+                       HEIGHT="128"
+                       WIDTH="1358"
+                       VPOS="1158"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1158 1496,1158 1496,1286 138,1286"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685970829_69004_tl_1"
+                         BASELINE="304,1194 328,1194 358,1194 388,1192 418,1194 448,1194 478,1194 508,1192 538,1192 568,1192 598,1192 628,1192 658,1192 688,1192 718,1192 748,1190 778,1190 808,1190 838,1190 868,1190 898,1190 928,1190 958,1188 988,1190 1018,1188 1048,1188 1078,1188 1108,1188 1138,1188 1168,1188 1198,1188 1228,1188 1258,1188 1288,1188 1318,1188 1348,1188 1378,1188 1408,1190"
+                         HEIGHT="67"
+                         WIDTH="1107"
+                         VPOS="1139"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685970829_69004_tl_1"
+                          HEIGHT="67"
+                          WIDTH="1107"
+                          VPOS="1139"
+                          HPOS="297"
+                          CONTENT="Accident and Casualty Insurance Co. of Winterthur (Accident."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685970829_69004_tl_2"
+                         BASELINE="304,1234 322,1234 352,1234 382,1234 412,1234 442,1234 472,1234 502,1234 532,1232 562,1232 592,1232 622,1232 652,1232 682,1232 712,1232 742,1232 772,1232 802,1232 832,1230 862,1230 892,1228 922,1228 952,1228 982,1228 1012,1230 1042,1230 1072,1228 1102,1228 1132,1228 1162,1228 1192,1228 1222,1228 1252,1228 1282,1226 1312,1226 1342,1226 1372,1226 1402,1226"
+                         HEIGHT="73"
+                         WIDTH="1103"
+                         VPOS="1197"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685970829_69004_tl_2"
+                          HEIGHT="73"
+                          WIDTH="1103"
+                          VPOS="1197"
+                          HPOS="297"
+                          CONTENT="Liability, Collison, Burglary and Fidelity Insurance), Winter¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685970829_69004_tl_3"
+                         BASELINE="304,1272 326,1274 356,1274 386,1272 416,1272 446,1272 476,1274 506,1272 536,1272 566,1272 596,1272 626,1272 656,1272 686,1272 716,1272 746,1270 776,1270 806,1270 836,1270 866,1268 896,1268 926,1268 956,1268 986,1268 1016,1268 1046,1268 1076,1266 1106,1266 1136,1268 1166,1266 1196,1268 1226,1268 1256,1268 1286,1270"
+                         HEIGHT="62"
+                         WIDTH="986"
+                         VPOS="1235"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685970829_69004_tl_3"
+                          HEIGHT="62"
+                          WIDTH="986"
+                          VPOS="1235"
+                          HPOS="297"
+                          CONTENT="thur; Phone (052) 2 21 11; Telgr. Accident, Winterthur."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685970098_69000"
+                       HEIGHT="142"
+                       WIDTH="1358"
+                       VPOS="1286"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1286 1496,1286 1496,1428 138,1428"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685970098_69000_tl_1"
+                         BASELINE="304,1334 332,1332 362,1334 392,1332 422,1332 452,1332 482,1332 512,1332 542,1332 572,1332 602,1332 632,1332 662,1332 692,1332 722,1332 752,1332 782,1332 812,1330 842,1330 872,1330 902,1330 932,1328 962,1328 992,1330 1022,1328 1052,1328 1082,1328 1112,1328 1142,1328 1172,1328 1202,1328 1232,1326 1262,1328 1292,1328 1322,1328 1352,1328 1382,1328 1412,1326"
+                         HEIGHT="71"
+                         WIDTH="1112"
+                         VPOS="1273"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685970098_69000_tl_1"
+                          HEIGHT="71"
+                          WIDTH="1112"
+                          VPOS="1273"
+                          HPOS="297"
+                          CONTENT="Balloise Marine Insurance Co. Ltd. (Marine and re-insurance"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685970098_69000_tl_2"
+                         BASELINE="300,1374 302,1374 332,1374 362,1374 392,1374 422,1372 452,1372 482,1372 512,1372 542,1372 572,1370 602,1372 632,1372 662,1372 692,1372 722,1372 752,1372 782,1370 812,1370 842,1370 872,1370 902,1370 932,1370 962,1368 992,1368 1022,1368 1052,1368 1082,1368 1112,1368 1142,1368 1172,1368 1202,1368 1232,1368 1262,1368 1292,1368 1322,1366 1352,1366 1382,1366 1412,1370"
+                         HEIGHT="59"
+                         WIDTH="1118"
+                         VPOS="1333"
+                         HPOS="292">
+                  <String ID="string_TextRegion_1675685970098_69000_tl_2"
+                          HEIGHT="59"
+                          WIDTH="1118"
+                          VPOS="1333"
+                          HPOS="292"
+                          CONTENT="in all branches except Life), 51, Elisabethenstrasse, Basle; Phone"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685970098_69000_tl_3"
+                         BASELINE="304,1414 312,1412 342,1414 372,1414 402,1414 432,1414 462,1414 492,1414 522,1412 552,1412 582,1412 612,1412 642,1412 672,1412 702,1410 732,1410 762,1410 792,1410 822,1410 852,1410 882,1410 912,1412"
+                         HEIGHT="69"
+                         WIDTH="614"
+                         VPOS="1376"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685970098_69000_tl_3"
+                          HEIGHT="69"
+                          WIDTH="614"
+                          VPOS="1376"
+                          HPOS="297"
+                          CONTENT="(61) 237 14; Telgr. Batras Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685968942_68996"
+                       HEIGHT="180"
+                       WIDTH="1358"
+                       VPOS="1428"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1428 1496,1428 1496,1608 138,1608"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685968942_68996_tl_1"
+                         BASELINE="300,1470 326,1470 356,1470 386,1472 416,1470 446,1472 476,1472 506,1470 536,1470 566,1470 596,1468 626,1468 656,1468 686,1468 716,1468 746,1468 776,1468 806,1468 836,1468 866,1468 896,1468 926,1466 956,1466 986,1466 1016,1466 1046,1468 1076,1466 1106,1464 1136,1466 1166,1464 1196,1464 1226,1464 1256,1464 1286,1464 1316,1464 1346,1464 1376,1464 1406,1462"
+                         HEIGHT="90"
+                         WIDTH="1111"
+                         VPOS="1397"
+                         HPOS="292">
+                  <String ID="string_TextRegion_1675685968942_68996_tl_1"
+                          HEIGHT="90"
+                          WIDTH="1111"
+                          VPOS="1397"
+                          HPOS="292"
+                          CONTENT="Himmelspach &amp; Wirz (Swiss agents for Standard Marine In¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685968942_68996_tl_2"
+                         BASELINE="304,1512 334,1512 364,1512 394,1510 424,1510 454,1510 484,1510 514,1512 544,1510 574,1510 604,1510 634,1510 664,1510 694,1508 724,1508 754,1508 784,1508 814,1508 844,1508 874,1506 904,1506 934,1506 964,1506 994,1506 1024,1506 1054,1506 1084,1506 1114,1506 1144,1504 1174,1506 1204,1504 1234,1504 1264,1504 1294,1504 1324,1504 1354,1502 1384,1502 1414,1504"
+                         HEIGHT="52"
+                         WIDTH="1113"
+                         VPOS="1467"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685968942_68996_tl_2"
+                          HEIGHT="52"
+                          WIDTH="1113"
+                          VPOS="1467"
+                          HPOS="297"
+                          CONTENT="surance Co. Ltd. of Liverpool (Marine and transport insurance"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685968942_68996_tl_3"
+                         BASELINE="306,1552 330,1550 360,1550 390,1550 420,1550 450,1550 480,1550 510,1550 540,1552 570,1550 600,1550 630,1550 660,1548 690,1548 720,1548 750,1548 780,1548 810,1548 840,1546 870,1546 900,1546 930,1546 960,1546 990,1546 1020,1546 1050,1546 1080,1546 1110,1544 1140,1544 1170,1546 1200,1544 1230,1544 1260,1542 1290,1544 1320,1542 1350,1540 1380,1542 1410,1544"
+                         HEIGHT="50"
+                         WIDTH="1111"
+                         VPOS="1508"
+                         HPOS="298">
+                  <String ID="string_TextRegion_1675685968942_68996_tl_3"
+                          HEIGHT="50"
+                          WIDTH="1111"
+                          VPOS="1508"
+                          HPOS="298"
+                          CONTENT="of all kinds), 29, Fraumünsterstrasse, Zurich; Phone (051)"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685968942_68996_tl_4"
+                         BASELINE="306,1592 314,1590 344,1590 374,1588 404,1590 434,1590 464,1590 494,1590 524,1590 554,1590 584,1588 614,1588 644,1588 674,1588 704,1588 734,1586 764,1586 794,1586 824,1586 854,1584 884,1586 914,1586 944,1586 974,1586 1004,1590"
+                         HEIGHT="53"
+                         WIDTH="702"
+                         VPOS="1553"
+                         HPOS="298">
+                  <String ID="string_TextRegion_1675685968942_68996_tl_4"
+                          HEIGHT="53"
+                          WIDTH="702"
+                          VPOS="1553"
+                          HPOS="298"
+                          CONTENT="25 36 46; Telgr. Himmelspach, Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685967843_68992"
+                       HEIGHT="103"
+                       WIDTH="1358"
+                       VPOS="1608"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1608 1496,1608 1496,1711 138,1711"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685967843_68992_tl_1"
+                         BASELINE="302,1652 306,1652 336,1650 366,1650 396,1650 426,1650 456,1650 486,1650 516,1650 546,1650 576,1650 606,1650 636,1648 666,1648 696,1648 726,1648 756,1648 786,1648 816,1648 846,1648 876,1648 906,1646 936,1648 966,1646 996,1646 1026,1646 1056,1646 1086,1648 1116,1646 1146,1646 1176,1644 1206,1644 1236,1644 1266,1644 1296,1644 1326,1642 1356,1642 1386,1642 1416,1644"
+                         HEIGHT="75"
+                         WIDTH="1119"
+                         VPOS="1592"
+                         HPOS="294">
+                  <String ID="string_TextRegion_1675685967843_68992_tl_1"
+                          HEIGHT="75"
+                          WIDTH="1119"
+                          VPOS="1592"
+                          HPOS="294"
+                          CONTENT="Interbroke Ltd. (International), 41, Utoquai. Zurich 8; Phone"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685967843_68992_tl_2"
+                         BASELINE="310,1694 314,1692 344,1692 374,1692 404,1692 434,1692 464,1692 494,1690 524,1690 554,1690 584,1690 614,1690 644,1690 674,1688 704,1688 734,1688 764,1688 794,1688 824,1686 854,1686 884,1686 914,1686 944,1686 974,1686 1004,1686 1034,1686"
+                         HEIGHT="60"
+                         WIDTH="729"
+                         VPOS="1653"
+                         HPOS="302">
+                  <String ID="string_TextRegion_1675685967843_68992_tl_2"
+                          HEIGHT="60"
+                          WIDTH="729"
+                          VPOS="1653"
+                          HPOS="302"
+                          CONTENT="(051) 34 1684; Telgr. Interbroken Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685966363_68988"
+                       HEIGHT="136"
+                       WIDTH="1358"
+                       VPOS="1711"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1711 1496,1711 1496,1847 138,1847"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685966363_68988_tl_1"
+                         BASELINE="306,1752 308,1750 338,1752 368,1752 398,1752 428,1752 458,1750 488,1750 518,1750 548,1752 578,1752 608,1750 638,1750 668,1750 698,1750 728,1750 758,1750 788,1750 818,1750 848,1748 878,1750 908,1750 938,1750 968,1750 998,1750 1028,1748 1058,1748 1088,1748 1118,1750 1148,1750 1178,1748 1208,1748 1238,1746 1268,1748 1298,1748 1328,1748 1358,1748 1388,1746 1418,1750"
+                         HEIGHT="84"
+                         WIDTH="1118"
+                         VPOS="1683"
+                         HPOS="298">
+                  <String ID="string_TextRegion_1675685966363_68988_tl_1"
+                          HEIGHT="84"
+                          WIDTH="1118"
+                          VPOS="1683"
+                          HPOS="298"
+                          CONTENT="The Northern Assurance Co. Ltd. (Fire, including Loss of Profits,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685966363_68988_tl_2"
+                         BASELINE="306,1794 334,1792 364,1794 394,1794 424,1792 454,1792 484,1792 514,1792 544,1790 574,1792 604,1792 634,1792 664,1790 694,1790 724,1790 754,1792 784,1790 814,1790 844,1790 874,1790 904,1790 934,1792 964,1790 994,1788 1024,1788 1054,1788 1084,1790 1114,1790 1144,1790 1174,1790 1204,1788 1234,1788 1264,1788 1294,1788 1324,1788 1354,1788 1384,1788 1414,1788"
+                         HEIGHT="52"
+                         WIDTH="1112"
+                         VPOS="1751"
+                         HPOS="298">
+                  <String ID="string_TextRegion_1675685966363_68988_tl_2"
+                          HEIGHT="52"
+                          WIDTH="1112"
+                          VPOS="1751"
+                          HPOS="298"
+                          CONTENT="and all classes of accident insurance), 1, Moorgate, London E. C. 2:"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685966363_68988_tl_3"
+                         BASELINE="304,1834 334,1832 364,1832 394,1832 424,1832 454,1832 484,1832 514,1832 544,1830 574,1830 604,1830 634,1832 664,1832 694,1832 724,1832 754,1832 784,1830 814,1830 844,1830 874,1830 904,1830 934,1828 964,1830 994,1830 1024,1830 1054,1830 1084,1830 1114,1832"
+                         HEIGHT="61"
+                         WIDTH="815"
+                         VPOS="1799"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685966363_68988_tl_3"
+                          HEIGHT="61"
+                          WIDTH="815"
+                          VPOS="1799"
+                          HPOS="297"
+                          CONTENT="Phone Monarch 664; Telgr. Northern, London."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685964692_68984"
+                       HEIGHT="104"
+                       WIDTH="1358"
+                       VPOS="1847"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1847 1496,1847 1496,1951 138,1951"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685964692_68984_tl_1"
+                         BASELINE="304,1894 328,1894 358,1894 388,1892 418,1892 448,1894 478,1894 508,1894 538,1894 568,1892 598,1892 628,1892 658,1894 688,1894 718,1892 748,1892 778,1892 808,1892 838,1892 868,1892 898,1890 928,1890 958,1890 988,1892 1018,1892 1048,1892 1078,1892 1108,1890 1138,1890 1168,1890 1198,1888 1228,1886 1258,1888 1288,1890 1318,1890 1348,1888 1378,1888 1408,1892"
+                         HEIGHT="70"
+                         WIDTH="1107"
+                         VPOS="1832"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685964692_68984_tl_1"
+                          HEIGHT="70"
+                          WIDTH="1107"
+                          VPOS="1832"
+                          HPOS="297"
+                          CONTENT="E. Oberhänsli &amp; Co. (Marine and Fire), 15, Talstrasse, Zurich,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685964692_68984_tl_2"
+                         BASELINE="306,1934 332,1932 362,1934 392,1934 422,1934 452,1934 482,1934 512,1934 542,1934 572,1934 602,1934 632,1934 662,1932 692,1934 722,1932 752,1932 782,1934 812,1932 842,1932 872,1930 902,1930 932,1932 962,1932 992,1932 1022,1930 1052,1932 1082,1930 1112,1930 1142,1928 1172,1928 1202,1930 1232,1928 1262,1928 1292,1928 1322,1928 1352,1928 1382,1928 1412,1926"
+                         HEIGHT="53"
+                         WIDTH="1111"
+                         VPOS="1895"
+                         HPOS="298">
+                  <String ID="string_TextRegion_1675685964692_68984_tl_2"
+                          HEIGHT="53"
+                          WIDTH="1111"
+                          VPOS="1895"
+                          HPOS="298"
+                          CONTENT="Phone (051) 25 69 10; 25 69 11; 25 69 12; Telgr. Obinsure Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685963554_68980"
+                       HEIGHT="99"
+                       WIDTH="1358"
+                       VPOS="1951"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,1951 1496,1951 1496,2050 138,2050"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685963554_68980_tl_1"
+                         BASELINE="308,1990 338,1990 368,1990 398,1990 428,1990 458,1990 488,1990 518,1988 548,1988 578,1988 608,1988 638,1988 668,1988 698,1988 728,1988 758,1988 788,1988 818,1988 848,1988 878,1988 908,1988 938,1988 968,1988 998,1988 1028,1988 1058,1988 1088,1988 1118,1988 1148,1988 1178,1988 1208,1988 1238,1988 1268,1988 1298,1988 1328,1988 1358,1986 1388,1986 1414,1990"
+                         HEIGHT="67"
+                         WIDTH="1110"
+                         VPOS="1937"
+                         HPOS="301">
+                  <String ID="string_TextRegion_1675685963554_68980_tl_1"
+                          HEIGHT="67"
+                          WIDTH="1110"
+                          VPOS="1937"
+                          HPOS="301"
+                          CONTENT="Switzerland, General Insurance Co. Ltd., 43, Gotthardstrasse,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685963554_68980_tl_2"
+                         BASELINE="304,2030 334,2030 364,2030 394,2030 424,2032 454,2030 484,2030 514,2030 544,2030 574,2028 604,2028 634,2030 664,2030 694,2030 724,2030 754,2028 784,2028 814,2030 844,2028 874,2028 904,2028 934,2028 964,2028 994,2028 1024,2028 1054,2028 1084,2028 1114,2028 1144,2026 1174,2028 1204,2028 1234,2028 1264,2028 1294,2028 1314,2030"
+                         HEIGHT="49"
+                         WIDTH="1014"
+                         VPOS="1992"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685963554_68980_tl_2"
+                          HEIGHT="49"
+                          WIDTH="1014"
+                          VPOS="1992"
+                          HPOS="297"
+                          CONTENT="Zurich; Phone (051) 23 87 30; Telgr. Navigation Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675685962545_68976"
+                       HEIGHT="142"
+                       WIDTH="1358"
+                       VPOS="2050"
+                       HPOS="138"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="138,2050 1496,2050 1496,2192 138,2192"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675685962545_68976_tl_1"
+                         BASELINE="308,2090 336,2090 366,2090 396,2090 426,2090 456,2090 486,2090 516,2090 546,2088 576,2088 606,2090 636,2090 666,2088 696,2088 726,2088 756,2090 786,2090 816,2090 846,2090 876,2088 906,2088 936,2088 966,2088 996,2088 1026,2088 1056,2088 1086,2088 1116,2088 1146,2086 1176,2086 1206,2088 1236,2086 1266,2088 1296,2088 1326,2088 1356,2088 1386,2086 1416,2086"
+                         HEIGHT="66"
+                         WIDTH="1112"
+                         VPOS="2034"
+                         HPOS="301">
+                  <String ID="string_TextRegion_1675685962545_68976_tl_1"
+                          HEIGHT="66"
+                          WIDTH="1112"
+                          VPOS="2034"
+                          HPOS="301"
+                          CONTENT="Zurich General Accident and Liability Insurance Co. Ltd. (All"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685962545_68976_tl_2"
+                         BASELINE="304,2132 310,2130 340,2130 370,2130 400,2130 430,2130 460,2130 490,2130 520,2130 550,2130 580,2130 610,2130 640,2130 670,2130 700,2130 730,2128 760,2130 790,2130 820,2130 850,2130 880,2130 910,2130 940,2130 970,2128 1000,2128 1030,2128 1060,2128 1090,2128 1120,2128 1150,2128 1180,2128 1210,2128 1240,2128 1270,2128 1300,2128 1330,2126 1360,2126 1390,2128 1420,2128"
+                         HEIGHT="64"
+                         WIDTH="1120"
+                         VPOS="2094"
+                         HPOS="297">
+                  <String ID="string_TextRegion_1675685962545_68976_tl_2"
+                          HEIGHT="64"
+                          WIDTH="1120"
+                          VPOS="2094"
+                          HPOS="297"
+                          CONTENT="kinds of accident insurance), 2, Mythenquai, Zurich; Phone (051)"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675685962545_68976_tl_3"
+                         BASELINE="306,2170 336,2170 366,2170 396,2170 426,2170 456,2170 486,2170 516,2170 546,2170 576,2168 606,2170 636,2170 666,2170 696,2170 726,2170 756,2168 786,2168 816,2170 846,2170 876,2170 906,2170 920,2170"
+                         HEIGHT="63"
+                         WIDTH="618"
+                         VPOS="2136"
+                         HPOS="298">
+                  <String ID="string_TextRegion_1675685962545_68976_tl_3"
+                          HEIGHT="63"
+                          WIDTH="618"
+                          VPOS="2136"
+                          HPOS="298"
+                          CONTENT="2736 10; Telgr. Assuriche Zurich."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

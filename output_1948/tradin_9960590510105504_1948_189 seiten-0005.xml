@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1948_189 seiten-0005.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:02:14.616+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2604" WIDTH="1769">
+         <TopMargin HEIGHT="0" WIDTH="1769" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2604" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2604" WIDTH="0" VPOS="0" HPOS="1769"/>
+         <BottomMargin HEIGHT="0" WIDTH="1769" VPOS="2604" HPOS="0"/>
+         <PrintSpace HEIGHT="2604" WIDTH="1769" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_3"
+                       HEIGHT="126"
+                       WIDTH="788"
+                       VPOS="722"
+                       HPOS="394"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="394,722 1182,722 1182,848 394,848"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="394,776 402,776 432,776 462,776 492,774 522,774 552,774 582,774 612,776 642,776 672,774 702,776 732,774 762,774 792,776 822,776 852,776 882,776 912,776 942,774 972,774 1002,774 1032,774 1062,774 1092,774 1122,774 1152,774 1182,772"
+                         HEIGHT="81"
+                         WIDTH="793"
+                         VPOS="709"
+                         HPOS="387">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="81"
+                          WIDTH="793"
+                          VPOS="709"
+                          HPOS="387"
+                          CONTENT="BRITISH CHAMBER OF COMMERCE"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="576,836 606,836 636,836 666,838 696,838 726,838 756,838 786,838 816,838 846,838 876,838 906,838 936,838 966,838 996,836 1008,836"
+                         HEIGHT="111"
+                         WIDTH="436"
+                         VPOS="788"
+                         HPOS="568">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="111"
+                          WIDTH="436"
+                          VPOS="788"
+                          HPOS="568"
+                          CONTENT="FOR SWITZERLAND"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="652"
+                       WIDTH="1124"
+                       VPOS="1210"
+                       HPOS="236"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="236,1210 1360,1210 1360,1862 236,1862"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="442,1272 470,1270 500,1266 530,1270 562,1268 562,1268 594,1266 624,1268 654,1268 684,1268 714,1266 744,1266 774,1268 804,1264 834,1266 864,1260"
+                         HEIGHT="187"
+                         WIDTH="428"
+                         VPOS="1132"
+                         HPOS="435">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="187"
+                          WIDTH="428"
+                          VPOS="1132"
+                          HPOS="435"
+                          CONTENT="TRADE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="930,1263 962,1268 992,1268 1022,1266 1052,1266 1082,1268 1112,1268 1142,1270 1172,1264 1174,1264"
+                         HEIGHT="199"
+                         WIDTH="249"
+                         VPOS="1133"
+                         HPOS="921">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="199"
+                          WIDTH="249"
+                          VPOS="1133"
+                          HPOS="921"
+                          CONTENT="DEX"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="238,1406 250,1406 280,1404 310,1404 340,1404 370,1404 400,1404 430,1404 460,1406 490,1406 520,1406 550,1404 580,1404 610,1404 640,1404 670,1404 700,1404 730,1404 760,1404 790,1404 820,1402 850,1402 880,1404 910,1404 940,1404 970,1404 1000,1402 1030,1404 1060,1404 1090,1404 1120,1404 1150,1404 1180,1404 1210,1404 1240,1402 1270,1402 1300,1402 1330,1402 1360,1402"
+                         HEIGHT="97"
+                         WIDTH="1126"
+                         VPOS="1322"
+                         HPOS="231">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="97"
+                          WIDTH="1126"
+                          VPOS="1322"
+                          HPOS="231"
+                          CONTENT="CLASSIFIED HANDBOOK OF THE MEMBERS OF THE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="236,1466 266,1466 296,1466 326,1468 356,1468 386,1468 416,1468 446,1468 476,1468 506,1468 536,1468 566,1466 596,1466 626,1468 656,1468 686,1468 716,1468 746,1468 776,1468 806,1466 836,1468 866,1468 896,1468 926,1468 956,1468 986,1468 1016,1468 1046,1468 1076,1466 1106,1466 1136,1466 1166,1468 1196,1466 1226,1466 1256,1466 1286,1466 1316,1466 1346,1466 1360,1466"
+                         HEIGHT="108"
+                         WIDTH="1130"
+                         VPOS="1412"
+                         HPOS="228">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="108"
+                          WIDTH="1130"
+                          VPOS="1412"
+                          HPOS="228"
+                          CONTENT="BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="684,1778 714,1776 744,1776 774,1778 804,1778 834,1780 864,1778 894,1780 918,1778"
+                         HEIGHT="132"
+                         WIDTH="239"
+                         VPOS="1672"
+                         HPOS="675">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="132"
+                          WIDTH="239"
+                          VPOS="1672"
+                          HPOS="675"
+                          CONTENT="11 Edition"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="684,1848 714,1846 744,1850 774,1846 804,1850 834,1852 864,1850 894,1852 914,1850"
+                         HEIGHT="118"
+                         WIDTH="236"
+                         VPOS="1785"
+                         HPOS="675">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="118"
+                          WIDTH="236"
+                          VPOS="1785"
+                          HPOS="675"
+                          CONTENT="1948"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="444"
+                       WIDTH="768"
+                       VPOS="2056"
+                       HPOS="410"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="410,2056 1178,2056 1178,2500 410,2500"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="686,2108 716,2106 746,2112 776,2114 806,2114 822,2112"
+                         HEIGHT="99"
+                         WIDTH="146"
+                         VPOS="2050"
+                         HPOS="675">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="99"
+                          WIDTH="146"
+                          VPOS="2050"
+                          HPOS="675"
+                          CONTENT="&amp;"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="410,2168 428,2170 458,2170 488,2170 518,2170 548,2170 578,2172 608,2172 638,2172 668,2168 698,2168 728,2170 758,2170 788,2170 818,2170 848,2170 878,2168 908,2168 938,2168 968,2170 998,2168 1028,2168 1058,2168 1088,2168 1118,2166 1148,2166 1178,2164"
+                         HEIGHT="128"
+                         WIDTH="772"
+                         VPOS="2084"
+                         HPOS="402">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="128"
+                          WIDTH="772"
+                          VPOS="2084"
+                          HPOS="402"
+                          CONTENT="PRINTERS VOTSCHILD TO SOLEURE"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="704,2210 714,2208 744,2206 774,2206 804,2206 834,2206 864,2206 894,2206"
+                         HEIGHT="72"
+                         WIDTH="196"
+                         VPOS="2171"
+                         HPOS="696">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="72"
+                          WIDTH="196"
+                          VPOS="2171"
+                          HPOS="696"
+                          CONTENT="(Switzerland)"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="676,2480 706,2480 736,2482 766,2484 796,2486 826,2488 856,2488 882,2490"
+                         HEIGHT="159"
+                         WIDTH="219"
+                         VPOS="2355"
+                         HPOS="661">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="159"
+                          WIDTH="219"
+                          VPOS="2355"
+                          HPOS="661"
+                          CONTENT="48.98"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

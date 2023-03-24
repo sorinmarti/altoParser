@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1951_85 seiten-0052.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:14.031+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2594" WIDTH="1799">
+         <TopMargin HEIGHT="0" WIDTH="1799" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2594" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2594" WIDTH="0" VPOS="0" HPOS="1799"/>
+         <BottomMargin HEIGHT="0" WIDTH="1799" VPOS="2594" HPOS="0"/>
+         <PrintSpace HEIGHT="2594" WIDTH="1799" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675697677514_79669"
+                       HEIGHT="112"
+                       WIDTH="1381"
+                       VPOS="148"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,148 1651,148 1651,260 270,260"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697677514_79669_tl_1"
+                         BASELINE="318,238 324,238 354,238 384,238 414,238 444,238 474,236 504,238 534,236 564,238 594,238 624,238 654,236 684,238 714,238 744,236 774,236 804,236 834,236 864,236 894,238 924,236 954,236 984,236 1014,236 1044,236 1074,236"
+                         HEIGHT="63"
+                         WIDTH="761"
+                         VPOS="196"
+                         HPOS="310">
+                  <String ID="string_TextRegion_1675697677514_79669_tl_1"
+                          HEIGHT="63"
+                          WIDTH="761"
+                          VPOS="196"
+                          HPOS="310"
+                          CONTENT="Insurance Companies, Agents and Brokers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697677514_79668"
+                       HEIGHT="81"
+                       WIDTH="1381"
+                       VPOS="260"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,260 1651,260 1651,341 270,341"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697677514_79668_tl_1"
+                         BASELINE="372,294 402,294 432,294 462,294 492,294 522,294 552,294 582,294 612,294 642,294 672,294 702,294 732,294 762,294 792,294 822,294 852,292 882,292 912,294 942,294 972,294 1002,294 1032,294 1062,292 1092,292 1122,294 1152,294 1182,294 1212,294 1242,294 1272,294 1302,294 1332,294 1362,292 1392,294 1422,294 1452,294 1482,294 1512,294 1542,294 1572,296 1602,296"
+                         HEIGHT="63"
+                         WIDTH="1234"
+                         VPOS="248"
+                         HPOS="364">
+                  <String ID="string_TextRegion_1675697677514_79668_tl_1"
+                          HEIGHT="63"
+                          WIDTH="1234"
+                          VPOS="248"
+                          HPOS="364"
+                          CONTENT="Accident and Casualty Insurance Company of Winterthur, Switzerland (accident,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697677514_79668_tl_2"
+                         BASELINE="378,328 408,326 438,326 468,326 498,326 528,326 558,326 588,326 618,326 648,326 678,326 708,326 738,326 768,326 798,326 828,326 858,326 888,324 918,324 948,326 978,326 1008,326 1038,326 1068,326 1098,324 1128,326 1158,326 1188,326 1218,326 1248,326 1278,326 1308,324 1338,326 1368,326 1398,326 1428,326 1458,326 1478,328"
+                         HEIGHT="39"
+                         WIDTH="1103"
+                         VPOS="299"
+                         HPOS="370">
+                  <String ID="string_TextRegion_1675697677514_79668_tl_2"
+                          HEIGHT="39"
+                          WIDTH="1103"
+                          VPOS="299"
+                          HPOS="370"
+                          CONTENT="liability, collision, burglary, fidelity and surely insurance), Winterthur."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697676631_79664"
+                       HEIGHT="73"
+                       WIDTH="1381"
+                       VPOS="341"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,341 1651,341 1651,414 270,414"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697676631_79664_tl_1"
+                         BASELINE="372,370 402,368 432,368 462,368 492,370 522,370 552,368 582,368 612,368 642,370 672,370 702,370 732,370 762,368 792,370 822,370 852,370 882,370 912,370 942,370 972,372 1002,372 1032,370 1062,370 1092,370 1122,370 1152,370 1182,368 1212,370 1242,370 1272,370 1302,370 1332,368 1362,370 1392,370 1422,370 1452,370 1482,370 1512,370 1542,370 1572,370 1602,372 1604,372"
+                         HEIGHT="55"
+                         WIDTH="1236"
+                         VPOS="336"
+                         HPOS="364">
+                  <String ID="string_TextRegion_1675697676631_79664_tl_1"
+                          HEIGHT="55"
+                          WIDTH="1236"
+                          VPOS="336"
+                          HPOS="364"
+                          CONTENT="Baloise Marine Insurance Co. Ltd. (marine and re-insurance in all branches"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697676631_79664_tl_2"
+                         BASELINE="378,402 408,402 438,402 468,404 498,404 528,404 558,404 588,404 618,402 648,402 678,404 708,402 738,402 768,402 798,402 828,402 858,400 888,400 918,400 948,402 978,402 1008,404 1010,404"
+                         HEIGHT="48"
+                         WIDTH="638"
+                         VPOS="376"
+                         HPOS="370">
+                  <String ID="string_TextRegion_1675697676631_79664_tl_2"
+                          HEIGHT="48"
+                          WIDTH="638"
+                          VPOS="376"
+                          HPOS="370"
+                          CONTENT="except life), 51, Elisabethenstrasse, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697675716_79660"
+                       HEIGHT="80"
+                       WIDTH="1381"
+                       VPOS="414"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,414 1651,414 1651,494 270,494"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697675716_79660_tl_1"
+                         BASELINE="376,446 406,448 436,448 466,448 496,446 526,448 556,448 586,448 616,448 646,448 676,446 706,446 736,446 766,448 796,448 826,448 856,448 886,448 916,446 946,448 976,448 1006,446 1036,446 1066,448 1096,448 1126,446 1156,446 1186,446 1216,448 1246,448 1276,448 1306,446 1336,446 1366,446 1396,446 1426,446 1456,446 1486,446 1516,446 1546,448 1576,448 1600,450"
+                         HEIGHT="77"
+                         WIDTH="1231"
+                         VPOS="390"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697675716_79660_tl_1"
+                          HEIGHT="77"
+                          WIDTH="1231"
+                          VPOS="390"
+                          HPOS="367"
+                          CONTENT="Banque Galland &amp; Cie. S.A. (all kinds of insurance), 8, avenue du Théâtre,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697675716_79660_tl_2"
+                         BASELINE="380,480 410,480 440,480 470,480 500,478 528,480"
+                         HEIGHT="51"
+                         WIDTH="153"
+                         VPOS="453"
+                         HPOS="371">
+                  <String ID="string_TextRegion_1675697675716_79660_tl_2"
+                          HEIGHT="51"
+                          WIDTH="153"
+                          VPOS="453"
+                          HPOS="371"
+                          CONTENT="Lausanne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697674516_79656"
+                       HEIGHT="109"
+                       WIDTH="1381"
+                       VPOS="494"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,494 1651,494 1651,603 270,603"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697674516_79656_tl_1"
+                         BASELINE="380,522 410,524 440,524 470,522 500,524 530,524 560,522 590,524 620,522 650,522 680,522 710,522 740,522 770,522 800,522 830,524 860,524 890,522 920,522 950,522 980,522 1010,522 1040,522 1070,522 1100,522 1130,522 1160,522 1190,522 1220,522 1250,522 1280,522 1310,520 1340,522 1370,522 1400,522 1430,522 1460,522 1490,522 1520,522 1550,522 1580,522 1596,522"
+                         HEIGHT="63"
+                         WIDTH="1221"
+                         VPOS="467"
+                         HPOS="371">
+                  <String ID="string_TextRegion_1675697674516_79656_tl_1"
+                          HEIGHT="63"
+                          WIDTH="1221"
+                          VPOS="467"
+                          HPOS="371"
+                          CONTENT="Himmelspach &amp; Wirz (General managers for Switzerland of the Standard Marine"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697674516_79656_tl_2"
+                         BASELINE="376,554 406,556 436,554 466,554 496,554 526,554 556,556 586,554 616,554 646,554 676,554 706,554 736,554 766,554 796,554 826,554 856,554 886,556 916,554 946,554 976,552 1006,554 1036,552 1066,552 1096,554 1126,554 1156,554 1186,554 1216,554 1246,552 1276,552 1306,552 1336,552 1366,552 1396,554 1426,554 1456,554 1486,554 1516,554 1546,554 1576,556 1602,556"
+                         HEIGHT="35"
+                         WIDTH="1231"
+                         VPOS="529"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697674516_79656_tl_2"
+                          HEIGHT="35"
+                          WIDTH="1231"
+                          VPOS="529"
+                          HPOS="367"
+                          CONTENT="Insurance Co. Ltd., Liverpool), (marine and transport insurance of all kinds)."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697674516_79656_tl_3"
+                         BASELINE="378,582 406,586 436,588 466,588 496,586 526,586 556,586 586,586 616,586 646,586 676,584 706,586 736,586 766,586 796,586 826,586 856,586 886,586 916,586 946,584 976,586 1006,586 1036,586 1066,584 1096,584 1126,586 1156,584 1186,584 1216,586 1226,586"
+                         HEIGHT="39"
+                         WIDTH="854"
+                         VPOS="561"
+                         HPOS="370">
+                  <String ID="string_TextRegion_1675697674516_79656_tl_3"
+                          HEIGHT="39"
+                          WIDTH="854"
+                          VPOS="561"
+                          HPOS="370"
+                          CONTENT="29. Fraumünsterstrasse, Zürich 1. Also Lloyd's Brokers."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697672759_79652"
+                       HEIGHT="44"
+                       WIDTH="1381"
+                       VPOS="603"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,603 1651,603 1651,647 270,647"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697672759_79652_tl_1"
+                         BASELINE="378,632 408,630 438,630 468,630 498,630 528,630 558,632 588,630 618,630 648,630 678,630 708,630 738,628 768,630 798,630 828,630 858,628 888,630 918,630 948,630 978,628 1008,630 1038,628 1068,628 1098,628 1128,628 1158,628 1188,630 1218,630 1248,630 1278,628 1308,628 1338,628 1368,628 1398,628 1428,628 1458,628 1488,630 1518,630 1548,630 1578,630 1600,632"
+                         HEIGHT="53"
+                         WIDTH="1228"
+                         VPOS="596"
+                         HPOS="370">
+                  <String ID="string_TextRegion_1675697672759_79652_tl_1"
+                          HEIGHT="53"
+                          WIDTH="1228"
+                          VPOS="596"
+                          HPOS="370"
+                          CONTENT="Interbroke Ltd. (Lloyd's Brokers), Luxor House, 36, Claridenstrasse, Zurich 2."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697669930_79646"
+                       HEIGHT="76"
+                       WIDTH="1381"
+                       VPOS="647"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,647 1651,647 1651,723 270,723"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697669930_79646_tl_1"
+                         BASELINE="376,674 406,676 436,674 466,674 496,674 526,674 556,674 586,674 616,674 646,674 676,674 706,674 736,674 766,674 796,674 826,674 856,676 886,676 916,674 946,674 976,674 1006,674 1036,674 1066,674 1096,674 1126,674 1156,674 1186,674 1216,674 1246,674 1276,674 1306,676 1336,676 1366,676 1396,674 1426,674 1456,674 1486,674 1516,676 1546,676 1576,676 1602,678"
+                         HEIGHT="49"
+                         WIDTH="1231"
+                         VPOS="641"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697669930_79646_tl_1"
+                          HEIGHT="49"
+                          WIDTH="1231"
+                          VPOS="641"
+                          HPOS="367"
+                          CONTENT="Matthews, Wrightson &amp; Co. Ltd. (agents and brokers), 45, Monbijoustrasse,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697669930_79646_tl_2"
+                         BASELINE="382,704 412,706 442,708 472,708 478,706"
+                         HEIGHT="48"
+                         WIDTH="103"
+                         VPOS="681"
+                         HPOS="373">
+                  <String ID="string_TextRegion_1675697669930_79646_tl_2"
+                          HEIGHT="48"
+                          WIDTH="103"
+                          VPOS="681"
+                          HPOS="373"
+                          CONTENT="Berne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697669279_79642"
+                       HEIGHT="48"
+                       WIDTH="1381"
+                       VPOS="723"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,723 1651,723 1651,771 270,771"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697669279_79642_tl_1"
+                         BASELINE="376,748 406,750 436,752 466,752 496,752 526,752 556,750 586,752 616,752 646,752 676,750 706,750 736,752 766,750 796,750 826,750 856,750 886,750 916,750 946,750 976,750 1006,750 1036,750 1066,752 1096,752 1108,752"
+                         HEIGHT="84"
+                         WIDTH="738"
+                         VPOS="694"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697669279_79642_tl_1"
+                          HEIGHT="84"
+                          WIDTH="738"
+                          VPOS="694"
+                          HPOS="367"
+                          CONTENT="von May &amp; Co. (agents), 74, Kramgasse, Berne."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697668620_79638"
+                       HEIGHT="139"
+                       WIDTH="1381"
+                       VPOS="771"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,771 1651,771 1651,910 270,910"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697668620_79638_tl_1"
+                         BASELINE="378,790 408,794 438,794 468,796 498,796 528,794 558,796 588,794 618,796 648,794 678,794 708,794 738,794 768,794 798,794 828,796 858,794 888,794 918,794 948,794 978,794 1008,794 1038,794 1068,796 1098,796 1128,796 1158,796 1188,796 1218,796 1248,796 1278,794 1308,796 1338,796 1368,794 1398,794 1428,796 1458,794 1488,794 1518,796 1548,796 1578,796 1602,798"
+                         HEIGHT="63"
+                         WIDTH="1228"
+                         VPOS="746"
+                         HPOS="370">
+                  <String ID="string_TextRegion_1675697668620_79638_tl_1"
+                          HEIGHT="63"
+                          WIDTH="1228"
+                          VPOS="746"
+                          HPOS="370"
+                          CONTENT="The Northern Assurance Co. Ltd. (fire, loss of profits, theft, personal accident,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697668620_79638_tl_2"
+                         BASELINE="382,828 412,828 442,828 472,828 502,828 532,826 562,826 592,826 622,828 652,826 682,826 712,826 742,826 772,828 802,826 832,826 862,826 892,826 922,826 952,826 982,826 1012,826 1042,828 1072,826 1102,828 1132,826 1162,826 1192,828 1222,828 1252,828 1282,828 1312,828 1342,828 1372,826 1402,826 1432,828 1462,826 1492,826 1522,826 1552,826 1582,828 1602,830"
+                         HEIGHT="36"
+                         WIDTH="1225"
+                         VPOS="801"
+                         HPOS="373">
+                  <String ID="string_TextRegion_1675697668620_79638_tl_2"
+                          HEIGHT="36"
+                          WIDTH="1225"
+                          VPOS="801"
+                          HPOS="373"
+                          CONTENT="public liability, comprehensive household and motor, plate glass, water damage,"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697668620_79638_tl_3"
+                         BASELINE="376,860 406,860 436,858 466,858 496,860 526,858 556,860 586,858 616,858 646,856 676,856 706,858 736,856 766,856 796,858 826,858 856,858 886,858 916,858 946,858 976,858 1006,858 1036,858 1066,856 1096,858 1126,858 1156,858 1186,858 1216,858 1246,860 1276,858 1306,858 1336,858 1366,856 1396,858 1426,858 1456,858 1486,858 1516,858 1546,858 1576,860 1602,860"
+                         HEIGHT="38"
+                         WIDTH="1231"
+                         VPOS="834"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697668620_79638_tl_3"
+                          HEIGHT="38"
+                          WIDTH="1231"
+                          VPOS="834"
+                          HPOS="367"
+                          CONTENT="fidelity guarantee jewellery, furs and other valuables and all risks insurance)."/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697668620_79638_tl_4"
+                         BASELINE="376,892 406,892 436,892 466,890 496,892 526,890 556,892 586,892 616,890 646,890 676,890 706,890 736,890 766,890 796,892 802,892"
+                         HEIGHT="35"
+                         WIDTH="431"
+                         VPOS="865"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697668620_79638_tl_4"
+                          HEIGHT="35"
+                          WIDTH="431"
+                          VPOS="865"
+                          HPOS="367"
+                          CONTENT="1, Moorgate, London E.C. 2."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697667453_79634"
+                       HEIGHT="42"
+                       WIDTH="1381"
+                       VPOS="910"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,910 1651,910 1651,952 270,952"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697667453_79634_tl_1"
+                         BASELINE="380,932 410,936 440,934 470,934 500,934 530,934 560,934 590,934 620,934 650,934 680,934 710,934 740,934 770,936 800,936 830,936 860,934 890,934 920,934 950,934 980,934 1010,934 1040,934 1070,934 1100,934 1130,934 1160,934 1190,934 1194,934"
+                         HEIGHT="51"
+                         WIDTH="819"
+                         VPOS="900"
+                         HPOS="371">
+                  <String ID="string_TextRegion_1675697667453_79634_tl_1"
+                          HEIGHT="51"
+                          WIDTH="819"
+                          VPOS="900"
+                          HPOS="371"
+                          CONTENT="E. Oberhänsli &amp; Co. (agents), 15, Talstrasse, Zürich 1."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697666630_79630"
+                       HEIGHT="74"
+                       WIDTH="1381"
+                       VPOS="952"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,952 1651,952 1651,1026 270,1026"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697666630_79630_tl_1"
+                         BASELINE="382,976 412,978 442,978 472,976 502,978 532,978 562,976 592,976 622,978 652,978 682,978 712,978 742,980 772,978 802,976 832,978 862,978 892,976 922,976 952,978 982,978 1012,976 1042,980 1072,980 1102,978 1132,978 1162,978 1192,980 1222,980 1252,980 1282,980 1312,980 1342,978 1372,978 1402,978 1432,978 1462,978 1492,978 1522,978 1552,978 1582,980 1602,978"
+                         HEIGHT="73"
+                         WIDTH="1225"
+                         VPOS="923"
+                         HPOS="373">
+                  <String ID="string_TextRegion_1675697666630_79630_tl_1"
+                          HEIGHT="73"
+                          WIDTH="1225"
+                          VPOS="923"
+                          HPOS="373"
+                          CONTENT="Dr. Franz Reichenbach, 9, Nüschelerstrasse, Zürich 1. General Attorney (Man¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697666630_79630_tl_2"
+                         BASELINE="378,1012 408,1012 438,1012 468,1010 498,1012 528,1012 558,1012 588,1010 618,1010 648,1010 678,1010 708,1010 738,1010 768,1010 798,1010 828,1012 858,1010 888,1012 918,1010 948,1010 978,1010 1008,1010 1038,1010 1068,1010 1098,1010 1128,1010 1158,1010 1188,1010 1218,1010 1248,1012 1266,1012"
+                         HEIGHT="42"
+                         WIDTH="892"
+                         VPOS="983"
+                         HPOS="370">
+                  <String ID="string_TextRegion_1675697666630_79630_tl_2"
+                          HEIGHT="42"
+                          WIDTH="892"
+                          VPOS="983"
+                          HPOS="370"
+                          CONTENT="dataire Général) in Switzerland of Lloyd's Underwriters."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697665591_79626"
+                       HEIGHT="44"
+                       WIDTH="1381"
+                       VPOS="1026"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,1026 1651,1026 1651,1070 270,1070"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697665591_79626_tl_1"
+                         BASELINE="376,1056 386,1054 416,1056 446,1056 476,1056 506,1056 536,1056 566,1056 596,1056 626,1056 656,1054 686,1056 716,1056 746,1056 776,1056 806,1056 836,1056 866,1056 896,1056 926,1056 956,1056 986,1056 1016,1056 1046,1054 1076,1054 1106,1056 1136,1054 1166,1054 1196,1054 1226,1054 1256,1054 1286,1054 1316,1056 1346,1056 1376,1054"
+                         HEIGHT="54"
+                         WIDTH="1005"
+                         VPOS="1017"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697665591_79626_tl_1"
+                          HEIGHT="54"
+                          WIDTH="1005"
+                          VPOS="1017"
+                          HPOS="367"
+                          CONTENT="Dr. Th. Simon (agent and broker), 68, Oberer Batterieweg, Basle."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697664874_79622"
+                       HEIGHT="72"
+                       WIDTH="1381"
+                       VPOS="1070"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,1070 1651,1070 1651,1142 270,1142"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697664874_79622_tl_1"
+                         BASELINE="376,1100 406,1100 436,1100 466,1100 496,1100 526,1100 556,1100 586,1098 616,1100 646,1100 676,1098 706,1100 736,1100 766,1100 796,1102 826,1102 856,1100 886,1100 916,1100 946,1100 976,1100 1006,1100 1036,1100 1066,1100 1096,1100 1126,1098 1156,1100 1186,1100 1216,1100 1246,1100 1276,1100 1306,1100 1336,1100 1366,1100 1396,1102 1426,1100 1456,1100 1486,1100 1516,1100 1546,1100 1576,1102 1606,1100"
+                         HEIGHT="62"
+                         WIDTH="1236"
+                         VPOS="1063"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697664874_79622_tl_1"
+                          HEIGHT="62"
+                          WIDTH="1236"
+                          VPOS="1063"
+                          HPOS="367"
+                          CONTENT="Switzerland, General Insurance Co. Ltd. (all kinds of insurance including"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697664874_79622_tl_2"
+                         BASELINE="376,1130 406,1132 436,1132 466,1132 496,1132 526,1134 556,1132 586,1134 616,1132 646,1134 676,1132 706,1132 736,1134 766,1134 796,1134 826,1134 856,1134 886,1134 916,1132 946,1134 976,1134 1006,1134 1036,1132 1066,1132 1096,1132 1126,1132 1156,1132 1186,1134 1216,1132 1246,1132 1276,1132 1306,1132 1316,1132"
+                         HEIGHT="34"
+                         WIDTH="946"
+                         VPOS="1105"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697664874_79622_tl_2"
+                          HEIGHT="34"
+                          WIDTH="946"
+                          VPOS="1105"
+                          HPOS="367"
+                          CONTENT="marine, fire and re-insurance), 43, Gotthardstrasse, Zurich 2."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675697663885_79618"
+                       HEIGHT="108"
+                       WIDTH="1381"
+                       VPOS="1142"
+                       HPOS="270"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="270,1142 1651,1142 1651,1250 270,1250"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675697663885_79618_tl_1"
+                         BASELINE="376,1176 406,1178 436,1176 466,1176 496,1176 526,1176 556,1176 586,1176 616,1176 646,1176 676,1176 706,1178 736,1178 766,1178 796,1178 826,1178 856,1178 886,1178 916,1178 946,1178 976,1176 1006,1178 1036,1176 1066,1178 1096,1178 1126,1176 1156,1178 1186,1178 1216,1178 1246,1178 1276,1178 1306,1178 1336,1178 1366,1178 1396,1178 1426,1178 1456,1178 1486,1178 1516,1176 1546,1176 1576,1178 1606,1178 1608,1176"
+                         HEIGHT="74"
+                         WIDTH="1236"
+                         VPOS="1127"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697663885_79618_tl_1"
+                          HEIGHT="74"
+                          WIDTH="1236"
+                          VPOS="1127"
+                          HPOS="367"
+                          CONTENT="Zurich General Accident and Liability Insurance Co. Ltd. (all kinds of accident"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675697663885_79618_tl_2"
+                         BASELINE="376,1210 406,1210 436,1210 466,1210 496,1210 526,1210 556,1212 586,1210 616,1212 646,1210 676,1210 706,1210 736,1210 766,1212 796,1210 826,1212 856,1210 886,1210 916,1212 942,1212"
+                         HEIGHT="55"
+                         WIDTH="572"
+                         VPOS="1184"
+                         HPOS="367">
+                  <String ID="string_TextRegion_1675697663885_79618_tl_2"
+                          HEIGHT="55"
+                          WIDTH="572"
+                          VPOS="1184"
+                          HPOS="367"
+                          CONTENT="Insurance), 2, Mythenquai, Zurich 2."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

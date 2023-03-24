@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1948_189 seiten-0001.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:02:13.351+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2604" WIDTH="1863">
+         <TopMargin HEIGHT="0" WIDTH="1863" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2604" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2604" WIDTH="0" VPOS="0" HPOS="1863"/>
+         <BottomMargin HEIGHT="0" WIDTH="1863" VPOS="2604" HPOS="0"/>
+         <PrintSpace HEIGHT="2604" WIDTH="1863" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_3"
+                       HEIGHT="124"
+                       WIDTH="784"
+                       VPOS="736"
+                       HPOS="514"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="514,736 1298,736 1298,860 514,860"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="514,792 518,790 548,788 578,788 608,786 638,786 668,786 698,786 728,786 758,788 788,788 818,788 848,788 878,788 908,788 938,786 968,786 998,788 1028,786 1058,788 1088,788 1118,786 1148,786 1178,788 1208,788 1238,788 1268,788 1298,788"
+                         HEIGHT="88"
+                         WIDTH="789"
+                         VPOS="715"
+                         HPOS="506">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="88"
+                          WIDTH="789"
+                          VPOS="715"
+                          HPOS="506"
+                          CONTENT="BRITISH CHAMBER OF COMMERCE"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="690,850 720,850 750,850 780,850 810,850 840,850 870,850 900,850 930,850 960,850 990,850 1020,850 1050,850 1080,850 1110,850 1130,850"
+                         HEIGHT="93"
+                         WIDTH="445"
+                         VPOS="806"
+                         HPOS="683">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="93"
+                          WIDTH="445"
+                          VPOS="806"
+                          HPOS="683"
+                          CONTENT="FOR SWITZERLAND"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="264"
+                       WIDTH="1114"
+                       VPOS="1228"
+                       HPOS="354"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="354,1228 1468,1228 1468,1492 354,1492"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="688,1284 700,1282 730,1282 760,1282 790,1282 820,1280 850,1280 880,1280 910,1278 940,1282 970,1284 1000,1284 1030,1284 1062,1283 1062,1283 1086,1284 1116,1284 1146,1284 1176,1282 1206,1280 1236,1280 1267,1279"
+                         HEIGHT="184"
+                         WIDTH="585"
+                         VPOS="1147"
+                         HPOS="679">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="184"
+                          WIDTH="585"
+                          VPOS="1147"
+                          HPOS="679"
+                          CONTENT="ADE INDE"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="354,1418 384,1416 414,1416 444,1416 474,1416 504,1416 534,1416 564,1416 594,1416 624,1416 654,1414 684,1414 714,1414 744,1414 774,1416 804,1416 834,1416 864,1414 894,1416 924,1416 954,1416 984,1416 1014,1416 1044,1416 1074,1416 1104,1416 1134,1416 1164,1416 1194,1416 1224,1416 1254,1418 1284,1416 1314,1418 1344,1416 1374,1416 1404,1416 1434,1416 1464,1418 1468,1418"
+                         HEIGHT="97"
+                         WIDTH="1120"
+                         VPOS="1330"
+                         HPOS="346">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="97"
+                          WIDTH="1120"
+                          VPOS="1330"
+                          HPOS="346"
+                          CONTENT="CLASSIFIED HANDBOOK OF THE MEMBERS OF THE"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="356,1478 386,1478 416,1478 446,1478 476,1478 506,1478 536,1480 566,1480 596,1478 626,1478 656,1478 686,1478 716,1478 746,1478 776,1478 806,1480 836,1482 866,1480 896,1480 926,1480 956,1480 986,1478 1016,1480 1046,1480 1076,1480 1106,1480 1136,1480 1166,1480 1196,1480 1226,1480 1256,1480 1286,1480 1316,1480 1346,1478 1376,1478 1406,1478 1436,1478 1466,1480"
+                         HEIGHT="96"
+                         WIDTH="1114"
+                         VPOS="1427"
+                         HPOS="348">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="96"
+                          WIDTH="1114"
+                          VPOS="1427"
+                          HPOS="348"
+                          CONTENT="BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="424"
+                       WIDTH="646"
+                       VPOS="1736"
+                       HPOS="800"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="800,1736 1446,1736 1446,2160 800,2160"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="802,1786 832,1786 862,1788 892,1790 922,1790 952,1790 982,1792 1012,1790 1042,1790"
+                         HEIGHT="70"
+                         WIDTH="244"
+                         VPOS="1732"
+                         HPOS="794">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="70"
+                          WIDTH="244"
+                          VPOS="1732"
+                          HPOS="794"
+                          CONTENT="11. Edition"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="800,1858 828,1862 858,1860 888,1858 918,1858 948,1858 978,1860 1008,1860 1036,1860"
+                         HEIGHT="110"
+                         WIDTH="242"
+                         VPOS="1797"
+                         HPOS="792">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="110"
+                          WIDTH="242"
+                          VPOS="1797"
+                          HPOS="792"
+                          CONTENT="1948"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="1170,2132 1200,2132 1230,2134 1260,2134 1290,2136 1320,2136 1350,2136 1380,2136 1410,2136 1440,2136 1446,2138"
+                         HEIGHT="108"
+                         WIDTH="282"
+                         VPOS="2066"
+                         HPOS="1161">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="108"
+                          WIDTH="282"
+                          VPOS="2066"
+                          HPOS="1161"
+                          CONTENT="Price Frs. 12.-"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

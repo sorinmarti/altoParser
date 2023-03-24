@@ -194,6 +194,16 @@ def parse_index_page(text, words):
         result["address_found"] = True
         result["address"] = match.group(0)
 
+    match = re.search(r'(Phone ([A-Z][a-z]{1,10} )?[0-9]{1,5}((\/|\.| )[0-9]{1,5})?|Phones [0-9]{1,5}.{1,8};|Phone « [A-Z][a-z]{1,10} » [0-9]{1,6}|Phone [A-Z][a-z]{1,10}, [0-9]{1,6})', text)
+    if match:
+        result["phone_found"] = True
+        result["phone"] = match.group(0)
+
+    match = re.search(r'((Telegrams|Tele¬ grams) « [A-Z][a-z].{1,25}[a-z] »|Telegrams « [A-Z][a-z].{1,25}[a-z](,| )|Telegrams [A-Z][a-z]{1,10})', text)
+    if match:
+        result["telegram_found"] = True
+        result["telegram"] = match.group(0)
+
     for my_address in address_list:
         if my_address in text:
             result["address_list_found"] = True
@@ -212,7 +222,7 @@ def parse_index_page(text, words):
             result["goods_list_found"] = True
             result["goods_list"] = good
             break
-
+    print(result)
     return result
 
 def parse_alphabetical_index_page(text, words):
@@ -334,4 +344,4 @@ def parse_year(data_folder, output_folder):
                 print("File is excluded: " + file)
 
 if __name__ == "__main__":
-    parse_year('data_1923', 'output_1923')
+    parse_year('data_1935', 'output_1935')

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1951_85 seiten-0083.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:23.895+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2583" WIDTH="1831">
+         <TopMargin HEIGHT="0" WIDTH="1831" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2583" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2583" WIDTH="0" VPOS="0" HPOS="1831"/>
+         <BottomMargin HEIGHT="0" WIDTH="1831" VPOS="2583" HPOS="0"/>
+         <PrintSpace HEIGHT="2583" WIDTH="1831" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="584"
+                       WIDTH="504"
+                       VPOS="1315"
+                       HPOS="875"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="875,1315 1379,1315 1379,1899 875,1899"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="991,1365 1021,1365 1051,1365 1081,1365 1111,1365 1141,1365 1171,1367 1201,1367 1231,1365 1247,1371"
+                         HEIGHT="120"
+                         WIDTH="259"
+                         VPOS="1277"
+                         HPOS="986">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="120"
+                          WIDTH="259"
+                          VPOS="1277"
+                          HPOS="986"
+                          CONTENT="is a"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="875,1457 905,1459 935,1461 965,1463 995,1463 1025,1463 1055,1465 1085,1463 1115,1463 1145,1465 1175,1465 1205,1465 1235,1465 1265,1465 1295,1465 1325,1465 1355,1465 1379,1465"
+                         HEIGHT="118"
+                         WIDTH="508"
+                         VPOS="1388"
+                         HPOS="869">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="118"
+                          WIDTH="508"
+                          VPOS="1388"
+                          HPOS="869"
+                          CONTENT="good movement"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="923,1565 953,1563 983,1563 1013,1565 1043,1563 1073,1565 1103,1565 1133,1565 1163,1565 1193,1565 1223,1565 1253,1565 1283,1567 1313,1565 1339,1567"
+                         HEIGHT="104"
+                         WIDTH="420"
+                         VPOS="1498"
+                         HPOS="918">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="104"
+                          WIDTH="420"
+                          VPOS="1498"
+                          HPOS="918"
+                          CONTENT="it deserres à"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="1025,1887 1055,1885 1085,1887 1115,1885 1145,1885 1175,1887 1189,1889"
+                         HEIGHT="107"
+                         WIDTH="168"
+                         VPOS="1819"
+                         HPOS="1019">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="107"
+                          WIDTH="168"
+                          VPOS="1819"
+                          HPOS="1019"
+                          CONTENT="case"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

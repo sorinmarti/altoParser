@@ -61,7 +61,7 @@ address_searcher.set_pattern_list([r'([0-9]{1,4}(,|\.) [A-Z].{1,15}(quai|berg|ra
 names = ["FALCONER EVANS CROWE", "MAURICE GALLAND", "ALEXANDER RICHARDSON", "THEO. RUSSELL", "T. EDGAR HARLEY", "E. G. B. MAXSE", "J. LOMAS", "R. HAMILTON", "Sir Milne CHEETHAM", "A. RICHARDSON"]
 names_list = sorted(names, key=len, reverse=True)
 
-headline = ["LIST OF MEMBERS of the British Chamber of Commerce for Switzerland", "Page", "Address", "Trade and Name", "INDEX:", "Classified List of the Members of the British Chamber of Commerce for Switzerland", "TRADE INDEX", "INDEX"]
+headline = ["TRADE IRIDE", "LIST OF MEMBERS of the British Chamber of Commerce for Switzerland", "Page", "Address", "Trade and Name", "INDEX:", "Classified List of the Members of the British Chamber of Commerce for Switzerland", "TRADE INDEX", "INDEX"]
 headline_list = sorted(headline, key=len, reverse=True)
 headline_searcher = SearchHelper("headline")
 headline_searcher.set_search_list(headline_list)

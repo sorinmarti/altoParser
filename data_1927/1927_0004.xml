@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1927_49 seiten-0004.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T11:59:46.8+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2666" WIDTH="1819">
+         <TopMargin HEIGHT="0" WIDTH="1819" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2666" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2666" WIDTH="0" VPOS="0" HPOS="1819"/>
+         <BottomMargin HEIGHT="0" WIDTH="1819" VPOS="2666" HPOS="0"/>
+         <PrintSpace HEIGHT="2666" WIDTH="1819" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_2"
+                       HEIGHT="432"
+                       WIDTH="884"
+                       VPOS="504"
+                       HPOS="510"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="510,504 1394,504 1394,936 510,936"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="510,554 538,556 568,556 598,558 628,556 658,558 688,558 718,558 748,558 778,558 808,558 838,558 868,556 898,558 928,558 958,560 988,560 1018,560 1048,560 1078,560 1108,560 1138,560 1168,560 1198,560 1228,558 1258,560 1288,558 1318,560 1348,560 1378,560 1394,558"
+                         HEIGHT="115"
+                         WIDTH="889"
+                         VPOS="467"
+                         HPOS="502">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="115"
+                          WIDTH="889"
+                          VPOS="467"
+                          HPOS="502"
+                          CONTENT="TERRASSE RESTAURANT"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="596,688 626,690 656,690 686,692 716,690 746,692 776,690 806,692 836,692 866,692 896,692 926,692 956,694 986,692 1016,690 1046,690 1076,690 1106,690 1136,688 1166,690 1196,688 1226,690 1256,690 1286,694 1292,694"
+                         HEIGHT="157"
+                         WIDTH="702"
+                         VPOS="598"
+                         HPOS="589">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="157"
+                          WIDTH="702"
+                          VPOS="598"
+                          HPOS="589"
+                          CONTENT="KUNSTHALLE"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="832,802 862,802 892,804 922,806 952,808 982,808 1012,808 1042,808 1070,812"
+                         HEIGHT="119"
+                         WIDTH="245"
+                         VPOS="720"
+                         HPOS="822">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="119"
+                          WIDTH="245"
+                          VPOS="720"
+                          HPOS="822"
+                          CONTENT="BASEL"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="678,924 690,924 720,924 750,922 780,924 810,924 840,924 870,924 900,924 930,924 960,924 990,924 1020,926 1050,926 1080,926 1110,924 1140,924 1170,924 1200,924 1230,922"
+                         HEIGHT="184"
+                         WIDTH="555"
+                         VPOS="831"
+                         HPOS="671">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="184"
+                          WIDTH="555"
+                          VPOS="831"
+                          HPOS="671"
+                          CONTENT="L. STUMPE-LINDER"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_3"
+                       HEIGHT="288"
+                       WIDTH="694"
+                       VPOS="1240"
+                       HPOS="610"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="610,1240 1304,1240 1304,1528 610,1528"/>
+               </Shape>
+               <TextLine ID="tr_3_tl_1"
+                         BASELINE="610,1292 640,1292 670,1290 700,1290 730,1290 760,1290 790,1292 820,1292 850,1292 880,1290 910,1292 940,1292 970,1292 1000,1292 1030,1292 1060,1292 1090,1292 1120,1292 1150,1292 1180,1292 1210,1292 1240,1294 1270,1292 1300,1296 1304,1294"
+                         HEIGHT="141"
+                         WIDTH="699"
+                         VPOS="1210"
+                         HPOS="602">
+                  <String ID="string_tr_3_tl_1"
+                          HEIGHT="141"
+                          WIDTH="699"
+                          VPOS="1210"
+                          HPOS="602"
+                          CONTENT="CUISINE INCOMPARABLE"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_2"
+                         BASELINE="730,1400 760,1402 790,1402 820,1402 850,1404 880,1404 910,1402 940,1404 970,1404 1000,1404 1030,1404 1060,1404 1090,1404 1120,1404 1150,1402 1174,1406"
+                         HEIGHT="124"
+                         WIDTH="447"
+                         VPOS="1319"
+                         HPOS="723">
+                  <String ID="string_tr_3_tl_2"
+                          HEIGHT="124"
+                          WIDTH="447"
+                          VPOS="1319"
+                          HPOS="723"
+                          CONTENT="CAVE SOIGNÉE"/>
+               </TextLine>
+               <TextLine ID="tr_3_tl_3"
+                         BASELINE="788,1508 816,1512 846,1512 876,1514 906,1514 936,1514 966,1516 996,1514 1026,1516 1056,1516 1086,1516 1114,1518"
+                         HEIGHT="126"
+                         WIDTH="332"
+                         VPOS="1435"
+                         HPOS="779">
+                  <String ID="string_tr_3_tl_3"
+                          HEIGHT="126"
+                          WIDTH="332"
+                          VPOS="1435"
+                          HPOS="779"
+                          CONTENT="CONCERTS"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_1"
+                       HEIGHT="424"
+                       WIDTH="1070"
+                       VPOS="1698"
+                       HPOS="418"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="418,1698 1488,1698 1488,2122 418,2122"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="418,1748 448,1748 478,1748 508,1750 538,1750 568,1750 598,1750 628,1748 658,1750 688,1750 718,1750 748,1750 778,1750 808,1750 838,1752 868,1750 898,1752 928,1752 958,1752 988,1752 1018,1752 1048,1752 1078,1754 1108,1754 1138,1754 1168,1754 1198,1754 1228,1754 1258,1754 1288,1756 1318,1756 1348,1756 1378,1754 1408,1756 1438,1756 1468,1756 1488,1754"
+                         HEIGHT="176"
+                         WIDTH="1074"
+                         VPOS="1635"
+                         HPOS="411">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="176"
+                          WIDTH="1074"
+                          VPOS="1635"
+                          HPOS="411"
+                          CONTENT="THE PLACE FOR HIGH CLASS COOKING"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="774,1866 804,1864 834,1866 864,1866 894,1866 924,1866 954,1866 984,1866 1014,1866 1044,1866 1074,1866 1104,1866 1134,1868 1142,1868"
+                         HEIGHT="109"
+                         WIDTH="375"
+                         VPOS="1801"
+                         HPOS="767">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="109"
+                          WIDTH="375"
+                          VPOS="1801"
+                          HPOS="767"
+                          CONTENT="ORCHESTRA"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="770,2104 800,2108 830,2108 860,2108 890,2108 920,2110 950,2110 980,2110 1010,2108 1040,2110 1070,2110 1100,2108 1130,2110 1138,2112"
+                         HEIGHT="139"
+                         WIDTH="375"
+                         VPOS="2023"
+                         HPOS="762">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="139"
+                          WIDTH="375"
+                          VPOS="2023"
+                          HPOS="762"
+                          CONTENT="AUTO PARK"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

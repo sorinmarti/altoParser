@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1922_97 seiten-0074.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:01:25.491+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2706" WIDTH="1775">
+         <TopMargin HEIGHT="0" WIDTH="1775" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2706" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2706" WIDTH="0" VPOS="0" HPOS="1775"/>
+         <BottomMargin HEIGHT="0" WIDTH="1775" VPOS="2706" HPOS="0"/>
+         <PrintSpace HEIGHT="2706" WIDTH="1775" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="1466"
+                       WIDTH="1092"
+                       VPOS="306"
+                       HPOS="410"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="410,306 1502,306 1502,1772 410,1772"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="412,360 416,360 446,360 476,356"
+                         HEIGHT="79"
+                         WIDTH="72"
+                         VPOS="296"
+                         HPOS="405">
+                  <String ID="string_tr_1_tl_1"
+                          HEIGHT="79"
+                          WIDTH="72"
+                          VPOS="296"
+                          HPOS="405"
+                          CONTENT="64"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="458,456 488,454 518,456 548,456 578,458 608,458 638,460 668,460 698,460 728,460 758,460 788,460 818,460 848,460 878,460 908,462 938,458 968,460 998,460 1028,460 1058,462 1088,462 1118,460 1148,460 1178,462 1208,460 1238,460 1268,460 1298,462 1328,462 1358,462 1388,464 1418,464 1444,464"
+                         HEIGHT="100"
+                         WIDTH="989"
+                         VPOS="389"
+                         HPOS="451">
+                  <String ID="string_tr_1_tl_2"
+                          HEIGHT="100"
+                          WIDTH="989"
+                          VPOS="389"
+                          HPOS="451"
+                          CONTENT="FORMULAIRE D'ADHESION."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="410,528 440,526 470,528 500,528 530,528 560,530 590,530 620,530 650,530 680,530 710,528 740,530 770,528 800,528 830,530 860,530 890,528 920,528 950,528 980,530 1010,530 1040,530 1070,530 1100,532 1130,530 1160,532 1190,530 1220,530 1250,532 1280,532 1310,530 1340,532 1370,532 1400,532 1430,532 1460,534 1490,536 1492,536"
+                         HEIGHT="107"
+                         WIDTH="1088"
+                         VPOS="472"
+                         HPOS="402">
+                  <String ID="string_tr_1_tl_3"
+                          HEIGHT="107"
+                          WIDTH="1088"
+                          VPOS="472"
+                          HPOS="402"
+                          CONTENT="A la Chambre de Commerce Britannique pour la Suisse,"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="1320,584 1350,586 1380,586 1410,588 1440,588 1458,588"
+                         HEIGHT="87"
+                         WIDTH="145"
+                         VPOS="540"
+                         HPOS="1312">
+                  <String ID="string_tr_1_tl_4"
+                          HEIGHT="87"
+                          WIDTH="145"
+                          VPOS="540"
+                          HPOS="1312"
+                          CONTENT="BALE."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="500,636 530,642 560,652 590,656 620,658 650,660 680,658 710,660 740,660 770,660 800,660 830,660 860,660 882,660"
+                         HEIGHT="141"
+                         WIDTH="389"
+                         VPOS="551"
+                         HPOS="491">
+                  <String ID="string_tr_1_tl_5"
+                          HEIGHT="141"
+                          WIDTH="389"
+                          VPOS="551"
+                          HPOS="491"
+                          CONTENT="soussigné, désir."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="984,660 1014,660 1044,660 1074,662 1104,662 1134,662 1164,662 1194,664 1224,662 1254,662 1284,664 1314,664 1344,662 1346,662"
+                         HEIGHT="101"
+                         WIDTH="368"
+                         VPOS="600"
+                         HPOS="976">
+                  <String ID="string_tr_1_tl_6"
+                          HEIGHT="101"
+                          WIDTH="368"
+                          VPOS="600"
+                          HPOS="976"
+                          CONTENT="devenir membre de la"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_7"
+                         BASELINE="478,680 508,680 538,680 568,680 570,680"
+                         HEIGHT="62"
+                         WIDTH="96"
+                         VPOS="635"
+                         HPOS="471">
+                  <String ID="string_tr_1_tl_7"
+                          HEIGHT="62"
+                          WIDTH="96"
+                          VPOS="635"
+                          HPOS="471"
+                          CONTENT="Nous"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_8"
+                         BASELINE="418,730 448,732 478,732 508,732 538,730 568,730 598,730 628,730 658,732 688,732 718,732 748,732 778,732 808,732 838,734 868,734 898,732 928,732 958,734 988,734 1018,734 1048,734 1078,734 1108,734 1138,736 1168,734 1198,736 1228,736 1258,736 1288,736 1318,736 1348,736 1378,736 1408,736 1438,736 1468,738 1494,736"
+                         HEIGHT="81"
+                         WIDTH="1083"
+                         VPOS="676"
+                         HPOS="410">
+                  <String ID="string_tr_1_tl_8"
+                          HEIGHT="81"
+                          WIDTH="1083"
+                          VPOS="676"
+                          HPOS="410"
+                          CONTENT="CHAMBRE DE COMMERCE BRITANNIQUE POUR LA SUISSE"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_9"
+                         BASELINE="422,784 452,782 482,784 512,784 542,784 572,784 602,784 632,784 662,786 692,786 722,786 752,786 782,784 812,786 842,786 872,786 902,786 932,786 962,786 992,786 1022,786 1052,786 1082,786 1112,786 1142,788 1172,788 1202,788 1232,788 1246,788"
+                         HEIGHT="89"
+                         WIDTH="829"
+                         VPOS="741"
+                         HPOS="414">
+                  <String ID="string_tr_1_tl_9"
+                          HEIGHT="89"
+                          WIDTH="829"
+                          VPOS="741"
+                          HPOS="414"
+                          CONTENT="et conformément aux articles des statuts déclar"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_10"
+                         BASELINE="1352,788 1382,790 1412,790 1442,790 1472,790 1502,788"
+                         HEIGHT="72"
+                         WIDTH="155"
+                         VPOS="750"
+                         HPOS="1344">
+                  <String ID="string_tr_1_tl_10"
+                          HEIGHT="72"
+                          WIDTH="155"
+                          VPOS="750"
+                          HPOS="1344"
+                          CONTENT="souscrire"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_11"
+                         BASELINE="416,828 446,828 476,830 506,828 536,828 566,828 596,830 626,830 656,830 686,830 716,830 746,830 776,830 806,830 836,830 866,830 882,828"
+                         HEIGHT="81"
+                         WIDTH="470"
+                         VPOS="785"
+                         HPOS="409">
+                  <String ID="string_tr_1_tl_11"
+                          HEIGHT="81"
+                          WIDTH="470"
+                          VPOS="785"
+                          HPOS="409"
+                          CONTENT="annuellement une somme de"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_12"
+                         BASELINE="652,880 682,884 708,884"
+                         HEIGHT="78"
+                         WIDTH="67"
+                         VPOS="838"
+                         HPOS="640">
+                  <String ID="string_tr_1_tl_12"
+                          HEIGHT="78"
+                          WIDTH="67"
+                          VPOS="838"
+                          HPOS="640"
+                          CONTENT="Fr."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_13"
+                         BASELINE="1046,884 1076,884 1106,884 1136,884 1166,886 1196,886 1226,886 1256,886 1276,886"
+                         HEIGHT="99"
+                         WIDTH="237"
+                         VPOS="819"
+                         HPOS="1037">
+                  <String ID="string_tr_1_tl_13"
+                          HEIGHT="99"
+                          WIDTH="237"
+                          VPOS="819"
+                          HPOS="1037"
+                          CONTENT="(argent suisse)"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_14"
+                         BASELINE="524,926 554,930 578,934 582,936 612,940 642,942 672,944 702,946 732,944 762,946 786,946"
+                         HEIGHT="111"
+                         WIDTH="271"
+                         VPOS="872"
+                         HPOS="513">
+                  <String ID="string_tr_1_tl_14"
+                          HEIGHT="111"
+                          WIDTH="271"
+                          VPOS="872"
+                          HPOS="513"
+                          CONTENT="je vous remet."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_15"
+                         BASELINE="424,946 426,946 456,944 486,942"
+                         HEIGHT="128"
+                         WIDTH="75"
+                         VPOS="858"
+                         HPOS="414">
+                  <String ID="string_tr_1_tl_15"
+                          HEIGHT="128"
+                          WIDTH="75"
+                          VPOS="858"
+                          HPOS="414"
+                          CONTENT="que"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_16"
+                         BASELINE="894,948 898,950 928,948 958,946 988,948 1018,946 1048,946 1078,948 1108,944 1138,946 1168,946 1198,946 1228,946 1258,948 1288,948 1318,948 1348,950 1378,950 1408,948 1438,948 1468,942"
+                         HEIGHT="90"
+                         WIDTH="578"
+                         VPOS="891"
+                         HPOS="887">
+                  <String ID="string_tr_1_tl_16"
+                          HEIGHT="90"
+                          WIDTH="578"
+                          VPOS="891"
+                          HPOS="887"
+                          CONTENT="par chèque — billets de banque¬"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_17"
+                         BASELINE="500,964 530,962 560,964 576,966"
+                         HEIGHT="48"
+                         WIDTH="82"
+                         VPOS="940"
+                         HPOS="491">
+                  <String ID="string_tr_1_tl_17"
+                          HEIGHT="48"
+                          WIDTH="82"
+                          VPOS="940"
+                          HPOS="491"
+                          CONTENT="nous"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_18"
+                         BASELINE="422,1006 452,1006 482,1006 512,1006 542,1006 572,1006 602,1008 632,1006 662,1004 692,1002 722,1004 734,1006 740,1006 770,1008 800,1008 830,1008 860,1010 890,1010 920,1010 950,1010 980,1010 1010,1010 1040,1010 1070,1008 1100,1010 1130,1010 1160,1010 1190,1010 1220,1010 1250,1010 1280,1010 1310,1012 1340,1012 1370,1012 1400,1012 1430,1012 1460,1012 1490,1012 1496,1012"
+                         HEIGHT="74"
+                         WIDTH="1079"
+                         VPOS="968"
+                         HPOS="414">
+                  <String ID="string_tr_1_tl_18"
+                          HEIGHT="74"
+                          WIDTH="1079"
+                          VPOS="968"
+                          HPOS="414"
+                          CONTENT="mandat postal - virement postal au Compte de chèques Bâle"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_19"
+                         BASELINE="772,1050 802,1050 830,1050"
+                         HEIGHT="45"
+                         WIDTH="62"
+                         VPOS="1023"
+                         HPOS="765">
+                  <String ID="string_tr_1_tl_19"
+                          HEIGHT="45"
+                          WIDTH="62"
+                          VPOS="1023"
+                          HPOS="765"
+                          CONTENT="ma"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_20"
+                         BASELINE="422,1064 452,1068 482,1066 512,1068 542,1068 572,1068 602,1070 632,1070 662,1070 692,1070 722,1068 744,1068"
+                         HEIGHT="88"
+                         WIDTH="327"
+                         VPOS="1017"
+                         HPOS="414">
+                  <String ID="string_tr_1_tl_20"
+                          HEIGHT="88"
+                          WIDTH="327"
+                          VPOS="1017"
+                          HPOS="414"
+                          CONTENT="5268, montant de"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_21"
+                         BASELINE="858,1066 888,1070 918,1072 948,1072 978,1072 1008,1072 1038,1072 1068,1072 1098,1072 1128,1072 1158,1074 1188,1074 1192,1074"
+                         HEIGHT="88"
+                         WIDTH="339"
+                         VPOS="1027"
+                         HPOS="850">
+                  <String ID="string_tr_1_tl_21"
+                          HEIGHT="88"
+                          WIDTH="339"
+                          VPOS="1027"
+                          HPOS="850"
+                          CONTENT="cotisation pour 1923."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_22"
+                         BASELINE="762,1094 792,1092 822,1094 844,1094"
+                         HEIGHT="61"
+                         WIDTH="88"
+                         VPOS="1065"
+                         HPOS="753">
+                  <String ID="string_tr_1_tl_22"
+                          HEIGHT="61"
+                          WIDTH="88"
+                          VPOS="1065"
+                          HPOS="753"
+                          CONTENT="notre"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_23"
+                         BASELINE="772,1174 802,1176 832,1176 862,1176 892,1178 922,1178 952,1178 982,1178 1012,1178 1042,1178 1072,1178 1102,1176 1132,1174 1138,1174"
+                         HEIGHT="57"
+                         WIDTH="371"
+                         VPOS="1132"
+                         HPOS="765">
+                  <String ID="string_tr_1_tl_23"
+                          HEIGHT="57"
+                          WIDTH="371"
+                          VPOS="1132"
+                          HPOS="765"
+                          CONTENT="RENSEIGNEMENTS"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_24"
+                         BASELINE="546,1210 574,1214 604,1214 634,1216 664,1216 694,1218 724,1218 754,1218 784,1218 814,1218 844,1218 874,1218 904,1220 934,1220 964,1220 994,1220 1024,1220 1054,1218 1084,1220 1114,1220 1144,1220 1174,1220 1204,1220 1234,1220 1264,1218 1294,1218 1324,1218 1354,1218 1368,1218"
+                         HEIGHT="88"
+                         WIDTH="826"
+                         VPOS="1147"
+                         HPOS="539">
+                  <String ID="string_tr_1_tl_24"
+                          HEIGHT="88"
+                          WIDTH="826"
+                          VPOS="1147"
+                          HPOS="539"
+                          CONTENT="POUR L'ÉTABLISSEMENT DE NOS FICHES"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_25"
+                         BASELINE="416,1274 446,1272 476,1274 506,1274 520,1276"
+                         HEIGHT="82"
+                         WIDTH="111"
+                         VPOS="1212"
+                         HPOS="407">
+                  <String ID="string_tr_1_tl_25"
+                          HEIGHT="82"
+                          WIDTH="111"
+                          VPOS="1212"
+                          HPOS="407"
+                          CONTENT="Nom"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_26"
+                         BASELINE="1048,1276 1078,1276 1108,1276 1138,1276 1168,1276 1198,1278 1228,1278 1236,1278"
+                         HEIGHT="60"
+                         WIDTH="192"
+                         VPOS="1240"
+                         HPOS="1041">
+                  <String ID="string_tr_1_tl_26"
+                          HEIGHT="60"
+                          WIDTH="192"
+                          VPOS="1240"
+                          HPOS="1041"
+                          CONTENT="Nationalité"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_27"
+                         BASELINE="418,1328 434,1328 464,1326 494,1326 524,1326 554,1326 584,1328 614,1328 644,1328 674,1326"
+                         HEIGHT="85"
+                         WIDTH="260"
+                         VPOS="1282"
+                         HPOS="410">
+                  <String ID="string_tr_1_tl_27"
+                          HEIGHT="85"
+                          WIDTH="260"
+                          VPOS="1282"
+                          HPOS="410"
+                          CONTENT="Adresse exacte"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_28"
+                         BASELINE="416,1436 446,1436 476,1436 506,1436 536,1436 566,1436 596,1436 626,1438 656,1438 686,1438 716,1438 746,1438 776,1438 780,1438"
+                         HEIGHT="68"
+                         WIDTH="370"
+                         VPOS="1397"
+                         HPOS="407">
+                  <String ID="string_tr_1_tl_28"
+                          HEIGHT="68"
+                          WIDTH="370"
+                          VPOS="1397"
+                          HPOS="407"
+                          CONTENT="Adresse télégraphique"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_29"
+                         BASELINE="1054,1438 1084,1438 1114,1440 1144,1438 1174,1440 1204,1440 1234,1440 1264,1440 1294,1440 1324,1440 1354,1438"
+                         HEIGHT="72"
+                         WIDTH="305"
+                         VPOS="1393"
+                         HPOS="1046">
+                  <String ID="string_tr_1_tl_29"
+                          HEIGHT="72"
+                          WIDTH="305"
+                          VPOS="1393"
+                          HPOS="1046"
+                          CONTENT="Codes employés."/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_31"
+                         BASELINE="424,1486 454,1488 484,1490 514,1490 544,1490 574,1490 604,1490 634,1490 664,1490 694,1492 724,1492 754,1492 762,1490"
+                         HEIGHT="66"
+                         WIDTH="342"
+                         VPOS="1446"
+                         HPOS="416">
+                  <String ID="string_tr_1_tl_31"
+                          HEIGHT="66"
+                          WIDTH="342"
+                          VPOS="1446"
+                          HPOS="416"
+                          CONTENT="Numéro du téléphone"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_32"
+                         BASELINE="866,1492 896,1492 926,1492 956,1492 986,1492 1016,1492 1046,1492 1076,1492 1106,1494 1136,1494 1166,1494 1196,1494 1226,1494 1256,1494 1286,1494 1316,1494 1346,1494 1376,1494 1398,1494"
+                         HEIGHT="62"
+                         WIDTH="536"
+                         VPOS="1447"
+                         HPOS="858">
+                  <String ID="string_tr_1_tl_32"
+                          HEIGHT="62"
+                          WIDTH="536"
+                          VPOS="1447"
+                          HPOS="858"
+                          CONTENT="Correspondance désirée en langues"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_33"
+                         BASELINE="420,1538 450,1542 480,1542 510,1544 540,1542 570,1544 600,1544 630,1544 660,1544 690,1544 720,1544 750,1546 780,1546 810,1546 840,1544 870,1546 900,1546 930,1548 960,1548 990,1546 1020,1546 1050,1546 1080,1546 1110,1546 1140,1548 1170,1548 1184,1548"
+                         HEIGHT="77"
+                         WIDTH="767"
+                         VPOS="1493"
+                         HPOS="413">
+                  <String ID="string_tr_1_tl_33"
+                          HEIGHT="77"
+                          WIDTH="767"
+                          VPOS="1493"
+                          HPOS="413"
+                          CONTENT="Noms et adresses des Agents en Grande-Bretagne"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_34"
+                         BASELINE="420,1648 450,1650 480,1650 510,1650 540,1650 570,1650 600,1650 630,1652 660,1652 690,1652 720,1652 750,1652 780,1652 810,1654 840,1652 870,1654 900,1654 930,1654 960,1654 990,1654 1020,1654 1050,1654 1080,1654 1110,1656 1140,1656 1170,1656 1200,1656 1230,1656 1236,1656"
+                         HEIGHT="78"
+                         WIDTH="821"
+                         VPOS="1610"
+                         HPOS="412">
+                  <String ID="string_tr_1_tl_34"
+                          HEIGHT="78"
+                          WIDTH="821"
+                          VPOS="1610"
+                          HPOS="412"
+                          CONTENT="Genre de Commerce (Fabricant, Marchand, Agent)"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_35"
+                         BASELINE="422,1704 452,1702 482,1704 512,1704 542,1704 572,1704 602,1704 632,1704 662,1706 692,1706 722,1706 752,1706 782,1706 812,1706 840,1706"
+                         HEIGHT="63"
+                         WIDTH="423"
+                         VPOS="1668"
+                         HPOS="414">
+                  <String ID="string_tr_1_tl_35"
+                          HEIGHT="63"
+                          WIDTH="423"
+                          VPOS="1668"
+                          HPOS="414"
+                          CONTENT="Nature des marchandises"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_36"
+                         BASELINE="416,1754 446,1756 476,1758 506,1758 536,1758 566,1758 596,1758 626,1758 656,1760 686,1760 716,1758 746,1760 776,1760 806,1762 836,1762 840,1762"
+                         HEIGHT="80"
+                         WIDTH="430"
+                         VPOS="1718"
+                         HPOS="407">
+                  <String ID="string_tr_1_tl_36"
+                          HEIGHT="80"
+                          WIDTH="430"
+                          VPOS="1718"
+                          HPOS="407"
+                          CONTENT="Remarques et suggestions"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="tr_2"
+                       HEIGHT="346"
+                       WIDTH="1078"
+                       VPOS="1858"
+                       HPOS="416"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="416,1858 1494,1858 1494,2204 416,2204"/>
+               </Shape>
+               <TextLine ID="tr_2_tl_1"
+                         BASELINE="416,1908 446,1912 476,1912 506,1912 536,1912 566,1912 596,1912 626,1912 656,1912 686,1912 716,1914 746,1914 776,1914"
+                         HEIGHT="113"
+                         WIDTH="366"
+                         VPOS="1828"
+                         HPOS="407">
+                  <String ID="string_tr_2_tl_1"
+                          HEIGHT="113"
+                          WIDTH="366"
+                          VPOS="1828"
+                          HPOS="407"
+                          CONTENT="Timbre de la maison:"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_2"
+                         BASELINE="688,1954 718,1958 748,1958 778,1958 808,1958 838,1960 856,1960"
+                         HEIGHT="65"
+                         WIDTH="172"
+                         VPOS="1921"
+                         HPOS="681">
+                  <String ID="string_tr_2_tl_2"
+                          HEIGHT="65"
+                          WIDTH="172"
+                          VPOS="1921"
+                          HPOS="681"
+                          CONTENT="Signature:"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_3"
+                         BASELINE="1046,2012 1076,2014 1094,2014"
+                         HEIGHT="99"
+                         WIDTH="57"
+                         VPOS="1928"
+                         HPOS="1034">
+                  <String ID="string_tr_2_tl_3"
+                          HEIGHT="99"
+                          WIDTH="57"
+                          VPOS="1928"
+                          HPOS="1034"
+                          CONTENT="le"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_4"
+                         BASELINE="1388,2014 1418,2014 1448,2014 1478,2014 1494,2014"
+                         HEIGHT="103"
+                         WIDTH="109"
+                         VPOS="1936"
+                         HPOS="1381">
+                  <String ID="string_tr_2_tl_4"
+                          HEIGHT="103"
+                          WIDTH="109"
+                          VPOS="1936"
+                          HPOS="1381"
+                          CONTENT="1933."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_5"
+                         BASELINE="430,2038 460,2044 490,2044 520,2046 550,2046 580,2046 610,2048 640,2048 670,2048 700,2048 730,2048 760,2048 790,2048 820,2048 848,2050"
+                         HEIGHT="98"
+                         WIDTH="424"
+                         VPOS="1987"
+                         HPOS="422">
+                  <String ID="string_tr_2_tl_5"
+                          HEIGHT="98"
+                          WIDTH="424"
+                          VPOS="1987"
+                          HPOS="422"
+                          CONTENT="Biffer ce qui ne convient pas."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_6"
+                         BASELINE="424,2106 454,2108 484,2110 510,2108"
+                         HEIGHT="59"
+                         WIDTH="91"
+                         VPOS="2075"
+                         HPOS="417">
+                  <String ID="string_tr_2_tl_6"
+                          HEIGHT="59"
+                          WIDTH="91"
+                          VPOS="2075"
+                          HPOS="417"
+                          CONTENT="N.B."/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_7"
+                         BASELINE="558,2108 588,2110 618,2110 648,2110 678,2110 708,2110 738,2108 768,2110 798,2110 828,2110 858,2110 888,2112 918,2112 948,2110 978,2112 1008,2110 1038,2110 1068,2110 1098,2110 1128,2112 1158,2112 1188,2114 1218,2112 1248,2112 1278,2114 1308,2114 1338,2112 1368,2114 1398,2114 1428,2114 1458,2114 1488,2112 1494,2114"
+                         HEIGHT="43"
+                         WIDTH="939"
+                         VPOS="2078"
+                         HPOS="551">
+                  <String ID="string_tr_2_tl_7"
+                          HEIGHT="43"
+                          WIDTH="939"
+                          VPOS="2078"
+                          HPOS="551"
+                          CONTENT="Pour la Suisse et l'Etranger, la cotisation annuelle des membres"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_8"
+                         BASELINE="556,2136 586,2136 616,2136 646,2136 676,2138 706,2138 736,2138 766,2138 796,2138 826,2138 856,2138 886,2138 916,2138 946,2138 976,2138 1006,2138 1036,2136 1066,2138 1096,2136 1126,2138 1156,2138 1186,2138 1216,2140 1246,2140 1276,2140 1306,2138 1336,2138 1366,2140 1396,2142 1426,2140 1456,2140 1480,2138"
+                         HEIGHT="33"
+                         WIDTH="929"
+                         VPOS="2115"
+                         HPOS="548">
+                  <String ID="string_tr_2_tl_8"
+                          HEIGHT="33"
+                          WIDTH="929"
+                          VPOS="2115"
+                          HPOS="548"
+                          CONTENT="de la Chambre de Commerce a été fixée de Fr. 100 Fr. 500.-"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_9"
+                         BASELINE="558,2164 588,2164 618,2162 648,2164 678,2162 708,2162 738,2164 768,2166 798,2164 828,2166 858,2164 888,2164 918,2164 948,2166 978,2166 1008,2166 1038,2166 1068,2166 1098,2166 1128,2168 1158,2168 1188,2166 1218,2168 1248,2168 1278,2168 1308,2168 1338,2168 1368,2168 1398,2168 1428,2168 1458,2168 1488,2168 1494,2168"
+                         HEIGHT="72"
+                         WIDTH="939"
+                         VPOS="2140"
+                         HPOS="551">
+                  <String ID="string_tr_2_tl_9"
+                          HEIGHT="72"
+                          WIDTH="939"
+                          VPOS="2140"
+                          HPOS="551"
+                          CONTENT="largent suisse), chaque souscripteur fixant lui-même le montant"/>
+               </TextLine>
+               <TextLine ID="tr_2_tl_10"
+                         BASELINE="556,2192 586,2190 616,2192 646,2192 676,2192 706,2192 736,2192 766,2192 796,2194"
+                         HEIGHT="64"
+                         WIDTH="244"
+                         VPOS="2167"
+                         HPOS="548">
+                  <String ID="string_tr_2_tl_10"
+                          HEIGHT="64"
+                          WIDTH="244"
+                          VPOS="2167"
+                          HPOS="548"
+                          CONTENT="de sa cotisation."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

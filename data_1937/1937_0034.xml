@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>tradin_9960590510105504_1937_57 seiten-0034.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2023-03-23T12:00:07.1+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2737" WIDTH="1806">
+         <TopMargin HEIGHT="0" WIDTH="1806" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2737" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2737" WIDTH="0" VPOS="0" HPOS="1806"/>
+         <BottomMargin HEIGHT="0" WIDTH="1806" VPOS="2737" HPOS="0"/>
+         <PrintSpace HEIGHT="2737" WIDTH="1806" VPOS="0" HPOS="0">
+            <TextBlock ID="TextRegion_1675545560528_56743"
+                       HEIGHT="78"
+                       WIDTH="1240"
+                       VPOS="363"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,363 1588,363 1588,441 348,441"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675545542543_56668_tl_1"
+                         BASELINE="426,428 456,428 486,430 516,430 546,432 576,432 606,432 636,430 666,432 696,434 726,434 756,434 786,436 806,438"
+                         HEIGHT="84"
+                         WIDTH="384"
+                         VPOS="372"
+                         HPOS="419">
+                  <String ID="string_TextRegion_1675545542543_56668_tl_1"
+                          HEIGHT="84"
+                          WIDTH="384"
+                          VPOS="372"
+                          HPOS="419"
+                          CONTENT="Steel Manufacturers  Steel Manufacturers  Steel Manufacturers  Steel Manufacturers"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545560528_56742"
+                       HEIGHT="184"
+                       WIDTH="1240"
+                       VPOS="441"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,441 1588,441 1588,625 348,625"/>
+               </Shape>
+               <TextLine ID="TextRegion_1675545542543_56668_tl_2"
+                         BASELINE="494,514 524,514 554,514 584,514 614,516 644,516 674,518 704,518 734,518 764,518 794,520 824,520 854,520 884,522 914,522 944,522 974,522 1004,522 1034,522 1064,524 1094,524 1124,526 1154,524"
+                         HEIGHT="32"
+                         WIDTH="665"
+                         VPOS="492"
+                         HPOS="486">
+                  <String ID="string_TextRegion_1675545542543_56668_tl_2"
+                          HEIGHT="32"
+                          WIDTH="665"
+                          VPOS="492"
+                          HPOS="486"
+                          CONTENT="Sheffield; Agents in Switzerland:"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675545542543_56668_tl_3"
+                         BASELINE="1196,526 1226,526 1256,526 1286,526 1316,528 1346,530 1376,530 1406,528 1436,528 1466,528 1488,528"
+                         HEIGHT="59"
+                         WIDTH="296"
+                         VPOS="490"
+                         HPOS="1189">
+                  <String ID="string_TextRegion_1675545542543_56668_tl_3"
+                          HEIGHT="59"
+                          WIDTH="296"
+                          VPOS="490"
+                          HPOS="1189"
+                          CONTENT="Firth-Stahl-Ver¬"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675545542543_56668_tl_4"
+                         BASELINE="496,550 526,550 556,550 586,552 616,550 646,552 676,554 706,554 736,554 766,554 796,554 826,554 856,554 886,556 916,556 946,558 976,558 1006,558 1036,560 1066,560 1096,560 1126,560 1156,560 1186,562 1216,560 1246,562 1276,564 1306,564 1336,564 1366,564 1396,566 1426,566 1456,566 1486,570 1492,570"
+                         HEIGHT="73"
+                         WIDTH="1001"
+                         VPOS="523"
+                         HPOS="488">
+                  <String ID="string_TextRegion_1675545542543_56668_tl_4"
+                          HEIGHT="73"
+                          WIDTH="1001"
+                          VPOS="523"
+                          HPOS="488"
+                          CONTENT="kaufs-Aktiengesellschaft, 51, Höschgasse, Zurich 8:"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675545542543_56668_tl_5"
+                         BASELINE="494,586 524,586 554,586 584,588 614,588 644,588 674,588 704,590 734,590 764,590 794,590 824,590 854,592 884,592 914,592 944,592 974,592 1004,592 1034,594 1064,594 1094,596 1124,596 1154,598 1184,596 1214,596 1244,598 1264,598"
+                         HEIGHT="74"
+                         WIDTH="775"
+                         VPOS="557"
+                         HPOS="486">
+                  <String ID="string_TextRegion_1675545542543_56668_tl_5"
+                          HEIGHT="74"
+                          WIDTH="775"
+                          VPOS="557"
+                          HPOS="486"
+                          CONTENT="Phone 24.955, Telegrams « Firth, Zurich."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545559687_56738"
+                       HEIGHT="53"
+                       WIDTH="1240"
+                       VPOS="625"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,625 1588,625 1588,678 348,678"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545558995_56734"
+                       HEIGHT="132"
+                       WIDTH="1240"
+                       VPOS="678"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,678 1588,678 1588,810 348,810"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545557857_56730"
+                       HEIGHT="69"
+                       WIDTH="1240"
+                       VPOS="810"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,810 1588,810 1588,879 348,879"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545557199_56726"
+                       HEIGHT="95"
+                       WIDTH="1240"
+                       VPOS="879"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,879 1588,879 1588,974 348,974"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545556374_56722"
+                       HEIGHT="67"
+                       WIDTH="1240"
+                       VPOS="974"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,974 1588,974 1588,1041 348,1041"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545555788_56718"
+                       HEIGHT="108"
+                       WIDTH="1240"
+                       VPOS="1041"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1041 1588,1041 1588,1149 348,1149"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545552893_56712"
+                       HEIGHT="55"
+                       WIDTH="1240"
+                       VPOS="1149"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1149 1588,1149 1588,1204 348,1204"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545551903_56708"
+                       HEIGHT="114"
+                       WIDTH="1240"
+                       VPOS="1204"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1204 1588,1204 1588,1318 348,1318"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545550148_56704"
+                       HEIGHT="60"
+                       WIDTH="1240"
+                       VPOS="1318"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1318 1588,1318 1588,1378 348,1378"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545549639_56700"
+                       HEIGHT="92"
+                       WIDTH="1240"
+                       VPOS="1378"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1378 1588,1378 1588,1470 348,1470"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545548738_56696"
+                       HEIGHT="73"
+                       WIDTH="1240"
+                       VPOS="1470"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1470 1588,1470 1588,1543 348,1543"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545548108_56692"
+                       HEIGHT="125"
+                       WIDTH="1240"
+                       VPOS="1543"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1543 1588,1543 1588,1668 348,1668"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545547268_56688"
+                       HEIGHT="80"
+                       WIDTH="1240"
+                       VPOS="1668"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1668 1588,1668 1588,1748 348,1748"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545546533_56684"
+                       HEIGHT="148"
+                       WIDTH="1240"
+                       VPOS="1748"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1748 1588,1748 1588,1896 348,1896"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545545408_56680"
+                       HEIGHT="64"
+                       WIDTH="1240"
+                       VPOS="1896"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1896 1588,1896 1588,1960 348,1960"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545544852_56676"
+                       HEIGHT="83"
+                       WIDTH="1240"
+                       VPOS="1960"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,1960 1588,1960 1588,2043 348,2043"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545543681_56672"
+                       HEIGHT="119"
+                       WIDTH="1240"
+                       VPOS="2043"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,2043 1588,2043 1588,2162 348,2162"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="TextRegion_1675545542543_56668"
+                       HEIGHT="230"
+                       WIDTH="1240"
+                       VPOS="2162"
+                       HPOS="348"
+                       LANG="">
+               <Shape>
+                  <Polygon POINTS="348,2162 1588,2162 1588,2392 348,2392"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
