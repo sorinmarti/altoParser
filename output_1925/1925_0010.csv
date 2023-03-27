@@ -1,49 +1,49 @@
-transcription	headline_list_match	headline_list_item	headline_list_result	year	page	range_definition
-Burckhardt & Co.	True	INDEX	INDEX	1925	10	alphabetical
-Burditt (G. F.) & Co. 11, 22, 25.	True	INDEX	INDEX	1925	10	alphabetical
-Burgauer (Max)	True	INDEX	INDEX	1925	10	alphabetical
-Buser & Keiser & Co., Ltd. 19, 31, 37	True	INDEX	INDEX	1925	10	alphabetical
-Calico Printers Association, Ltd.	True	INDEX	INDEX	1925	10	alphabetical
-Canadian Pacific Railway Co. 17, 27, 28, 36	True	INDEX	INDEX	1925	10	alphabetical
-Carey (Aimée)	True	INDEX	INDEX	1925	10	alphabetical
-Chamber of Commerce, London	True	INDEX	INDEX	1925	10	alphabetical
-Chappell, Allen & Co., Ltd.	True	INDEX	INDEX	1925	10	alphabetical
-Chemical Works Flora	True	INDEX	INDEX	1925	10	alphabetical
-Chemische Fabrik vorm. Sando¬ 4,7 13, 27	True	INDEX	INDEX	1925	10	alphabetical
-Chocolats de Villars, S.A.	True	INDEX	INDEX	1925	10	alphabetical
-Church Street Manufacturing Co., Ltd. 18, 25	True	INDEX	INDEX	1925	10	alphabetical
-Clavel (A.) & Lindenmeyer (F.	True	INDEX	INDEX	1925	10	alphabetical
-Clay (Chas.) & Sons, Ltd.	True	INDEX	INDEX	1925	10	alphabetical
-Clayton Aniline Co., Ltd. 4, 7, 13	True	INDEX	INDEX	1925	10	alphabetical
-Coal Supply Co., Ltd. 89	True	INDEX	INDEX	1925	10	alphabetical
-Coate (C. P.) 12, 19, 26.	True	INDEX	INDEX	1925	10	alphabetical
-Comptoir d'Escompte de Genève	True	INDEX	INDEX	1925	10	alphabetical
-Cook (Thos.) & Son 36 5.17	True	INDEX	INDEX	1925	10	alphabetical
-Courvoisier (L.) & Cie.	True	INDEX	INDEX	1925	10	alphabetical
-Cox (W. T.) & Co.	True	INDEX	INDEX	1925	10	alphabetical
-Croal Spinning Co. (1920), Ltd. 11, 33	True	INDEX	INDEX	1925	10	alphabetical
-Crow & Co., Ltd. 11, 17, 21, 28, 29, 31, 36	True	INDEX	INDEX	1925	10	alphabetical
-Cunard Steamship Co., Ltd. 6, 32, 36	True	INDEX	INDEX	1925	10	alphabetical
-Danzas & Co., A. G. 17, 21, 28, 31, 36, 38	True	INDEX	INDEX	1925	10	alphabetical
-Dayaram Sadhumal	True	INDEX	INDEX	1925	10	alphabetical
-Dean & Co. (Stockport) Ltd.	True	INDEX	INDEX	1925	10	alphabetical
-De Bary & Co., Ltd.	True	INDEX	INDEX	1925	10	alphabetical
-De Brunner & Lang Sims	True	INDEX	INDEX	1925	10	alphabetical
-Deuss (L. W.	True	INDEX	INDEX	1925	10	alphabetical
-Dickinson (R. W. 825.	True	INDEX	INDEX	1925	10	alphabetical
-Dietschy, Heusler & Co., A. G.	True	INDEX	INDEX	1925	10	alphabetical
-Ditisheim (Paul) S. A.	True	INDEX	INDEX	1925	10	alphabetical
-Doetsch, Grether & Co., A. G.	True	INDEX	INDEX	1925	10	alphabetical
-Doll (Edouard) & Cie.	True	INDEX	INDEX	1925	10	alphabetical
-Dominion Express Co. of Canada 5, 16, 17, 28, 31	True	INDEX	INDEX	1925	10	alphabetical
-Donzelot & Cie. 15. 35.	True	INDEX	INDEX	1925	10	alphabetical
-Dubied (Edouard) & Cie., S. A	True	INDEX	INDEX	1925	10	alphabetical
-Durand & Huguenin, A. G. 79, 13	True	INDEX	INDEX	1925	10	alphabetical
-Egli (H. W.) S. A.	True	INDEX	INDEX	1925	10	alphabetical
-Eigeldinger (A.) Fils	True	INDEX	INDEX	1925	10	alphabetical
-„Electra Electric Heating & Cooking Apparatus	True	INDEX	INDEX	1925	10	alphabetical
-Escher, Wyss & Co., A. G. 26. 29, 31.	True	INDEX	INDEX	1925	10	alphabetical
-Fabrique de Cadres & Baguettes, S. A.	True	INDEX	INDEX	1925	10	alphabetical
-Fankhauser (F.) & Co., S. A. 4, 15, 20, 22.	True	INDEX	INDEX	1925	10	alphabetical
-Fine Cotton Spinners & Doublers Association, Ltd.	True	INDEX	INDEX	1925	10	alphabetical
-Firth (Thos.) & Sons, Ltd. 16, 17, 29. 33, 34	True	INDEX	INDEX	1925	10	alphabetical
+transcription	year	page	range_definition	page_number_pattern_match	page_number_pattern_item	page_number_pattern_result
+Burckhardt & Co.	1925	10	alphabetical			
+Burditt (G. F.) & Co. 11, 22, 25.	1925	10	alphabetical			
+Burgauer (Max)	1925	10	alphabetical			
+Buser & Keiser & Co., Ltd. 19, 31, 37	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	19, 31, 37
+Calico Printers Association, Ltd.	1925	10	alphabetical			
+Canadian Pacific Railway Co. 17, 27, 28, 36	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17, 27, 28, 36
+Carey (Aimée)	1925	10	alphabetical			
+Chamber of Commerce, London	1925	10	alphabetical			
+Chappell, Allen & Co., Ltd.	1925	10	alphabetical			
+Chemical Works Flora	1925	10	alphabetical			
+Chemische Fabrik vorm. Sando¬ 4,7 13, 27	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	4,7 13, 27
+Chocolats de Villars, S.A.	1925	10	alphabetical			
+Church Street Manufacturing Co., Ltd. 18, 25	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	18, 25
+Clavel (A.) & Lindenmeyer (F.	1925	10	alphabetical			
+Clay (Chas.) & Sons, Ltd.	1925	10	alphabetical			
+Clayton Aniline Co., Ltd. 4, 7, 13	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	4, 7, 13
+Coal Supply Co., Ltd. 89	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	89
+Coate (C. P.) 12, 19, 26.	1925	10	alphabetical			
+Comptoir d'Escompte de Genève	1925	10	alphabetical			
+Cook (Thos.) & Son 36 5.17	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17
+Courvoisier (L.) & Cie.	1925	10	alphabetical			
+Cox (W. T.) & Co.	1925	10	alphabetical			
+Croal Spinning Co. (1920), Ltd. 11, 33	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 33
+Crow & Co., Ltd. 11, 17, 21, 28, 29, 31, 36	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 17, 21, 28, 29, 31, 36
+Cunard Steamship Co., Ltd. 6, 32, 36	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	6, 32, 36
+Danzas & Co., A. G. 17, 21, 28, 31, 36, 38	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17, 21, 28, 31, 36, 38
+Dayaram Sadhumal	1925	10	alphabetical			
+Dean & Co. (Stockport) Ltd.	1925	10	alphabetical			
+De Bary & Co., Ltd.	1925	10	alphabetical			
+De Brunner & Lang Sims	1925	10	alphabetical			
+Deuss (L. W.	1925	10	alphabetical			
+Dickinson (R. W. 825.	1925	10	alphabetical			
+Dietschy, Heusler & Co., A. G.	1925	10	alphabetical			
+Ditisheim (Paul) S. A.	1925	10	alphabetical			
+Doetsch, Grether & Co., A. G.	1925	10	alphabetical			
+Doll (Edouard) & Cie.	1925	10	alphabetical			
+Dominion Express Co. of Canada 5, 16, 17, 28, 31	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	5, 16, 17, 28, 31
+Donzelot & Cie. 15. 35.	1925	10	alphabetical			
+Dubied (Edouard) & Cie., S. A	1925	10	alphabetical			
+Durand & Huguenin, A. G. 79, 13	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	79, 13
+Egli (H. W.) S. A.	1925	10	alphabetical			
+Eigeldinger (A.) Fils	1925	10	alphabetical			
+„Electra Electric Heating & Cooking Apparatus	1925	10	alphabetical			
+Escher, Wyss & Co., A. G. 26. 29, 31.	1925	10	alphabetical			
+Fabrique de Cadres & Baguettes, S. A.	1925	10	alphabetical			
+Fankhauser (F.) & Co., S. A. 4, 15, 20, 22.	1925	10	alphabetical			
+Fine Cotton Spinners & Doublers Association, Ltd.	1925	10	alphabetical			
+Firth (Thos.) & Sons, Ltd. 16, 17, 29. 33, 34	1925	10	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	33, 34

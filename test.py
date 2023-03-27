@@ -58,7 +58,7 @@ import os
 companies = readcsv('meta/companies.csv')
 companies_list = sorted(companies, key=len, reverse=True)
 
-textt = "Aktiengesellschaft vorm. B. Siegfried (drugs & sundries), Zofingen."
+textt = "Kasper & Co., Science Applications, Zofingen."
 searcher = SearchHelper("company")
 searcher.set_search_list(companies_list)
 searcher.set_pattern_list(["[Cc]astle [Mm]ills", "(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)"])

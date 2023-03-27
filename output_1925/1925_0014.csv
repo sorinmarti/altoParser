@@ -1,39 +1,39 @@
-transcription	headline_list_match	headline_list_item	headline_list_result	year	page	range_definition
-Swiss Hotel Proprietors Association	True	INDEX	INDEX	1925	14	alphabetical
-Swiss Silk Bolting Cloth Manufacturing Co., Ltd.	True	INDEX	INDEX	1925	14	alphabetical
-Schenkel-Wyss (Fr.) 3, 4, 5, 19, 24, 25, 26, 28, 29, 30, 32, 33, 34,35	True	INDEX	INDEX	1925	14	alphabetical
-Schetty (Färbereien) A. G. 13.	True	INDEX	INDEX	1925	14	alphabetical
-Schindler & Co. 11, 14, 15, 24.	True	INDEX	INDEX	1925	14	alphabetical
-Schlatter (Max) & Co.	True	INDEX	INDEX	1925	14	alphabetical
-Schwarzenbach (R.) & Co.	True	INDEX	INDEX	1925	14	alphabetical
-Schweiter, Ltd.	True	INDEX	INDEX	1925	14	alphabetical
-Schweizerische Rückversicherungsgesellschaft	True	INDEX	INDEX	1925	14	alphabetical
-Schweizerische Schleppschiffahrtsgenossenschaft 17,29, 36	True	INDEX	INDEX	1925	14	alphabetical
-Taylor (Stephen)	True	INDEX	INDEX	1925	14	alphabetical
-Thomann, Arbenz & Co. 10	True	INDEX	INDEX	1925	14	alphabetical
-Thorens (Hermann) 3, 23, 25.	True	INDEX	INDEX	1925	14	alphabetical
-Thornton (G. W.) & Co., Ltd.	True	INDEX	INDEX	1925	14	alphabetical
-Thornton (W.) 29	True	INDEX	INDEX	1925	14	alphabetical
-Thurneysen & Co., S. A.	True	INDEX	INDEX	1925	14	alphabetical
-Tissage Mécanique d'Etoffes de Soie	True	INDEX	INDEX	1925	14	alphabetical
-Total Broadhurst Lee Co., Ltd.	True	INDEX	INDEX	1925	14	alphabetical
-Trüdinger & Cons., Ltd.	True	INDEX	INDEX	1925	14	alphabetical
-Uhlmann-Eyraud (F.), S. A. 20	True	INDEX	INDEX	1925	14	alphabetical
-Union Bank of Switzerland	True	INDEX	INDEX	1925	14	alphabetical
-Usines de L'Allondon	True	INDEX	INDEX	1925	14	alphabetical
-Usines Métallurgiques de Vallorbe 16, 18, 34	True	INDEX	INDEX	1925	14	alphabetical
-Véron (J.), Grauer & Cie.	True	INDEX	INDEX	1925	14	alphabetical
-Vischer & Co.	True	INDEX	INDEX	1925	14	alphabetical
-Vischer vorm. Paravicini, A. G.	True	INDEX	INDEX	1925	14	alphabetical
-Volkart Brothers 9, 10, 16	True	INDEX	INDEX	1925	14	alphabetical
-Wallinger & Coate	True	INDEX	INDEX	1925	14	alphabetical
-Weith & Co. 10, 12, 18, 19	True	INDEX	INDEX	1925	14	alphabetical
-Weitnauer (Ernst) & Co.	True	INDEX	INDEX	1925	14	alphabetical
-Winandy & Co. 9, 28, 34	True	INDEX	INDEX	1925	14	alphabetical
-Winkler, Fallert & Co., S. A. 24	True	INDEX	INDEX	1925	14	alphabetical
-Winterbottom Book cloth Co., Ltd. 6. 22	True	INDEX	INDEX	1925	14	alphabetical
-Wirth & Co. 11, 14	True	INDEX	INDEX	1925	14	alphabetical
-Wyler (Lucien)	True	INDEX	INDEX	1925	14	alphabetical
-Young (C.E.).	True	INDEX	INDEX	1925	14	alphabetical
-Zuberbühler & Co., A. G. 6, 11, 15, 18, 23, 30	True	INDEX	INDEX	1925	14	alphabetical
-Zürcher Brothers & Co. 15, 18, 25	True	INDEX	INDEX	1925	14	alphabetical
+transcription	year	page	range_definition	page_number_pattern_match	page_number_pattern_item	page_number_pattern_result
+Swiss Hotel Proprietors Association	1925	14	alphabetical			
+Swiss Silk Bolting Cloth Manufacturing Co., Ltd.	1925	14	alphabetical			
+Schenkel-Wyss (Fr.) 3, 4, 5, 19, 24, 25, 26, 28, 29, 30, 32, 33, 34,35	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	3, 4, 5, 19, 24, 25, 26, 28, 29, 30, 32, 33, 34,35
+Schetty (Färbereien) A. G. 13.	1925	14	alphabetical			
+Schindler & Co. 11, 14, 15, 24.	1925	14	alphabetical			
+Schlatter (Max) & Co.	1925	14	alphabetical			
+Schwarzenbach (R.) & Co.	1925	14	alphabetical			
+Schweiter, Ltd.	1925	14	alphabetical			
+Schweizerische Rückversicherungsgesellschaft	1925	14	alphabetical			
+Schweizerische Schleppschiffahrtsgenossenschaft 17,29, 36	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17,29, 36
+Taylor (Stephen)	1925	14	alphabetical			
+Thomann, Arbenz & Co. 10	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10
+Thorens (Hermann) 3, 23, 25.	1925	14	alphabetical			
+Thornton (G. W.) & Co., Ltd.	1925	14	alphabetical			
+Thornton (W.) 29	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	29
+Thurneysen & Co., S. A.	1925	14	alphabetical			
+Tissage Mécanique d'Etoffes de Soie	1925	14	alphabetical			
+Total Broadhurst Lee Co., Ltd.	1925	14	alphabetical			
+Trüdinger & Cons., Ltd.	1925	14	alphabetical			
+Uhlmann-Eyraud (F.), S. A. 20	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	20
+Union Bank of Switzerland	1925	14	alphabetical			
+Usines de L'Allondon	1925	14	alphabetical			
+Usines Métallurgiques de Vallorbe 16, 18, 34	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	16, 18, 34
+Véron (J.), Grauer & Cie.	1925	14	alphabetical			
+Vischer & Co.	1925	14	alphabetical			
+Vischer vorm. Paravicini, A. G.	1925	14	alphabetical			
+Volkart Brothers 9, 10, 16	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	9, 10, 16
+Wallinger & Coate	1925	14	alphabetical			
+Weith & Co. 10, 12, 18, 19	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10, 12, 18, 19
+Weitnauer (Ernst) & Co.	1925	14	alphabetical			
+Winandy & Co. 9, 28, 34	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	9, 28, 34
+Winkler, Fallert & Co., S. A. 24	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	24
+Winterbottom Book cloth Co., Ltd. 6. 22	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	22
+Wirth & Co. 11, 14	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 14
+Wyler (Lucien)	1925	14	alphabetical			
+Young (C.E.).	1925	14	alphabetical			
+Zuberbühler & Co., A. G. 6, 11, 15, 18, 23, 30	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	6, 11, 15, 18, 23, 30
+Zürcher Brothers & Co. 15, 18, 25	1925	14	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	15, 18, 25

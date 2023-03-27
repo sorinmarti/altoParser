@@ -1,47 +1,47 @@
-transcription	headline_list_match	headline_list_item	headline_list_result	year	page	range_definition
-Jan & Cie. 3, 12, 25	True	INDEX	INDEX	1925	12	alphabetical
-Jenson & Nicholson, Ltd. 15, 26, 37	True	INDEX	INDEX	1925	12	alphabetical
-Junod Frères 12, 18, 22, 39	True	INDEX	INDEX	1925	12	alphabetical
-Kappeler (G.) 13	True	INDEX	INDEX	1925	12	alphabetical
-Keel (V.) & Co., Ltd. 22	True	INDEX	INDEX	1925	12	alphabetical
-Keller (Ed. A.) & Co., Ltd.	True	INDEX	INDEX	1925	12	alphabetical
-Kemp (Arthur)	True	INDEX	INDEX	1925	12	alphabetical
-Kohler (L.) 12, 21.	True	INDEX	INDEX	1925	12	alphabetical
-Kreis & Co.	True	INDEX	INDEX	1925	12	alphabetical
-Laboratoires Castolin, Wassermann & Co. 5, 7, 32	True	INDEX	INDEX	1925	12	alphabetical
-Landis & Gyr. A. G. 24	True	INDEX	INDEX	1925	12	alphabetical
-Laurens (Ed.) S. A., "Le Khedive	True	INDEX	INDEX	1925	12	alphabetical
-Lausanne-Palace Hotel, Lausanne	True	INDEX	INDEX	1925	12	alphabetical
-Leisen fils (A. van).	True	INDEX	INDEX	1925	12	alphabetical
-Lep Transport & Depository, Ltd. 17, 27, 31, 36	True	INDEX	INDEX	1925	12	alphabetical
-Lloyds & National Provincial Foreign Bank, Ltd.	True	INDEX	INDEX	1925	12	alphabetical
-Loewengreen (W.)	True	INDEX	INDEX	1925	12	alphabetical
-Lovell & Christmas, Ltd.	True	INDEX	INDEX	1925	12	alphabetical
-Mabie, Tod & Co. 17, 21	True	INDEX	INDEX	1925	12	alphabetical
-Macintosh (Chas.) & Co., Ltd. 19, 25, 29, 30, 32, 37, 38	True	INDEX	INDEX	1925	12	alphabetical
-Magnetos Lucifer, S. A. 13	True	INDEX	INDEX	1925	12	alphabetical
-Mahler & Sichel 38	True	INDEX	INDEX	1925	12	alphabetical
-Maillefer (Les Fils d'Auguste) 12	True	INDEX	INDEX	1925	12	alphabetical
-Mappin & Webb, Ltd. 12, 14, 18, 22, 23, 32	True	INDEX	INDEX	1925	12	alphabetical
-Marland Spinning Co., Ltd. 11, 33	True	INDEX	INDEX	1925	12	alphabetical
-Marx (J.) & Co., S. A. 32	True	INDEX	INDEX	1925	12	alphabetical
-Mather (Walter) & Co., Ltd. 14, 25	True	INDEX	INDEX	1925	12	alphabetical
-Merkle & Co.	True	INDEX	INDEX	1925	12	alphabetical
-Meyer (G. A.) & Co. 15.	True	INDEX	INDEX	1925	12	alphabetical
-Meyer (Johannes) & Co.	True	INDEX	INDEX	1925	12	alphabetical
-Michoud (Georges S. A. 16, 17, 23.	True	INDEX	INDEX	1925	12	alphabetical
-Mühlethaler (Th.) S. A. 7.27	True	INDEX	INDEX	1925	12	alphabetical
-Nabholz Co., Ltd., (Knitting Works).	True	INDEX	INDEX	1925	12	alphabetical
-Naef (E.) (Seidenwarenfabrik vorm.), A. G.	True	INDEX	INDEX	1925	12	alphabetical
-Nardin (Ulysse)	True	INDEX	INDEX	1925	12	alphabetical
-Neher (R. V.) A. G.	True	INDEX	INDEX	1925	12	alphabetical
-Nestlé & Anglo-Swiss Condensed Milk Co. 8, 9, 17, 21, 24	True	INDEX	INDEX	1925	12	alphabetical
-Neuburger & Co. 18.	True	INDEX	INDEX	1925	12	alphabetical
-North British Rubber Co., Ltd. 30.	True	INDEX	INDEX	1925	12	alphabetical
-Northern Assurance Co., Ltd.	True	INDEX	INDEX	1925	12	alphabetical
-Nova Knitting Works, Siegrist & Co. 8. 22	True	INDEX	INDEX	1925	12	alphabetical
-Omega Watch Co., Louis Brandt & Frère S. A.	True	INDEX	INDEX	1925	12	alphabetical
-Oswald (E.)	True	INDEX	INDEX	1925	12	alphabetical
-Pape (A. F.)	True	INDEX	INDEX	1925	12	alphabetical
-Penton (E.) & Son	True	INDEX	INDEX	1925	12	alphabetical
-Perrin & Co. 11, 17, 21, 29, 31, 32, 36, 38	True	INDEX	INDEX	1925	12	alphabetical
+transcription	page_number_pattern_match	page_number_pattern_item	page_number_pattern_result	year	page	range_definition
+Jan & Cie. 3, 12, 25	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	3, 12, 25	1925	12	alphabetical
+Jenson & Nicholson, Ltd. 15, 26, 37	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	15, 26, 37	1925	12	alphabetical
+Junod Frères 12, 18, 22, 39	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	12, 18, 22, 39	1925	12	alphabetical
+Kappeler (G.) 13	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	13	1925	12	alphabetical
+Keel (V.) & Co., Ltd. 22	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	22	1925	12	alphabetical
+Keller (Ed. A.) & Co., Ltd.				1925	12	alphabetical
+Kemp (Arthur)				1925	12	alphabetical
+Kohler (L.) 12, 21.				1925	12	alphabetical
+Kreis & Co.				1925	12	alphabetical
+Laboratoires Castolin, Wassermann & Co. 5, 7, 32	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	5, 7, 32	1925	12	alphabetical
+Landis & Gyr. A. G. 24	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	24	1925	12	alphabetical
+Laurens (Ed.) S. A., "Le Khedive				1925	12	alphabetical
+Lausanne-Palace Hotel, Lausanne				1925	12	alphabetical
+Leisen fils (A. van).				1925	12	alphabetical
+Lep Transport & Depository, Ltd. 17, 27, 31, 36	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17, 27, 31, 36	1925	12	alphabetical
+Lloyds & National Provincial Foreign Bank, Ltd.				1925	12	alphabetical
+Loewengreen (W.)				1925	12	alphabetical
+Lovell & Christmas, Ltd.				1925	12	alphabetical
+Mabie, Tod & Co. 17, 21	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17, 21	1925	12	alphabetical
+Macintosh (Chas.) & Co., Ltd. 19, 25, 29, 30, 32, 37, 38	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	19, 25, 29, 30, 32, 37, 38	1925	12	alphabetical
+Magnetos Lucifer, S. A. 13	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	13	1925	12	alphabetical
+Mahler & Sichel 38	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	38	1925	12	alphabetical
+Maillefer (Les Fils d'Auguste) 12	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	12	1925	12	alphabetical
+Mappin & Webb, Ltd. 12, 14, 18, 22, 23, 32	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	12, 14, 18, 22, 23, 32	1925	12	alphabetical
+Marland Spinning Co., Ltd. 11, 33	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 33	1925	12	alphabetical
+Marx (J.) & Co., S. A. 32	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	32	1925	12	alphabetical
+Mather (Walter) & Co., Ltd. 14, 25	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	14, 25	1925	12	alphabetical
+Merkle & Co.				1925	12	alphabetical
+Meyer (G. A.) & Co. 15.				1925	12	alphabetical
+Meyer (Johannes) & Co.				1925	12	alphabetical
+Michoud (Georges S. A. 16, 17, 23.				1925	12	alphabetical
+Mühlethaler (Th.) S. A. 7.27	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	27	1925	12	alphabetical
+Nabholz Co., Ltd., (Knitting Works).				1925	12	alphabetical
+Naef (E.) (Seidenwarenfabrik vorm.), A. G.				1925	12	alphabetical
+Nardin (Ulysse)				1925	12	alphabetical
+Neher (R. V.) A. G.				1925	12	alphabetical
+Nestlé & Anglo-Swiss Condensed Milk Co. 8, 9, 17, 21, 24	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	8, 9, 17, 21, 24	1925	12	alphabetical
+Neuburger & Co. 18.				1925	12	alphabetical
+North British Rubber Co., Ltd. 30.				1925	12	alphabetical
+Northern Assurance Co., Ltd.				1925	12	alphabetical
+Nova Knitting Works, Siegrist & Co. 8. 22	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	22	1925	12	alphabetical
+Omega Watch Co., Louis Brandt & Frère S. A.				1925	12	alphabetical
+Oswald (E.)				1925	12	alphabetical
+Pape (A. F.)				1925	12	alphabetical
+Penton (E.) & Son				1925	12	alphabetical
+Perrin & Co. 11, 17, 21, 29, 31, 32, 36, 38	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 17, 21, 29, 31, 32, 36, 38	1925	12	alphabetical

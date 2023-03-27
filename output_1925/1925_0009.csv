@@ -1,45 +1,45 @@
-transcription	headline_list_match	headline_list_item	headline_list_result	year	page	range_definition
-INDEX	True	INDEX	INDEX	1925	9	alphabetical
-15, 20, 36, 38, 40 Ackroyd Brothers	True	INDEX	INDEX	1925	9	alphabetical
-Adams (Thomas Ltd. 10, 11, 15, 18, 19, 20, 22, 26, 35, 37, 38	True	INDEX	INDEX	1925	9	alphabetical
-8, 19, 26, 34, Adler (Ernst)	True	INDEX	INDEX	1925	9	alphabetical
-Aerni-Leuch (Ed.)	True	INDEX	INDEX	1925	9	alphabetical
-10 Albrecht, Tobler & Co., S. A.	True	INDEX	INDEX	1925	9	alphabetical
-Allemann-Hug (C.)	True	INDEX	INDEX	1925	9	alphabetical
-Alpina Cheese Co., Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-Alther & Guex	True	INDEX	INDEX	1925	9	alphabetical
-Anglo-Continental & International Offices, Lausanne	True	INDEX	INDEX	1925	9	alphabetical
-Anglo-Swiss Educational Agency	True	INDEX	INDEX	1925	9	alphabetical
-Appenzeller, Wettstein & Co.	True	INDEX	INDEX	1925	9	alphabetical
-Ashton Brothers & Co., Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-Audemars, Piguet & Co., Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-14 Bächtold & Co.	True	INDEX	INDEX	1925	9	alphabetical
-Baer (Henry) & Co.	True	INDEX	INDEX	1925	9	alphabetical
-Balfour (Arthur) & Co., Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-Bally Shoe Factories, Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-- Bank A. G. Guyerzeller	True	INDEX	INDEX	1925	9	alphabetical
-Banque Fédérale, S. A., Vevey	True	INDEX	INDEX	1925	9	alphabetical
-Barclays Bank, Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-3, 13, 21, 22, 23, 26, 33, 35, Barnett (D.)	True	INDEX	INDEX	1925	9	alphabetical
-Basle Celluloid Manufactures, Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-Basle Warehouse Co., Ltd. 11, 17, 21, 28, 31, 36	True	INDEX	INDEX	1925	9	alphabetical
-Baumann älter & Co., A. G., vorm.	True	INDEX	INDEX	1925	9	alphabetical
-Baumgartner (Victor	True	INDEX	INDEX	1925	9	alphabetical
-Beacon Spinning Co., Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-10, 18, Behrens (Louis & Sons	True	INDEX	INDEX	1925	9	alphabetical
-Berlinger & Co.	True	INDEX	INDEX	1925	9	alphabetical
-Berna Fabrique d'Automobiles) S. A. 4,9, 16, 23,25, 26, 28,3	True	INDEX	INDEX	1925	9	alphabetical
-Bigar Frères	True	INDEX	INDEX	1925	9	alphabetical
-Bircher (E. & E. M.)	True	INDEX	INDEX	1925	9	alphabetical
-Birkhäuser (Emil) & Cie.	True	INDEX	INDEX	1925	9	alphabetical
-Bleachers Association, Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-Bloch (S. J.) Sohn & Co.	True	INDEX	INDEX	1925	9	alphabetical
-8, 12, 19, 26, 29, 32 Bonnard & Cie., S. A.	True	INDEX	INDEX	1925	9	alphabetical
-Brandt (Louis & Frère, S. A.	True	INDEX	INDEX	1925	9	alphabetical
-15.37 Brenner (Rod.) & Co.	True	INDEX	INDEX	1925	9	alphabetical
-British American Tobacco Co., Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-British Cycle & Motor Cycle Manufacturers & Traders Union 5, 12, 15, 23, 25 Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-34 British Tanners, Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-29, 34, 36 Brown Bayley's Steel Works, Ltd.	True	INDEX	INDEX	1925	9	alphabetical
-14, 18, 31, 33 Brown, Boveri & Co., A. G.	True	INDEX	INDEX	1925	9	alphabetical
-11, 14 Bücheler & Co.	True	INDEX	INDEX	1925	9	alphabetical
+transcription	headline_list_match	headline_list_item	headline_list_result	year	page	range_definition	page_number_pattern_match	page_number_pattern_item	page_number_pattern_result
+INDEX	True	INDEX	INDEX	1925	9	alphabetical			
+15, 20, 36, 38, 40 Ackroyd Brothers				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	15, 20, 36, 38, 40
+Adams (Thomas Ltd. 10, 11, 15, 18, 19, 20, 22, 26, 35, 37, 38				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10, 11, 15, 18, 19, 20, 22, 26, 35, 37, 38
+8, 19, 26, 34, Adler (Ernst)				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	8, 19, 26, 34
+Aerni-Leuch (Ed.)				1925	9	alphabetical			
+10 Albrecht, Tobler & Co., S. A.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10
+Allemann-Hug (C.)				1925	9	alphabetical			
+Alpina Cheese Co., Ltd.				1925	9	alphabetical			
+Alther & Guex				1925	9	alphabetical			
+Anglo-Continental & International Offices, Lausanne				1925	9	alphabetical			
+Anglo-Swiss Educational Agency				1925	9	alphabetical			
+Appenzeller, Wettstein & Co.				1925	9	alphabetical			
+Ashton Brothers & Co., Ltd.				1925	9	alphabetical			
+Audemars, Piguet & Co., Ltd.				1925	9	alphabetical			
+14 Bächtold & Co.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	14
+Baer (Henry) & Co.				1925	9	alphabetical			
+Balfour (Arthur) & Co., Ltd.				1925	9	alphabetical			
+Bally Shoe Factories, Ltd.				1925	9	alphabetical			
+- Bank A. G. Guyerzeller				1925	9	alphabetical			
+Banque Fédérale, S. A., Vevey				1925	9	alphabetical			
+Barclays Bank, Ltd.				1925	9	alphabetical			
+3, 13, 21, 22, 23, 26, 33, 35, Barnett (D.)				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	3, 13, 21, 22, 23, 26, 33, 35
+Basle Celluloid Manufactures, Ltd.				1925	9	alphabetical			
+Basle Warehouse Co., Ltd. 11, 17, 21, 28, 31, 36				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 17, 21, 28, 31, 36
+Baumann älter & Co., A. G., vorm.				1925	9	alphabetical			
+Baumgartner (Victor				1925	9	alphabetical			
+Beacon Spinning Co., Ltd.				1925	9	alphabetical			
+10, 18, Behrens (Louis & Sons				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10, 18
+Berlinger & Co.				1925	9	alphabetical			
+Berna Fabrique d'Automobiles) S. A. 4,9, 16, 23,25, 26, 28,3				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	4,9, 16, 23,25, 26, 28,3
+Bigar Frères				1925	9	alphabetical			
+Bircher (E. & E. M.)				1925	9	alphabetical			
+Birkhäuser (Emil) & Cie.				1925	9	alphabetical			
+Bleachers Association, Ltd.				1925	9	alphabetical			
+Bloch (S. J.) Sohn & Co.				1925	9	alphabetical			
+8, 12, 19, 26, 29, 32 Bonnard & Cie., S. A.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	8, 12, 19, 26, 29, 32
+Brandt (Louis & Frère, S. A.				1925	9	alphabetical			
+15.37 Brenner (Rod.) & Co.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	15
+British American Tobacco Co., Ltd.				1925	9	alphabetical			
+British Cycle & Motor Cycle Manufacturers & Traders Union 5, 12, 15, 23, 25 Ltd.				1925	9	alphabetical			
+34 British Tanners, Ltd.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	34
+29, 34, 36 Brown Bayley's Steel Works, Ltd.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	29, 34, 36
+14, 18, 31, 33 Brown, Boveri & Co., A. G.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	14, 18, 31, 33
+11, 14 Bücheler & Co.				1925	9	alphabetical	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 14

@@ -1,50 +1,50 @@
-transcription	headline_list_match	headline_list_item	headline_list_result	year	page	range_definition
-5, 6, 20, 21, 27, 28, 32, 36 Galland & Co.	True	INDEX	INDEX	1925	11	alphabetical
-3. 12, Gattiker & Steinmann	True	INDEX	INDEX	1925	11	alphabetical
-10, 32, Geering & Co.	True	INDEX	INDEX	1925	11	alphabetical
-4. 13, Geigy (J. R.) A. G.	True	INDEX	INDEX	1925	11	alphabetical
-Gelatinefabrik (Winterthur)	True	INDEX	INDEX	1925	11	alphabetical
-Gesellschaft für Bandfabrikation	True	INDEX	INDEX	1925	11	alphabetical
-17, 21, Gesellschaft der L. von Roll'schen Eisenwerke	True	INDEX	INDEX	1925	11	alphabetical
-Golay Sons & Stahl, Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-3, 20, Goodbehere Brothers	True	INDEX	INDEX	1925	11	alphabetical
-Goshawk (H. F.)	True	INDEX	INDEX	1925	11	alphabetical
-11, 17, 21, 28, 31, 36, Goth & Co.	True	INDEX	INDEX	1925	11	alphabetical
-Grand Hôtel & Hôtel des Alpes, Montreux-Territet	True	INDEX	INDEX	1925	11	alphabetical
-Green (Herbert) & Co., Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-10, 11, 24, 33, 40 Greenhalgh & Shaw, Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-10, 11, 33, Greg (R.) & Co., Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-Grenfell (John Granville) 6, 8, 10, 19, 23	True	INDEX	INDEX	1925	11	alphabetical
-Grieder & Co.	True	INDEX	INDEX	1925	11	alphabetical
-8, 12, Groot (H. de) "Maison Albion"	True	INDEX	INDEX	1925	11	alphabetical
-18, 38, Guggenheim (A. H.) S. A.	True	INDEX	INDEX	1925	11	alphabetical
-19, 23, 35, Hall (Robert) & Sons (Bury) Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-Handschin & Ronus, Ltd., Hanro Knitting Works	True	INDEX	INDEX	1925	11	alphabetical
-Hasler, A. G., vorm. Telegraphenwerkstätte von G. Hasler 29	True	INDEX	INDEX	1925	11	alphabetical
-Heather Mills Co.	True	INDEX	INDEX	1925	11	alphabetical
-Hemming (Richard) & Son	True	INDEX	INDEX	1925	11	alphabetical
-11, 12, 35, 37 Henry (A. & S.) & Co., Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-"Hermes, Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-12, 21, 22, 27. Herren & Guerchet.	True	INDEX	INDEX	1925	11	alphabetical
-Herz (Max)	True	INDEX	INDEX	1925	11	alphabetical
-20 Hibbert (Robert).	True	INDEX	INDEX	1925	11	alphabetical
-Higgins, Eagle & Co., Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-Hirter (J.) & Co.	True	INDEX	INDEX	1925	11	alphabetical
-Hochuli & Co.	True	INDEX	INDEX	1925	11	alphabetical
-Hoffmann (F.) La Roche & Co., A. G.	True	INDEX	INDEX	1925	11	alphabetical
-Hooley Hill Rubber & Chemical Co.	True	INDEX	INDEX	1925	11	alphabetical
-15.20, 32. Hopf (J.) & Co.	True	INDEX	INDEX	1925	11	alphabetical
-Hotel Schweizerhof, Lucerne	True	INDEX	INDEX	1925	11	alphabetical
-Hotel Seiler, Zermatt	True	INDEX	INDEX	1925	11	alphabetical
-Hotel St. Gotthard, Zurich	True	INDEX	INDEX	1925	11	alphabetical
-Howe, Williams & Co., Ltd.	True	INDEX	INDEX	1925	11	alphabetical
-Huebel-Baudry (F. M.)	True	INDEX	INDEX	1925	11	alphabetical
-Hugentobler-Boden (E.)	True	INDEX	INDEX	1925	11	alphabetical
-13, 14, 34 Hughes (W. E.) & Co.	True	INDEX	INDEX	1925	11	alphabetical
-Huguenin, Gattiker & Co., A. G.	True	INDEX	INDEX	1925	11	alphabetical
-Hüssy & Co., A. G.	True	INDEX	INDEX	1925	11	alphabetical
-17, 28, 31 Im Obersteg (Charles) & Co.	True	INDEX	INDEX	1925	11	alphabetical
-Imprimerie de L'Ere Nouvelle	True	INDEX	INDEX	1925	11	alphabetical
-Industrie-Gesellschaft für Schappe	True	INDEX	INDEX	1925	11	alphabetical
-31. Jacky, Maeder & Co. 9, 20, 30, 35	True	INDEX	INDEX	1925	11	alphabetical
-Jaeger (O.)	True	INDEX	INDEX	1925	11	alphabetical
+transcription	page_number_pattern_match	page_number_pattern_item	page_number_pattern_result	year	page	range_definition
+5, 6, 20, 21, 27, 28, 32, 36 Galland & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	5, 6, 20, 21, 27, 28, 32, 36	1925	11	alphabetical
+3. 12, Gattiker & Steinmann	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	3	1925	11	alphabetical
+10, 32, Geering & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10, 32	1925	11	alphabetical
+4. 13, Geigy (J. R.) A. G.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	4	1925	11	alphabetical
+Gelatinefabrik (Winterthur)				1925	11	alphabetical
+Gesellschaft für Bandfabrikation				1925	11	alphabetical
+17, 21, Gesellschaft der L. von Roll'schen Eisenwerke	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17, 21	1925	11	alphabetical
+Golay Sons & Stahl, Ltd.				1925	11	alphabetical
+3, 20, Goodbehere Brothers	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	3, 20	1925	11	alphabetical
+Goshawk (H. F.)				1925	11	alphabetical
+11, 17, 21, 28, 31, 36, Goth & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 17, 21, 28, 31, 36	1925	11	alphabetical
+Grand Hôtel & Hôtel des Alpes, Montreux-Territet				1925	11	alphabetical
+Green (Herbert) & Co., Ltd.				1925	11	alphabetical
+10, 11, 24, 33, 40 Greenhalgh & Shaw, Ltd.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10, 11, 24, 33, 40	1925	11	alphabetical
+10, 11, 33, Greg (R.) & Co., Ltd.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	10, 11, 33	1925	11	alphabetical
+Grenfell (John Granville) 6, 8, 10, 19, 23	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	6, 8, 10, 19, 23	1925	11	alphabetical
+Grieder & Co.				1925	11	alphabetical
+8, 12, Groot (H. de) "Maison Albion"	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	8, 12	1925	11	alphabetical
+18, 38, Guggenheim (A. H.) S. A.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	18, 38	1925	11	alphabetical
+19, 23, 35, Hall (Robert) & Sons (Bury) Ltd.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	19, 23, 35	1925	11	alphabetical
+Handschin & Ronus, Ltd., Hanro Knitting Works				1925	11	alphabetical
+Hasler, A. G., vorm. Telegraphenwerkstätte von G. Hasler 29	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	29	1925	11	alphabetical
+Heather Mills Co.				1925	11	alphabetical
+Hemming (Richard) & Son				1925	11	alphabetical
+11, 12, 35, 37 Henry (A. & S.) & Co., Ltd.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 12, 35, 37	1925	11	alphabetical
+"Hermes, Ltd.				1925	11	alphabetical
+12, 21, 22, 27. Herren & Guerchet.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	12, 21, 22, 27	1925	11	alphabetical
+Herz (Max)				1925	11	alphabetical
+20 Hibbert (Robert).	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	20	1925	11	alphabetical
+Higgins, Eagle & Co., Ltd.				1925	11	alphabetical
+Hirter (J.) & Co.				1925	11	alphabetical
+Hochuli & Co.				1925	11	alphabetical
+Hoffmann (F.) La Roche & Co., A. G.				1925	11	alphabetical
+Hooley Hill Rubber & Chemical Co.				1925	11	alphabetical
+15.20, 32. Hopf (J.) & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	15	1925	11	alphabetical
+Hotel Schweizerhof, Lucerne				1925	11	alphabetical
+Hotel Seiler, Zermatt				1925	11	alphabetical
+Hotel St. Gotthard, Zurich				1925	11	alphabetical
+Howe, Williams & Co., Ltd.				1925	11	alphabetical
+Huebel-Baudry (F. M.)				1925	11	alphabetical
+Hugentobler-Boden (E.)				1925	11	alphabetical
+13, 14, 34 Hughes (W. E.) & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	13, 14, 34	1925	11	alphabetical
+Huguenin, Gattiker & Co., A. G.				1925	11	alphabetical
+Hüssy & Co., A. G.				1925	11	alphabetical
+17, 28, 31 Im Obersteg (Charles) & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	17, 28, 31	1925	11	alphabetical
+Imprimerie de L'Ere Nouvelle				1925	11	alphabetical
+Industrie-Gesellschaft für Schappe				1925	11	alphabetical
+31. Jacky, Maeder & Co. 9, 20, 30, 35	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	31	1925	11	alphabetical
+Jaeger (O.)				1925	11	alphabetical

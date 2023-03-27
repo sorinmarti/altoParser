@@ -1,48 +1,48 @@
-transcription	headline_list_match	headline_list_item	headline_list_result	year	page	range_definition
-8. Peter, Cailler, Kohler, S. A.	True	INDEX	INDEX	1925	13	alphabetical
-Pfaendler (E.) & Co. 13, 15, 31	True	INDEX	INDEX	1925	13	alphabetical
-Plantin & Cie.	True	INDEX	INDEX	1925	13	alphabetical
-21, 28, 36 Pro Lemano	True	INDEX	INDEX	1925	13	alphabetical
-16, 35, 40 Ramsden (James), Ltd.	True	INDEX	INDEX	1925	13	alphabetical
-Reichenbach & Co., Ltd.	True	INDEX	INDEX	1925	13	alphabetical
-Reinhart & Co.	True	INDEX	INDEX	1925	13	alphabetical
-Rinderknecht (J.)	True	INDEX	INDEX	1925	13	alphabetical
-Roneo, A. G.	True	INDEX	INDEX	1925	13	alphabetical
-23, 26 Roussy (Th.) "Librairie Anglaise	True	INDEX	INDEX	1925	13	alphabetical
-Royal Mail Steam Packet Co.	True	INDEX	INDEX	1925	13	alphabetical
-Ruegger & Co.	True	INDEX	INDEX	1925	13	alphabetical
-Ryff & Co., Ltd., Swan" Knitting Works	True	INDEX	INDEX	1925	13	alphabetical
-Sandoz Chemical Co., Ltd.	True	INDEX	INDEX	1925	13	alphabetical
-16, 21 Sandreuter & Co.	True	INDEX	INDEX	1925	13	alphabetical
-6, 7, 23, 28 Säuberlin & Pfeiffer, S. A. .	True	INDEX	INDEX	1925	13	alphabetical
-Sarasin Söhne, A. G.	True	INDEX	INDEX	1925	13	alphabetical
-Sarasin (Rodolphe) & Co., Ltd.	True	INDEX	INDEX	1925	13	alphabetical
-Sarasin (W.) & Co., Ltd.	True	INDEX	INDEX	1925	13	alphabetical
-4, 12, 14. Sauerstoff- und Wasserstoffwerk, A. G.	True	INDEX	INDEX	1925	13	alphabetical
-23, 24, Saurer (Adolphe) S. A.	True	INDEX	INDEX	1925	13	alphabetical
-6, 9, 26 Sauter (Fritz) A. G.	True	INDEX	INDEX	1925	13	alphabetical
-Seiler & Co., A. G.	True	INDEX	INDEX	1925	13	alphabetical
-Selve & Co. (Swiss Metal Works)	True	INDEX	INDEX	1925	13	alphabetical
-Senn & Co.	True	INDEX	INDEX	1925	13	alphabetical
-7, 13, 15 Siegfried (B.) Aktiengesellschaft vorm.	True	INDEX	INDEX	1925	13	alphabetical
-22. Siegrist (Gebrüder) & Co.	True	INDEX	INDEX	1925	13	alphabetical
-Sigg, Ltd.	True	INDEX	INDEX	1925	13	alphabetical
-"Simex Soc., Coop. 3, 9, 10, 16, 18.20, 28, 30, 33, 35	True	INDEX	INDEX	1925	13	alphabetical
-Simonius, Vischer & Co.	True	INDEX	INDEX	1925	13	alphabetical
-3, 20, 24, Skipworth (G. P.	True	INDEX	INDEX	1925	13	alphabetical
-Soc. An. des Aciéries ci-devant Georges Fischer 11, 24, 33,34, 37	True	INDEX	INDEX	1925	13	alphabetical
-Société Générale Arda, S. A.	True	INDEX	INDEX	1925	13	alphabetical
-Société des Hôteliers de Lausanne-Ouchy	True	INDEX	INDEX	1925	13	alphabetical
-Société Genevoise d'Instruments de Physique 14, 20, 21	True	INDEX	INDEX	1925	13	alphabetical
-4, 7 Society of Chemical Industry in Basle	True	INDEX	INDEX	1925	13	alphabetical
-Société industrielle pour la Schappe	True	INDEX	INDEX	1925	13	alphabetical
-Spyk (G. van)	True	INDEX	INDEX	1925	13	alphabetical
-Stehli & Co.	True	INDEX	INDEX	1925	13	alphabetical
-Still (W. M.) & Sons, Ltd. 89	True	INDEX	INDEX	1925	13	alphabetical
-Suchard, S. A.	True	INDEX	INDEX	1925	13	alphabetical
-Sulzer Frères, S. A. 6, 7, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21 24. 27, 28, 29, 33, 34	True	INDEX	INDEX	1925	13	alphabetical
-"Sunlight", Savonnerie	True	INDEX	INDEX	1925	13	alphabetical
-Swiss Aluminium Rolling Mills Trading Association, Ltd.	True	INDEX	INDEX	1925	13	alphabetical
-Swiss Bank Corporation, Basle	True	INDEX	INDEX	1925	13	alphabetical
-Swiss Bank Corporation, Lausanne	True	INDEX	INDEX	1925	13	alphabetical
-Swiss Gas Stove Co., and "Electra	True	INDEX	INDEX	1925	13	alphabetical
+transcription	page_number_pattern_match	page_number_pattern_item	page_number_pattern_result	year	page	range_definition
+8. Peter, Cailler, Kohler, S. A.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	8	1925	13	alphabetical
+Pfaendler (E.) & Co. 13, 15, 31	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	13, 15, 31	1925	13	alphabetical
+Plantin & Cie.				1925	13	alphabetical
+21, 28, 36 Pro Lemano	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	21, 28, 36	1925	13	alphabetical
+16, 35, 40 Ramsden (James), Ltd.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	16, 35, 40	1925	13	alphabetical
+Reichenbach & Co., Ltd.				1925	13	alphabetical
+Reinhart & Co.				1925	13	alphabetical
+Rinderknecht (J.)				1925	13	alphabetical
+Roneo, A. G.				1925	13	alphabetical
+23, 26 Roussy (Th.) "Librairie Anglaise	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	23, 26	1925	13	alphabetical
+Royal Mail Steam Packet Co.				1925	13	alphabetical
+Ruegger & Co.				1925	13	alphabetical
+Ryff & Co., Ltd., Swan" Knitting Works				1925	13	alphabetical
+Sandoz Chemical Co., Ltd.				1925	13	alphabetical
+16, 21 Sandreuter & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	16, 21	1925	13	alphabetical
+6, 7, 23, 28 Säuberlin & Pfeiffer, S. A. .	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	6, 7, 23, 28	1925	13	alphabetical
+Sarasin Söhne, A. G.				1925	13	alphabetical
+Sarasin (Rodolphe) & Co., Ltd.				1925	13	alphabetical
+Sarasin (W.) & Co., Ltd.				1925	13	alphabetical
+4, 12, 14. Sauerstoff- und Wasserstoffwerk, A. G.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	4, 12, 14	1925	13	alphabetical
+23, 24, Saurer (Adolphe) S. A.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	23, 24	1925	13	alphabetical
+6, 9, 26 Sauter (Fritz) A. G.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	6, 9, 26	1925	13	alphabetical
+Seiler & Co., A. G.				1925	13	alphabetical
+Selve & Co. (Swiss Metal Works)				1925	13	alphabetical
+Senn & Co.				1925	13	alphabetical
+7, 13, 15 Siegfried (B.) Aktiengesellschaft vorm.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	7, 13, 15	1925	13	alphabetical
+22. Siegrist (Gebrüder) & Co.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	22	1925	13	alphabetical
+Sigg, Ltd.				1925	13	alphabetical
+"Simex Soc., Coop. 3, 9, 10, 16, 18.20, 28, 30, 33, 35	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	20, 28, 30, 33, 35	1925	13	alphabetical
+Simonius, Vischer & Co.				1925	13	alphabetical
+3, 20, 24, Skipworth (G. P.	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	3, 20, 24	1925	13	alphabetical
+Soc. An. des Aciéries ci-devant Georges Fischer 11, 24, 33,34, 37	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	11, 24, 33,34, 37	1925	13	alphabetical
+Société Générale Arda, S. A.				1925	13	alphabetical
+Société des Hôteliers de Lausanne-Ouchy				1925	13	alphabetical
+Société Genevoise d'Instruments de Physique 14, 20, 21	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	14, 20, 21	1925	13	alphabetical
+4, 7 Society of Chemical Industry in Basle	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	4, 7	1925	13	alphabetical
+Société industrielle pour la Schappe				1925	13	alphabetical
+Spyk (G. van)				1925	13	alphabetical
+Stehli & Co.				1925	13	alphabetical
+Still (W. M.) & Sons, Ltd. 89	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	89	1925	13	alphabetical
+Suchard, S. A.				1925	13	alphabetical
+Sulzer Frères, S. A. 6, 7, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21 24. 27, 28, 29, 33, 34	True	(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})	27, 28, 29, 33, 34	1925	13	alphabetical
+"Sunlight", Savonnerie				1925	13	alphabetical
+Swiss Aluminium Rolling Mills Trading Association, Ltd.				1925	13	alphabetical
+Swiss Bank Corporation, Basle				1925	13	alphabetical
+Swiss Bank Corporation, Lausanne				1925	13	alphabetical
+Swiss Gas Stove Co., and "Electra				1925	13	alphabetical
