@@ -182,7 +182,8 @@ def parse_index_page(text, words):
         location_result = location_searcher.search_in_list(text)
         result = result | location_result
 
-        company_result = company_searcher.search(text, SearchHelper.LIST_BF_PATTERN)
+        company_result = company_searcher.search(text, SearchHelper.LIST_BF_PATTERN,
+                                                 matching_strategy=SearchHelper.MATCHING_STRATEGY_LONGEST)
         result = result | company_result
 
         goods_result = goods_searcher.search(text, SearchHelper.LIST_BF_PATTERN)

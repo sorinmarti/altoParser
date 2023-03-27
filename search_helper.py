@@ -6,6 +6,9 @@ class SearchHelper:
     PATTERN_BF_LIST = 1
     EXIT_AFTER_MATCH = False
 
+    MATCHING_STRATEGY_LONGEST = "longest_match"
+    MATCHING_STRATEGY_SHORTEST = "shortest_match"
+
     def __init__(self, name):
         self.name = name
         self.search_list = []
@@ -18,7 +21,8 @@ class SearchHelper:
     def set_pattern_list(self, pattern_list):
         self.pattern_list = pattern_list
 
-    def search(self, text, priority=LIST_BF_PATTERN, exit_after_match=EXIT_AFTER_MATCH):
+    def search(self, text, priority=LIST_BF_PATTERN, exit_after_match=EXIT_AFTER_MATCH,
+               matching_strategy=MATCHING_STRATEGY_LONGEST):
         self.result = {}
 
         if priority == self.LIST_BF_PATTERN:
@@ -37,14 +41,27 @@ class SearchHelper:
                 self.search_in_list(text, clear_data=False)
 
         # All searches have been done, check if there are multiple matches and return the best one
-        # The best match is the one with the longest string
         if self.name + "_list_match" in self.result and self.name + "_pattern_match" in self.result:
-            if len(self.result[self.name + "_pattern_result"]) > len(self.result[self.name + "_list_result"]):
-                self.result[self.name + "_best_match"] = self.result[self.name + "_pattern_result"]
-                self.result[self.name + "_best_match_type"] = "pattern"
-            else:
-                self.result[self.name + "_best_match"] = self.result[self.name + "_list_result"]
-                self.result[self.name + "_best_match_type"] = "list"
+            # Both search types found results: decide which is best
+            if matching_strategy == self.MATCHING_STRATEGY_LONGEST:
+                # Check which one is longer and set it as best match
+                if len(self.result[self.name + "_pattern_result"]) > len(self.result[self.name + "_list_result"]):
+                    self.result[self.name + "_best_match"] = self.result[self.name + "_pattern_result"]
+                    self.result[self.name + "_best_match_type"] = "pattern"
+                else:
+                    self.result[self.name + "_best_match"] = self.result[self.name + "_list_result"]
+                    self.result[self.name + "_best_match_type"] = "list"
+                self.result[self.name + "_best_match_strategy"] = self.MATCHING_STRATEGY_LONGEST
+
+            elif matching_strategy == self.MATCHING_STRATEGY_SHORTEST:
+                # Check which one is shorter and set it as best match
+                if len(self.result[self.name + "_pattern_result"]) < len(self.result[self.name + "_list_result"]):
+                    self.result[self.name + "_best_match"] = self.result[self.name + "_pattern_result"]
+                    self.result[self.name + "_best_match_type"] = "pattern"
+                else:
+                    self.result[self.name + "_best_match"] = self.result[self.name + "_list_result"]
+                    self.result[self.name + "_best_match_type"] = "list"
+                self.result[self.name + "_best_match_strategy"] = self.MATCHING_STRATEGY_SHORTEST
         return self.result
 
     def search_in_list(self, text, clear_data=True):
