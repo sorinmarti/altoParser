@@ -1,0 +1,20 @@
+transcription	company_pattern_match	company_pattern_item	company_pattern_result	goods_pattern_match	goods_pattern_item	goods_pattern_result	phone_number_pattern_match	phone_number_pattern_item	phone_number_pattern_result	telegraph_pattern_match	telegraph_pattern_item	telegraph_pattern_result	year	page	range_definition
+F. Uhlmann-Eyraud, S. A. (pharmaceutical products and perfume), 26-30, Boulevard de la Cluse, Geneva; (and at 45, Talacker, Zurich). Phone 42.316, Telegrams  at 45, Talacker, Zurich). Phone 42.316, Telegrams « Uhlmanneyraud », Genève.	True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	F. Uhlmann	True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(pharmaceutical products and perfume), 26-30, Boulevard de la Cluse, Geneva; (and at 45, Talacker, Zurich)	True	(Phone ([A-Z][a-z]{1,10} )?[0-9]{1,5}((\/|\.| )[0-9]{1,5})?|Phones [0-9]{1,5}.{1,8};|Phone « [A-Z][a-z]{1,10} » [0-9]{1,6}|Phone [A-Z][a-z]{1,10}, [0-9]{1,6})	Phone 42.316	True	((Telegrams|Tele¬ grams) « [A-Z][a-z].{1,25}[a-z] »|Telegrams « [A-Z][a-z].{1,25}[a-z](,| )|Telegrams [A-Z][a-z]{1,10})	Telegrams « Uhlmanneyraud »	1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index
+													1937	23	index

@@ -20,7 +20,7 @@ print(result)
 """
 import re
 
-from main_1925 import readcsv
+from main import readcsv
 
 """
 import re

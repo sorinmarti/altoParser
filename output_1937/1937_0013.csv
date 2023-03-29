@@ -1,0 +1,21 @@
+transcription	goods_pattern_match	goods_pattern_item	goods_pattern_result	year	page	range_definition	phone_number_pattern_match	phone_number_pattern_item	phone_number_pattern_result	telegraph_pattern_match	telegraph_pattern_item	telegraph_pattern_result
+Boots and shoes (Accessories)  Boots and shoes (Accessories)  Boots and shoes (Accessories)  Boots and shoes (Accessories)	True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(Accessories)  Boots and shoes (Accessories)  Boots and shoes (Accessories)  Boots and shoes (Accessories)	1937	13	index						
+Phone Central 2898 and Eccles 3174, Telegrams « Da¬  Phone Central 2898 and Eccles 3174, Telegrams « Da¬  Phone Central 2898 and Eccles 3174, Telegrams « Da¬ varnock », Manchester  varnock », Manchester (all classes and types of fabrics and linings for the shoe industry).	True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(all classes and types of fabrics and linings for the shoe industry)	1937	13	index	True	(Phone ([A-Z][a-z]{1,10} )?[0-9]{1,5}((\/|\.| )[0-9]{1,5})?|Phones [0-9]{1,5}.{1,8};|Phone « [A-Z][a-z]{1,10} » [0-9]{1,6}|Phone [A-Z][a-z]{1,10}, [0-9]{1,6})	Phone Central 2898	True	((Telegrams|Tele¬ grams) « [A-Z][a-z].{1,25}[a-z] »|Telegrams « [A-Z][a-z].{1,25}[a-z](,| )|Telegrams [A-Z][a-z]{1,10})	Telegrams « Da¬  Phone Central 2898 and
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						
+				1937	13	index						

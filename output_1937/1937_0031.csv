@@ -1,0 +1,21 @@
+transcription	goods_pattern_match	goods_pattern_item	goods_pattern_result	year	page	range_definition	location_list_match	location_list_item	location_list_result	phone_number_pattern_match	phone_number_pattern_item	phone_number_pattern_result	telegraph_pattern_match	telegraph_pattern_item	telegraph_pattern_result
+Sherries (dry and half dry)  Sherries (dry and half dry)  Sherries (dry and half dry)	True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(dry and half dry)  Sherries (dry and half dry)  Sherries (dry and half dry)	1937	31	index									
+Phone 4.96, Telegrams  Phone 4.96, Telegrams  Phone 4.96, Telegrams « Darphin», Zoug. — Agent General and sole conces¬ sionnaire in Switzerland for Sanchez Romate Hnos. S.A., Jerez de la Frontera.				1937	31	index	True	Zoug.	Zoug.	True	(Phone ([A-Z][a-z]{1,10} )?[0-9]{1,5}((\/|\.| )[0-9]{1,5})?|Phones [0-9]{1,5}.{1,8};|Phone « [A-Z][a-z]{1,10} » [0-9]{1,6}|Phone [A-Z][a-z]{1,10}, [0-9]{1,6})	Phone 4.96	True	((Telegrams|Tele¬ grams) « [A-Z][a-z].{1,25}[a-z] »|Telegrams « [A-Z][a-z].{1,25}[a-z](,| )|Telegrams [A-Z][a-z]{1,10})	Telegrams « Darphin», Zoug. — Agent
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									
+				1937	31	index									

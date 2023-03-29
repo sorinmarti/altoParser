@@ -1,0 +1,23 @@
+transcription	location_list_match	location_list_item	location_list_result	company_pattern_match	company_pattern_item	company_pattern_result	address_list_match	address_list_item	address_list_result	telegraph_pattern_match	telegraph_pattern_item	telegraph_pattern_result	year	page	range_definition
+Clayton Aniline Co., Ltd., Ashton New Road, Clayton,  Clayton Aniline Co., Ltd., Ashton New Road, Clayton,  Clayton Aniline Co., Ltd., Ashton New Road, Clayton,  Clayton Aniline Co., Ltd., Ashton New Road, Clayton,  Clayton Aniline Co., Ltd., Ashton New Road, Clayton, Manchester: Phone: East 1341-6, Telegrams « Ciba »,  Manchester: Phone: East 1341-6, Telegrams « Ciba »,  Manchester: Phone: East 1341-6, Telegrams « Ciba », Manchester.  Manchester.	True	Manchester.	Manchester.	True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	Clayton Aniline Co., Ltd.	True	Ashton New Road, Clayton	Ashton New Road, Clayton	True	((Telegrams|Tele¬ grams) « [A-Z][a-z].{1,25}[a-z] »|Telegrams « [A-Z][a-z].{1,25}[a-z](,| )|Telegrams [A-Z][a-z]{1,10})	Telegrams « Ciba »	1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
+													1937	11	index
