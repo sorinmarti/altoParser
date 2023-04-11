@@ -1,0 +1,71 @@
+{
+	 "transcription": {
+		"original": "Kalamazoo (Sales) Ltd., see page 123. (Cotton) Geneva 14. Rue de la Croix d'Or (Phone: 123-45-67)"
+	 },
+
+	 "date": {
+       "ref": "1922"
+     },
+
+	 "name": {
+		"transcription": "Kalamazoo (Sales) Ltd."
+	 },
+
+	 "structured_information": {
+		"address": [
+			{
+			"transcription": "Geneva 14. Rue de la Croix d'Or"
+			}
+		],
+		"phone": [
+			{
+				"transcription": "(Phone: 123-45-67)"
+			}
+	    ],
+		"sector": [
+			{
+				"transcription": "Cotton",
+				"category": "textiles"
+			},
+			{
+				"transcription": "Hoisery Manufacturer",
+				"inferred": true,
+				"category": "hoisery"
+			}
+
+		]
+	 }
+
+	 "locations": [
+		{
+			"scheme": "geonames.org",
+			"id": "2234456"
+			"label": "Geneva"
+		}
+	 ]
+
+	 "source": {
+		"id": "1922-19-??",
+		"collection": "http://link-to-collection.ch",
+		"title": "Swiss British...",
+		"selector": {
+			"page": "19",
+			"chapter": "Alphabetical Index",
+			"canvas": "https://???/default.jpg",
+			"fragment": "https://???/default.jpg"
+		  }
+     },
+	 "meta": {
+       "version": 1,
+       "generated": "NOW()",
+       "actions": [{
+          "actors": [
+            {
+              "id": "0000-0000-1234-1234",
+              "scheme": "ORCID",
+              "name": "Lea Kasper"
+            }],
+	   "summary": "Did something"
+	    }]
+
+ },
