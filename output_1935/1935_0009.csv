@@ -1,21 +1,21 @@
-transcription	year	page	range_definition	function_found	function	name_found	name	location_found	location	personal_title_found	personal_title
-The British Chamber of Commerce for Switzerland (inc.)	1935	9	board_member								
-Offices of the Chamber	1935	9	board_member								
-Hon. President:	1935	9	board_member	True	Hon. President						
-Sir Howard W. Kennard, K.C.M.G., His Britannic Majestys Minister to the Swiss Confederation.	1935	9	board_member								
-President:	1935	9	board_member	True	President						
-F. E. Crowe, Esq., O. B. E., Basle.	1935	9	board_member			True	F. E. Crowe	True	Basle.	True	Esq.
-Vice-Presidents :	1935	9	board_member	True	Vice-President						
-Maurice Galland, Esq., Lausanne.	1935	9	board_member					True	Lausanne.	True	Esq.
-Robert Hilbert, Esq., Basle.	1935	9	board_member					True	Basle.	True	Esq.
-Hon. Treasurer	1935	9	board_member	True	Hon. Treasurer						
-N. H. Hampton, Esq., Manager of Lloyds and National	1935	9	board_member			True	N. H. Hampton			True	Esq.
-Provincial Foreign Bank, Ltd., Geneva.	1935	9	board_member					True	Geneva.		
-Council	1935	9	board_member								
-D. Barnett, Esq., Geneva.	1935	9	board_member			True	D. Barnett	True	Geneva.	True	Esq.
-L. H. Bonnaire, Esq., Bienne.	1935	9	board_member			True	L. H. Bonnaire	True	Bienne.	True	Esq.
-W. F. Dickson, Esq., Zurich.	1935	9	board_member			True	W. F. Dickson	True	Zurich.	True	Esq.
-Jas. Easton, Esq., Zurich.	1935	9	board_member					True	Zurich.	True	Esq.
-G. E. Farr, Esq., Berne.	1935	9	board_member			True	G. E. Farr	True	Berne.	True	Esq.
-G. Hodson, Esq., Basle.	1935	9	board_member			True	G. Hodson	True	Basle.	True	Esq.
-S. Russell, Esq., Olten.	1935	9	board_member			True	S. Russell	True	Olten.	True	Esq.
+transcription	year	page	range_definition	function_pattern_match	function_pattern_item	function_pattern_result	profession_pattern_match	profession_pattern_item	profession_pattern_result	name_list_match	name_list_item	name_list_result	name_pattern_match	name_pattern_item	name_pattern_result	name_best_match	name_best_match_type	name_best_match_strategy	location_list_match	location_list_item	location_list_result	personal_titles_list_match	personal_titles_list_item	personal_titles_list_result	board_title_pattern_match	board_title_pattern_item	board_title_pattern_result
+The British Chamber of Commerce for Switzerland (inc.)	1935	9	board_member																								
+Offices of the Chamber	1935	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Offices of the Chamber																					
+Hon. President:	1935	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. President																					
+Sir Howard W. Kennard, K.C.M.G., His Britannic Majestys Minister to the Swiss Confederation.	1935	9	board_member				True	(His Britannic Majestys Minister to the Swiss Confederation|Lloyds & National Provincial Foreign Bank Ltd.|C.B., C.V. O., II. B.M., Minister|H. B. M. Commercial Secretary)	His Britannic Majestys Minister to the Swiss Confederation	True	Sir Howard W. Kennard	Sir Howard W. Kennard	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	W. K	Sir Howard W. Kennard	list	longest_match									
+President:	1935	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	President																					
+F. E. Crowe, Esq., O. B. E., Basle.	1935	9	board_member							True	F. E. Crowe	F. E. Crowe	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	F. E. C	F. E. Crowe	list	longest_match	True	Basle.	Basle.	True	Esq.	Esq.			
+Vice-Presidents :	1935	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Vice-President																					
+Maurice Galland, Esq., Lausanne.	1935	9	board_member							True	Maurice Galland	Maurice Galland							True	Lausanne.	Lausanne.	True	Esq.	Esq.			
+Robert Hilbert, Esq., Basle.	1935	9	board_member							True	Robert Hilbert	Robert Hilbert							True	Basle.	Basle.	True	Esq.	Esq.			
+Hon. Treasurer	1935	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. Treasurer																					
+N. H. Hampton, Esq., Manager of Lloyds and National	1935	9	board_member							True	N. H. Hampton	N. H. Hampton	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	N. H. H	N. H. Hampton	list	longest_match				True	Esq.	Esq.			
+Provincial Foreign Bank, Ltd., Geneva.	1935	9	board_member																True	Geneva.	Geneva.						
+Council	1935	9	board_member																						True	(THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.| ?The British Chamber of Commerce for Switzerland (inc.)|Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	Council
+D. Barnett, Esq., Geneva.	1935	9	board_member							True	D. Barnett	D. Barnett	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	D. B	D. Barnett	list	longest_match	True	Geneva.	Geneva.	True	Esq.	Esq.			
+L. H. Bonnaire, Esq., Bienne.	1935	9	board_member							True	L. H. Bonnaire	L. H. Bonnaire	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	L. H. B	L. H. Bonnaire	list	longest_match	True	Bienne.	Bienne.	True	Esq.	Esq.			
+W. F. Dickson, Esq., Zurich.	1935	9	board_member							True	W. F. Dickson	W. F. Dickson	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	W. F. D	W. F. Dickson	list	longest_match	True	Zurich.	Zurich.	True	Esq.	Esq.			
+Jas. Easton, Esq., Zurich.	1935	9	board_member							True	Jas. Easton	Jas. Easton							True	Zurich.	Zurich.	True	Esq.	Esq.			
+G. E. Farr, Esq., Berne.	1935	9	board_member							True	G. E. Farr	G. E. Farr	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	G. E. F	G. E. Farr	list	longest_match	True	Berne.	Berne.	True	Esq.	Esq.			
+G. Hodson, Esq., Basle.	1935	9	board_member							True	G. Hodson	G. Hodson	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	G. H	G. Hodson	list	longest_match	True	Basle.	Basle.	True	Esq.	Esq.			
+S. Russell, Esq., Olten.	1935	9	board_member							True	S. Russell	S. Russell	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	S. R	S. Russell	list	longest_match	True	Olten.	Olten.	True	Esq.	Esq.			

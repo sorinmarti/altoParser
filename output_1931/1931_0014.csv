@@ -1,26 +1,26 @@
-transcription	title_found	title	year	page	range_definition	function_found	function	location_found	location	personal_title_found	personal_title	name_found	name_list	name
-OFFICERS OF THE CHAMBER	True	OFFICERS OF THE CHAMBER	1931	14	board_member									
-Hon. President:			1931	14	board_member	True	Hon. President							
-His Britannic Majestys Minister to the Swiss Confederation, Berne.			1931	14	board_member			True	Berne.					
-President:			1931	14	board_member	True	President							
-FALCONER EVANS CROME, Esq., Basle.			1931	14	board_member			True	Basle.	True	Esq.			
-Vice-Presidents:			1931	14	board_member	True	Vice-President							
-MAURICE GALLAND, Esq., Lausanne.			1931	14	board_member			True	Lausanne.	True	Esq.	True	MAURICE GALLAND	
-ROBERT HIBBERT, Esq., Basle.			1931	14	board_member			True	Basle.	True	Esq.	True		ROBERT HIBBERT
-Hon. Treasurer:			1931	14	board_member	True	Hon. Treasurer							
-E. W. BRISCOE, Esq., Manager, Lloyds and National Provincial Foreign Bank, Ltd. Geneva.			1931	14	board_member			True	Geneva.	True	Esq.	True		E. W. BRISCOE
-Council :			1931	14	board_member									
-D. BARNETT, Esq.			1931	14	board_member					True	Esq.	True		D. BARNETT
-Geneva.			1931	14	board_member			True	Geneva.					
-L. H. BONNAIRE, Esq.			1931	14	board_member					True	Esq.	True		L. H. BONNAIRE
-Bienne			1931	14	board_member									
-W. F. DICKSON, Esq.			1931	14	board_member					True	Esq.	True		W. F. DICKSON
-Zurich.			1931	14	board_member			True	Zurich.					
-JAS. EASTON, Esq.			1931	14	board_member					True	Esq.			
-Zurich.			1931	14	board_member			True	Zurich.					
-G. E. FARR. Esq.			1931	14	board_member					True	Esq.	True		G. E. FARR
-Berne.			1931	14	board_member			True	Berne.					
-A. GOODREHERE, Esq.			1931	14	board_member					True	Esq.	True		A. GOODREHERE
-Basle.			1931	14	board_member			True	Basle.					
-S. RUSSELL, Esq.			1931	14	board_member					True	Esq.	True		S. RUSSELL
-Olten.			1931	14	board_member			True	Olten.					
+transcription	board_title_pattern_match	board_title_pattern_item	board_title_pattern_result	year	page	range_definition	function_pattern_match	function_pattern_item	function_pattern_result	name_list_match	name_list_item	name_list_result	location_list_match	location_list_item	location_list_result	personal_titles_list_match	personal_titles_list_item	personal_titles_list_result	name_pattern_match	name_pattern_item	name_pattern_result	name_best_match	name_best_match_type	name_best_match_strategy
+OFFICERS OF THE CHAMBER	True	(ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	OFFICERS OF THE CHAMBER	1931	14	board_member																		
+Hon. President:				1931	14	board_member	True	(\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. President	True														
+His Britannic Majestys Minister to the Swiss Confederation, Berne.				1931	14	board_member				True			True	Berne.	Berne.									
+President:				1931	14	board_member	True	(\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	President	True														
+FALCONER EVANS CROME, Esq., Basle.				1931	14	board_member				True			True	Basle.	Basle.	True	Esq.	Esq.						
+Vice-Presidents:				1931	14	board_member	True	(\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Vice-President	True														
+MAURICE GALLAND, Esq., Lausanne.				1931	14	board_member				True	MAURICE GALLAND	MAURICE GALLAND	True	Lausanne.	Lausanne.	True	Esq.	Esq.						
+ROBERT HIBBERT, Esq., Basle.				1931	14	board_member				True			True	Basle.	Basle.	True	Esq.	Esq.						
+Hon. Treasurer:				1931	14	board_member	True	(\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. Treasurer	True														
+E. W. BRISCOE, Esq., Manager, Lloyds and National Provincial Foreign Bank, Ltd. Geneva.				1931	14	board_member				True	E. W. BRISCO	E. W. BRISCO	True	Geneva.	Geneva.	True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	E. W. BRISCOE	E. W. BRISCOE	pattern	longest_match
+Council :				1931	14	board_member				True														
+D. BARNETT, Esq.				1931	14	board_member				True	D. BARNETT	D. BARNETT				True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	D. BARNETT	D. BARNETT	list	longest_match
+Geneva.				1931	14	board_member				True			True	Geneva.	Geneva.									
+L. H. BONNAIRE, Esq.				1931	14	board_member				True	L. H. BONNAIRE	L. H. BONNAIRE				True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	L. H. BONNAIRE	L. H. BONNAIRE	list	longest_match
+Bienne				1931	14	board_member				True														
+W. F. DICKSON, Esq.				1931	14	board_member				True						True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	W. F. DICKSON	W. F. DICKSON	pattern	longest_match
+Zurich.				1931	14	board_member				True			True	Zurich.	Zurich.									
+JAS. EASTON, Esq.				1931	14	board_member				True						True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	AS. EASTON	AS. EASTON	pattern	longest_match
+Zurich.				1931	14	board_member				True			True	Zurich.	Zurich.									
+G. E. FARR. Esq.				1931	14	board_member				True						True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	G. E. FARR	G. E. FARR	pattern	longest_match
+Berne.				1931	14	board_member				True			True	Berne.	Berne.									
+A. GOODREHERE, Esq.				1931	14	board_member				True						True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	A. GOODREHERE	A. GOODREHERE	pattern	longest_match
+Basle.				1931	14	board_member				True			True	Basle.	Basle.									
+S. RUSSELL, Esq.				1931	14	board_member				True						True	Esq.	Esq.	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})	S. RUSSELL	S. RUSSELL	pattern	longest_match
+Olten.				1931	14	board_member				True			True	Olten.	Olten.									

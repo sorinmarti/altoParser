@@ -1,24 +1,24 @@
-transcription	title_found	title	year	page	range_definition	function_found	function	personal_title_found	personal_title	name_found	name	location_found	location
-OFFICERS OF THE CHAMBER	True	OFFICERS OF THE CHAMBER	1951	26	board_member								
-Hon. President:			1951	26	board_member	True	Hon. President						
-Patrick Stratford Scrivener Esq., C.M.G., His Britannic Majestys Minister to the Swiss Confederation			1951	26	board_member			True	Esq.				
-President:			1951	26	board_member	True	President						
-Max Binney Esq., Director			1951	26	board_member			True	Esq.				
-Siber, Hegner & Co. Ltd., Zurich			1951	26	board_member								
-Vice-Presidents:			1951	26	board_member	True	Vice-President						
-G. H. T. Johnson Esq., Neuchâtel			1951	26	board_member			True	Esq.	True	G. H. T		
-E. C. Monk Esq., Zurich			1951	26	board_member			True	Esq.	True	E. C. Monk		
-Life Honorary Vice-President:			1951	26	board_member	True	Vice-President						
-Maurice Galland Esq., O.B.E., Lausanne			1951	26	board_member			True	Esq.				
-Hon. Treasurer:			1951	26	board_member	True	Hon. Treasurer						
-H. A. Crowe Esq., Basle			1951	26	board_member			True	Esq.	True	H. A. Crowe		
-Council			1951	26	board_member								
-A. S. Anastasi Esq., O.B.E. Lugano			1951	26	board_member			True	Esq.	True	A. S. Anastasi		
-J. T. M. Davies Esq., M.B.E., M.C. Basle			1951	26	board_member			True	Esq.	True	J. T. M		
-N. H. Hampton Esq., M.C., Geneva			1951	26	board_member			True	Esq.	True	N. H. Hampton		
-L. S. Haptie Esq., Lucerne			1951	26	board_member			True	Esq.	True	L. S. Haptie		
-George Hodson Esq., Geneva			1951	26	board_member			True	Esq.				
-A. G. Kite Esq., Zurich			1951	26	board_member			True	Esq.	True	A. G. Kite		
-H. M. Norman Esq., Zurich			1951	26	board_member			True	Esq.	True	H. M. Norman		
-C. J. Parsons Esq., Geneva			1951	26	board_member			True	Esq.	True	C. J. Parsons		
-O. F. Reichwald Esq., Basle.			1951	26	board_member			True	Esq.	True	O. F. Reichwald	True	Basle.
+transcription	board_title_pattern_match	board_title_pattern_item	board_title_pattern_result	year	page	range_definition	function_pattern_match	function_pattern_item	function_pattern_result	profession_pattern_match	profession_pattern_item	profession_pattern_result	personal_titles_list_match	personal_titles_list_item	personal_titles_list_result	name_list_match	name_list_item	name_list_result	name_pattern_match	name_pattern_item	name_pattern_result	name_best_match	name_best_match_type	name_best_match_strategy	location_list_match	location_list_item	location_list_result
+OFFICERS OF THE CHAMBER	True	(THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.| ?The British Chamber of Commerce for Switzerland (inc.)|Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	OFFICERS OF THE CHAMBER	1951	26	board_member																					
+Hon. President:				1951	26	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. President																		
+Patrick Stratford Scrivener Esq., C.M.G., His Britannic Majestys Minister to the Swiss Confederation				1951	26	board_member				True	(His Britannic Majestys Minister to the Swiss Confederation|Lloyds & National Provincial Foreign Bank Ltd.|C.B., C.V. O., II. B.M., Minister|H. B. M. Commercial Secretary)	His Britannic Majestys Minister to the Swiss Confederation	True	Esq.	Esq.	True	Patrick Stratford Scrivener	Patrick Stratford Scrivener									
+President:				1951	26	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	President																		
+Max Binney Esq., Director				1951	26	board_member							True	Esq.	Esq.	True	Max Binney	Max Binney									
+Siber, Hegner & Co. Ltd., Zurich				1951	26	board_member																					
+Vice-Presidents:				1951	26	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Vice-President																		
+G. H. T. Johnson Esq., Neuchâtel				1951	26	board_member							True	Esq.	Esq.	True	G. H. T. Johnson	G. H. T. Johnson	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	G. H. T	G. H. T. Johnson	list	longest_match			
+E. C. Monk Esq., Zurich				1951	26	board_member							True	Esq.	Esq.	True	E. C. Monk	E. C. Monk	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	E. C. M	E. C. Monk	list	longest_match			
+Life Honorary Vice-President:				1951	26	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Vice-President																		
+Maurice Galland Esq., O.B.E., Lausanne				1951	26	board_member							True	Esq.	Esq.	True	Maurice Galland	Maurice Galland									
+Hon. Treasurer:				1951	26	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. Treasurer																		
+H. A. Crowe Esq., Basle				1951	26	board_member							True	Esq.	Esq.	True	H. A. Crowe	H. A. Crowe	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	H. A. C	H. A. Crowe	list	longest_match			
+Council	True	(THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.| ?The British Chamber of Commerce for Switzerland (inc.)|Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	Council	1951	26	board_member																					
+A. S. Anastasi Esq., O.B.E. Lugano				1951	26	board_member							True	Esq.	Esq.	True	A. S. Anastasi	A. S. Anastasi	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	A. S. A	A. S. Anastasi	list	longest_match			
+J. T. M. Davies Esq., M.B.E., M.C. Basle				1951	26	board_member							True	Esq.	Esq.	True	J. T. M. Davies	J. T. M. Davies	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	J. T. M	J. T. M. Davies	list	longest_match			
+N. H. Hampton Esq., M.C., Geneva				1951	26	board_member							True	Esq.	Esq.	True	N. H. Hampton	N. H. Hampton	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	N. H. H	N. H. Hampton	list	longest_match			
+L. S. Haptie Esq., Lucerne				1951	26	board_member							True	Esq.	Esq.	True	L. S. Haptie	L. S. Haptie	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	L. S. H	L. S. Haptie	list	longest_match			
+George Hodson Esq., Geneva				1951	26	board_member							True	Esq.	Esq.	True	George Hodson	George Hodson									
+A. G. Kite Esq., Zurich				1951	26	board_member							True	Esq.	Esq.	True	A. G. Kite	A. G. Kite	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	A. G. K	A. G. Kite	list	longest_match			
+H. M. Norman Esq., Zurich				1951	26	board_member							True	Esq.	Esq.	True	H. M. Norman	H. M. Norman	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	H. M. N	H. M. Norman	list	longest_match			
+C. J. Parsons Esq., Geneva				1951	26	board_member							True	Esq.	Esq.	True	C. J. Parsons	C. J. Parsons	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	C. J. P	C. J. Parsons	list	longest_match			
+O. F. Reichwald Esq., Basle.				1951	26	board_member							True	Esq.	Esq.	True	O. F. Reichwald	O. F. Reichwald	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	O. F. R	O. F. Reichwald	list	longest_match	True	Basle.	Basle.

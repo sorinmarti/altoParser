@@ -1,6 +1,7 @@
 import csv
 import os
 import re
+from typing import Dict, Any
 
 from alto_parser import AltoFileParser
 from search_helper import SearchHelper
@@ -46,8 +47,10 @@ location_searcher.set_search_list(locations_extended_list)
 
 personal_titles = ["Esq.","Esq.,", "C.B.,", "C.V. O.,"]
 personal_titles_list = sorted(personal_titles, key=len, reverse=True)
+personal_titles_searcher = SearchHelper("personal_titles")
+personal_titles_searcher.set_search_list(personal_titles_list)
 
-additional_information = ["Space does not permit of full details being inserted. The term fancy goods covers, flouncings, edgings, insertions, galloons, plumetis, collars, aprons and handkerchiefs. Lingerie under separate heading.", "(Space does not permit of full details being inserted. The term \"fancy goods\" covers, flouncings, edgings, insertions, galloons, plumetis, collars, aprons and handkerchiefs. Lingerie under separate heading."]
+additional_information = ["Further Advisory Committees will be appointed as occasion arises.", "Space does not permit of full details being inserted. The term fancy goods covers, flouncings, edgings, insertions, galloons, plumetis, collars, aprons and handkerchiefs. Lingerie under separate heading.", "(Space does not permit of full details being inserted. The term \"fancy goods\" covers, flouncings, edgings, insertions, galloons, plumetis, collars, aprons and handkerchiefs. Lingerie under separate heading."]
 additional_information_list = sorted(additional_information, key=len, reverse=True)
 additional_information_searcher = SearchHelper("additional_information")
 additional_information_searcher.set_search_list(additional_information_list)
@@ -58,8 +61,11 @@ address_searcher = SearchHelper("address")
 address_searcher.set_search_list(address_list)
 address_searcher.set_pattern_list([r'([0-9]{1,4}(,|\.) [A-Z].{1,15}(sprung|quai|berg|rain|vorstadt|weg|allee|gasse|graben|strasse|platz| Street| Road)|[0-9]{1,4}(,|\.)? (rue de la|Route des|Route de|Boulevard de|Charing|Via|Pall|Avenue de|Rue|Rue de|Grand|Rue du|rue|St.|Avenue|Place|Avenue de la|Rue de la|Ruelle) [A-Z].{1,15},|[A-Z][a-z]{1,10} (E.| W. S.) [0-9]{1,3})', ])
 
-names = ["FALCONER EVANS CROWE", "MAURICE GALLAND", "ALEXANDER RICHARDSON", "THEO. RUSSELL", "T. EDGAR HARLEY", "E. G. B. MAXSE", "J. LOMAS", "R. HAMILTON", "Sir Milne CHEETHAM", "A. RICHARDSON"]
+names = readcsv('meta/names.csv')
 names_list = sorted(names, key=len, reverse=True)
+name_searcher = SearchHelper("name")
+name_searcher.set_search_list(names_list)
+name_searcher.set_pattern_list([r'((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})', ])
 
 headline = ["TRADE IRIDE", "LIST OF MEMBERS of the British Chamber of Commerce for Switzerland", "Page", "Address", "Trade and Name", "INDEX:", "Classified List of the Members of the British Chamber of Commerce for Switzerland", "TRADE INDEX", "INDEX"]
 headline_list = sorted(headline, key=len, reverse=True)
@@ -89,7 +95,17 @@ goods_searcher.set_search_list(goods_list)
 goods_searcher.set_pattern_list([r'(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?', ])
 
 page_number_searcher = SearchHelper("page_number")
-page_number_searcher.set_pattern_list([r'(([0-9]{1,5},? ?){1,15}$|^ ?([0-9]{1,5},? ?){1,15})', ])
+page_number_searcher.set_pattern_list([r'((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})', ])
+
+board_title_searcher = SearchHelper("board_title")
+board_title_searcher.set_pattern_list([r'(Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)', ])
+
+profession_searcher = SearchHelper("profession")
+profession_searcher.set_pattern_list([r'(His Britannic Majestys Minister to the Swiss Confederation|Lloyds & National Provincial Foreign Bank Ltd.|C.B., C.V. O., II. B.M., Minister|H. B. M. Commercial Secretary)', ])
+
+function_searcher = SearchHelper("function")
+function_searcher.set_pattern_list([r'(\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)', ])
+
 
 def parsing_function(text, words, meta_data):
 
@@ -110,52 +126,31 @@ def parsing_function(text, words, meta_data):
         return {}
 
 def parse_board_member_page(text, words):
-    text = text.strip()
+
     result = {'transcription': text}
 
-    # Check each word against the list names
-    for name in names_list:
-        if name in text:
-            result["name_found"] = True
-            result["name_list"] = name
-            break
-    # Check each line against a regex for name
-    match = re.search(r'(^[A-Z]\. ([A-Z]\.)? ?\w{1,100}|^[A-Z]{1,10} [A-Z]{1,10}[?:THE])', text)
-    if match:
-        result["name_found"] = True
-        result["name"] = match.group(0)
+    board_title_result = board_title_searcher.search(text, SearchHelper.LIST_BF_PATTERN)
+    result = result | board_title_result
 
-    # Check each line against a regex for Profession
-    match = re.search(r'(H\. B\. M\. Minister|Manager, Lloyds & National Provincial Foreign Bank, Ltd\.|Treasurer Provincial Foreign Bank Ltd\.|H\. B\. M\. Consul-General|H\. B\. M\. Consul|H\.B\.M\. Commercial Hon\. Vice-President Secretary)', text)
-    if match:
-        result["profession_found"] = True
-        result["profession"] = match.group(0)
+    additional_information_result = additional_information_searcher.search(text, SearchHelper.LIST_BF_PATTERN)
+    result = result | additional_information_result
 
-    # Check each line against a regex for Title
-    match = re.search(r'(Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)', text)
-    if match:
-        result["title_found"] = True
-        result["title"] = match.group(0)
+    if not board_title_result:
 
-    # Check each word against the list locations_parser.csv
-    for location in locations_extended:
-        if location in text:
-            result["location_found"] = True
-            result["location"] = location
-            break
+        location_result = location_searcher.search_in_list(text)
+        result = result | location_result
 
-    # Check each word against the list personal_titles
-    for title in personal_titles_list:
-        if title in text:
-            result["personal_title_found"] = True
-            result["personal_title"] = title
-            break
+        profession_result = profession_searcher.search(text, SearchHelper.LIST_BF_PATTERN)
+        result = result | profession_result
 
-    # Check each line against a regex for function
-    match = re.search(r'(Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)', text)
-    if match:
-        result["function_found"] = True
-        result["function"] = match.group(0)
+        personal_titles_result = personal_titles_searcher.search_in_list(text)
+        result = result | personal_titles_result
+
+        function_result = function_searcher.search(text, SearchHelper.LIST_BF_PATTERN)
+        result = result | function_result
+
+        name_result = name_searcher.search(text, SearchHelper.LIST_BF_PATTERN)
+        result = result | name_result
 
     return result
 
@@ -294,6 +289,7 @@ def parse_year(data_folder, output_folder):
                 print("File is excluded: " + file)
 
 if __name__ == "__main__":
+    parse_year('data_1922', 'output_1922')
     parse_year('data_1923', 'output_1923')
     parse_year('data_1925', 'output_1925')
     parse_year('data_1925', 'output_1925')

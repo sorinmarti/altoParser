@@ -1,20 +1,20 @@
-transcription	year	page	range_definition
-The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce for Switzerland (inc.)  for Switzerland (inc.)	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
-	1937	9	board_member
+transcription	year	page	range_definition	function_pattern_match	function_pattern_item	function_pattern_result	location_list_match	location_list_item	location_list_result	personal_titles_list_match	personal_titles_list_item	personal_titles_list_result	name_list_match	name_list_item	name_list_result	name_pattern_match	name_pattern_item	name_pattern_result	name_best_match	name_best_match_type	name_best_match_strategy	board_title_pattern_match	board_title_pattern_item	board_title_pattern_result
+The British Chamber of Commerce for Switzerland (Inc.)	1937	9	board_member																					
+Officers of the Chamber for the Year 1936-37.	1937	9	board_member																					
+Hon. President:	1937	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. President																		
+Sir George Warner, K.C.V.O., C.M.G., His Britannic	1937	9	board_member																					
+Majesty's Minister to the Swiss Confederation.	1937	9	board_member																					
+President:	1937	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	President																		
+Maurice Galland, Esq., Lausanne.	1937	9	board_member				True	Lausanne.	Lausanne.	True	Esq.	Esq.	True	Maurice Galland	Maurice Galland									
+Vice-Presidents:	1937	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Vice-President																		
+Robert Hibbert, Esq., Basle.	1937	9	board_member				True	Basle.	Basle.	True	Esq.	Esq.	True	Robert Hibbert	Robert Hibbert									
+W. F. Dickson, Esq., Zuerich.	1937	9	board_member				True	Zuerich.	Zuerich.	True	Esq.	Esq.	True	W. F. Dickson	W. F. Dickson	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	W. F. D	W. F. Dickson	list	longest_match			
+Hon. Treasurer:	1937	9	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. Treasurer																		
+N. H. Hampton, Esq., Geneva.	1937	9	board_member				True	Geneva.	Geneva.	True	Esq.	Esq.	True	N. H. Hampton	N. H. Hampton	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	N. H. H	N. H. Hampton	list	longest_match			
+Council:	1937	9	board_member																			True	(THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.| ?The British Chamber of Commerce for Switzerland (inc.)|Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	Council
+D. Barnett, Esq., Versoix-Geneva.	1937	9	board_member				True	Geneva.	Geneva.	True	Esq.	Esq.	True	D. Barnett	D. Barnett	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	D. B	D. Barnett	list	longest_match			
+F. E. Crowe, Esq., Basle.	1937	9	board_member				True	Basle.	Basle.	True	Esq.	Esq.	True	F. E. Crowe	F. E. Crowe	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	F. E. C	F. E. Crowe	list	longest_match			
+H. A. Crowe, Esq., Basle.	1937	9	board_member				True	Basle.	Basle.	True	Esq.	Esq.	True	H. A. Crowe	H. A. Crowe	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	H. A. C	H. A. Crowe	list	longest_match			
+G. E. Farr, Esq., Berne.	1937	9	board_member				True	Berne.	Berne.	True	Esq.	Esq.	True	G. E. Farr	G. E. Farr	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	G. E. F	G. E. Farr	list	longest_match			
+L. S. Haptie, Esq., Lucerne.	1937	9	board_member				True	Lucerne.	Lucerne.	True	Esq.	Esq.	True	L. S. Haptie	L. S. Haptie	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	L. S. H	L. S. Haptie	list	longest_match			
+G. Hodson, Esq., Basle.	1937	9	board_member				True	Basle.	Basle.	True	Esq.	Esq.	True	G. Hodson	G. Hodson	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	G. H	G. Hodson	list	longest_match			

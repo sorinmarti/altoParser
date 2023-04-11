@@ -9,7 +9,7 @@
          <fileName>tradin_9960590510105504_1937_57 seiten-0003.jpg</fileName>
       </sourceImageInformation>
       <Processing ID="IdOcr">
-         <processingDateTime>2023-03-23T12:00:00.328+01:00</processingDateTime>
+         <processingDateTime>2023-03-30T09:31:09.756+02:00</processingDateTime>
          <processingSoftware>
             <softwareCreator>READ COOP</softwareCreator>
             <softwareName>Transkribus</softwareName>
@@ -55,19 +55,6 @@
                <Shape>
                   <Polygon POINTS="192,1062 486,1062 486,1142 192,1142"/>
                </Shape>
-               <TextLine ID="tr_3_tl_1"
-                         BASELINE="410,1112 440,1112 470,1112 486,1116"
-                         HEIGHT="151"
-                         WIDTH="83"
-                         VPOS="999"
-                         HPOS="399">
-                  <String ID="string_tr_3_tl_1"
-                          HEIGHT="151"
-                          WIDTH="83"
-                          VPOS="999"
-                          HPOS="399"
-                          CONTENT="3"/>
-               </TextLine>
                <TextLine ID="tr_3_tl_2"
                          BASELINE="250,1128 268,1126 298,1126 328,1124 358,1120"
                          HEIGHT="157"
@@ -79,19 +66,6 @@
                           WIDTH="122"
                           VPOS="999"
                           HPOS="240"
-                          CONTENT="I"/>
-               </TextLine>
-               <TextLine ID="tr_3_tl_3"
-                         BASELINE="192,1126 222,1130 246,1132"
-                         HEIGHT="67"
-                         WIDTH="62"
-                         VPOS="1080"
-                         HPOS="183">
-                  <String ID="string_tr_3_tl_3"
-                          HEIGHT="67"
-                          WIDTH="62"
-                          VPOS="1080"
-                          HPOS="183"
                           CONTENT="I"/>
                </TextLine>
             </TextBlock>
@@ -180,7 +154,7 @@
                           WIDTH="757"
                           VPOS="795"
                           HPOS="721"
-                          CONTENT="weckday from Basel and Zürich. The"/>
+                          CONTENT="weekday from Basel and Zürich. The"/>
                </TextLine>
                <TextLine ID="tr_1_tl_7"
                          BASELINE="726,876 756,878 786,876 816,878 846,878 876,876 906,874 936,876 966,876 996,876 1026,876 1056,878 1086,876 1116,876 1146,876 1176,876 1206,878 1236,878 1266,878 1296,874 1326,874 1356,876 1386,878 1416,878 1446,876 1476,876 1478,876"
@@ -281,7 +255,7 @@
                           WIDTH="503"
                           VPOS="1188"
                           HPOS="976"
-                          CONTENT="Zürich: Swissair, Flugplatz, Dü¬"/>
+                          CONTENT="Zürich: Swissair, Flugplatz. Dü¬"/>
                </TextLine>
                <TextLine ID="tr_5_tl_4"
                          BASELINE="738,1220 744,1220 774,1218 804,1220 834,1220 864,1218 894,1218 924,1218"
@@ -382,7 +356,7 @@
                           WIDTH="972"
                           VPOS="1776"
                           HPOS="212"
-                          CONTENT="AGRICULTURAL AND MINERAL PRODUCTS :"/>
+                          CONTENT="AGRICULTURAL AND MINERAL PRODUCTS:"/>
                </TextLine>
                <TextLine ID="tr_2_tl_6"
                          BASELINE="346,1884 376,1886 406,1886 436,1888 466,1888 496,1888 526,1890 556,1890 586,1890 616,1890 646,1888 676,1888 706,1888 736,1890 766,1888 796,1888 826,1888 856,1888 886,1888 916,1888 946,1890 976,1890 1006,1890 1036,1888 1066,1890 1096,1890 1126,1890 1156,1890 1186,1890 1216,1890 1246,1890 1276,1890 1306,1890 1336,1890 1366,1892 1396,1894 1400,1894"
@@ -395,7 +369,7 @@
                           WIDTH="1061"
                           VPOS="1832"
                           HPOS="337"
-                          CONTENT="Wool, mohair, skins (cattle and sheep, wattlebark,"/>
+                          CONTENT="Wool, mohair, skins (cattle and sheep), wattlebark,"/>
                </TextLine>
                <TextLine ID="tr_2_tl_7"
                          BASELINE="342,1928 372,1928 402,1928 432,1930 462,1930 492,1930 522,1932 552,1930 582,1930 612,1930 642,1930 672,1930 702,1930 732,1930 762,1930 792,1930 822,1930 852,1930 882,1930 912,1930 942,1930 972,1930 1002,1932 1032,1930 1062,1930 1092,1932 1122,1932 1152,1932 1182,1932 1212,1932 1242,1930 1272,1932 1302,1930 1318,1928"
@@ -483,7 +457,7 @@
                           WIDTH="442"
                           VPOS="2175"
                           HPOS="254"
-                          CONTENT="and Commerce, write:"/>
+                          CONTENT="and Commerce, write :-"/>
                </TextLine>
                <TextLine ID="tr_4_tl_6"
                          BASELINE="416,2256 446,2260 476,2260 506,2260 536,2260 566,2260 596,2260 626,2260 656,2258 686,2260 716,2260 746,2260 776,2260 806,2260 836,2260 866,2258 896,2258 926,2258 956,2260 986,2260 1016,2260 1046,2258 1076,2260 1106,2260 1136,2260 1166,2260 1196,2260 1226,2260 1256,2260 1286,2260 1316,2260 1346,2260 1376,2262 1402,2264"
@@ -509,7 +483,7 @@
                           WIDTH="744"
                           VPOS="2264"
                           HPOS="660"
-                          CONTENT="Piazza indipendenza 3, ROME, ITALY."/>
+                          CONTENT="Piazza Indipendenza 3, ROME, ITALY."/>
                </TextLine>
             </TextBlock>
          </PrintSpace>

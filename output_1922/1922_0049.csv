@@ -1,0 +1,42 @@
+transcription	year	page	range_definition	company_list_match	company_list_item	company_list_result	company_pattern_match	company_pattern_item	company_pattern_result	company_best_match	company_best_match_type	company_best_match_strategy	address_pattern_match	address_pattern_item	address_pattern_result	goods_pattern_match	goods_pattern_item	goods_pattern_result	title_pattern_match	title_pattern_item	title_pattern_result	address_list_match	address_list_item	address_list_result
+MOTOR CAR AGENTS	1922	49	index																					
+Jan & Cie.	1922	49	index	True	Jan & Cie.	Jan & Cie.																		
+Lausanne 10. Terreaux	1922	49	index																					
+MOTOR CAR MANUFACTURERS	1922	49	index																					
+Birmingham Small Arms Co., Ltd.	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	Birmingham Small Arms Co., Ltd.															
+London, S.W. 1. 27. Pall Mall	1922	49	index																					
+MOTOR CYCLE IMPORTERS	1922	49	index																					
+T. Edgar Harley	1922	49	index	True	T. Edgar Harley	T. Edgar Harley	True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	T. Edgar	T. Edgar Harley	list	longest_match												
+Lucerne 3, Seehofstrasse	1922	49	index										True	([0-9]{1,4}(,|\.) [A-Z].{1,15}(sprung|quai|berg|rain|vorstadt|weg|allee|gasse|graben|strasse|platz| Street| Road)|[0-9]{1,4}(,|\.)? (rue de la|Route des|Route de|Boulevard de|Charing|Via|Pall|Avenue de|Rue|Rue de|Grand|Rue du|rue|St.|Avenue|Place|Avenue de la|Rue de la|Ruelle) [A-Z].{1,15},|[A-Z][a-z]{1,10} (E.| W. S.) [0-9]{1,3})	3, Seehofstrasse									
+MOTOR CYCLE MERCHANTS	1922	49	index																					
+Jan & Cie.	1922	49	index	True	Jan & Cie.	Jan & Cie.																		
+Lausanne 10. Terreaux	1922	49	index																					
+MOTOR CYCLE AND MOTOR CYCLE ENGINE MANUFACTURERS	1922	49	index																					
+Birmingham Small Arms Co., Lid	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	Birmingham Small Arms Co.															
+London, S.W. 1. 27. Pall Mall	1922	49	index																					
+Manufacture Générale de Cycles, S. A.	1922	49	index																					
+Geneva 34. Rue de la Synagogue	1922	49	index																					
+Mead Cycle Company (inc.)	1922	49	index													True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(inc.)						
+Birmingham Balsall Heath 50. George Street	1922	49	index										True	([0-9]{1,4}(,|\.) [A-Z].{1,15}(sprung|quai|berg|rain|vorstadt|weg|allee|gasse|graben|strasse|platz| Street| Road)|[0-9]{1,4}(,|\.)? (rue de la|Route des|Route de|Boulevard de|Charing|Via|Pall|Avenue de|Rue|Rue de|Grand|Rue du|rue|St.|Avenue|Place|Avenue de la|Rue de la|Ruelle) [A-Z].{1,15},|[A-Z][a-z]{1,10} (E.| W. S.) [0-9]{1,3})	50. George Street									
+Motosacoche, S. A.	1922	49	index																					
+Geneva	1922	49	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Geneva			
+MOTOR LORRIES	1922	49	index																					
+Fabrique d'Automobiles Berna", S.A.	1922	49	index																					
+Olten	1922	49	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Olten			
+Adolphe Saurer, S. A.	1922	49	index																					
+Arbon	1922	49	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Arbon			
+MUSICAL BOXES, MOUTH ORGANS ETC.	1922	49	index																					
+E. Paillard & Cie., S. A.	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	E. Paillard & Cie., S. A.															
+St. Croix	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	St. Croix															
+Hermann Thorens	1922	49	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Hermann Thorens			
+Ste. Croix	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	Ste. Croix															
+MUSLIN MANUFACTURERS	1922	49	index																					
+C. F. Burditt & Co.	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	C. F. Burditt & Co.															
+Manchester 22. Lloyd Street	1922	49	index										True	([0-9]{1,4}(,|\.) [A-Z].{1,15}(sprung|quai|berg|rain|vorstadt|weg|allee|gasse|graben|strasse|platz| Street| Road)|[0-9]{1,4}(,|\.)? (rue de la|Route des|Route de|Boulevard de|Charing|Via|Pall|Avenue de|Rue|Rue de|Grand|Rue du|rue|St.|Avenue|Place|Avenue de la|Rue de la|Ruelle) [A-Z].{1,15},|[A-Z][a-z]{1,10} (E.| W. S.) [0-9]{1,3})	22. Lloyd Street									
+Church Street Manufacturing Co., Ltd.	1922	49	index	True	Church Street Manufacturing Co., Ltd.	Church Street Manufacturing Co., Ltd.	True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	Church Street Manufacturing Co.	Church Street Manufacturing Co., Ltd.	list	longest_match												
+Great Harwood Wellington Mill	1922	49	index																			True	Wellington Mill	Wellington Mill
+Walter Mather & Co.	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	Walter Mather & Co.															
+Bolton Peakes Place Cotton Works	1922	49	index																			True	Peakes Place Cotton Works	Peakes Place Cotton Works
+NAINSOOK MANUFACTURERS	1922	49	index																					
+C. F. Burditt & Co.	1922	49	index				True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	C. F. Burditt & Co.															
+Manchester 22. Lloyd Street	1922	49	index										True	([0-9]{1,4}(,|\.) [A-Z].{1,15}(sprung|quai|berg|rain|vorstadt|weg|allee|gasse|graben|strasse|platz| Street| Road)|[0-9]{1,4}(,|\.)? (rue de la|Route des|Route de|Boulevard de|Charing|Via|Pall|Avenue de|Rue|Rue de|Grand|Rue du|rue|St.|Avenue|Place|Avenue de la|Rue de la|Ruelle) [A-Z].{1,15},|[A-Z][a-z]{1,10} (E.| W. S.) [0-9]{1,3})	22. Lloyd Street									

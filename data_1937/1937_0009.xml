@@ -9,7 +9,7 @@
          <fileName>tradin_9960590510105504_1937_57 seiten-0009.jpg</fileName>
       </sourceImageInformation>
       <Processing ID="IdOcr">
-         <processingDateTime>2023-03-23T12:00:01.787+01:00</processingDateTime>
+         <processingDateTime>2023-03-30T09:31:10.895+02:00</processingDateTime>
          <processingSoftware>
             <softwareCreator>READ COOP</softwareCreator>
             <softwareName>Transkribus</softwareName>
@@ -43,7 +43,7 @@
                           WIDTH="1077"
                           VPOS="391"
                           HPOS="246"
-                          CONTENT="The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce  The British Chamber of Commerce"/>
+                          CONTENT="The British Chamber of Commerce"/>
                </TextLine>
                <TextLine ID="TextRegion_1675544146770_54506_tl_2"
                          BASELINE="456,564 486,564 516,564 546,562 576,562 606,564 636,564 666,564 696,564 726,564 756,564 786,564 816,564 846,564 876,564 906,564 936,564 966,562 996,564 1026,564 1056,566 1086,568 1114,568"
@@ -56,7 +56,7 @@
                           WIDTH="662"
                           VPOS="489"
                           HPOS="449"
-                          CONTENT="for Switzerland (inc.)  for Switzerland (inc.)"/>
+                          CONTENT="for Switzerland (Inc.)"/>
                </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544164858_54576"
@@ -68,6 +68,32 @@
                <Shape>
                   <Polygon POINTS="127,698 1368,698 1368,883 127,883"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_1"
+                         BASELINE="472,766 496,766 526,764 556,764 586,764 616,766 646,764 676,764 706,764 736,764 766,764 796,764 826,764 856,764 886,766 916,766 946,766 976,766 1006,766 1036,766 1066,766 1096,762"
+                         HEIGHT="117"
+                         WIDTH="628"
+                         VPOS="690"
+                         HPOS="465">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_1"
+                          HEIGHT="117"
+                          WIDTH="628"
+                          VPOS="690"
+                          HPOS="465"
+                          CONTENT="Officers of the Chamber"/>
+               </TextLine>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_2_1"
+                         BASELINE="558,832 588,834 618,834 648,834 678,834 708,834 738,834 768,834 798,834 828,834 858,834 888,832 918,832 948,832 978,834 1000,832"
+                         HEIGHT="93"
+                         WIDTH="447"
+                         VPOS="781"
+                         HPOS="550">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_2_1"
+                          HEIGHT="93"
+                          WIDTH="447"
+                          VPOS="781"
+                          HPOS="550"
+                          CONTENT="for the Year 1936-37."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544164071_54572"
                        HEIGHT="104"
@@ -78,6 +104,19 @@
                <Shape>
                   <Polygon POINTS="127,883 1368,883 1368,987 127,987"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_2"
+                         BASELINE="628,962 658,964 688,964 718,966 748,966 778,966 808,966 838,966 868,966 898,966 928,966 936,966"
+                         HEIGHT="83"
+                         WIDTH="312"
+                         VPOS="899"
+                         HPOS="620">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_2"
+                          HEIGHT="83"
+                          WIDTH="312"
+                          VPOS="899"
+                          HPOS="620"
+                          CONTENT="Hon. President:"/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544162892_54568"
                        HEIGHT="65"
@@ -88,6 +127,19 @@
                <Shape>
                   <Polygon POINTS="127,987 1368,987 1368,1052 127,1052"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_3"
+                         BASELINE="246,1034 276,1032 306,1032 336,1032 366,1034 396,1034 426,1032 456,1032 486,1032 516,1030 546,1032 576,1032 606,1034 636,1032 666,1034 696,1034 726,1034 756,1034 786,1034 816,1034 846,1034 876,1032 906,1032 936,1034 966,1034 996,1034 1026,1034 1056,1034 1086,1034 1116,1034 1146,1034 1176,1034 1206,1036 1236,1034 1266,1034 1296,1034 1326,1032"
+                         HEIGHT="94"
+                         WIDTH="1084"
+                         VPOS="961"
+                         HPOS="239">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_3"
+                          HEIGHT="94"
+                          WIDTH="1084"
+                          VPOS="961"
+                          HPOS="239"
+                          CONTENT="Sir George Warner, K.C.V.O., C.M.G., His Britannic"/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544161064_54564"
                        HEIGHT="77"
@@ -98,6 +150,19 @@
                <Shape>
                   <Polygon POINTS="127,1052 1368,1052 1368,1129 127,1129"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_4"
+                         BASELINE="336,1082 366,1084 396,1084 426,1084 456,1084 486,1084 516,1084 546,1084 576,1084 606,1082 636,1082 666,1084 696,1082 726,1084 756,1084 786,1084 816,1084 846,1084 876,1084 906,1084 936,1082 966,1082 996,1084 1026,1084 1056,1084 1086,1084 1116,1084 1146,1084 1176,1084 1206,1084 1236,1084 1242,1084"
+                         HEIGHT="77"
+                         WIDTH="911"
+                         VPOS="1042"
+                         HPOS="328">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_4"
+                          HEIGHT="77"
+                          WIDTH="911"
+                          VPOS="1042"
+                          HPOS="328"
+                          CONTENT="Majesty's Minister to the Swiss Confederation."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544159622_54560"
                        HEIGHT="87"
@@ -108,6 +173,19 @@
                <Shape>
                   <Polygon POINTS="127,1129 1368,1129 1368,1216 127,1216"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_5"
+                         BASELINE="684,1186 714,1188 744,1188 774,1188 804,1188 834,1188 864,1188 892,1188"
+                         HEIGHT="88"
+                         WIDTH="212"
+                         VPOS="1138"
+                         HPOS="677">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_5"
+                          HEIGHT="88"
+                          WIDTH="212"
+                          VPOS="1138"
+                          HPOS="677"
+                          CONTENT="President:"/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544159069_54556"
                        HEIGHT="90"
@@ -118,6 +196,19 @@
                <Shape>
                   <Polygon POINTS="127,1216 1368,1216 1368,1306 127,1306"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_6"
+                         BASELINE="456,1256 486,1256 516,1256 546,1256 576,1254 606,1254 636,1256 666,1256 696,1256 726,1258 756,1258 786,1258 816,1258 846,1258 876,1258 906,1258 936,1258 966,1258 996,1258 1026,1256 1056,1258 1086,1258 1114,1256"
+                         HEIGHT="101"
+                         WIDTH="662"
+                         VPOS="1203"
+                         HPOS="449">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_6"
+                          HEIGHT="101"
+                          WIDTH="662"
+                          VPOS="1203"
+                          HPOS="449"
+                          CONTENT="Maurice Galland, Esq., Lausanne."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544158213_54552"
                        HEIGHT="85"
@@ -128,6 +219,19 @@
                <Shape>
                   <Polygon POINTS="127,1306 1368,1306 1368,1391 127,1391"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_7"
+                         BASELINE="628,1360 658,1360 688,1362 718,1362 748,1362 778,1362 808,1362 838,1364 868,1362 898,1362 928,1362 940,1362"
+                         HEIGHT="98"
+                         WIDTH="316"
+                         VPOS="1286"
+                         HPOS="620">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_7"
+                          HEIGHT="98"
+                          WIDTH="316"
+                          VPOS="1286"
+                          HPOS="620"
+                          CONTENT="Vice-Presidents:"/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544155407_54546"
                        HEIGHT="57"
@@ -138,6 +242,19 @@
                <Shape>
                   <Polygon POINTS="127,1391 1368,1391 1368,1448 127,1448"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_8"
+                         BASELINE="460,1428 490,1430 520,1428 550,1428 580,1428 610,1428 640,1428 670,1428 700,1428 730,1428 760,1430 790,1430 820,1430 850,1428 880,1428 910,1430 940,1430 970,1428 994,1428"
+                         HEIGHT="79"
+                         WIDTH="539"
+                         VPOS="1365"
+                         HPOS="453">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_8"
+                          HEIGHT="79"
+                          WIDTH="539"
+                          VPOS="1365"
+                          HPOS="453"
+                          CONTENT="Robert Hibbert, Esq., Basle."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544154628_54542"
                        HEIGHT="85"
@@ -148,6 +265,19 @@
                <Shape>
                   <Polygon POINTS="127,1448 1368,1448 1368,1533 127,1533"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_9"
+                         BASELINE="468,1478 498,1478 528,1480 558,1480 588,1478 618,1478 648,1478 678,1480 708,1480 738,1480 768,1480 798,1482 828,1482 858,1482 888,1482 918,1480 948,1480 978,1480 1008,1480 1014,1480"
+                         HEIGHT="80"
+                         WIDTH="550"
+                         VPOS="1443"
+                         HPOS="461">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_9"
+                          HEIGHT="80"
+                          WIDTH="550"
+                          VPOS="1443"
+                          HPOS="461"
+                          CONTENT="W. F. Dickson, Esq., Zuerich."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544153727_54538"
                        HEIGHT="76"
@@ -158,6 +288,19 @@
                <Shape>
                   <Polygon POINTS="127,1533 1368,1533 1368,1609 127,1609"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_10"
+                         BASELINE="620,1584 650,1586 680,1586 710,1586 740,1586 770,1588 800,1588 830,1588 860,1586 890,1586 920,1586 944,1584"
+                         HEIGHT="112"
+                         WIDTH="330"
+                         VPOS="1515"
+                         HPOS="612">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_10"
+                          HEIGHT="112"
+                          WIDTH="330"
+                          VPOS="1515"
+                          HPOS="612"
+                          CONTENT="Hon. Treasurer:"/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544153144_54534"
                        HEIGHT="110"
@@ -168,6 +311,19 @@
                <Shape>
                   <Polygon POINTS="127,1609 1368,1609 1368,1719 127,1719"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_11"
+                         BASELINE="456,1656 486,1656 516,1654 546,1652 576,1654 606,1654 636,1656 666,1656 696,1656 726,1656 756,1656 786,1656 816,1656 846,1654 876,1654 906,1654 936,1654 966,1654 996,1654 1026,1654 1030,1656"
+                         HEIGHT="104"
+                         WIDTH="579"
+                         VPOS="1599"
+                         HPOS="449">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_11"
+                          HEIGHT="104"
+                          WIDTH="579"
+                          VPOS="1599"
+                          HPOS="449"
+                          CONTENT="N. H. Hampton, Esq., Geneva."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544151629_54530"
                        HEIGHT="58"
@@ -178,6 +334,19 @@
                <Shape>
                   <Polygon POINTS="127,1719 1368,1719 1368,1777 127,1777"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_12"
+                         BASELINE="704,1758 734,1760 764,1760 794,1760 824,1760 854,1760 876,1760"
+                         HEIGHT="96"
+                         WIDTH="177"
+                         VPOS="1704"
+                         HPOS="696">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_12"
+                          HEIGHT="96"
+                          WIDTH="177"
+                          VPOS="1704"
+                          HPOS="696"
+                          CONTENT="Council:"/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544150969_54526"
                        HEIGHT="64"
@@ -188,6 +357,19 @@
                <Shape>
                   <Polygon POINTS="127,1777 1368,1777 1368,1841 127,1841"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_13"
+                         BASELINE="460,1826 490,1828 520,1826 550,1828 580,1826 610,1826 640,1828 670,1826 700,1828 730,1828 760,1828 790,1826 820,1828 850,1828 880,1828 910,1828 940,1826 970,1828 1000,1826 1030,1828 1060,1828 1088,1828"
+                         HEIGHT="104"
+                         WIDTH="633"
+                         VPOS="1761"
+                         HPOS="453">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_13"
+                          HEIGHT="104"
+                          WIDTH="633"
+                          VPOS="1761"
+                          HPOS="453"
+                          CONTENT="D. Barnett, Esq., Versoix-Geneva."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544150295_54522"
                        HEIGHT="54"
@@ -198,6 +380,19 @@
                <Shape>
                   <Polygon POINTS="127,1841 1368,1841 1368,1895 127,1895"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_14"
+                         BASELINE="464,1874 494,1876 524,1876 554,1876 584,1876 614,1876 644,1876 674,1876 704,1876 734,1878 764,1878 794,1878 824,1878 854,1878 884,1876 914,1876 936,1876"
+                         HEIGHT="68"
+                         WIDTH="475"
+                         VPOS="1832"
+                         HPOS="457">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_14"
+                          HEIGHT="68"
+                          WIDTH="475"
+                          VPOS="1832"
+                          HPOS="457"
+                          CONTENT="F. E. Crowe, Esq., Basle."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544149394_54518"
                        HEIGHT="47"
@@ -208,6 +403,19 @@
                <Shape>
                   <Polygon POINTS="127,1895 1368,1895 1368,1942 127,1942"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_15"
+                         BASELINE="462,1924 492,1926 522,1926 552,1926 582,1926 612,1926 642,1926 672,1926 702,1926 732,1926 762,1926 792,1926 822,1926 852,1926 882,1926 912,1926 924,1926"
+                         HEIGHT="53"
+                         WIDTH="466"
+                         VPOS="1886"
+                         HPOS="454">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_15"
+                          HEIGHT="53"
+                          WIDTH="466"
+                          VPOS="1886"
+                          HPOS="454"
+                          CONTENT="H. A. Crowe, Esq., Basle."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544148644_54514"
                        HEIGHT="46"
@@ -218,6 +426,19 @@
                <Shape>
                   <Polygon POINTS="127,1942 1368,1942 1368,1988 127,1988"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_16"
+                         BASELINE="466,1976 490,1974 520,1976 550,1976 580,1974 610,1974 640,1976 670,1976 700,1976 730,1976 760,1978 790,1976 820,1976 850,1976 880,1976 910,1972"
+                         HEIGHT="47"
+                         WIDTH="449"
+                         VPOS="1942"
+                         HPOS="458">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_16"
+                          HEIGHT="47"
+                          WIDTH="449"
+                          VPOS="1942"
+                          HPOS="458"
+                          CONTENT="G. E. Farr, Esq., Berne."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544148073_54510"
                        HEIGHT="52"
@@ -228,6 +449,19 @@
                <Shape>
                   <Polygon POINTS="127,1988 1368,1988 1368,2040 127,2040"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_17"
+                         BASELINE="462,2024 492,2024 522,2024 552,2024 582,2024 612,2026 642,2024 672,2026 702,2026 732,2026 762,2026 792,2026 822,2026 852,2024 882,2024 912,2024 942,2026 972,2024 976,2024"
+                         HEIGHT="77"
+                         WIDTH="519"
+                         VPOS="1973"
+                         HPOS="454">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_17"
+                          HEIGHT="77"
+                          WIDTH="519"
+                          VPOS="1973"
+                          HPOS="454"
+                          CONTENT="L. S. Haptie, Esq., Lucerne."/>
+               </TextLine>
             </TextBlock>
             <TextBlock ID="TextRegion_1675544146770_54506"
                        HEIGHT="80"
@@ -238,6 +472,19 @@
                <Shape>
                   <Polygon POINTS="127,2040 1368,2040 1368,2120 127,2120"/>
                </Shape>
+               <TextLine ID="TextRegion_1675544146770_54506_tl_1_18"
+                         BASELINE="450,2074 478,2074 508,2076 538,2074 568,2074 598,2074 628,2074 658,2076 688,2076 718,2076 748,2074 778,2076 808,2076 838,2074 868,2074 898,2072"
+                         HEIGHT="79"
+                         WIDTH="452"
+                         VPOS="2034"
+                         HPOS="443">
+                  <String ID="string_TextRegion_1675544146770_54506_tl_1_18"
+                          HEIGHT="79"
+                          WIDTH="452"
+                          VPOS="2034"
+                          HPOS="443"
+                          CONTENT="G. Hodson, Esq., Basle."/>
+               </TextLine>
             </TextBlock>
          </PrintSpace>
       </Page>

@@ -1,21 +1,21 @@
-transcription	name_found	name	year	page	range_definition	title_found	title	function_found	function	personal_title_found	personal_title
-THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.	True	THE BRIT	1948	36	board_member						
-OFFICERS OF THE CHAMBER			1948	36	board_member	True	OFFICERS OF THE CHAMBER				
-Hon. President:			1948	36	board_member			True	Hon. President		
-T. M. Snow Esq., C. M. G., His Britannic Majestys	True	T. M. Snow	1948	36	board_member					True	Esq.
-Minister to the Swiss Confederation.			1948	36	board_member						
-President:			1948	36	board_member			True	President		
-N. H. Hampton Esq., Manager, Lloyds & National	True	N. H. Hampton	1948	36	board_member					True	Esq.
-Provincial Foreign Bank Ltd., Geneva			1948	36	board_member						
-Vice-Presidents:			1948	36	board_member			True	Vice-President		
-M. Galland Esq., Lausanne	True	M. Galland	1948	36	board_member					True	Esq.
-George Hodson Esq., Geneva			1948	36	board_member					True	Esq.
-Hon. Treasurer:			1948	36	board_member			True	Hon. Treasurer		
-H. A. Crowe Esq., Basle	True	H. A. Crowe	1948	36	board_member					True	Esq.
-Council			1948	36	board_member						
-A. S. Anastasi Esq., Lugano	True	A. S. Anastasi	1948	36	board_member					True	Esq.
-M. Binney Esq., Zürich	True	M. Binney	1948	36	board_member					True	Esq.
-L. S. Haptie Esq., Lucerne	True	L. S. Haptie	1948	36	board_member					True	Esq.
-Robert Hibbert Esq., Liestal			1948	36	board_member					True	Esq.
-G. H. T. Johnson Esq., Zürich	True	G. H. T	1948	36	board_member					True	Esq.
-H. M. Norman Esq., Zürich	True	H. M. Norman	1948	36	board_member					True	Esq.
+transcription	board_title_pattern_match	board_title_pattern_item	board_title_pattern_result	year	page	range_definition	function_pattern_match	function_pattern_item	function_pattern_result	personal_titles_list_match	personal_titles_list_item	personal_titles_list_result	name_list_match	name_list_item	name_list_result	name_pattern_match	name_pattern_item	name_pattern_result	name_best_match	name_best_match_type	name_best_match_strategy
+THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.	True	(THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.| ?The British Chamber of Commerce for Switzerland (inc.)|Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.	1948	36	board_member															
+OFFICERS OF THE CHAMBER	True	(THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.| ?The British Chamber of Commerce for Switzerland (inc.)|Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	OFFICERS OF THE CHAMBER	1948	36	board_member															
+Hon. President:				1948	36	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. President												
+T. M. Snow Esq., C. M. G., His Britannic Majestys				1948	36	board_member				True	Esq.	Esq.	True	T. M. Snow	T. M. Snow	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	T. M. S	T. M. Snow	list	longest_match
+Minister to the Swiss Confederation.				1948	36	board_member															
+President:				1948	36	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	President												
+N. H. Hampton Esq., Manager, Lloyds & National				1948	36	board_member				True	Esq.	Esq.	True	N. H. Hampton	N. H. Hampton	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	N. H. H	N. H. Hampton	list	longest_match
+Provincial Foreign Bank Ltd., Geneva				1948	36	board_member															
+Vice-Presidents:				1948	36	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Vice-President												
+M. Galland Esq., Lausanne				1948	36	board_member				True	Esq.	Esq.	True	M. Galland	M. Galland	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	M. G	M. Galland	list	longest_match
+George Hodson Esq., Geneva				1948	36	board_member				True	Esq.	Esq.	True	George Hodson	George Hodson						
+Hon. Treasurer:				1948	36	board_member	True	(Offices of the Chamber|\(Chairman\)|\(Secretary\)|Hon\. President|Hon\. Vice-President|President|Hon\. Treasurer|Vice-President|Secretary-General, Head Office|Hon\. Secretary, Lausanne Branch|THE HON PRESIDENT|THE HON. VICE PRESIDENT)	Hon. Treasurer												
+H. A. Crowe Esq., Basle				1948	36	board_member				True	Esq.	Esq.	True	H. A. Crowe	H. A. Crowe	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	H. A. C	H. A. Crowe	list	longest_match
+Council	True	(THE BRITIS CHAMBER OF COMMERCE FOR SWITZERLAND INC.| ?The British Chamber of Commerce for Switzerland (inc.)|Council :|Council|ADVISORY COMMITTEES|Finance Commillee.|Propaganda Commillee.|Rhine Navigation Commillee.|Committee jor French Switzerland.|Watch Industries Commillee.|MEMBERS OF THE COUNCIL|THE COUNCIL IN 1922|Officers and Members of the Board|Active Members of the Board|Corresponding Members of the Board|Hon\. Members of the Board|THE BRITISH CHAMBER OF COMMERCE FOR SWITZERLAND|THE COUNCIL IN 1923|OFFICERS OF THE CHAMBER|Council:)	Council	1948	36	board_member															
+A. S. Anastasi Esq., Lugano				1948	36	board_member				True	Esq.	Esq.	True	A. S. Anastasi	A. S. Anastasi	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	A. S. A	A. S. Anastasi	list	longest_match
+M. Binney Esq., Zürich				1948	36	board_member				True	Esq.	Esq.	True	M. Binney	M. Binney	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	M. B	M. Binney	list	longest_match
+L. S. Haptie Esq., Lucerne				1948	36	board_member				True	Esq.	Esq.	True	L. S. Haptie	L. S. Haptie	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	L. S. H	L. S. Haptie	list	longest_match
+Robert Hibbert Esq., Liestal				1948	36	board_member				True	Esq.	Esq.	True	Robert Hibbert	Robert Hibbert						
+G. H. T. Johnson Esq., Zürich				1948	36	board_member				True	Esq.	Esq.	True	G. H. T. Johnson	G. H. T. Johnson	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	G. H. T	G. H. T. Johnson	list	longest_match
+H. M. Norman Esq., Zürich				1948	36	board_member				True	Esq.	Esq.	True	H. M. Norman	H. M. Norman	True	((Mr\. )?([A-Z]{1,2}\.) ([A-Z]{1,2}\. )?[A-Z]{1,10})|([A-Z]\. ([A-Z]\. )?[A-Z][a-z]{1,10})	H. M. N	H. M. Norman	list	longest_match
