@@ -66,8 +66,10 @@ class AltoFileParser:
         print(self.structured_data[line])
 
     def export_file(self, export_function):
+        line_number = 0
         for line in self.structured_data:
-            export_function(line)
+            export_function(line, self.line_bounding_boxes[line_number])
+            line_number += 1
 
     def save_csv_file(self, filename, delimiter='\t'):
         csv_file = ''

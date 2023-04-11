@@ -268,7 +268,7 @@ def get_meta_data(file):
 
     return meta_data
 
-def export_function(line):
+def export_function(line, bounding_box):
     if line.get('title_pattern_match', False) or line.get('title_list_match', False):
         return
     if line.get('headline_pattern_match', False) or line.get('headline_list_match', False):
@@ -299,7 +299,7 @@ def export_function(line):
             elif line.get('company_3_list_match', False):
                 output_json['name'] = {'transcription': line['company_3_list_match']}
             else:
-                print(line)
+                print(bounding_box, line)
     # print("STRUCTURE!", output_json)
 
 def parse_year(data_folder, output_folder):
