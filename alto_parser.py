@@ -65,6 +65,10 @@ class AltoFileParser:
         print(self.line_bounding_boxes[line])
         print(self.structured_data[line])
 
+    def export_file(self, export_function):
+        for line in self.structured_data:
+            export_function(line)
+
     def save_csv_file(self, filename, delimiter='\t'):
         csv_file = ''
         list_of_keys = []

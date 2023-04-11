@@ -26,10 +26,10 @@ TUBES (STEEL IRON AND BRASS)				1922	65	index													True	(?!\((Grands Maga
 D. Barnett	True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	D. Barnett	1922	65	index															
 Geneva 15, Rue du Malagnou				1922	65	index															
 TUBE FITTINGS (MALLEABLE)				1922	65	index													True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(MALLEABLE)
-Société Anonyme des Aciéries ci-devant Georges Fischer				1922	65	index				True	Société Anonyme des Aciéries ci-devant Georges Fischer	Société Anonyme des Aciéries ci-devant Georges Fischer									
+Société Anonyme des Aciéries ci-devant Georges Fischer				1922	65	index															
 Schafthouse				1922	65	index	True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Schafthouse												
 TULLE MANUFACTURERS				1922	65	index															
-Carl Günther				1922	65	index				True	Carl Günther	Carl Günther									
+Carl Günther				1922	65	index															
 St. Gall I. Kesslerstrasse	True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	St. Gall	1922	65	index															
 TURBINES (STEAM)				1922	65	index													True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(STEAM)
 A.-G. Brown. Boveri & Cie.				1922	65	index															
@@ -40,5 +40,5 @@ TWEED MANUFACTURERS				1922	65	index
 James Porteous & Co., Ltd.	True	(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)	James Porteous & Co., Ltd.	1922	65	index															
 Alva (Scotland)				1922	65	index	True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Alva (Scotland)												
 TYPOGRAPHERS (MANUFACTURING)				1922	65	index													True	(?!\((Grands Magasins Innovation, S.A.)\)|\(agent\)|\(Egypt\)|\(J. Baumgartner\)|\(O. Hauser\)|\(Ch. Mayer, Prop.\)|\(Stockport\)|\(Switzerland\)|\(Burg\)|\(Continental\)|\(1920\)|\(Bury\)|\(England\))\(.{1,150}\),? ?	(MANUFACTURING)
-Säuberlin & Pfeiffer, S. A.				1922	65	index				True	Säuberlin & Pfeiffer, S. A.	Säuberlin & Pfeiffer, S. A.									
+Säuberlin & Pfeiffer, S. A.				1922	65	index															
 Vevey				1922	65	index	True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Vevey												

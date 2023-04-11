@@ -19,7 +19,7 @@ Winterthur							1922	41	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][
 HOTEL MANGEMENT							1922	41	index																		
 Pro Lemano							1922	41	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Pro Lemano
 Lausanne Grand Chène							1922	41	index																		
-Société des Hôteliers de Lausanne-Ouchy	True	Société des Hôteliers de Lausanne-Ouchy	Société des Hôteliers de Lausanne-Ouchy				1922	41	index																		
+Société des Hôteliers de Lausanne-Ouchy							1922	41	index																		
 Lausanne							1922	41	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Lausanne
 Swiss Hotel Keepers Association HOTELS							1922	41	index																		
 Baste 10, Leonhardstrasse							1922	41	index				True	([0-9]{1,4}(,|\.) [A-Z].{1,15}(sprung|quai|berg|rain|vorstadt|weg|allee|gasse|graben|strasse|platz| Street| Road)|[0-9]{1,4}(,|\.)? (rue de la|Route des|Route de|Boulevard de|Charing|Via|Pall|Avenue de|Rue|Rue de|Grand|Rue du|rue|St.|Avenue|Place|Avenue de la|Rue de la|Ruelle) [A-Z].{1,15},|[A-Z][a-z]{1,10} (E.| W. S.) [0-9]{1,3})	10, Leonhardstrasse												
@@ -38,7 +38,7 @@ Palace Hotel							1922	41	index																True	(([A-Z][a-z]{1,10})? ?([A-Z
 Montana							1922	41	index																True	(([A-Z][a-z]{1,10})? ?([A-Z][a-z]{1,10}) \(([A-Z][a-z]{1,10})? ?([a-z]{1,15})?,? ?([a-z]{1,15})\)$|^ ?[A-Z][a-z]{1,20}(( and | und )? ?-?[A-Z][a-z]{1,20})?( and | und )?( ?[A-Z][a-z]{1,20})?( ?\([A-Z][a-z]{1,10}\))?$|^ ?[A-Z][a-z]{1,10} \([A-Z][a-z]{1,10}\) [A-Z][a-z]{1,15}$)	Montana
 HOUSE AND ESTATE AGENTS							1922	41	index																		
 Galland & Cie.							1922	41	index																		
-Lausanne 3. Place St. François							1922	41	index	True	3. Place St. François	3. Place St. François															
+Lausanne 3. Place St. François							1922	41	index																		
 HUMIDIFYING PLANTS							1922	41	index																		
 Calorie, S.A.							1922	41	index																		
 Geneva 5/7. Rue de l'Est							1922	41	index																		

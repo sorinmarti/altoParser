@@ -268,6 +268,40 @@ def get_meta_data(file):
 
     return meta_data
 
+def export_function(line):
+    if line.get('title_pattern_match', False) or line.get('title_list_match', False):
+        return
+    if line.get('headline_pattern_match', False) or line.get('headline_list_match', False):
+        return
+
+    output_json = {}
+    output_json['transcription'] = {'original': line['transcription'] }
+    output_json['date'] = {'ref': line['year']}
+
+    if line.get('company_pattern_match', False) and line.get('company_list_match', False):
+        output_json['name'] = {'transcription': line['company_best_match']}
+    elif line.get('company_pattern_match', False):
+        output_json['name'] = {'transcription': line['company_pattern_match']}
+    elif line.get('company_list_match', False):
+        output_json['name'] = {'transcription': line['company_list_match']}
+    else:
+        if line.get('company_2_pattern_match', False) and line.get('company_2_list_match', False):
+            output_json['name'] = {'transcription': line['company_2_best_match']}
+        elif line.get('company_2_pattern_match', False):
+            output_json['name'] = {'transcription': line['company_2_pattern_match']}
+        elif line.get('company_2_list_match', False):
+            output_json['name'] = {'transcription': line['company_2_list_match']}
+        else:
+            if line.get('company_3_pattern_match', False) and line.get('company_3_list_match', False):
+                output_json['name'] = {'transcription': line['company_3_best_match']}
+            elif line.get('company_3_pattern_match', False):
+                output_json['name'] = {'transcription': line['company_3_pattern_match']}
+            elif line.get('company_3_list_match', False):
+                output_json['name'] = {'transcription': line['company_3_list_match']}
+            else:
+                print(line)
+    # print("STRUCTURE!", output_json)
+
 def parse_year(data_folder, output_folder):
     # Open the data folder and create a AltoFileParser object for each file in the folder.
     # The AltoParser object will parse the file and store the results in a list of dictionaries.
@@ -279,8 +313,8 @@ def parse_year(data_folder, output_folder):
                 parser = MyAltoFileParser(f'{data_folder}/' + file, meta_data)
                 parser.parse_file(parsing_function)
                 for line in range(parser.get_number_of_lines()):
-                    # parser.print_line_summary(line)
                     pass
+                parser.export_file(export_function)
                 csv_filename = file.split('.')[0] + '.csv'
                 # print(parser.print_file_summary())
                 parser.save_csv_file(f"./{output_folder}/" + csv_filename)
@@ -289,10 +323,9 @@ def parse_year(data_folder, output_folder):
                 print("File is excluded: " + file)
 
 if __name__ == "__main__":
-    parse_year('data_1922', 'output_1922')
-    parse_year('data_1923', 'output_1923')
-    parse_year('data_1925', 'output_1925')
+    parse_year('data_1923_orig', 'output_1923')
+    """parse_year('data_1923', 'output_1923')
     parse_year('data_1925', 'output_1925')
     parse_year('data_1927', 'output_1927')
     parse_year('data_1929', 'output_1929')
-    parse_year('data_1931', 'output_1931')
+    parse_year('data_1931', 'output_1931')"""
