@@ -6,7 +6,6 @@ from typing import Dict, Any
 from alto_parser import AltoFileParser
 from search_helper import SearchHelper
 
-
 class MyAltoFileParser(AltoFileParser):
     def __init__(self, filename, meta_data):
         super().__init__(filename, meta_data)
@@ -82,7 +81,7 @@ companies = readcsv('meta/companies.csv')
 companies_list = sorted(companies, key=len, reverse=True)
 company_searcher = SearchHelper("company")
 company_searcher.set_search_list(companies_list)
-company_searcher.set_pattern_list([r'(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)', ])
+company_searcher.set_pattern_list([r'(^.{1,30} ? (S\.A\.|Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. ?G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.)', ])
 company_searcher_2 = SearchHelper("company_2")
 company_searcher_2.set_pattern_list([r'(([A-Z][a-z]{1,10},? &? ?[A-Z][a-z]{1,10}|[A-Z][a-z]{1,10},? [A-Z]\. ?[A-Z]?\.?|[A-Z][a-z]{1,8},? ?\([A-Z][a-z]{1,8}\)( ?&? ? (Sons)?)|[A-Z][a-z]{1,10} ?,?&? ?))', ])
 company_searcher_3 = SearchHelper("company_3")
@@ -273,6 +272,10 @@ def export_function(line, bounding_box):
         return
     if line.get('headline_pattern_match', False) or line.get('headline_list_match', False):
         return
+    if line.get('board_title_pattern_match', False) or line.get('board_title_list_match', False):
+        return
+    if line.get('additional_information_pattern_match', False) or line.get('additional_information_list_match', False):
+        return
 
     output_json = {}
     output_json['transcription'] = {'original': line['transcription'] }
@@ -299,10 +302,23 @@ def export_function(line, bounding_box):
             elif line.get('company_3_list_match', False):
                 output_json['name'] = {'transcription': line['company_3_list_match']}
             else:
-                print(bounding_box, line)
+                return
+    if line.get('location_list_match', False):
+        output_json['location'] = {'transcription': line['location_list_match']}
+    else: return
+
+    if line.get('address_pattern_match', False) and line.get('address_list_match', False):
+        output_json['address'] = {'transcription': line['address_best_match']}
+    else:
+        return
+
+    if line.get('goods_pattern_match', False) and line.get('goods_list_match', False):
+        output_json['goods'] = {'transcription': line['goods_best_match']}
+    else:
+        return
     # print("STRUCTURE!", output_json)
 
-def parse_year(data_folder, output_folder):
+def parse_year(data_folder: object, output_folder: object) -> object:
     # Open the data folder and create a AltoFileParser object for each file in the folder.
     # The AltoParser object will parse the file and store the results in a list of dictionaries.
     for file in sorted(os.listdir(f'{data_folder}/')):
@@ -324,8 +340,8 @@ def parse_year(data_folder, output_folder):
 
 if __name__ == "__main__":
     parse_year('data_1923_orig', 'output_1923')
-    """parse_year('data_1923', 'output_1923')
+    parse_year('data_1923', 'output_1923')
     parse_year('data_1925', 'output_1925')
     parse_year('data_1927', 'output_1927')
     parse_year('data_1929', 'output_1929')
-    parse_year('data_1931', 'output_1931')"""
+    parse_year('data_1931', 'output_1931')

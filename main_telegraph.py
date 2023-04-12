@@ -1,6 +1,7 @@
 import csv
 import os
 import re
+from typing import Dict, Any
 
 from alto_parser import AltoFileParser
 from search_helper import SearchHelper
@@ -80,7 +81,7 @@ companies = readcsv('meta/companies.csv')
 companies_list = sorted(companies, key=len, reverse=True)
 company_searcher = SearchHelper("company")
 company_searcher.set_search_list(companies_list)
-company_searcher.set_pattern_list([r'(^.{1,30} ? (Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.|^[A-Z][a-z]{1,10} [A-Z][a-z]{1,10},)', ])
+company_searcher.set_pattern_list([r'(^.{1,30} ? (S\.A\.|Frères|Brothers|Co\.|& Co\.,|Ltd\.|& Cie.,|S\. A\.,|A\.-G\.,|A\. ?G\.) ?(S. A.)?|^[A-Z]. [A-Z]. \w{1,10}|^ ?[A-Z][a-z]{1,3}\. \w{1,10}-?\w{1,10}|^\w{1,10} & \w{1,10}|^ ?[A-Z]. \w{1,10}|.{1,100} Co\.|^[A-Z][a-z]{1,10} [A-Z][a-z]{1,10},)', ])
 company_searcher_2 = SearchHelper("company_2")
 company_searcher_2.set_pattern_list([r'(([A-Z][a-z]{1,10},? &? ?[A-Z][a-z]{1,10}|[A-Z][a-z]{1,10},? [A-Z]\. ?[A-Z]?\.?|[A-Z][a-z]{1,8},? ?\([A-Z][a-z]{1,8}\)( ?&? ? (Sons)?)|[A-Z][a-z]{1,10} ?,?&? ?))', ])
 company_searcher_3 = SearchHelper("company_3")
@@ -277,7 +278,48 @@ def get_meta_data(file):
 
     return meta_data
 
-def parse_year(data_folder, output_folder):
+def export_function(line, bounding_box):
+    if line.get('title_pattern_match', False) or line.get('title_list_match', False):
+        return
+    if line.get('headline_pattern_match', False) or line.get('headline_list_match', False):
+        return
+    if line.get('board_title_pattern_match', False) or line.get('board_title_list_match', False):
+        return
+    if line.get('additional_information_pattern_match', False) or line.get('additional_information_list_match', False):
+        return
+
+    output_json = {}
+    output_json['transcription'] = {'original': line['transcription'] }
+    output_json['date'] = {'ref': line['year']}
+
+    if line.get('company_pattern_match', False) and line.get('company_list_match', False):
+        output_json['name'] = {'transcription': line['company_best_match']}
+    elif line.get('company_pattern_match', False):
+        output_json['name'] = {'transcription': line['company_pattern_match']}
+    elif line.get('company_list_match', False):
+        output_json['name'] = {'transcription': line['company_list_match']}
+    else:
+        if line.get('company_2_pattern_match', False) and line.get('company_2_list_match', False):
+            output_json['name'] = {'transcription': line['company_2_best_match']}
+        elif line.get('company_2_pattern_match', False):
+            output_json['name'] = {'transcription': line['company_2_pattern_match']}
+        elif line.get('company_2_list_match', False):
+            output_json['name'] = {'transcription': line['company_2_list_match']}
+        else:
+            if line.get('company_3_pattern_match', False) and line.get('company_3_list_match', False):
+                output_json['name'] = {'transcription': line['company_3_best_match']}
+            elif line.get('company_3_pattern_match', False):
+                output_json['name'] = {'transcription': line['company_3_pattern_match']}
+            elif line.get('company_3_list_match', False):
+                output_json['name'] = {'transcription': line['company_3_list_match']}
+            else:
+                return
+    if line.get('location_list_match', False):
+        output_json['location'] = {'transcription': line['location_list_match']}
+    else:
+        print(bounding_box, line)
+
+def parse_year(data_folder: object, output_folder: object) -> object:
     # Open the data folder and create a AltoFileParser object for each file in the folder.
     # The AltoParser object will parse the file and store the results in a list of dictionaries.
     for file in sorted(os.listdir(f'{data_folder}/')):
@@ -299,7 +341,7 @@ def parse_year(data_folder, output_folder):
 
 if __name__ == "__main__":
     parse_year('data_1935', 'output_1935')
-    parse_year('data_1937', 'output_1937')
+    """parse_year('data_1937', 'output_1937')
     parse_year('data_1938', 'output_1938')
     parse_year('data_1948', 'output_1948')
-    parse_year('data_1951', 'output_1951')
+    parse_year('data_1951', 'output_1951')"""
